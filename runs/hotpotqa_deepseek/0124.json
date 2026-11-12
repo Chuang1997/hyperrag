@@ -1,0 +1,188 @@
+{
+  "question": "Additi Gupta is known for negative roles in the drama series that broadcasts on what country's Star Plus network?",
+  "answer": "India",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What drama series is Additi Gupta known for negative roles in?",
+      "retrieved": [
+        {
+          "id": "1237",
+          "text": "Additi Gupta\nAditi Gupta (stylized as Additi Gupta) is an Indian actress, model and fashion designer, known for her work as the protagonist in the popular television series \"Kis Desh Mein Hai Meraa Dil\" on Star Plus channel. She was also seen portraying a witch in the Zee TV series \"Qubool Hai\". She is also known for her negative roles in Pardes Mein Hai Mera Dil and Star Plus's Ishqbaaz.",
+          "semantic_score": 0.5567805171012878,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1230",
+          "text": "Saans\nSaans (English: \"Breath\") is an Indian television series written and directed by television actress Neena Gupta who works in the series as well alongside television actor Kanwaljit Singh. The series premiered on STAR Plus in 1998. The story focused on the accidental love triangle between the characters Priya, Gautam, and Manisha. Neena Gupta won the award for 'Best Director' and Kanwaljit Singh won for the 'Best Actor' categories at the Kalakar Awards 1998. The television actor, Neena Gupta, acclaimed huge popularity after the show's success.",
+          "semantic_score": 0.4738865792751312,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1234",
+          "text": "Vipul Gupta\nVipul Gupta (born 17 September 1984) is an actor and model. He is best known for playing the lead role of Drone Keshab in a very popular Star Plus Serial: K. Street Pali Hill and as Anand Zorawar Shergill in TV serial \"Meri Bhabhi\" on STAR Plus. He is currently seen in a Vikram Bhatt's web series \"Maaya\".",
+          "semantic_score": 0.466251015663147,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1232",
+          "text": "Nitin Sahrawat\nNitin Sahrawat (Born 13 August 1981), is an Indian television actor and a model. He is best known for his Indian and Pakistani TV commercials and for his portrayal of Rajveer Singh Ahluwalia in \"Kitani Mohabbat Hai Season 2\" which was telecast on Imagine TV. He is presently playing the character of Superstar Anand Kumar opposite Additi Gupta in ZEE TV's Qubool Hai.",
+          "semantic_score": 0.4341627359390259,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9604",
+          "text": "Ariyon Bakare\nAriyon Debo Bakare (born 1971) is an English-Nigerian actor. He has appeared in the BBC mini-series \"A Respectable Trade\" (1995), British soap opera \"Family Affairs\" from 2000 to 2001, and the BBC One daytime drama \"Doctors\" from 2001 to 2005. Prior to this, Bakare guested on British dramas \"The Bill\", \"Casualty\", and \"Holby City\". He has starred alongside Paul Bettany in Ross Kettle's film \"After the Rain\", and with Nia Long and Colin Firth in \"The Secret Laughter of Women\".",
+          "semantic_score": 0.4262537658214569,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8400",
+          "text": "Mansi Srivastava\nMansi Srivastava is an Indian television actress. She is well known for playing the role of Heer in Zee TV's show \"Rab Se Sohna Isshq\" and the lead role of Shivani in \"Do Dil Bandhe Ek Dori Se\" on Zee TV. She also played the role of Shatabdi in \"Peterson Hill\" on Sab TV. In 2016, She played the Parallel lead role of Dr. Prerna in \"Sasural Simar Ka\".\"She is Currently playing the Parallel lead role of Bhavya in Star Plus's Popular Show Ishqbaaz and also in its spin off series Dil Boley Oberoi.",
+          "semantic_score": 0.40297362208366394,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1231",
+          "text": "Love Ka Hai Intezaar\nLove Ka Hai Intezaar is an Indian television romantic drama series, produced by Siddharth Malhotra. It is broadcasting worldwide on Star Plus, Mondays through Saturdays, at 2:00 PM, IST in an afternoon programming block called \"Star Plus Dopahar\", since 15th May 2017. Sanjeeda Sheikh, and Keith Sequeira played the leads in the show till a twenty-year leap after which Preetika Rao and Mohit Sehgal also joined them to play another main leads of the show. The series ended on 30 September 2017 when the Star Dopahar block was discontinued.",
+          "semantic_score": 0.4222678542137146,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7672",
+          "text": "Madhuri Desai\nMadhuri Desai is an Indian actress, model and a dancer. She played the lead role of Veda Deshmukh in the Marathi TV serial Yek Number that aired on Star Pravah.She is currently working with director Mahesh Manjrekar on his upcoming movie alongside other notable stars .She has finished her post graduation in Pharma Management from Mumbai University.",
+          "semantic_score": 0.4206066429615021,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Pardes Mein Hai Mera Dil and Ishqbaaz"
+    },
+    {
+      "step": 2,
+      "sub_question": "What country's Star Plus network broadcasts that drama series?",
+      "retrieved": [
+        {
+          "id": "1229",
+          "text": "Ishqbaaaz\nIshqbaaaz (English: \"Lovers\") is an Indian drama television series which is broadcast on Star Plus. It premiered on 27 June 2016 and airs Mon-Fri 10-11pm IST.Nakuul Mehta, Kunal Jaisingh and Leenesh Mattoo respectively portray Shivaay, Omkara and Rudra, the three heirs of the Oberoi family. The show initially focused on the tale of three brothers, later become centered on the love story of Shivaay and Annika (Surbhi Chandna); with the story of Omkara and Rudra being shifted to the spinoff series \"Dil Boley Oberoi\". In July 2017 \"Dil Boley Oberoi\" ended and the storylines were merged back into \"Ishqbaaaz\" which doubled its runtime.",
+          "semantic_score": 0.5922147035598755,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1237",
+          "text": "Additi Gupta\nAditi Gupta (stylized as Additi Gupta) is an Indian actress, model and fashion designer, known for her work as the protagonist in the popular television series \"Kis Desh Mein Hai Meraa Dil\" on Star Plus channel. She was also seen portraying a witch in the Zee TV series \"Qubool Hai\". She is also known for her negative roles in Pardes Mein Hai Mera Dil and Star Plus's Ishqbaaz.",
+          "semantic_score": 0.5789216756820679,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1231",
+          "text": "Love Ka Hai Intezaar\nLove Ka Hai Intezaar is an Indian television romantic drama series, produced by Siddharth Malhotra. It is broadcasting worldwide on Star Plus, Mondays through Saturdays, at 2:00 PM, IST in an afternoon programming block called \"Star Plus Dopahar\", since 15th May 2017. Sanjeeda Sheikh, and Keith Sequeira played the leads in the show till a twenty-year leap after which Preetika Rao and Mohit Sehgal also joined them to play another main leads of the show. The series ended on 30 September 2017 when the Star Dopahar block was discontinued.",
+          "semantic_score": 0.5358290076255798,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1236",
+          "text": "Star Plus (UK and Ireland)\nSTAR Plus is a Hindi language general entertainment television channel and the largest Asian Channel in the United Kingdom. STAR Plus is owned by STAR TV UK whose head office is in London. The channel is part of STAR TV's network of channels. STAR Plus' programming primarily consists of family dramas and telefilms. This channel is also distributed worldwide by Fox International Channels, subsidiary of 21st Century Fox. The majority of programming on STAR Plus UK is subtitled in English.",
+          "semantic_score": 0.48988714814186096,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5507",
+          "text": "Asiavision Awards\nAsiavision Movie Awards has been held annually since 2006 to honor the artistes and technicians of south Indian cinema. More than 40,000 people across United Arab Emirates attended the 2012 movie awards which was held on November 9, 2012 at Sharjah cricket stadium. Mohanlal and Rima Kallingal won Best Actors and Juhi Chawla and Shruti Haasan won excellence awards. In 2013 Asiavision Movie Awards was held at Dubai festival city, where Mammootty won Best Actor for Kunjananthante kada and Kavya Madhavan won best actress for Bavuttiyude Namathil .Bollywood actor John Abraham won Icon of the year and Rani Mukerji won excellence in Hindi cinema for Talaash and Bombay talkies . Preity Zinta won Pride of Bollywood award and Karisma Kapoor was one among the chief guests. In 2009 first edition of Asiavision Television Awards started at Sharjah cricket stadium where Oscar Award winner Resul Pookutty attended as chief guest.4th and 5th edition of Television Awards witnessed the presence of Mohanlal and Karisma Kapoor along with the television celebrities of Malayalam television industry. In 2014 February 8 first edition of Asiavision Radio Awards was launched, where the leading Malayalam radio stations representatives were honored also kareena kapoor khan awarded with Icon of India.",
+          "semantic_score": 0.447125107049942,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2685",
+          "text": "National Film Award for Best Actor\nThe National Film Award for Best Actor, officially known as the Rajat Kamal Award for the Best Actor (] ), is an honour presented annually at the National Film Awards of India instituted only since 1967 to actors who have delivered the best performance in a leading role within the Indian film industry. Called the \"State Awards for Films\" when established in 1954, the National Film Awards ceremony is older than the Directorate of Film Festivals. The State Awards instituted the individual award in 1968 as the \"Bharat Award for the Best Actor\"; in 1975, it was renamed as the \"Rajat Kamal Award for the Best Actor\". Throughout the past 45 years, accounting for ties and repeat winners, the Government of India has presented a total of 52 \"Best Actor\" awards to 40 actors. Until 1974, winners of the National Film Award received a figurine and certificate; since 1975, they have been awarded with a \"Rajat Kamal\" (silver lotus), certificate and a cash prize.",
+          "semantic_score": 0.2028016299009323,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5993",
+          "text": "National Film Award for Best Supporting Actress\nThe National Film Award for Best Supporting Actress (also known as the Rajat Kamal Award for the Best Supporting Actress) (] ), is an honour presented annually at the National Film Awards of India since 1984 to an actress for the best performance in a supporting role within Indian cinema. The National Film Awards were established in 1954 and are presented by the Directorate of Film Festivals, the organization set up by Ministry of Information and Broadcasting, India. The National Film Awards instituted the \"Best Supporting Actress\" category in 1984 as the \"Rajat Kamal Award for the Best Supporting Actress\".",
+          "semantic_score": 0.2554483711719513,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2687",
+          "text": "Golden Kela Awards\nThe Golden Kela Awards (Hindi: गोल्डन केला अवॉर्ड्स ) are a satirical take on Bollywood that award the worst performances in Hindi cinema each year. Created by \"Random Magazine\", winners are selected each year by an online poll and receive an award in the shape of a golden banana (केला \"kelā\" in Hindi). The first award ceremony took place on 7 March 2009 in New Delhi (India). The fifth award ceremony was held on March 30, 2013. Jaspal Bhatti made a special appearance at the inaugural event, dishonoring the Indian film talent of the year 2008. The intention behind the Golden Kela is to ridicule the Hindi film stars and acknowledge the worst of Indian Cinema. Since, several award ceremonies each year celebrate the best of Hindi Cinema, \"Random Magazine\" and the Sundaas Film Institute chose to be different by giving away the Best of the Worst of Indian Cinema. Golden Kela Awards are not meant to insult anyone. It is just a way to make it a laughter exercise, a therapy of sorts to forget about the failures and look at what went wrong with the movie and the act. Abhishek Bachchan came to the Golden Kela Awards in 2010 and accepted the Dara Singh Award for his attempt to speak with an American accent in Delhi 6",
+          "semantic_score": 0.2799215614795685,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8400",
+          "text": "Mansi Srivastava\nMansi Srivastava is an Indian television actress. She is well known for playing the role of Heer in Zee TV's show \"Rab Se Sohna Isshq\" and the lead role of Shivani in \"Do Dil Bandhe Ek Dori Se\" on Zee TV. She also played the role of Shatabdi in \"Peterson Hill\" on Sab TV. In 2016, She played the Parallel lead role of Dr. Prerna in \"Sasural Simar Ka\".\"She is Currently playing the Parallel lead role of Bhavya in Star Plus's Popular Show Ishqbaaz and also in its spin off series Dil Boley Oberoi.",
+          "semantic_score": 0.4424397349357605,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1234",
+          "text": "Vipul Gupta\nVipul Gupta (born 17 September 1984) is an actor and model. He is best known for playing the lead role of Drone Keshab in a very popular Star Plus Serial: K. Street Pali Hill and as Anand Zorawar Shergill in TV serial \"Meri Bhabhi\" on STAR Plus. He is currently seen in a Vikram Bhatt's web series \"Maaya\".",
+          "semantic_score": 0.4124521315097809,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "India"
+    }
+  ],
+  "links": [
+    {
+      "source": "1237",
+      "target": "1229",
+      "reason": "Paragraph 1237 identifies Ishqbaaz as the Star Plus drama in which Additi Gupta played a negative role; paragraph 1229 identifies Ishqbaaz as an Indian drama television series broadcast on Star Plus, bridging the series to its country."
+    }
+  ],
+  "questions_seen": 125,
+  "_id": "5ae1d1995542997283cd226c",
+  "correct_answer": "Indian",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

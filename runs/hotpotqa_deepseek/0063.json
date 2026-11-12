@@ -1,0 +1,261 @@
+{
+  "question": "Devil's Food is a singles compilation by an American rock and roll band that has also been known to play country shows under what?",
+  "answer": "The Supersuckers",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is \"Devil's Food\" (e.g., a compilation album, and by which band)?",
+      "retrieved": [
+        {
+          "id": "632",
+          "text": "Devil's Food\nDevil's Food is a singles compilation by the American rock and roll band Supersuckers, released in April 2005 on Mid-Fi records.",
+          "semantic_score": 0.7349300384521484,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3180",
+          "text": "Devils Ball\n\"Devils Ball\" is a song by Swiss duo Double, released as the lead single from their second studio album \"Dou3le\". The single was released in 1987, and featured a guest appearance from Herb Alpert, who played trumpet on the track.",
+          "semantic_score": 0.40816307067871094,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9141",
+          "text": "Epitaph Records\nEpitaph Records is a Hollywood-based independent record label owned by Bad Religion guitarist Brett Gurewitz. The label was originally \"just a logo and a P.O. box\" created in the 1980s for the purpose of selling Bad Religion records, but has evolved into a large independent record label. Gurewitz took the name from a King Crimson song of the same name. Throughout the 1980s and 1990s most of the bands on Epitaph were punk and pop punk groups, while there are many post-hardcore and bands signed to the label as well. A large portion of the record label, known as Hellcat Records, is owned by Tim Armstrong, frontman of the punk rock band Rancid. Several sister-labels also exist, such as ANTI-, Burning Heart Records, Fat Possum Records, Hellcat Records and Heart & Skull Records that have signed other types of bands. The label has recently been added to the Forza Horizon franchise as a radio station.",
+          "semantic_score": 0.4011914134025574,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9426",
+          "text": "The Famines (band)\nThe Famines are a Canadian indie rock band formed in 2008 in Edmonton, Alberta, Canada now based in Montreal, Quebec, Canada. The two piece band uses a modern and minimalistic approach that draws comparison to mid 1970's protopunk and fuzzy garage rock.The band name is meant to be a commentary on the continued feeling of emptiness and lacking in a society that is materially fulfilled. The band has two members, R. E. Biesinger on guitar and vocals, and Drew Demers on the drums.",
+          "semantic_score": 0.3980380594730377,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4576",
+          "text": "The Hungry Hustlerz: Starvation Is Motivation\nThe Hungry Hustlerz: Starvation Is Motivation is the fifth studio album by Afroman.",
+          "semantic_score": 0.3740714192390442,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1090",
+          "text": "Tim Armstrong\nTimothy Ross “Tim” Armstrong (born on November 25, 1965) is an American musician, singer, songwriter, producer, and actor. He is best known as the singer/guitarist for the punk rock band Rancid and hip hop/punk rock supergroup the Transplants. Prior to forming Rancid, Armstrong was in the influential ska punk band Operation Ivy. In 1997, along with Brett Gurewitz of the band Bad Religion and owner of Epitaph Records, Armstrong founded Hellcat Records. In 2012, through his website, Armstrong started releasing music that influenced him, along with stripped-down cover songs of his own work under the name Tim Timebomb. He has released at least one song per week since late 2012. Armstrong is also a songwriter for other artists. Armstrong won a Grammy Award for his work with Jimmy Cliff and Pink and he has also worked with Joe Walsh.",
+          "semantic_score": 0.27151790261268616,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "631",
+          "text": "Supersuckers\nSupersuckers are an American rock band. Following the relative success of their 1997 foray into country music with the release of \"Must've Been High\", they have also been known to play country shows under various names, including, of course, the Supersuckers.",
+          "semantic_score": 0.23741978406906128,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6766",
+          "text": "The Devils (play)\nThe Devils is a play, commissioned by Sir Peter Hall for the Royal Shakespeare Company and written by British dramatist John Whiting, based on Aldous Huxley's book, \"The Devils of Loudun\".",
+          "semantic_score": 0.3579340875148773,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7762",
+          "text": "Soul Temple Records\nSoul Temple Records is an American record label founded in 2012 by hip hop music recording artist RZA and Bob Perry, after the release of the RZA directed \"The Man with the Iron Fists\". The labels first release would be that album's soundtrack. The label has since released studio albums by Wu-Tang Clan members Ghostface Killah and U-God. All albums released on the label are executive produced by RZA.",
+          "semantic_score": 0.3517493009567261,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "753",
+          "text": "Audioslave\nAudioslave was an American rock supergroup formed in Los Angeles in 2001. The four-piece band consisted of Soundgarden lead singer/rhythm guitarist Chris Cornell and Rage Against the Machine members Tom Morello (lead guitar), Tim Commerford (bass/backing vocals), and Brad Wilk (drums). Critics first described Audioslave as a combination of Soundgarden and Rage Against the Machine, but by the band's second album, \"Out of Exile\", it was noted that they had established a separate identity. Audioslave's sound was created by blending 1970s hard rock with 1990s alternative rock. Moreover, Morello incorporated his well-known, unconventional guitar solos into the mix. As with Rage Against the Machine, the band prided themselves on the fact that all sounds on their albums were produced using only guitar, bass, drums, and vocals.",
+          "semantic_score": 0.28963059186935425,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "\"Devil's Food\" is a singles compilation album by the American rock and roll band Supersuckers."
+    },
+    {
+      "step": 2,
+      "sub_question": "Which American rock and roll band released \"Devil's Food\"?",
+      "retrieved": [
+        {
+          "id": "632",
+          "text": "Devil's Food\nDevil's Food is a singles compilation by the American rock and roll band Supersuckers, released in April 2005 on Mid-Fi records.",
+          "semantic_score": 0.952038586139679,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "631",
+          "text": "Supersuckers\nSupersuckers are an American rock band. Following the relative success of their 1997 foray into country music with the release of \"Must've Been High\", they have also been known to play country shows under various names, including, of course, the Supersuckers.",
+          "semantic_score": 0.5273129343986511,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3180",
+          "text": "Devils Ball\n\"Devils Ball\" is a song by Swiss duo Double, released as the lead single from their second studio album \"Dou3le\". The single was released in 1987, and featured a guest appearance from Herb Alpert, who played trumpet on the track.",
+          "semantic_score": 0.42776352167129517,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8302",
+          "text": "Zeitgeist (The Smashing Pumpkins album)\nZeitgeist is the seventh album by American alternative rock band The Smashing Pumpkins, released on July 10, 2007 in the United States and Canada. It was the first album The Smashing Pumpkins released after their 2000 disbandment and 2005 reunion. The album was produced by Roy Thomas Baker, Billy Corgan, Jimmy Chamberlin, and Terry Date. The album would be Chamberlin's last with the band before his departure in 2009. The album debuted strongly, but sales soon decreased, and critical reception was mixed. It was certified Gold in the United States on February 1, 2008.",
+          "semantic_score": 0.4157201945781708,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8308",
+          "text": "List of the Smashing Pumpkins band members\nThe Smashing Pumpkins are an alternative rock band formed in Chicago, Illinois in 1988. The band was formed by guitarist/vocalist Billy Corgan and guitarist James Iha after the demise of Corgan's first band, The Marked. Since its inception, The Smashing Pumpkins has gone through multiple line-up changes, with Corgan the only consistent member.",
+          "semantic_score": 0.41268390417099,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8303",
+          "text": "Billy Corgan\nWilliam Patrick \"Billy\" Corgan Jr. (born March 17, 1967) is an American musician, songwriter, producer, poet, and entrepreneur. He is best known as the lead singer, primary songwriter, guitarist, and sole permanent member of The Smashing Pumpkins. Formed by Corgan and guitarist James Iha in Chicago, Illinois, in 1988, the band quickly gained steam with the addition of bassist D'arcy Wretzky and drummer Jimmy Chamberlin. Strong album sales and large-scale tours propelled the band's increasing fame in the 1990s until their break-up in 2000. Corgan started a new band called Zwan, and after their quick demise, he released a solo album (\"TheFutureEmbrace\") and a collection of poetry (\"Blinking with Fists\") before setting his sights on reforming Smashing Pumpkins.",
+          "semantic_score": 0.3234935998916626,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8307",
+          "text": "Mike Byrne (musician)\nMichael William Byrne (born February 6, 1990) is a drummer who was a member of the band The Smashing Pumpkins. When Pumpkins frontman Billy Corgan called for rehearsals to replace Jimmy Chamberlin, Byrne auditioned and was chosen out of thousands of applicants. He played drums in Sky Saxon tribute band Spirits in the Sky for 6 shows in August 2009, along with Corgan, Kerry Brown, Kevin Dippold, Mark Tulin, Linda Strawberry, Ysanne Spevack, Mark Weitz, and Dave Navarro, and also performs drums on the ongoing Pumpkins 44-song project, \"Teargarden by Kaleidyscope\". As a part of \"Teargarden\", Mike contributed drumming duties on \"Oceania\", the Pumpkins' eighth full-length album. On April 17, 2010, Byrne played his first show under the Smashing Pumpkins moniker in celebration of Record Store Day.",
+          "semantic_score": 0.33722254633903503,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8304",
+          "text": "Jimmy Chamberlin\nJames Joseph Chamberlin (born June 10, 1964) is an American drummer and record producer. He is best known as the drummer for the alternative rock band The Smashing Pumpkins. Following the 2000 breakup of the band, Chamberlin joined Pumpkins frontman Billy Corgan in the supergroup Zwan and also formed his own group, the Jimmy Chamberlin Complex. In 2005, Chamberlin joined Corgan in reforming The Smashing Pumpkins; he eventually left the group in March 2009, though he returned again in 2015 for a summer tour. He performed in the group Skysaw until 2012. He is currently active under the Jimmy Chamberlin Complex name. In addition to his current work as CEO, Chamberlin has joined Chicago jazz saxophonist Frank Catalano for a string of 2013–15 performances in the Chicago area. An EP by Catalano and Chamberlin \"Love Supreme Collective - EP\" was released on the 29th of July 2014.",
+          "semantic_score": 0.36212655901908875,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Supersuckers"
+    },
+    {
+      "step": 3,
+      "sub_question": "Under what name does that band play country shows?",
+      "retrieved": [
+        {
+          "id": "631",
+          "text": "Supersuckers\nSupersuckers are an American rock band. Following the relative success of their 1997 foray into country music with the release of \"Must've Been High\", they have also been known to play country shows under various names, including, of course, the Supersuckers.",
+          "semantic_score": 0.8447210788726807,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "632",
+          "text": "Devil's Food\nDevil's Food is a singles compilation by the American rock and roll band Supersuckers, released in April 2005 on Mid-Fi records.",
+          "semantic_score": 0.47289809584617615,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5441",
+          "text": "Souther–Hillman–Furay Band\nThe Souther Hillman Furay Band (SHF) was a country rock supergroup led by singer-songwriters Richie Furay (Buffalo Springfield, Poco), Chris Hillman (The Byrds, The Flying Burrito Brothers, Manassas), and J.D. Souther (Longbranch Pennywhistle, noted songwriter for Linda Ronstadt and the Eagles). The band recorded two albums during the 1970s before breaking up due to disagreements between the members.",
+          "semantic_score": 0.466376394033432,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8566",
+          "text": "The Knew\nThe Knew is an American rock and roll band from Denver, CO consisting of Jacob Hansen (guitars, vocals), Tim Rynders (bass), Tyler Breuer (guitars), and Andy Thomas (drums). The group takes influences from such acts as The Rolling Stones, The Clash, Dillinger Four, The Replacements, and My Morning Jacket. The Knew has shared the stage with numerous national acts such as Cold War Kids, Deer Tick, Titus Andronicus, Afghan Whigs, Fake Problems, Manchester Orchestra, Slim Cessna's Auto Club and has appeared at such festivals as South by Southwest, CMJ Music Marathon, Mile High Music Festival and the Monolith Festival. The band is renowned for their high energy performances and being front row boys.",
+          "semantic_score": 0.4282204210758209,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9807",
+          "text": "Hummingbird (Local Natives album)\nHummingbird is the second studio album by American indie rock band Local Natives, released on January 29, 2013 on Frenchkiss Records in the US, and on Infectious Records in Europe. Produced by The National guitarist Aaron Dessner, the album was preceded by the singles, \"Breakers\" and \"Heavy Feet.\" \"Breakers\" reached #12 on the Billboard Top 200. The song \"Mt. Washington\" was also featured in the 2015 video game \"Life Is Strange\".",
+          "semantic_score": 0.4078846275806427,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9808",
+          "text": "Local Natives\nLocal Natives (previously known as Cavil at Rest) is an American indie rock band based in Silver Lake, Los Angeles, California, United States. Their debut album, \"Gorilla Manor\", was first released in the UK in November 2009, and later released in the US on February 16, 2010. The album received mostly positive reviews and debuted in the Billboard 200 and at No. 3 in the New Artist Chart. Their second album, \"Hummingbird\", was released in January 2013. Their third album, \"Sunlit Youth\", was released in September 2016.",
+          "semantic_score": 0.29652583599090576,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5447",
+          "text": "Richie Furay\nPaul Richard \"Richie\" Furay (born May 9, 1944) is an American singer, songwriter, and Rock & Roll Hall of Fame member who is best known for forming the bands Buffalo Springfield with Stephen Stills, Neil Young, Bruce Palmer, and Dewey Martin, and Poco with Jim Messina, Rusty Young, George Grantham and Randy Meisner. His best known song (originally written during his tenure in Buffalo Springfield, but eventually performed by Poco, as well) was \"Kind Woman\", which he wrote for his wife, Nancy.",
+          "semantic_score": 0.16694527864456177,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2667",
+          "text": "The Dusty Chaps\nThe Dusty Chaps was a honky tonk country swing band based in Tucson, AZ from the mid-1970s through the early 1980s. In 1975 they released their first album Honky Tonk Music on a small Tucson label, Bandoleer Records. The band subsequently signed with Capitol Records and rerecorded Honky Tonk Music with an added track in 1977. They released another album on Capitol, Domino Joe (1978). Band members included Peter Gierlach (vocals, accordion); George Hawke (bass, acoustic guitar, background vocals); Pat McAndrew (electric guitar); Leonardo Lopez (drums, percussion); Steve Solomon (keyboards, saxophone, clarinet, vibraphone); Bill Emrie (violin); Red Davidson (piano, accordion, vibraphone, marimba); and Ted Hockenbury (pedal steel guitar). For some time the Chaps were the house band at Tucson's renowned Stumble Inn as well as the Poco Loco.",
+          "semantic_score": 0.300577849149704,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The Supersuckers"
+    }
+  ],
+  "links": [
+    {
+      "source": "632",
+      "target": "631",
+      "reason": "Paragraph 632 identifies Devil's Food as a compilation by Supersuckers, and paragraph 631 identifies Supersuckers as the band that plays country shows under various names, bridging the album to the band's country-show aliases."
+    }
+  ],
+  "questions_seen": 64,
+  "_id": "5a84fd085542994c784ddaba",
+  "correct_answer": "various names",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

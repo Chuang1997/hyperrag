@@ -1,0 +1,181 @@
+{
+  "question": "What is the county seat of the county in which Keokuk Falls, Oklahoma is loated?",
+  "answer": "Shawnee",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "In which county is Keokuk Falls, Oklahoma located?",
+      "retrieved": [
+        {
+          "id": "722",
+          "text": "Keokuk Falls, Oklahoma\nKeokuk Falls is a ghost town in Pottawatomie County, Oklahoma. The location is 4.5 miles north and 15 miles east of Shawnee. and one mile west of the Creek Nation and one mile north of the Seminole Nation across the North Canadian River. It was named after Chief Moses Keokuk (1821-1908). He is buried in Stroud, Oklahoma's Sac and Fox cemetery.",
+          "semantic_score": 0.9140148162841797,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "719",
+          "text": "Keokuk, Iowa\nKeokuk is a city and a county seat of Lee County, Iowa, United States, along with Fort Madison. It is also the most southerly city in Iowa. The population was 10,780 at the 2010 census. The city is named after the Sauk chief Keokuk, who is thought to be buried in Rand Park. It is located in the extreme southeast corner of Iowa where the Des Moines River meets with the Mississippi. It is located at the junction of U.S. Routes 61, 136 and 218. Just across the rivers are the towns of Hamilton and Warsaw, Illinois, and Alexandria, Missouri.",
+          "semantic_score": 0.6411346793174744,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "723",
+          "text": "Shawnee, Oklahoma\nShawnee is a city in Pottawatomie County, Oklahoma, United States. The population was 31,543 in 2014, a 4.9 percent increase from 28,692 at the 2000 census. The city is part of the Oklahoma City-Shawnee Combined Statistical Area; it is also the county seat of Pottawatomie County and the principal city of the Shawnee Micropolitan Statistical Area.",
+          "semantic_score": 0.48884961009025574,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6035",
+          "text": "Kevin Ogle\nKevin Ogle is a news anchor for KFOR-TV (channel 4), the NBC affiliate in Oklahoma City, Oklahoma. Kevin anchors the station's weeknight 6 and 10 p.m. newscasts with Linda Cavanaugh, does occasional reports including the \"Bottom Line\" financial segments seen during the station's 6:30 p.m. newscast, and occasionally fills in as anchor of the 9 p.m. newscast on Independent station KAUT-TV. Ogle also serves as moderator of the locally-produced Sunday morning political affairs talk show \"Flashpoint\", alongside panelists Mike Turpen and former Oklahoma City mayor Kirk Humphreys.",
+          "semantic_score": 0.4251515865325928,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1375",
+          "text": "Seminole County, Oklahoma\nSeminole County is a county located in the U.S. state of Oklahoma. As of the 2010 census, the population was 25,482. Its county seat is Wewoka. Before Oklahoma's admission as a state, the county was the entire small portion of Indian Territory allocated to the Seminole people, who were removed from Florida in the 1820s.",
+          "semantic_score": 0.4119543433189392,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1377",
+          "text": "Seminole Nation of Oklahoma\nThe Seminole Nation of Oklahoma is a federally recognized Native American tribe based in the U.S. state of Oklahoma. It is the largest of the three federally recognized Seminole governments, which include the Seminole Tribe of Florida and the Miccosukee Tribe of Indians of Florida. Its members are descendants of the 3,000 Seminoles who were forcibly removed from Florida to Indian Territory, along with 800 Black Seminoles, after the Second Seminole War. The Seminole Nation of Oklahoma is headquartered in Wewoka within Seminole County, Oklahoma. Of 18,800 enrolled tribal members, 13,533 live within the state of Oklahoma. The tribe began to revive its government in 1936 under the Indian Reorganization Act. While its reservation was originally larger, today the tribal jurisdictional area covers Seminole County, Oklahoma, within which it has a variety of properties.",
+          "semantic_score": 0.3290790915489197,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "720",
+          "text": "Sigourney, Iowa\nSigourney (pronounced \"SIGG-ur-nee\") is a city in Keokuk County, Iowa, United States. The population was 2,059 at the 2010 census. It is the county seat of Keokuk County.",
+          "semantic_score": 0.31150010228157043,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Pottawatomie County"
+    },
+    {
+      "step": 2,
+      "sub_question": "What is the county seat of that county?",
+      "retrieved": [
+        {
+          "id": "1243",
+          "text": "Old Allamakee County Courthouse (Lansing, Iowa)\nThe Old Allamakee County Courthouse, located on 2nd Street in Lansing, is a short-lived former county courthouse of Allamakee County, Iowa. The courthouse was completed in 1861 amid a fight between Lansing and Waukon over which community deserved to be the county seat. Lansing had lost a vote on the county seat to Waukon in 1859, but they won another vote in 1861 after teaming up with the community of Columbus. Waukon built its own courthouse in the meantime, but it failed to win back the county seat in yet another vote in 1864. The county sheriff, a Waukon resident, attempted to seize the county's records from the Lansing courthouse in 1866; however, a posse from Lansing stopped him before he could return to Waukon. The Iowa Supreme Court decided the county seat battle in favor of Waukon the following year; it has remained there since.",
+          "semantic_score": 0.4163931906223297,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8766",
+          "text": "Pictou County pizza\nPictou County Pizza is a regional variant of pizza found in Pictou County, Nova Scotia. The style of pizza is unique, owing to its \"brown sauce\" and Halifax-made pepperoni. The pizza can be shipped frozen across Canada via an arrangement between a local pizza shop and the local UPS agent. The most common destination being Fort McMurray, Alberta with a two-day delivery time. Since 2014 an annual competition between pizza makers in Pictou County has been held, with awards being given under a People's Choice category and as selected by a panel of judges.",
+          "semantic_score": 0.36609068512916565,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1375",
+          "text": "Seminole County, Oklahoma\nSeminole County is a county located in the U.S. state of Oklahoma. As of the 2010 census, the population was 25,482. Its county seat is Wewoka. Before Oklahoma's admission as a state, the county was the entire small portion of Indian Territory allocated to the Seminole people, who were removed from Florida in the 1820s.",
+          "semantic_score": 0.3657528758049011,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2634",
+          "text": "Wisconsin's 7th congressional district\nWisconsin's 7th congressional district is a congressional district of the United States House of Representatives in northwestern and central Wisconsin; it is the largest congressional district in the state geographically, covering 20 counties (in whole or part), for a total of 18,787 sq mi. The district contains the following counties: Ashland, Barron, Bayfield, Burnett, Chippewa, Clark (partial), Douglas, Iron, Langlade (partial), Lincoln, Marathon, Oneida, Polk, Portage, Price, Rusk, Sawyer, Taylor, Washburn and Wood.",
+          "semantic_score": 0.35458651185035706,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7041",
+          "text": "Glacier Park International Airport\nGlacier Park International Airport (IATA: FCA, ICAO: KGPI, FAA LID: GPI) is in Flathead County, Montana, six miles northeast of Kalispell. The airport is owned and operated by the Flathead Municipal Airport Authority, a public agency created by the county in 1974.",
+          "semantic_score": 0.35250893235206604,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1377",
+          "text": "Seminole Nation of Oklahoma\nThe Seminole Nation of Oklahoma is a federally recognized Native American tribe based in the U.S. state of Oklahoma. It is the largest of the three federally recognized Seminole governments, which include the Seminole Tribe of Florida and the Miccosukee Tribe of Indians of Florida. Its members are descendants of the 3,000 Seminoles who were forcibly removed from Florida to Indian Territory, along with 800 Black Seminoles, after the Second Seminole War. The Seminole Nation of Oklahoma is headquartered in Wewoka within Seminole County, Oklahoma. Of 18,800 enrolled tribal members, 13,533 live within the state of Oklahoma. The tribe began to revive its government in 1936 under the Indian Reorganization Act. While its reservation was originally larger, today the tribal jurisdictional area covers Seminole County, Oklahoma, within which it has a variety of properties.",
+          "semantic_score": 0.19145286083221436,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1372",
+          "text": "Seminole\nThe Seminole are a Native American people originally from Florida. Today, they principally live in Oklahoma with a minority in Florida, and comprise three federally recognized tribes: the Seminole Tribe of Oklahoma, the Seminole Tribe of Florida, and Miccosukee Tribe of Indians of Florida, as well as independent groups. The Seminole nation emerged in a process of ethnogenesis from various Native American groups who settled in Florida in the 18th century, most significantly northern Muscogee (Creeks) from what is now Georgia and Alabama. The word \"Seminole\" is derived from the Creek word \"simanó-li\", which may be itself be derived from the Spanish word \"cimarrón\", menaning \"runaway\" or \"wild one\".",
+          "semantic_score": 0.08123588562011719,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7044",
+          "text": "Glacier Park Company\nThe Glacier Park Company, a subsidiary of the Great Northern Railway (GN), constructed and operated hotels, chalets, and other visitor facilities in Glacier National Park, Montana and Waterton Lakes National Park, Alberta from the 1910s through 1960. Operating as a concessionaire of the National Park Service, the company operated from a summer base in East Glacier Park, Montana, near the company's flagship Glacier Park Hotel; winter headquarters were in St. Paul, Minnesota. Originally known as the Glacier Park Hotel Company, the corporate name was shortened to Glacier Park Company in 1943.",
+          "semantic_score": 0.12304137647151947,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1371",
+          "text": "Seminole music\nSeminole music is the music of the Seminole people, an indigenous people of the Americas who formed in Florida in the 18th century. Today most live in Oklahoma, but a minority continue in Florida. They have three federally recognized tribes, and some people belong to bands outside those groups. Their traditional music includes extensive use of rattles, hand drums, water drums, and flutes.",
+          "semantic_score": 0.08041948825120926,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "716",
+          "text": "McIntosh County Seat War\nThe McIntosh County Seat War was a dispute in Oklahoma over the location of the McIntosh County seat that took place between 1907 and 1909. Following a pair of elections that resulted in the town of Checotah being designated as the new county seat, the people of Eufaula refused to hand over the county records. As a result, a group of heavily armed men from Chectotah attempted to seize the records, but were forced to surrender during the gunbattle that ensued. One year later, after another close election, Eufaula became the permanent county seat.",
+          "semantic_score": 0.34692662954330444,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Wewoka"
+    }
+  ],
+  "links": [
+    {
+      "source": "722",
+      "target": "723",
+      "reason": "Paragraph 722 identifies Keokuk Falls as being in Pottawatomie County, Oklahoma; paragraph 723 states that Shawnee is the county seat of Pottawatomie County, providing the direct bridge from the town to its county seat."
+    }
+  ],
+  "questions_seen": 73,
+  "_id": "5a8e41735542995085b37406",
+  "correct_answer": "Shawnee",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

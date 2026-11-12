@@ -1,0 +1,188 @@
+{
+  "question": "Which author found inspiration in their career prior to writing, Hart Crane or John le Carré?",
+  "answer": "John le Carré",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What careers did Hart Crane and John le Carré have before becoming writers?",
+      "retrieved": [
+        {
+          "id": "1477",
+          "text": "John le Carré: The Biography\nJohn le Carré: The Biography is a 2015 biography of John le Carré written by Adam Sisman and published by Harper.",
+          "semantic_score": 0.48042231798171997,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1476",
+          "text": "Hart Crane\nHarold Hart Crane (July 21, 1899 – April 27, 1932) was an American poet. Finding both inspiration and provocation in the poetry of T. S. Eliot, Crane wrote modernist poetry that was difficult, highly stylized, and ambitious in its scope. In his most ambitious work, \"The Bridge\", Crane sought to write an epic poem, in the vein of \"The Waste Land\", that expressed a more optimistic view of modern, urban culture than the one that he found in Eliot's work. In the years following his suicide at the age of 32, Crane has been hailed by playwrights, poets, and literary critics alike (including Robert Lowell, Derek Walcott, Tennessee Williams, and Harold Bloom), as being one of the most influential poets of his generation.",
+          "semantic_score": 0.406595915555954,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2901",
+          "text": "Christopher Lee (writer)\nChristopher David Lee (born 28 March 1947) is an Australian scriptwriter who has been an Australian Associated Press journalist and foreign correspondent and has worked as a script consultant in New Zealand, Singapore and New York City. He has won an AFI Award and four AWGIE Awards and is the recipient of a Centenary Medal and a Queensland Premier's Literary Award.",
+          "semantic_score": 0.3889290392398834,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4633",
+          "text": "Typewriter in the Sky\nTypewriter in the Sky is a science fiction novel written by Scientology founder L. Ron Hubbard. The protagonist Mike de Wolf finds himself inside the story of his friend Horace Hackett's book. He must survive conflict on the high seas in the Caribbean during the 17th century, before eventually returning to his native New York City. Each time a significant event occurs to the protagonist in the story he hears the sounds of a typewriter in the sky. At the story's conclusion, de Wolf wonders if he is still a character in someone else's story. The work was first published in a two-part serial format in 1940 in \"Unknown Fantasy Fiction\". It was twice published as a combined book with Hubbard's work \"Fear\". In 1995 Bridge Publications re-released the work along with an audio edition.",
+          "semantic_score": 0.3824236989021301,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9532",
+          "text": "Ian McEwan\nIan Russell McEwan (born 21 June 1948) is an English novelist and screenwriter. In 2008, \"The Times\" featured him on their list of \"The 50 greatest British writers since 1945\", and also in 2008 \"The Daily Telegraph\" ranked him number 19 in their list of the \"100 most powerful people in British culture\".",
+          "semantic_score": 0.3772665858268738,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1478",
+          "text": "Bill Haydon\nBill Haydon is a fictional character created by John le Carré in le Carré's \"Tinker Tailor Soldier Spy\".",
+          "semantic_score": 0.3379684388637543,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1471",
+          "text": "John le Carré\nDavid John Moore Cornwell (born 19 October 1931), known by the pseudonym John le Carré ( ), is a British author of espionage novels. During the 1950s and the 1960s, he worked for both the Security Service and the Secret Intelligence Service, and began writing novels under his pen name. His third novel, \"The Spy Who Came in from the Cold\" (1963), became an international best-seller and remains one of his best-known works. Following the success of this novel, he left MI6 to become a full-time author.",
+          "semantic_score": 0.3597097098827362,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9549",
+          "text": "Stephen Lee (chemist)\nStephen Lee (born 25 October 1955) is an American chemist. He is the son of Tsung-Dao Lee, the winner of the 1957 Nobel Prize in Physics. He is currently a professor at Cornell University.",
+          "semantic_score": 0.17286989092826843,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "283",
+          "text": "Writers of the Future\nWriters of the Future (WOTF) is a science fiction and fantasy story contest that was established by L. Ron Hubbard in the early 1980s. A sister contest, Illustrators of the Future, presents awards for science fiction art. Hubbard characterized the contest as a way of \"giving back\" to the field that had defined his professional writing life. The contest has no entry fee and is the highest-paying contest for amateur science-fiction and fantasy writers. Notable past winners of WOTF include Stephen Baxter, Karen Joy Fowler, James Alan Gardner, Nina Kiriki Hoffman, Jay Lake, Michael H. Payne, Patrick Rothfuss, Robert Reed, Dean Wesley Smith, Sean Williams, Dave Wolverton, Nancy Farmer, and David Zindell.",
+          "semantic_score": 0.284650057554245,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9527",
+          "text": "Langston Hughes\nJames Mercer Langston Hughes (February 1, 1902 – May 22, 1967) was an American poet, social activist, novelist, playwright, and columnist from Joplin, Missouri.",
+          "semantic_score": 0.3622409701347351,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Hart Crane worked as an advertising copywriter; John le Carré worked for the Security Service and Secret Intelligence Service (MI5 and MI6)."
+    },
+    {
+      "step": 2,
+      "sub_question": "Did either of them draw inspiration from their pre-writing career for their literary work?",
+      "retrieved": [
+        {
+          "id": "1471",
+          "text": "John le Carré\nDavid John Moore Cornwell (born 19 October 1931), known by the pseudonym John le Carré ( ), is a British author of espionage novels. During the 1950s and the 1960s, he worked for both the Security Service and the Secret Intelligence Service, and began writing novels under his pen name. His third novel, \"The Spy Who Came in from the Cold\" (1963), became an international best-seller and remains one of his best-known works. Following the success of this novel, he left MI6 to become a full-time author.",
+          "semantic_score": 0.5167171955108643,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1477",
+          "text": "John le Carré: The Biography\nJohn le Carré: The Biography is a 2015 biography of John le Carré written by Adam Sisman and published by Harper.",
+          "semantic_score": 0.5000576972961426,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1478",
+          "text": "Bill Haydon\nBill Haydon is a fictional character created by John le Carré in le Carré's \"Tinker Tailor Soldier Spy\".",
+          "semantic_score": 0.4362100660800934,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1470",
+          "text": "Call for the Dead\nCall for the Dead is John le Carré's first novel, published in 1961. It introduces George Smiley, the most famous of le Carré's recurring characters, in a story about East German spies inside Great Britain. It also introduces a fictional version of British Intelligence, called \"the Circus\" because of its location in Cambridge Circus, that is apparently based on MI6 and that recurs throughout le Carré's spy novels.",
+          "semantic_score": 0.3995670974254608,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1469",
+          "text": "Connie Sachs\nConnie Sachs is a fictional character created by John le Carré. Sachs plays a key supporting role in le Carré's \"Karla Trilogy\" of spy novels including \"Tinker Tailor Soldier Spy\"; \"The Honourable Schoolboy\"; and \"Smiley's People\".",
+          "semantic_score": 0.3930017650127411,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1472",
+          "text": "Spy film\nThe spy film genre deals with the subject of fictional espionage, either in a realistic way (such as the adaptations of John le Carré) or as a basis for fantasy (such as many James Bond films). Many novels in the spy fiction genre have been adapted as films, including works by John Buchan, le Carré, Ian Fleming (Bond) and Len Deighton. It is a significant aspect of British cinema, with leading British directors such as Alfred Hitchcock and Carol Reed making notable contributions and many films set in the British Secret Service.",
+          "semantic_score": 0.3682371973991394,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1473",
+          "text": "Control (fictional character)\nControl is a fictional character created by John le Carré. Control is an intelligence officer who acts as the head of \"the Circus\", the British overseas intelligence agency. He is a character in the novels \"The Spy Who Came in from the Cold\", \"The Looking Glass War\", and \"Tinker Tailor Soldier Spy\", and is referred to in several others, usually by association with le Carré's recurring protagonist George Smiley, who has served as Control's right-hand man.",
+          "semantic_score": 0.33859264850616455,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1474",
+          "text": "The Deadly Affair\nThe Deadly Affair is a 1966 British espionage–thriller film, based on John le Carré's first novel \"Call for the Dead\". The film stars James Mason, Harry Andrews, Simone Signoret and Maximilian Schell and was directed by Sidney Lumet from a script by Paul Dehn. In it George Smiley, the central character of the novel and many other le Carré books, is renamed Charles Dobbs as Paramount, which owned the film rights of their recently filmed \"The Spy Who Came in from the Cold\", had the rights to the Smiley character. The soundtrack was composed by Quincy Jones, and the bossa nova theme song, \"Who Needs Forever\", is performed by Astrud Gilberto.",
+          "semantic_score": 0.23483429849147797,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes, John le Carré drew inspiration from his pre-writing career in MI5 and MI6 for his espionage novels."
+    }
+  ],
+  "links": [
+    {
+      "source": "1471",
+      "target": "1470",
+      "reason": "1471 establishes le Carré's pre-writing career in MI5/MI6 and that he began writing spy novels; 1470 shows his first novel's fictional intelligence service was apparently based on MI6, concretely bridging his career to his literary inspiration."
+    }
+  ],
+  "questions_seen": 149,
+  "_id": "5ab310bb554299233954fef9",
+  "correct_answer": "John le Carré",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

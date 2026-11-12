@@ -1,0 +1,146 @@
+{
+  "question": "Who is the mother of Mary, Crown Princess of Denmark's husband?",
+  "answer": "Queen Margrethe II",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Mary, Crown Princess of Denmark's husband?",
+      "retrieved": [
+        {
+          "id": "826",
+          "text": "Mary, Crown Princess of Denmark\nMary, Crown Princess of Denmark, Countess of Monpezat, {'1': \", '2': \", '3': 'R.E.', '4': \"} (Mary Elizabeth; \"née\" Donaldson; born 5 February 1972) is the wife of Frederik, Crown Prince of Denmark. Frederik is the heir apparent to the throne, which means that should Frederik succeed, she will automatically become Queen of Denmark.",
+          "semantic_score": 0.7472458481788635,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "829",
+          "text": "John Dalgleish Donaldson\nJohn Dalgleish Donaldson (born 5 September 1941) is a Scottish-Australian professor and the father of Mary, Crown Princess of Denmark, the wife of the heir apparent to the throne of Denmark, Frederik, Crown Prince of Denmark.",
+          "semantic_score": 0.7182790040969849,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "830",
+          "text": "Prince Christian of Denmark\nPrince Christian of Denmark, Count of Monpezat (Christian Valdemar Henri John; born 15 October 2005) is the elder son and eldest child of Crown Prince Frederik and Crown Princess Mary. He is a grandson of Queen Margrethe II and her husband Prince Henrik. He is second in the Danish line of succession, after his father. His sister Isabella is immediately after him in the line of succession.",
+          "semantic_score": 0.6683710217475891,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "832",
+          "text": "Princess Josephine of Denmark\nPrincess Josephine of Denmark, Countess of Monpezat (Josephine Sophia Ivalo Mathilda; born 8 January 2011), is the fourth and youngest child of Crown Prince Frederik and Crown Princess Mary, and the seventh grandchild of Queen Margrethe II of Denmark and her husband, Henrik, Prince Consort of Denmark. She is the twin sister of Prince Vincent of Denmark.",
+          "semantic_score": 0.6551074981689453,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "831",
+          "text": "Princess Isabella of Denmark\nPrincess Isabella of Denmark, Countess of Monpezat (Isabella Henrietta Ingrid Margrethe; born 21 April 2007), is the second child and elder daughter of Crown Prince Frederik and Crown Princess Mary.",
+          "semantic_score": 0.6433929800987244,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "827",
+          "text": "Frederik, Crown Prince of Denmark\nFrederik, Crown Prince of Denmark, Count of Monpezat, {'1': \", '2': \", '3': 'RE, SKmd', '4': \"} (Frederik André Henrik Christian; born 26 May 1968) is the heir apparent to the throne of Denmark. Frederik is the elder son of Queen Margrethe II and Henrik, the Prince Consort.",
+          "semantic_score": 0.5941299200057983,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Frederik, Crown Prince of Denmark"
+    },
+    {
+      "step": 2,
+      "sub_question": "Who is the mother of that person?",
+      "retrieved": [
+        {
+          "id": "827",
+          "text": "Frederik, Crown Prince of Denmark\nFrederik, Crown Prince of Denmark, Count of Monpezat, {'1': \", '2': \", '3': 'RE, SKmd', '4': \"} (Frederik André Henrik Christian; born 26 May 1968) is the heir apparent to the throne of Denmark. Frederik is the elder son of Queen Margrethe II and Henrik, the Prince Consort.",
+          "semantic_score": 0.7960816025733948,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "826",
+          "text": "Mary, Crown Princess of Denmark\nMary, Crown Princess of Denmark, Countess of Monpezat, {'1': \", '2': \", '3': 'R.E.', '4': \"} (Mary Elizabeth; \"née\" Donaldson; born 5 February 1972) is the wife of Frederik, Crown Prince of Denmark. Frederik is the heir apparent to the throne, which means that should Frederik succeed, she will automatically become Queen of Denmark.",
+          "semantic_score": 0.7497341632843018,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "829",
+          "text": "John Dalgleish Donaldson\nJohn Dalgleish Donaldson (born 5 September 1941) is a Scottish-Australian professor and the father of Mary, Crown Princess of Denmark, the wife of the heir apparent to the throne of Denmark, Frederik, Crown Prince of Denmark.",
+          "semantic_score": 0.6767255067825317,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "830",
+          "text": "Prince Christian of Denmark\nPrince Christian of Denmark, Count of Monpezat (Christian Valdemar Henri John; born 15 October 2005) is the elder son and eldest child of Crown Prince Frederik and Crown Princess Mary. He is a grandson of Queen Margrethe II and her husband Prince Henrik. He is second in the Danish line of succession, after his father. His sister Isabella is immediately after him in the line of succession.",
+          "semantic_score": 0.6630494594573975,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "831",
+          "text": "Princess Isabella of Denmark\nPrincess Isabella of Denmark, Countess of Monpezat (Isabella Henrietta Ingrid Margrethe; born 21 April 2007), is the second child and elder daughter of Crown Prince Frederik and Crown Princess Mary.",
+          "semantic_score": 0.6238566040992737,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "832",
+          "text": "Princess Josephine of Denmark\nPrincess Josephine of Denmark, Countess of Monpezat (Josephine Sophia Ivalo Mathilda; born 8 January 2011), is the fourth and youngest child of Crown Prince Frederik and Crown Princess Mary, and the seventh grandchild of Queen Margrethe II of Denmark and her husband, Henrik, Prince Consort of Denmark. She is the twin sister of Prince Vincent of Denmark.",
+          "semantic_score": 0.5992145538330078,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Queen Margrethe II"
+    }
+  ],
+  "links": [
+    {
+      "source": "826",
+      "target": "827",
+      "reason": "Paragraph 826 identifies Mary's husband as Frederik, Crown Prince of Denmark, while paragraph 827 states Frederik is the elder son of Queen Margrethe II, bridging the two sub-questions to identify his mother."
+    }
+  ],
+  "questions_seen": 84,
+  "_id": "5a7f33115542992e7d278c84",
+  "correct_answer": "Queen Margrethe II",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

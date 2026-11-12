@@ -1,0 +1,346 @@
+{
+  "question": "Who is the cofounder of Big Gates Records that collaborated with DJ Khaled on his second album “We the Best”?",
+  "answer": "Plies",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is Big Gates Records?",
+      "retrieved": [
+        {
+          "id": "1592",
+          "text": "Plies (rapper)\nAlgernod Lanier Washington (born July 1, 1976), better known by his stage name Plies, is an American hip hop recording artist. He is the founder of Big Gates Records. Born in Fort Myers, Florida, Washington was a wide receiver on the football team of Miami University in Ohio in 1996 and 1997 before he became a rapper. After dropping out of college, he founded Big Gates with his stepbrother. Signed to Slip-n-Slide Records, from 2007 to 2008 he released three albums. Plies debuted in 2007 with \"The Real Testament\" with successful singles \"Shawty\" and \"Hypnotized\". Plies also released two albums in 2008, \"Definition of Real\" and \"Da REAList\", and later released \"Goon Affiliated\" in 2010.",
+          "semantic_score": 0.5889776349067688,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6774",
+          "text": "Fantasy Records\nFantasy Records is an American record company and label founded by brothers Max and Sol Weiss in 1949. The early years of the company were dedicated to issuing recordings by jazz pianist Dave Brubeck, who was also one of its investors, but the label is known more for its recordings of comedian Lenny Bruce, jazz musician Vince Guaraldi, and the rock band Creedence Clearwater Revival.",
+          "semantic_score": 0.3670416474342346,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5632",
+          "text": "Hotel2Tango\nThe Hotel2Tango (sometimes referred to as Thee Mighty Hotel2Tango and abbreviated H2T) is a 24-track analogue recording studio situated in the Mile End district of Montreal, Quebec. The current facility is the second to bear the name, and was preceded by a similar operation in the same neighborhood until 2007 when the studio changed locations. The majority of recording projects undertaken at the studio are helmed by one of the facility's four partner-engineers: Efrim Menuck and Thierry Amar, both members of Thee Silver Mt. Zion Memorial Orchestra & Tra-La-La Band and Godspeed You! Black Emperor; Radwan Ghazi Moumneh, member of Jerusalem In My Heart; and Howard Bilerman. The Hotel2Tango is often closely associated with Constellation Records, a Montreal-based record label.",
+          "semantic_score": 0.35839712619781494,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7306",
+          "text": "Bill Leader\nBill Leader (born 1929) is an English recording engineer and record producer. He is particularly associated with the British folk music revival of the 1960s and 1970s, producing records by Paddy Tunney, Davey Graham, Bert Jansch, John Renbourn, Frank Harte and many others.",
+          "semantic_score": 0.3479073643684387,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7286",
+          "text": "Whitey Morgan and the 78's\nWhitey Morgan and the 78's are an American honky tonk country band, based in Flint, Michigan, United States. In 2010, they signed a recording contract with Chicago-based Bloodshot Records.",
+          "semantic_score": 0.34414544701576233,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7285",
+          "text": "Honky Tonks and Cheap Motels\nHonky Tonks and Cheap Motels is the first studio album by Whitey Morgan and the 78's.",
+          "semantic_score": 0.30473804473876953,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7280",
+          "text": "Bill Lister\n\"Big Bill\" Lister (January 5, 1923 – December 1, 2009) was an American honky tonk country music singer. Born Weldon E. Lister, he was nicknamed \"Radio's Tallest Singing Cowboy,\" standing over 6-foot-7 without his cowboy boots and hat.",
+          "semantic_score": 0.33149152994155884,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5813",
+          "text": "The Company of Snakes\nThe Company of Snakes were an English rock band formed in 1998, by former members of the English rock band Whitesnake who were also members of The Snakes. They released two albums before morphing into M3 during 2004.",
+          "semantic_score": 0.13197797536849976,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5635",
+          "text": "Howard Bilerman\nHoward Bilerman (born September 25, 1970) is a Canadian recording engineer, producer, and Grammy nominated musician. He is a former member of the band Arcade Fire, having recorded & drummed on their debut album, \"Funeral\", as well as records by Thee Silver Mt. Zion Memorial Orchestra & Tra-La-La Band, Vic Chesnutt, Basia Bulat, Peter Peter, Rich Aucoin and Angela Desveaux. He runs the hotel2tango recording studio in Montreal along with Efrim Menuck and Thierry Amar of Godspeed You! Black Emperor and A Silver Mt. Zion, and Radwan Moumneh. Before that, he ran a studio in Old Montreal called Mom & Pop Sounds. Bilerman has been a frequent faculty member at the Banff Centre in Alberta. He resides in Montreal.",
+          "semantic_score": 0.2552722990512848,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7065",
+          "text": "Fantasy (game show)\nFantasy is a combination American game show and human interest show co-hosted by Peter Marshall and Leslie Uggams, with Chris Lemmon and Meredith MacRae as remote correspondents. Bill Armstrong announced the show, with substitutes from Johnny Gilbert and Charlie Tuna. Tuna replaced Armstrong about midway through the series' run. It aired on NBC from September 13, 1982 to October 28, 1983, and was videotaped at the network's studios in Burbank, California.",
+          "semantic_score": -0.026480095461010933,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "A record label founded by Plies."
+    },
+    {
+      "step": 2,
+      "sub_question": "Who are the cofounders of Big Gates Records?",
+      "retrieved": [
+        {
+          "id": "1592",
+          "text": "Plies (rapper)\nAlgernod Lanier Washington (born July 1, 1976), better known by his stage name Plies, is an American hip hop recording artist. He is the founder of Big Gates Records. Born in Fort Myers, Florida, Washington was a wide receiver on the football team of Miami University in Ohio in 1996 and 1997 before he became a rapper. After dropping out of college, he founded Big Gates with his stepbrother. Signed to Slip-n-Slide Records, from 2007 to 2008 he released three albums. Plies debuted in 2007 with \"The Real Testament\" with successful singles \"Shawty\" and \"Hypnotized\". Plies also released two albums in 2008, \"Definition of Real\" and \"Da REAList\", and later released \"Goon Affiliated\" in 2010.",
+          "semantic_score": 0.7205686569213867,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7893",
+          "text": "Goldie &amp; McCulloch\nThe company was originally founded in Galt as the Dumfries Foundry in 1844 by James Andrews and James Crombie. The exact number of products manufactured by the foundry during this period is unclear, however it is known that apart from steam engines the company also produced safe doors.",
+          "semantic_score": 0.4472048282623291,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7286",
+          "text": "Whitey Morgan and the 78's\nWhitey Morgan and the 78's are an American honky tonk country band, based in Flint, Michigan, United States. In 2010, they signed a recording contract with Chicago-based Bloodshot Records.",
+          "semantic_score": 0.44193312525749207,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4555",
+          "text": "Hip Hop Since 1978\nHip Hop Since 1978 (HHS78) was a management and production company based in New York City. It was started by Gee Roberson and Kyambo \"Hip-Hop\" Joshua. HHS78 has been involved in the daily operations of Roc-A-Fella Records since the label's inception in the early '90s. HHS78 originally signed Kanye West to their production and management company in 1998, and negotiated his signing to Roc-A-Fella Records. Hip Hop Since 1978's first official project was West's 2004 album, \"The College Dropout\". In January 2007, they partnered with Bryant Entertainment. As a result, they managed the careers of Lil Wayne, Drake and Nicki Minaj (who were signed to Young Money/Cash Money Records). In January 2009, Kyambo Joshua and Columbia Records parted ways. Most recently, HHS78 has signed Young Jeezy onto their management firm. As of 2014, the agency no longer exists. That same year, Kyambo Joshua joined the A&R department at Def Jam Recordings (along with record producer No I.D.), while Gee Roberson has launched two of his own management agencies, The Blueprint Group and Maverick Management.",
+          "semantic_score": 0.4260846972465515,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4002",
+          "text": "Gwarn Music\nGwarn Music is an independent record label which was created in Manchester, England in 1991. It was founded by former 52nd Street guitarist Tony Henry to release his then new music project FR’ Mystery (lead vocalist Lorna Bailey) after talks to sign the act to WEA in London broke down. The label was initially independently distributed by local city record shop Manchester Underground, before New Order manager Rob Gretton invited Henry to bring the label under the wing of his then new imprint Rob’s Records in late 1994. This was the second time in ten years that Henry and Gretton had worked together. Gretton was 52nd Street’s A&R Manager at Factory Records.",
+          "semantic_score": 0.4247359335422516,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7285",
+          "text": "Honky Tonks and Cheap Motels\nHonky Tonks and Cheap Motels is the first studio album by Whitey Morgan and the 78's.",
+          "semantic_score": 0.29181981086730957,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4560",
+          "text": "Late Registration\nLate Registration is the second studio album by American rapper Kanye West. It was released on August 30, 2005, through Roc-A-Fella Records. It was recorded over the course of a year in sessions held across studios in New York City and Hollywood, with West collaborating with American record producer and composer Jon Brion. The album features guest contributions from Adam Levine, Lupe Fiasco, Jamie Foxx, Common, Jay-Z, Brandy, and Nas, among others. Its production was notably more lush and elaborate than West's 2004 debut album \"The College Dropout\", as he utilized intricate sampling methods and string orchestration with Brion. West's lyrics explore both personal and political themes, including poverty, drug trafficking, racism, healthcare, and the blood diamond trade.",
+          "semantic_score": 0.19206979870796204,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4557",
+          "text": "The College Dropout\nThe College Dropout is the debut studio album by American rapper Kanye West. It was released on February 10, 2004, through Roc-A-Fella Records. It was recorded over a period of four years, beginning in 1999. Prior to the album's release, West had received praise for his production work for artists such as Jay-Z and Talib Kweli, but faced difficulty being accepted as a recording artist in his own right by figures in the music industry. Nonetheless intent on pursuing a solo career, it was several years before West finally received a record deal from Roc-A-Fella Records.",
+          "semantic_score": 0.1416870504617691,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4556",
+          "text": "Graduation (album)\nGraduation is the third studio album by American rapper Kanye West. It was released on September 11, 2007, through Roc-A-Fella Records. Recording sessions for the album took place during 2005 to 2007 at Chung King Studios, Sony Music Studios in New York City, at Chalice Studios and The Record Plant in Los Angeles. It was primarily produced by West himself, with contributions from DJ Toomp, as well as Mike Dean, Nottz, Brian \"All Day\" Miller, Eric Hudson, Warryn Campbell, Gee Roberson, Plain Pat and Jon Brion. It features guest contributions from artists, including Mos Def, Dwele, T-Pain, Lil Wayne, DJ Premier and Chris Martin of Coldplay. The album's cover artwork was designed by Japanese contemporary artist Takashi Murakami.",
+          "semantic_score": 0.2211773544549942,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9139",
+          "text": "Jay Park\nJay Park (Korean name: Park Jae-beom, Hangul: 박재범, Hanja: 朴載範; born April 25, 1987) is an American singer, songwriter, rapper, dancer, record producer, model, choreographer, entrepreneur and actor. He is a member of the Seattle-based b-boy crew, Art of Movement (AOM), and founder and Co-CEO of the independent hip hop record label AOMG & his New Global Label H1GHR MUSIC. He also signed with the record label Roc Nation, becoming the first Asian-American to do so. As Park grew up as a b-boy and dancer, he has become known for these skills, as well as his charismatic performances and stage presence. Park was described as a \"born entertainer\" by Korean pop singer Patti Kim, and \"The New York Times\" quoted the president of digital music distributor DFSB Kollective describing Park as \"not just an artist, but also his own PR agent, fan club president, and TV network.\" Park also branched out into entrepreneurship where he became the founder and CEO of the AOMG, a Korean independent record label specializing in hip hop.",
+          "semantic_score": 0.354646772146225,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Plies and his stepbrother"
+    },
+    {
+      "step": 3,
+      "sub_question": "Who collaborated with DJ Khaled on his second album “We the Best”?",
+      "retrieved": [
+        {
+          "id": "1597",
+          "text": "We the Best\nWe the Best is the second studio album by Miami-based DJ and fellow Terror Squad member DJ Khaled. It was released on June 12, 2007, by Terror Squad Entertainment, distributed by Koch Records. DJ Khaled alongside fellow rapper Fat Joe and Allah, collectively handled as the executive producers on this album. The album was produced by Cool & Dre, Jim Jonsin, The Diaz Brothers and The Runners; as well as the guest appearances from Bone Thugs-n-Harmony, Trina, Paul Wall and Bun B, among others.",
+          "semantic_score": 0.5708963871002197,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1588",
+          "text": "DJ Khaled discography\nAmerican musician DJ Khaled has released ten studio albums, twenty six singles and nine featured singles. His first album, \"Listennn... the Album\", was released in 2006. \"We the Best\", his second album, was released in 2007 and contains the hits \"We Takin' Over\", with Akon, T.I., Rick Ross, Fat Joe, Birdman and Lil Wayne, and \"I'm So Hood\", with T-Pain, Rick Ross, Trick Daddy, and Plies. The two songs peaked at number 28 and number 19 on the US \"Billboard\" Hot 100 and are platinum songs, and \"We the Best\" peaked at number eight on the US \"Billboard\" 200. His next album, \"We Global\", from 2008, peaked at number seven on the albums chart and has the song \"Out Here Grindin'\", featuring Akon, Rick Ross, Plies, Lil Boosie, Ace Hood, and Trick Daddy. \"All I Do is Win\" had peaked at number 24 on the Hot 100 as \"Victory\"'s third single, and was certified double platinum by the RIAA. Released in 2011 was \"We the Best Forever\", containing the top 10 song \"I'm On One\", with Drake, Rick Ross and Lil Wayne. The album hit number five on the \"Billboard\" 200.",
+          "semantic_score": 0.5332710146903992,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1592",
+          "text": "Plies (rapper)\nAlgernod Lanier Washington (born July 1, 1976), better known by his stage name Plies, is an American hip hop recording artist. He is the founder of Big Gates Records. Born in Fort Myers, Florida, Washington was a wide receiver on the football team of Miami University in Ohio in 1996 and 1997 before he became a rapper. After dropping out of college, he founded Big Gates with his stepbrother. Signed to Slip-n-Slide Records, from 2007 to 2008 he released three albums. Plies debuted in 2007 with \"The Real Testament\" with successful singles \"Shawty\" and \"Hypnotized\". Plies also released two albums in 2008, \"Definition of Real\" and \"Da REAList\", and later released \"Goon Affiliated\" in 2010.",
+          "semantic_score": 0.5134530663490295,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1593",
+          "text": "Lee on the Beats\nAnthony Leedel Norris (born February 11, 1990) is an American hip hop record producer and songwriter, professionally known as Lee On the Beats. Lee has produced for artists such as Lil Wayne, DJ Khaled, Kid Ink, Ace Hood, French Montana, Rick Ross, Meek Mill and Freeway, among others. In 2013, Lee was signed to DJ Khaled's We the Best Music Group. He is best known for producing French Montana’s “Pop That” and co-producing Khaled’s “Hold You Down (DJ Khaled song)” alongside production partner Bkorn.",
+          "semantic_score": 0.45141056180000305,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7749",
+          "text": "Jedi Mind Tricks\nJedi Mind Tricks (JMT) is an underground hip hop duo from Philadelphia, Pennsylvania, founded by two high school friends, rapper Vinnie Paz (Vincenzo Luvineri) and producer Stoupe the Enemy of Mankind (Kevin Baldwin). In 1999 second rapper Jus Allah joined the group to record their second studio album, \"Violent by Design\". Allah left the group shortly after, but returned in 2008 for the sixth studio album, \"A History of Violence\". In 2011 Stoupe left the group because \"his heart wasn't in making JMT records anymore\". In 2013, Allah left again, and Stoupe returned in 2015.",
+          "semantic_score": 0.43860122561454773,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1591",
+          "text": "Hold You Down (DJ Khaled song)\n\"Hold You Down\" is the second single by DJ Khaled, featuring Chris Brown, August Alsina, Future and Jeremih from Khaled's eighth studio album \"I Changed a Lot\". The track topped the US Hot R&B/Hip-Hop Airplay chart and is August Alsina's first top 40 entry as well as DJ Khaled's seventh.",
+          "semantic_score": 0.40807223320007324,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7756",
+          "text": "God of the Serengeti\nGod of the Serengeti is the second full-length studio album by Jedi Mind Tricks frontman/Army of the Pharaohs leader Vinnie Paz. The album was released on October 22, 2012.",
+          "semantic_score": 0.3002648949623108,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Bone Thugs-n-Harmony, Trina, Paul Wall, Bun B, Akon, T.I., Rick Ross, Fat Joe, Birdman, Lil Wayne, T-Pain, Trick Daddy, and Plies"
+    },
+    {
+      "step": 4,
+      "sub_question": "Which of the cofounders of Big Gates Records also collaborated with DJ Khaled on “We the Best”?",
+      "retrieved": [
+        {
+          "id": "1588",
+          "text": "DJ Khaled discography\nAmerican musician DJ Khaled has released ten studio albums, twenty six singles and nine featured singles. His first album, \"Listennn... the Album\", was released in 2006. \"We the Best\", his second album, was released in 2007 and contains the hits \"We Takin' Over\", with Akon, T.I., Rick Ross, Fat Joe, Birdman and Lil Wayne, and \"I'm So Hood\", with T-Pain, Rick Ross, Trick Daddy, and Plies. The two songs peaked at number 28 and number 19 on the US \"Billboard\" Hot 100 and are platinum songs, and \"We the Best\" peaked at number eight on the US \"Billboard\" 200. His next album, \"We Global\", from 2008, peaked at number seven on the albums chart and has the song \"Out Here Grindin'\", featuring Akon, Rick Ross, Plies, Lil Boosie, Ace Hood, and Trick Daddy. \"All I Do is Win\" had peaked at number 24 on the Hot 100 as \"Victory\"'s third single, and was certified double platinum by the RIAA. Released in 2011 was \"We the Best Forever\", containing the top 10 song \"I'm On One\", with Drake, Rick Ross and Lil Wayne. The album hit number five on the \"Billboard\" 200.",
+          "semantic_score": 0.592009425163269,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1592",
+          "text": "Plies (rapper)\nAlgernod Lanier Washington (born July 1, 1976), better known by his stage name Plies, is an American hip hop recording artist. He is the founder of Big Gates Records. Born in Fort Myers, Florida, Washington was a wide receiver on the football team of Miami University in Ohio in 1996 and 1997 before he became a rapper. After dropping out of college, he founded Big Gates with his stepbrother. Signed to Slip-n-Slide Records, from 2007 to 2008 he released three albums. Plies debuted in 2007 with \"The Real Testament\" with successful singles \"Shawty\" and \"Hypnotized\". Plies also released two albums in 2008, \"Definition of Real\" and \"Da REAList\", and later released \"Goon Affiliated\" in 2010.",
+          "semantic_score": 0.5907107591629028,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1597",
+          "text": "We the Best\nWe the Best is the second studio album by Miami-based DJ and fellow Terror Squad member DJ Khaled. It was released on June 12, 2007, by Terror Squad Entertainment, distributed by Koch Records. DJ Khaled alongside fellow rapper Fat Joe and Allah, collectively handled as the executive producers on this album. The album was produced by Cool & Dre, Jim Jonsin, The Diaz Brothers and The Runners; as well as the guest appearances from Bone Thugs-n-Harmony, Trina, Paul Wall and Bun B, among others.",
+          "semantic_score": 0.5663722157478333,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1593",
+          "text": "Lee on the Beats\nAnthony Leedel Norris (born February 11, 1990) is an American hip hop record producer and songwriter, professionally known as Lee On the Beats. Lee has produced for artists such as Lil Wayne, DJ Khaled, Kid Ink, Ace Hood, French Montana, Rick Ross, Meek Mill and Freeway, among others. In 2013, Lee was signed to DJ Khaled's We the Best Music Group. He is best known for producing French Montana’s “Pop That” and co-producing Khaled’s “Hold You Down (DJ Khaled song)” alongside production partner Bkorn.",
+          "semantic_score": 0.5425495505332947,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4555",
+          "text": "Hip Hop Since 1978\nHip Hop Since 1978 (HHS78) was a management and production company based in New York City. It was started by Gee Roberson and Kyambo \"Hip-Hop\" Joshua. HHS78 has been involved in the daily operations of Roc-A-Fella Records since the label's inception in the early '90s. HHS78 originally signed Kanye West to their production and management company in 1998, and negotiated his signing to Roc-A-Fella Records. Hip Hop Since 1978's first official project was West's 2004 album, \"The College Dropout\". In January 2007, they partnered with Bryant Entertainment. As a result, they managed the careers of Lil Wayne, Drake and Nicki Minaj (who were signed to Young Money/Cash Money Records). In January 2009, Kyambo Joshua and Columbia Records parted ways. Most recently, HHS78 has signed Young Jeezy onto their management firm. As of 2014, the agency no longer exists. That same year, Kyambo Joshua joined the A&R department at Def Jam Recordings (along with record producer No I.D.), while Gee Roberson has launched two of his own management agencies, The Blueprint Group and Maverick Management.",
+          "semantic_score": 0.5077770352363586,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1591",
+          "text": "Hold You Down (DJ Khaled song)\n\"Hold You Down\" is the second single by DJ Khaled, featuring Chris Brown, August Alsina, Future and Jeremih from Khaled's eighth studio album \"I Changed a Lot\". The track topped the US Hot R&B/Hip-Hop Airplay chart and is August Alsina's first top 40 entry as well as DJ Khaled's seventh.",
+          "semantic_score": 0.358808308839798,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4560",
+          "text": "Late Registration\nLate Registration is the second studio album by American rapper Kanye West. It was released on August 30, 2005, through Roc-A-Fella Records. It was recorded over the course of a year in sessions held across studios in New York City and Hollywood, with West collaborating with American record producer and composer Jon Brion. The album features guest contributions from Adam Levine, Lupe Fiasco, Jamie Foxx, Common, Jay-Z, Brandy, and Nas, among others. Its production was notably more lush and elaborate than West's 2004 debut album \"The College Dropout\", as he utilized intricate sampling methods and string orchestration with Brion. West's lyrics explore both personal and political themes, including poverty, drug trafficking, racism, healthcare, and the blood diamond trade.",
+          "semantic_score": 0.3163788616657257,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4557",
+          "text": "The College Dropout\nThe College Dropout is the debut studio album by American rapper Kanye West. It was released on February 10, 2004, through Roc-A-Fella Records. It was recorded over a period of four years, beginning in 1999. Prior to the album's release, West had received praise for his production work for artists such as Jay-Z and Talib Kweli, but faced difficulty being accepted as a recording artist in his own right by figures in the music industry. Nonetheless intent on pursuing a solo career, it was several years before West finally received a record deal from Roc-A-Fella Records.",
+          "semantic_score": 0.21066628396511078,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Plies"
+    }
+  ],
+  "links": [
+    {
+      "source": "1592",
+      "target": "1588",
+      "reason": "Paragraph 1592 identifies Plies as founder of Big Gates Records; paragraph 1588 states Plies collaborated with DJ Khaled on the song 'I'm So Hood' from the album 'We the Best', bridging the cofounder to the album collaboration."
+    },
+    {
+      "source": "1592",
+      "target": "1597",
+      "reason": "Paragraph 1592 establishes Plies as a Big Gates Records cofounder; paragraph 1597 describes 'We the Best' as DJ Khaled's second album, providing the album context needed to connect Plies to that collaboration."
+    }
+  ],
+  "questions_seen": 161,
+  "_id": "5ab472a35542991779162c98",
+  "correct_answer": "Plies",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

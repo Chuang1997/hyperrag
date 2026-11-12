@@ -1,0 +1,254 @@
+{
+  "question": "What was the nickname of the 76er who was drafted 3rd in the 2014 draft? ",
+  "answer": "The Process",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who was drafted 3rd overall in the 2014 NBA draft?",
+      "retrieved": [
+        {
+          "id": "1334",
+          "text": "2016–17 Philadelphia 76ers season\nThe 2016–17 Philadelphia 76ers season is the 78th season of the franchise in the National Basketball Association (NBA). The 2016–17 season would have been the rookie season for number 1 overall pick in the 2016 NBA draft Ben Simmons, but a broken foot injury sidelined him for the whole season. It would be the team's fourth straight season where a top prospect of theirs would be sidelined for an entire season due to an injury (the 76ers previously dealt with former center Nerlens Noel being out in the 2013–14 NBA season and Joel Embiid being out for two straight seasons before this one). However, Joel Embiid, who was previously drafted 3rd in the 2014 draft, played in his first season after suffering multiple foot injuries before later being out for the rest of the season after playing a promising 31 games throughout the season. Also, it was the first season of draft and stash prospect Dario Šarić, who was also taken in the 2014 NBA draft. The 2016 season was also the first time in three years the Sixers made a splash in NBA free agency by adding guards Jerryd Bayless, Sergio Rodríguez and veteran Gerald Henderson Jr. to the team.",
+          "semantic_score": 0.5923676490783691,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1331",
+          "text": "2003 NBA draft\nThe 2003 NBA draft was held on June 26, 2003, at The Theater at Madison Square Garden in New York City, New York. The NBA announced that 41 college and high school players and a record 31 international players had filed as early-entry candidates for the 2003 NBA draft. The Cleveland Cavaliers, who had a 22.50 percent probability of obtaining the first selection, won the NBA draft lottery on May 22, and Cleveland chairman Gordon Gund said afterward his team would select LeBron James. The Detroit Pistons and the Denver Nuggets were second and third respectively. Lebron was selected first overall by the Cleveland Cavaliers. Darko Milicic was selected 2nd overall by the Detroit Pistons. Carmelo Anthony was drafted 3rd overall by the Denver Nuggets.",
+          "semantic_score": 0.5869876146316528,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "157",
+          "text": "2013 NBA Summer League\nThe 2013 NBA Summer League is a pro basketball league run by the NBA just after the 2013 NBA draft. It gives newly drafted players a chance to test their skills against each other, and to give them a feel for professional basketball. All 30 NBA teams participated, along with the D-League Select. The Miami Heat were the only team to participate in both Summer Leagues. It ran from July 7–12 in Orlando and July 12–22 in Las Vegas. Jeremy Lamb of the Oklahoma City Thunder was named the Most Valuable Player of the Orlando Summer League. Jonas Valančiūnas of the Toronto Raptors went on to be named the Most Valuable Player of the Las Vegas Summer League. Ian Clark of the Golden State Warriors was named the Most Valuable Player of the Las Vegas Summer League Championship Game.",
+          "semantic_score": 0.5265593528747559,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1332",
+          "text": "List of Texas Tech Red Raiders in the NBA draft\nThe Texas Tech Red Raiders basketball team, representing Texas Tech University, has had 23 players drafted into the National Basketball Association (NBA) since the league began holding drafts in 1947. Tony Battie, taken fifth overall in the 1997 draft, is Texas Tech's only player drafted in the first round. The Seattle SuperSonics (now the Oklahoma City Thunder) have drafted 3 Red Raiders, more than any other NBA franchise.",
+          "semantic_score": 0.5031101703643799,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4285",
+          "text": "Dirk Nowitzki\nDirk Werner Nowitzki (] ) (born June 19, 1978) is a German professional basketball player for the Dallas Mavericks of the National Basketball Association (NBA). An alumnus of Röntgen Gymnasium and the DJK Würzburg basketball club, Nowitzki was chosen as the ninth pick in the 1998 NBA draft by the Milwaukee Bucks and immediately traded to the Mavericks, where he has played since. Listed at 7 ft , Nowitzki is considered to be one of the greatest power forwards of all time.",
+          "semantic_score": 0.4998728930950165,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6741",
+          "text": "2017 Texas Tech Red Raiders baseball team\nThe 2017 Texas Tech Red Raiders baseball team represents Texas Tech University during the 2017 NCAA Division I baseball season. The Red Raiders play their home games at Dan Law Field at Rip Griffin Park as a member of the Big 12 Conference. They are led by head coach Tim Tadlock, in his 5th season at Texas Tech.",
+          "semantic_score": 0.20592348277568817,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6740",
+          "text": "2015 Texas Tech Red Raiders baseball team\nThe 2015 Texas Tech Red Raiders baseball team will represent Texas Tech University during the 2015 NCAA Division I baseball season. The Red Raiders will play their home games at Dan Law Field at Rip Griffin Park as a member of the Big 12 Conference. They will be led by head coach Tim Tadlock, in his 3rd season at Texas Tech.",
+          "semantic_score": 0.23809181153774261,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6737",
+          "text": "2016 Texas Tech Red Raiders baseball team\nThe 2016 Texas Tech Red Raiders baseball team represents Texas Tech University during the 2016 NCAA Division I baseball season. The Red Raiders play their home games at Dan Law Field at Rip Griffin Park as a member of the Big 12 Conference. They are led by head coach Tim Tadlock, in his 4th season at Texas Tech.",
+          "semantic_score": 0.20124323666095734,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6732",
+          "text": "2014 Texas Tech Red Raiders baseball team\nThe 2014 Texas Tech Red Raiders baseball team represents Texas Tech University in the 2014 college baseball season. Texas Tech competes in Division I of the National Collegiate Athletic Association (NCAA) as a charter member of the Big 12 Conference. The Red Raiders play home games at Dan Law Field at Rip Griffin Park on the university's campus in Lubbock, Texas. Second year head coach Tim Tadlock leads the Red Raiders, a former starting shortstop for the team during the 1990 and 1991 seasons.",
+          "semantic_score": 0.22991999983787537,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6735",
+          "text": "Texas Tech Red Raiders baseball\nThe Texas Tech Red Raiders baseball team represents Texas Tech University in NCAA Division I college baseball. The team competes in the Big 12 Conference and plays at Dan Law Field at Rip Griffin Park. Their head coach is Tim Tadlock and he is in his 5th season with the Red Raiders.",
+          "semantic_score": 0.17092889547348022,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Joel Embiid"
+    },
+    {
+      "step": 2,
+      "sub_question": "Which team is known as the 76ers?",
+      "retrieved": [
+        {
+          "id": "1330",
+          "text": "Joel Embiid\nJoel Hans Embiid ( ; born 16 March 1994) is a Cameroonian professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA). After one year of college basketball at the University of Kansas, he was drafted with the third overall pick in the 2014 NBA draft by the 76ers. He has nicknamed himself \"The Process\" in response to a refrain from 76ers fans during the Sam Hinkie-era to \"trust the process\".",
+          "semantic_score": 0.7350512146949768,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1334",
+          "text": "2016–17 Philadelphia 76ers season\nThe 2016–17 Philadelphia 76ers season is the 78th season of the franchise in the National Basketball Association (NBA). The 2016–17 season would have been the rookie season for number 1 overall pick in the 2016 NBA draft Ben Simmons, but a broken foot injury sidelined him for the whole season. It would be the team's fourth straight season where a top prospect of theirs would be sidelined for an entire season due to an injury (the 76ers previously dealt with former center Nerlens Noel being out in the 2013–14 NBA season and Joel Embiid being out for two straight seasons before this one). However, Joel Embiid, who was previously drafted 3rd in the 2014 draft, played in his first season after suffering multiple foot injuries before later being out for the rest of the season after playing a promising 31 games throughout the season. Also, it was the first season of draft and stash prospect Dario Šarić, who was also taken in the 2014 NBA draft. The 2016 season was also the first time in three years the Sixers made a splash in NBA free agency by adding guards Jerryd Bayless, Sergio Rodríguez and veteran Gerald Henderson Jr. to the team.",
+          "semantic_score": 0.6863152980804443,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "155",
+          "text": "2000–01 Philadelphia 76ers season\nThe 2000–01 NBA season was the 76ers 52nd season in the National Basketball Association, and 38th season in Philadelphia. Allen Iverson had his best season in 2001—he led his team to win their first ten games, he started and won All-Star MVP honors at the All Star Game. The Sixers also posted a 56–26 record, which was best in the Eastern Conference that season. It was the 76ers' best regular season record since 1984–85. Iverson averaged a then-career high 31.1 points, winning his second NBA scoring title in the process. He also won the NBA steals title at 2.5 per game. Iverson was named NBA Most Valuable Player for his accomplishments, beating Tim Duncan and Shaquille O'Neal by a wide margin. In addition, coach Larry Brown was named NBA Coach of the Year, Dikembe Mutombo (who was acquired from the Atlanta Hawks) won his fourth NBA Defensive Player of the Year Award, and Aaron McKie won the NBA Sixth Man of the Year Award.",
+          "semantic_score": 0.545287549495697,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5352",
+          "text": "Karl-Anthony Towns\nKarl-Anthony Towns Jr. (born November 15, 1995) is a Dominican-American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA). He played college basketball for the University of Kentucky. Towns was named to the Dominican Republic national basketball team Olympic squad as a 16-year-old, although the Dominican Republic ultimately did not qualify for the 2012 Olympics. He was selected with the first overall pick in the 2015 NBA draft by the Minnesota Timberwolves, and went on to be named NBA Rookie of the Year for the 2015–16 season.",
+          "semantic_score": 0.479845255613327,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6472",
+          "text": "Jalen Jones\nJalen Jones (born May 27, 1993) is an American professional basketball player for the New Orleans Pelicans of the National Basketball Association (NBA). He was signed on a two-way contract with the NBA G League. He played college basketball for Southern Methodist and Texas A&M.",
+          "semantic_score": 0.4700343608856201,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6469",
+          "text": "Mark Jones (basketball, born 1961)\nMark Anthony Jones (born April 10, 1961) is a retired American professional basketball player. He played point guard. Jones played college basketball at St. Bonaventure before being drafted by the New York Knicks as the 82nd overall pick in the 4th round of the 1983 NBA Draft. He never played for the Knicks, however, instead ultimately playing six games in the NBA for the New Jersey Nets during the season.",
+          "semantic_score": 0.3184572756290436,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6468",
+          "text": "Eddie Jones (basketball)\nEddie Charles Jones (born October 20, 1971) is an American retired professional basketball player who played for several teams in his 14-year National Basketball Association (NBA) career. Jones played college basketball at Temple University and was the 1993–94 Atlantic 10 Player of the Year. The three-time NBA All-Star was selected 10th overall in the 1994 NBA draft by the Los Angeles Lakers.",
+          "semantic_score": 0.3896026313304901,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6471",
+          "text": "Domonic Jones\nDomonic Jones (born August 16, 1981) is an American expatriate professional basketball player. He plays for RBC Verviers-Pepinster in Basketball League Belgium as of the 2011–12 season. He is 6'1\", 205 pounds and switches between the point guard and shooting guard positions. Jones played college basketball at Virginia Commonwealth University where he was named the Colonial Athletic Association Men's Basketball Player of the Year in 2003–04.",
+          "semantic_score": 0.32988375425338745,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Philadelphia 76ers"
+    },
+    {
+      "step": 3,
+      "sub_question": "What was that player's nickname?",
+      "retrieved": [
+        {
+          "id": "1334",
+          "text": "2016–17 Philadelphia 76ers season\nThe 2016–17 Philadelphia 76ers season is the 78th season of the franchise in the National Basketball Association (NBA). The 2016–17 season would have been the rookie season for number 1 overall pick in the 2016 NBA draft Ben Simmons, but a broken foot injury sidelined him for the whole season. It would be the team's fourth straight season where a top prospect of theirs would be sidelined for an entire season due to an injury (the 76ers previously dealt with former center Nerlens Noel being out in the 2013–14 NBA season and Joel Embiid being out for two straight seasons before this one). However, Joel Embiid, who was previously drafted 3rd in the 2014 draft, played in his first season after suffering multiple foot injuries before later being out for the rest of the season after playing a promising 31 games throughout the season. Also, it was the first season of draft and stash prospect Dario Šarić, who was also taken in the 2014 NBA draft. The 2016 season was also the first time in three years the Sixers made a splash in NBA free agency by adding guards Jerryd Bayless, Sergio Rodríguez and veteran Gerald Henderson Jr. to the team.",
+          "semantic_score": 0.539646565914154,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "155",
+          "text": "2000–01 Philadelphia 76ers season\nThe 2000–01 NBA season was the 76ers 52nd season in the National Basketball Association, and 38th season in Philadelphia. Allen Iverson had his best season in 2001—he led his team to win their first ten games, he started and won All-Star MVP honors at the All Star Game. The Sixers also posted a 56–26 record, which was best in the Eastern Conference that season. It was the 76ers' best regular season record since 1984–85. Iverson averaged a then-career high 31.1 points, winning his second NBA scoring title in the process. He also won the NBA steals title at 2.5 per game. Iverson was named NBA Most Valuable Player for his accomplishments, beating Tim Duncan and Shaquille O'Neal by a wide margin. In addition, coach Larry Brown was named NBA Coach of the Year, Dikembe Mutombo (who was acquired from the Atlanta Hawks) won his fourth NBA Defensive Player of the Year Award, and Aaron McKie won the NBA Sixth Man of the Year Award.",
+          "semantic_score": 0.5152788162231445,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1330",
+          "text": "Joel Embiid\nJoel Hans Embiid ( ; born 16 March 1994) is a Cameroonian professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA). After one year of college basketball at the University of Kansas, he was drafted with the third overall pick in the 2014 NBA draft by the 76ers. He has nicknamed himself \"The Process\" in response to a refrain from 76ers fans during the Sam Hinkie-era to \"trust the process\".",
+          "semantic_score": 0.45803922414779663,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5358",
+          "text": "Victor Oladipo\nKehinde Babatunde Victor Oladipo (born May 4, 1992) is an American professional basketball player for the Indiana Pacers of the National Basketball Association (NBA). He played college basketball for the Indiana Hoosiers where he was named the \"Sporting News\" Men's College Basketball Player of the Year, the National Co-Defensive Player of the Year, and a first-team All-American by the USBWA and \"Sporting News\". That same year, he was also named the winner of the Adolph Rupp Trophy, given annually to the top player in men's NCAA Division I basketball. Oladipo was drafted with the second overall pick in the 2013 NBA draft by the Orlando Magic and went on to be named to the NBA All-Rookie first team.",
+          "semantic_score": 0.45634835958480835,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "895",
+          "text": "Kadeem Jack\nKadeem Jack (born October 27, 1992) is an American professional basketball player for the Sioux Falls Skyforce of the NBA G League. He played college basketball for Rutgers.",
+          "semantic_score": 0.45385733246803284,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4286",
+          "text": "2003–04 Dallas Mavericks season\nThe 2003–04 NBA season was the Mavericks' 24th season in the National Basketball Association. During the offseason, the Mavericks acquired Antawn Jamison from the Golden State Warriors, and All-Star forward Antoine Walker from the Boston Celtics. Although the team struggled with chemistry with a 15–12 start, the Mavericks went on a nine-game winning streak in January, and won eight of their final ten games. They finished third in the Midwest Division with a 52–30 record. Dirk Nowitzki was the only member of the team to be selected for the 2004 NBA All-Star Game. With the trio of Nowitzki, Michael Finley and Steve Nash along with NBA Sixth Man of the Year Jamison, the Mavericks continued their reputation as the best offensive team in the NBA. Notable were two rookies, Josh Howard and Marquis Daniels, who made an immediate impact, and were both selected to the All-Rookie Second Team.",
+          "semantic_score": 0.39087432622909546,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5352",
+          "text": "Karl-Anthony Towns\nKarl-Anthony Towns Jr. (born November 15, 1995) is a Dominican-American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA). He played college basketball for the University of Kentucky. Towns was named to the Dominican Republic national basketball team Olympic squad as a 16-year-old, although the Dominican Republic ultimately did not qualify for the 2012 Olympics. He was selected with the first overall pick in the 2015 NBA draft by the Minnesota Timberwolves, and went on to be named NBA Rookie of the Year for the 2015–16 season.",
+          "semantic_score": 0.448692262172699,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The Process"
+    }
+  ],
+  "links": [
+    {
+      "source": "1334",
+      "target": "1330",
+      "reason": "Paragraph 1334 identifies Joel Embiid as the player drafted 3rd in the 2014 draft by the 76ers; paragraph 1330 confirms Embiid was drafted third overall by the 76ers and gives his nickname 'The Process', bridging the draft-pick identification to the nickname answer."
+    }
+  ],
+  "questions_seen": 135,
+  "_id": "5a9068f85542990a98493623",
+  "correct_answer": "The Process",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

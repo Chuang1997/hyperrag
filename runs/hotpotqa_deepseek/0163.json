@@ -1,0 +1,261 @@
+{
+  "question": "What three other National forests are administered by the same people who administer the park in which the Art Loeb trail runs through?",
+  "answer": "Croatan, Nantahala, and Uwharrie National Forests",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What park does the Art Loeb Trail run through?",
+      "retrieved": [
+        {
+          "id": "1624",
+          "text": "Art Loeb Trail\nThe Art Loeb Trail is a 30.1 mi trail located in Pisgah National Forest in Western North Carolina. The northern terminus is at the Daniel Boone Boy Scout Camp in Haywood County, while the trail's southern terminus is located near the Davidson River Campground, near Brevard, in Transylvania County. Along the way, the trail traverses several significant peaks, including Black Balsam Knob (6,214 ft), Tennent Mountain (6040 ft) and Pilot Mountain (5095 ft). The trail also passes the base of Cold Mountain, made famous by the novel and film.",
+          "semantic_score": 0.6561751365661621,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1326",
+          "text": "Route 66 Park\nRoute 66 Mural Park (opened 2013 in Joplin, Missouri) operates as a public park, specifically as a touchstone for US Route 66 tourists as well as for local preservers of U.S. Route 66 in Missouri. The park includes two large tile murals proposed by Paul Whitehill, produced by Images In Tile USA and designed by artists Chris Auckerman and Jon White. The park also features a bifurcated red sports car that anyone on pilgrimage can slide up beside and have a quickie photograph taken. Close to the intersection of 7th Street and Main, the mural covers the south side of Pearl Brothers, the iconic green hardware store of downtown Joplin. Near that same intersection, US Route 66 once shifted west and headed into Kansas.",
+          "semantic_score": 0.4894982576370239,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7733",
+          "text": "Bandit (Yomiuriland)\nBandit (バンデット , Bandetto ) is a steel roller coaster located at Yomiuriland in the city of Inagi, near Tokyo, Japan. Built in 1988 by the TOGO company, it was the fastest roller coaster in the world when it was built (taking the record from American Eagle at Six Flags Great America). It lost the record to Magnum XL-200 at Cedar Point one year later.",
+          "semantic_score": 0.4612026810646057,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1620",
+          "text": "Shenipsit Trail\nThe Shenipsit Trail is a \"Blue-Blazed\" hiking trail located in Central Connecticut between 3.5 and 7 miles (11 km) east of the Connecticut River. It runs 50 miles (80 km) in a north-south direction. The southern trailhead is on Gadpouch Road in Cobalt, CT on the southern end of the Meshomasic State Forest. The northern trailhead is on Greaves Road past Bald Mountain and the Shenipsit State Forest in Stafford, CT. The trail runs primarily through the Shenipsit and Meshomasic State Forests, and Case Mountain, but also utilizes other public and private land holdings. The Native American name “Shenipsit” means “at the great pool,” referring to the Shenipsit Lake, which the trail passes by. The Shenipsit Trail is divided into three sections: South, Central, and North. The Shenipsit Trail is one of the blue-blazed hiking trails managed by the Connecticut Forest and Park Association (CFPA).",
+          "semantic_score": 0.44609642028808594,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1325",
+          "text": "Route 66 State Park\nRoute 66 State Park is a state park in the U.S. state of Missouri, located on the former site of the town of Times Beach. It is a 419 acre park located less than 1 mi east of Eureka.",
+          "semantic_score": 0.43628719449043274,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1327",
+          "text": "U.S. Route 66 in Missouri\nU.S. Route 66 (US 66, Route 66) is a former east–west United States Numbered Highway, running from Santa Monica, California to Chicago, Illinois. In Missouri, the highway ran from downtown St. Louis at the Mississippi River to the Kansas state line west of Joplin. The highway was originally Route 14 from St. Louis to Joplin and Route 1F from Joplin to Kansas. It underwent two major realignments (in the St. Louis and Joplin areas) and several lesser realignments in the cities of St. Louis, Springfield, and Joplin. Current highways covering several miles of the former highway include Route 100, Route 366, Route 266, Route 96, and Route 66. Interstate 44 (I-44) approximates much of US 66 between St. Louis and Springfield.",
+          "semantic_score": 0.2548106610774994,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1322",
+          "text": "U.S. Route 66 in Kansas\nU.S. Route 66 (US 66, Route 66), the historic east–west US highway between Chicago, Illinois and Santa Monica, California, passed through one brief segment in the southeastern corner of Kansas. It entered the state south of Baxter Springs and continued north until it crossed the Brush Creek, from where it turned east and left the state in Galena. After the decertification of the highway in 1985, this road segment was numbered as US-69 (alternate) from Quapaw, Oklahoma north to Riverton, Kansas and as K-66 (Kansas highway) from Riverton east to Route 66 in Missouri.",
+          "semantic_score": 0.30898869037628174,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6204",
+          "text": "Missouri Route M (Jefferson County)\nRoute M is a short arterial highway in Jefferson County, Missouri. It is a major east–west route which connects Route 21 to Interstate 55. For the majority of its length, Route M is a four lane divided highway with limited access. At its junction with Interstate 55, Route M becomes an undivided two lane road until its eastern terminus at U.S. 61/67. Route M was rerouted to its present location in the late 1990s after traffic became too great for the original road to handle. The original route is now known as Old Route M.",
+          "semantic_score": 0.22606325149536133,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Pisgah National Forest"
+    },
+    {
+      "step": 2,
+      "sub_question": "Who administers that park?",
+      "retrieved": [
+        {
+          "id": "1621",
+          "text": "Pisgah National Forest\nPisgah National Forest is a National Forest in the Appalachian Mountains of western North Carolina. It is administered by the United States Forest Service, part of the United States Department of Agriculture. The Pisgah National Forest is completely contained within the state of North Carolina. The forest is managed together with the other three North Carolina National Forests (Croatan, Nantahala, and Uwharrie) from common headquarters in Asheville, North Carolina. There are local ranger district offices located in Pisgah Forest, Mars Hill, and Nebo.",
+          "semantic_score": 0.6514109373092651,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8736",
+          "text": "Darland's Lake Nature Reserve\nDarland's Lake Nature Reserve is a nature reserve south of Totteridge Village in Barnet, England. It is owned by the London Borough of Barnet and was managed from 1971 by the Hertfordshire and Middlesex Wildlife Trust, and more recently by the borough council. In 2007 the council spent £215,000 on repairing the dam and other works, and then proposed leasing the reserve to the Wildlife Trust. However, the transfer did not take place and the nature reserve is currently not managed.",
+          "semantic_score": 0.4576896131038666,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "968",
+          "text": "Belovezhskaya Pushcha National Park\nBelovezhskaya Pushcha National Park (Russian, official:<ref name=\"list/33\">\"Białowieża Forest, Belarus, Poland\" at the UNESCO official webpage. Retrieved May 27, 2015.</ref> \"Национальный парк «Беловежская пуща»\" , Belarusian: \"Нацыянальны парк Белавежская пушча\" ) is a national park within parts of the Brest Region (Kamyanyets District and Pruzhany District) and Grodno Region (Svislach District) in Belarus adjacent to the border with Poland. It is a preserved part of the UNESCO WHS \"Białowieża Forest, Belarus, Poland\", the last primaeval forest fragment of the Europe's woodlands, that once stretched across the European Plain. It is home to a large population of European bison the continent's heaviest land animals. The border between the two countries runs through the forest, the Białowieża National Park is on the Polish side of the border. Within the forest since May 2015, there is a visa-free regime for hikers and cyclists at the border crossing Pererov-Białowieża.",
+          "semantic_score": 0.4572678506374359,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8740",
+          "text": "Woodford Halse Nature Reserve\nWoodford Halse Nature Reserve is a 5.7 hectare nature reserve south of Woodford Halse in Northamptonshire. It is managed by the Wildlife Trust for Bedfordshire, Cambridgeshire and Northamptonshire.",
+          "semantic_score": 0.4380878508090973,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1626",
+          "text": "United States National Grassland\nNational Grassland is a classification of protected and managed federal lands in the United States authorized by Title III of the Bankhead–Jones Farm Tenant Act of 1937. For administrative purposes, they are essentially identical to United States National Forests, except that grasslands are areas primarily consisting of prairie. Like National Forests, National Grasslands may be open for hunting, grazing, mineral extraction, recreation and other uses. Various National Grasslands are typically administered in conjunction with nearby National Forests.",
+          "semantic_score": 0.4352688491344452,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8738",
+          "text": "Danes Moss Nature Reserve\nDanes Moss Nature Reserve is a 13.4 ha nature reserve south of Macclesfield, Cheshire, England. A Site of Special Scientific Interest, it is managed by the Cheshire Wildlife Trust.",
+          "semantic_score": 0.34681716561317444,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8734",
+          "text": "Kiehnmoor\nThe Kiehnmoor is a nature reserve in Germany. It was designated as a nature reserve in 1992. It has an area of 440 ha of which 100 ha lie in Celle district and 340 ha in Uelzen district. The nature conservation authorities of these districts are responsible for the reserve. A large part of the area is wet meadow, that in places is intensively farmed. However the majority of the area has been left in its natural state. A small sand heath forms part of the reserve. Its southern perimeter borders immediately on the larger heathland area of the Südheide Nature Park. The \"Heidschnucken\", moorland sheep characteristic of the region, are reared here. North of the Kiehnmoor and immediately adjacent to it is the valley of a partially dammed stream, the \"Gerdau\", and the Brambosteler Moor nature reserve. To the southeast the reserve borders on the Unterlüß Firing Range (\"Schießplatz Unterlüß\"), belonging to the firm of Rheinmetall, and the \"Große Heide\" (\"Large Heath\") near Unterlüß, that is closed to the public. Kiehnmoor, too, is totally out-of-bounds. This whole area is very secluded. Rare birds have settled here including the crane and the black stork. Even the otter may be found here.",
+          "semantic_score": 0.37985047698020935,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8737",
+          "text": "Baikal Nature Reserve\nThe Baikal Nature Reserve ( ; Russian: Байка́льский запове́дник , \"Baikalski Zapovednik\") is a nature reserve on the southeast shore of Lake Baikal, in southern Buryatia, Russia. Also called Baikal Zapovednik, it was established in 1969 for preserving the nature along the lake and the neighboring central part of the Chamar-Daban Range. The area of this nature reserve is 165,700 ha . It hosts dark pine taiga (silver fir, cedar, spruce), thin forests, Siberian Dwarf Pine and rhododendron underbrush, subalpine meadows, and alpine tundras. The Baikal Nature Reserve is home to 812 kinds of plants, 49 types of mammals, 272 birds, 3 reptiles, 3 amphibians, and 7 types of fish. The reserve is also home to East Siberian brown bear, Baikal lynx, wolverine, otter, osprey, and golden eagle. The Baikal Nature Reserve is part of the World Network of Biosphere Reserves (also see \"List of biosphere reserves in the Russian Federation\"). The reserve is also a part of the Lake Baikal World Heritage Site. The Kabansky Nature Zakaznik, across , was transferred under the jurisdiction of the Baikal Nature Reserve in 1985.",
+          "semantic_score": 0.34018608927726746,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The United States Forest Service"
+    },
+    {
+      "step": 3,
+      "sub_question": "What other National Forests are administered by those same people?",
+      "retrieved": [
+        {
+          "id": "1626",
+          "text": "United States National Grassland\nNational Grassland is a classification of protected and managed federal lands in the United States authorized by Title III of the Bankhead–Jones Farm Tenant Act of 1937. For administrative purposes, they are essentially identical to United States National Forests, except that grasslands are areas primarily consisting of prairie. Like National Forests, National Grasslands may be open for hunting, grazing, mineral extraction, recreation and other uses. Various National Grasslands are typically administered in conjunction with nearby National Forests.",
+          "semantic_score": 0.5216801166534424,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1622",
+          "text": "Sam Houston National Forest\nThe Sam Houston National Forest, one of four National Forests in Texas, is located 50 miles north of Houston. The forest is administered together with the other three United States National Forests and two National Grasslands located entirely in Texas, from common offices in Lufkin, Texas. The units include Angelina, Davy Crockett, Sabine, and Sam Houston National Forests, plus Caddo National Grassland and Lyndon B. Johnson National Grassland. There are local ranger district offices located in New Waverly.",
+          "semantic_score": 0.4583010971546173,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1621",
+          "text": "Pisgah National Forest\nPisgah National Forest is a National Forest in the Appalachian Mountains of western North Carolina. It is administered by the United States Forest Service, part of the United States Department of Agriculture. The Pisgah National Forest is completely contained within the state of North Carolina. The forest is managed together with the other three North Carolina National Forests (Croatan, Nantahala, and Uwharrie) from common headquarters in Asheville, North Carolina. There are local ranger district offices located in Pisgah Forest, Mars Hill, and Nebo.",
+          "semantic_score": 0.4508415758609772,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1619",
+          "text": "Huron-Manistee National Forests\nThe Huron-Manistee National Forests are two national forests combined in 1945 for administration purposes and which comprise 978906 acre of public lands, including 5786 acre of wetlands, extending across the northern lower peninsula of Michigan. The Huron-Manistee National Forests provide recreation opportunities for visitors, habitat for fish and wildlife, and resources for local industry. The headquarters for the forests is in Cadillac, Michigan.",
+          "semantic_score": 0.4359522759914398,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1623",
+          "text": "Idaho Panhandle National Forests\nThe Idaho Panhandle National Forests are a jointly administered set of three national forests located in the U.S. state of Idaho. Approximately 22.4% of the forest (in the Kaniksu portion) extends into the states of Montana (14.1%) and Washington (8.3%). The IPNF were created in 2000 to administer three separate national forests that continue to manage themselves somewhat separately through district offices. The Coeur d'Alene, St. Joe, and Kaniksu National Forests together occupy 3,224,739-acre (5,038.66 sq mi, or 13,050.06 km) in northern Idaho (better known as the Idaho Panhandle). The northernmost portion of the IPNF share a boundary with Canada. Its headquarters are located in Coeur d'Alene, Idaho.",
+          "semantic_score": 0.43338543176651,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5120",
+          "text": "West Oaks, Houston\nWest Oaks is a small subdivision in Houston, Texas. It is east of, and in close proximity to, Tanglewood proper. Mimi Swartz of \"National Geographic\" wrote that compared to River Oaks, West Oaks is \"more nondescript\". Beginning in the 1990s, George H. W. Bush became a resident of the neighborhood.",
+          "semantic_score": 0.21975570917129517,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1624",
+          "text": "Art Loeb Trail\nThe Art Loeb Trail is a 30.1 mi trail located in Pisgah National Forest in Western North Carolina. The northern terminus is at the Daniel Boone Boy Scout Camp in Haywood County, while the trail's southern terminus is located near the Davidson River Campground, near Brevard, in Transylvania County. Along the way, the trail traverses several significant peaks, including Black Balsam Knob (6,214 ft), Tennent Mountain (6040 ft) and Pilot Mountain (5095 ft). The trail also passes the base of Cold Mountain, made famous by the novel and film.",
+          "semantic_score": 0.14850056171417236,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1625",
+          "text": "Palouse National Forest\nThe Palouse Forest Reserve and after March 4, 1907, the Palouse National Forest was established by Presidential Proclamation (34 U.S. Statutes at Large 3293) on March 2, 1907 and was one of President Theodore Roosevelt's Midnight forests, created before the federal law banning new forest reserves in six western states, including Idaho, became effective. The conventional wisdom has the name ‘palouse’ being derived from the French term for the large treeless plain region in eastern Washington stretching into Idaho: the Palouse, a word meaning grassy spot or place. However, Boone says that the name could originate from the name of a major village of Palouse Indians, Palus, located at the confluence of the Palouse and Snake Rivers. 'Palus' is the Sachapin Indian word for “something sticking down in the water,” in this case the something was a large rock, thought to be a beaver’s heart, and which had an important religious significance for the Palouse Indians. The Palouse National Forest had its administrative headquarters in the town of Wallace, Idaho for its 15-month existence and was administered by the U.S. Forest Service with 194404 acre . With the issuance of Executive Order 843 by President Roosevelt on June 26, 1908, with an effective date of July 1, 1908, the entire forest was absorbed by the Coeur d'Alene National Forest and the area ceased to be an independently administered national forest. The lands of the former Palouse National Forest were then administered as part of the Coeur d’Alene National Forest for three years before being combined with other lands to establish the St. Joe National Forest on July 1, 1911. The area of the former Palouse National Forest formed the western portion of the St. Joe National Forest. Once transferred in 1911, the area of the Palouse National Forest became the Palouse Ranger District of the St. Joe National Forest and is still considered part of the St. Joe National Forest. However, it has been administered by the Clearwater National Forest since the 1973 administrative merger of the Kaniksu National Forest, Coeur d’Alene, and St. Joe National Forests into the Idaho Panhandle National Forests.",
+          "semantic_score": 0.3691709041595459,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5125",
+          "text": "West Oaks Mall (Houston)\nWest Oaks Mall is a regional shopping mall located in the Alief area of the west side of Houston, Texas, USA, that opened in 1984. With a trade area serving far western parts of Houston including a business clientele in the Energy Corridor and suburban neighborhoods west of George Bush Park in the Greater Katy and Fulshear areas, the mall is located at Texas State Highway 6 and Westheimer Road and can easily be accessed south on Highway 6 via Interstate 10.",
+          "semantic_score": 0.03471188619732857,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5453",
+          "text": "Milladore, Wisconsin\nMilladore is a village in Wood County and over lapping into Portage County in the U.S. state of Wisconsin. The population was 276 at the 2010 census. Most of the village is located within the Town of Milladore in Wood County, while only a very small portion of the village lies in Portage County. All of its 2010 census population resided in the Wood County portion of the village.",
+          "semantic_score": 0.07567942887544632,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Croatan, Nantahala, and Uwharrie National Forests"
+    }
+  ],
+  "links": [
+    {
+      "source": "1624",
+      "target": "1621",
+      "reason": "1624 identifies the Art Loeb Trail as being in Pisgah National Forest; 1621 states that Pisgah is managed together with Croatan, Nantahala, and Uwharrie National Forests, directly answering the question."
+    }
+  ],
+  "questions_seen": 164,
+  "_id": "5ac3a2f35542993915413856",
+  "correct_answer": "Croatan, Nantahala, and Uwharrie",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

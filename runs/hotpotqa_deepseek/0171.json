@@ -1,0 +1,167 @@
+{
+  "question": "William Pery served as Captain of the Yeomen of the Guard under the lord who served in what position from 1865 to 1868?",
+  "answer": "Viscount Cranborne",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who was the lord under whom William Pery served as Captain of the Yeomen of the Guard?",
+      "retrieved": [
+        {
+          "id": "1707",
+          "text": "William Pery, 3rd Earl of Limerick\nWilliam Hale John Charles Pery, 3rd Earl of Limerick KP, PC, DL, JP (17 January 1840 – 8 August 1896), styled Viscount Glentworth until 1866, was an Irish peer and Conservative politician. He served as Captain of the Yeomen of the Guard under Lord Salisbury between 1889 and 1892 and again between 1895 and his death in 1896. In 1892 he was made a Knight of the Order of St Patrick.",
+          "semantic_score": 0.7464302182197571,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1698",
+          "text": "Yeomen of the Guard\nThe Queen's Body Guard of the Yeomen of the Guard are a bodyguard of the British Monarch. The oldest British military corps still in existence, it was created by King Henry VII in 1485 at the Battle of Bosworth. As a token of this venerability, the Yeomen still wear red and gold uniforms of Tudor style. There are 60 Yeomen of the Guard (plus six officers), drawn from retired members of the British Army, Royal Marines and Royal Air Force, but traditionally not the Royal Navy. This ban on Royal Navy Personnel was lifted in 2011 and two sailors joined the ranks of the Yeomen of the Guard. However, the role of the Captain of the Queen's Body Guard of the Yeomen of the Guard is a political appointment — the captain is always the government Deputy Chief Whip in the House of Lords.",
+          "semantic_score": 0.6212606430053711,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1703",
+          "text": "William Monson, 1st Viscount Oxenbridge\nWilliam John Monson, 1st Viscount Oxenbridge PC (18 February 1829 – 16 April 1898), known as The Lord Monson between 1862 and 1886, was a British Liberal politician. He served as Captain of the Yeomen of the Guard between 1880 and 1885 and in 1886 under William Ewart Gladstone.",
+          "semantic_score": 0.5974485874176025,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1700",
+          "text": "Henry Cadogan, 4th Earl Cadogan\nHenry Charles Cadogan, 4th Earl Cadogan PC (15 February 1812 – 8 June 1873), styled Viscount Chelsea between 1820 and 1864, was a British diplomat and Conservative politician. He served as Captain of the Yeomen of the Guard between 1866 and 1868.",
+          "semantic_score": 0.5221479535102844,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1701",
+          "text": "Henry Fox-Strangways, 3rd Earl of Ilchester\nHenry Stephen Fox-Strangways, 3rd Earl of Ilchester PC (21 February 1787 – 8 January 1858), styled Lord Stavordale from birth until 1802, was a British peer and Whig politician. He served as Captain of the Yeomen of the Guard under Lord Melbourne from 1835 to 1841.",
+          "semantic_score": 0.497549444437027,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1706",
+          "text": "William Street, Limerick\nWilliam Street (Irish: \"Sráid Liam\" ) is one of the main thoroughfares of central Limerick City, Ireland. The street starts at a junction with O'Connell Street (Limerick's main thoroughfare) and continues in a south-east direction. The street is named after William Pery, 1st Baron Glentworth a relation of Edmund Sexton Pery who is credited with the development of the present day Limerick City Centre area known as Newtown Pery.",
+          "semantic_score": 0.2846023440361023,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Lord Salisbury"
+    },
+    {
+      "step": 2,
+      "sub_question": "What position did that lord hold from 1865 to 1868?",
+      "retrieved": [
+        {
+          "id": "1702",
+          "text": "Robert Gascoyne-Cecil, 3rd Marquess of Salisbury\nRobert Arthur Talbot Gascoyne-Cecil, 3rd Marquess of Salisbury, {'1': \", '2': \", '3': \", '4': \"} (3 February 183022 August 1903), styled Lord Robert Cecil before 1865 and Viscount Cranborne from June 1865 until April 1868, was a British Conservative statesman, serving as prime minister three times for a total of over 13 years. He was the last prime minister to head his full administration from the House of Lords.",
+          "semantic_score": 0.5523380637168884,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7770",
+          "text": "Diocese of Salisbury\nThe Diocese of Salisbury is a Church of England diocese in the south of England, within the ecclesiastical Province of Canterbury. The diocese covers most of Dorset (excepting the deaneries of Bournemouth and Christchurch, which fall within the Diocese of Winchester), and most of Wiltshire (excepting a part in the north and Swindon). The diocese is led by the Bishop of Salisbury (Nick Holtam) and the diocesan synod. The bishop's seat is at Salisbury Cathedral.",
+          "semantic_score": 0.5093733668327332,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7615",
+          "text": "Lord John Hay (Royal Navy officer, born 1827)\nAdmiral of the Fleet Lord John Hay, GCB (23 August 1827 – 4 May 1916) was a Royal Navy officer and politician. After seeing action in 1842 during the First Opium War, he went ashore with the Naval Brigade and took part in the defence of Eupatoria in November 1854 and the Siege of Sevastopol in Spring 1855 during the Crimean War. He also took part in the Battle of Taku Forts in August 1860 during the Second Opium War. As a politician, he became Member of Parliament for Wick and later for Ripon. He was sent to the Mediterranean in July 1878 to take control of Cyprus and to occupy it in accordance with decisions reached at the Congress of Berlin. In a highly political appointment, he was made First Naval Lord in March 1886 when the Marquis of Ripon became First Lord of the Admiralty but had to stand down just five months later when William Gladstone's Liberal Government fell from power in August 1886.",
+          "semantic_score": 0.41705235838890076,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1703",
+          "text": "William Monson, 1st Viscount Oxenbridge\nWilliam John Monson, 1st Viscount Oxenbridge PC (18 February 1829 – 16 April 1898), known as The Lord Monson between 1862 and 1886, was a British Liberal politician. He served as Captain of the Yeomen of the Guard between 1880 and 1885 and in 1886 under William Ewart Gladstone.",
+          "semantic_score": 0.3999997079372406,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1707",
+          "text": "William Pery, 3rd Earl of Limerick\nWilliam Hale John Charles Pery, 3rd Earl of Limerick KP, PC, DL, JP (17 January 1840 – 8 August 1896), styled Viscount Glentworth until 1866, was an Irish peer and Conservative politician. He served as Captain of the Yeomen of the Guard under Lord Salisbury between 1889 and 1892 and again between 1895 and his death in 1896. In 1892 he was made a Knight of the Order of St Patrick.",
+          "semantic_score": 0.3869488835334778,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1706",
+          "text": "William Street, Limerick\nWilliam Street (Irish: \"Sráid Liam\" ) is one of the main thoroughfares of central Limerick City, Ireland. The street starts at a junction with O'Connell Street (Limerick's main thoroughfare) and continues in a south-east direction. The street is named after William Pery, 1st Baron Glentworth a relation of Edmund Sexton Pery who is credited with the development of the present day Limerick City Centre area known as Newtown Pery.",
+          "semantic_score": 0.10019145905971527,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1700",
+          "text": "Henry Cadogan, 4th Earl Cadogan\nHenry Charles Cadogan, 4th Earl Cadogan PC (15 February 1812 – 8 June 1873), styled Viscount Chelsea between 1820 and 1864, was a British diplomat and Conservative politician. He served as Captain of the Yeomen of the Guard between 1866 and 1868.",
+          "semantic_score": 0.26232439279556274,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "111",
+          "text": "Diocese of Southwell and Nottingham\nThe Diocese of Southwell and Nottingham is a Church of England diocese in the Province of York. It is headed by the Bishop of Southwell and Nottingham. The diocese covers all of the English county of Nottinghamshire and part of South Yorkshire. The cathedral, (Southwell Minster), is in the small town of Southwell. The diocese is bordered by those of Derby, Leicester, Lincoln, and Sheffield.",
+          "semantic_score": 0.13811492919921875,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9470",
+          "text": "Aubrey-Fletcher baronets\nThe Fletcher, later Aubrey-Fletcher Baronetcy, of Clea Hall in the County of Cumberland, is a title in the Baronetage of Great Britain. It was created on 20 May 1782 for Henry Fletcher, a Director of the Honourable East India Company and Member of Parliament. He was a descendant of Philip Fletcher (17th century), whose brother Sir Richard Fletcher was the father of Sir Henry Fletcher, 1st Baronet, of Hutton in le Forest (see Fletcher baronets for more information on this branch of the family). Fletcher was succeeded by his son, Henry, the second Baronet. He was High Sheriff of Cumberland from 1810 to 1811. His grandson, the fourth Baronet, was a prominent Conservative politician. In 1903 he assumed by Royal licence the additional surname of Aubrey on inheriting the Aubrey estates on the death of Charles Aubrey. Aubrey-Fletcher died childless and was succeeded by his younger brother, Lancelot, the fifth Baronet. He assumed by Royal licence the additional surname of Aubrey on succeeding to the title in 1910. His eldest surviving son, Henry, the sixth Baronet, was Lord-Lieutenant of Buckinghamshire from 1954 to 1961. He was succeeded by his son, John, the seventh Baronet. He was High Sheriff of Buckinghamshire in 1961. As of 2008 the title is held by his son, Henry, the eighth Baronet, who succeeded in 1992. He is Lord-Lieutenant of Buckinghamshire since 2006.",
+          "semantic_score": 0.3586173951625824,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Viscount Cranborne"
+    }
+  ],
+  "links": [
+    {
+      "source": "1707",
+      "target": "1702",
+      "reason": "Paragraph 1707 identifies Lord Salisbury as the lord under whom William Pery served as Captain of the Yeomen of the Guard; paragraph 1702 identifies Salisbury as Viscount Cranborne from June 1865 until April 1868, bridging the two sub-questions."
+    }
+  ],
+  "questions_seen": 172,
+  "_id": "5a8f05b1554299458435d517",
+  "correct_answer": "Viscount Cranborne",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

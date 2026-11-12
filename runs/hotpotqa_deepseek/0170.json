@@ -1,0 +1,181 @@
+{
+  "question": "Murray Seafield St George Head most recognised for which song from the concept album and subsequent musical \"Chess\" by Tim Rice, Benny Andersson and Björn Ulvaeus?",
+  "answer": "One Night in Bangkok",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Murray Seafield St George Head?",
+      "retrieved": [
+        {
+          "id": "3810",
+          "text": "Helen Shingler\nHelen Shingler (born 19 August 1919) is a British film actress, widow of Seafield Laurence Stewart Murray Head, mother of actor/singer Murray Head, and actor Anthony Stewart Head and the grandmother of Kathryn and Sophie Head and actresses Emily and Daisy Head.",
+          "semantic_score": 0.4568859040737152,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1692",
+          "text": "Murray Head\nMurray Seafield St George Head (born 5 March 1946) is an English actor and singer, most recognised for his international hit songs \"Superstar\" (from the 1970 rock opera \"Jesus Christ Superstar\") and \"One Night in Bangkok\" (the 1984 single from the musical \"Chess\", which topped the charts in various countries), and for his 1975 album \"Say It Ain't So\". He has been involved in several projects since the 1960s and continues to record music, perform concerts, and make appearances on television either as himself or as a character actor.",
+          "semantic_score": 0.4289334714412689,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1701",
+          "text": "Henry Fox-Strangways, 3rd Earl of Ilchester\nHenry Stephen Fox-Strangways, 3rd Earl of Ilchester PC (21 February 1787 – 8 January 1858), styled Lord Stavordale from birth until 1802, was a British peer and Whig politician. He served as Captain of the Yeomen of the Guard under Lord Melbourne from 1835 to 1841.",
+          "semantic_score": 0.3997294008731842,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "814",
+          "text": "George W. Murray\nGeorge Washington Murray (September 22, 1853 – April 21, 1926), born into slavery in South Carolina, became educated and worked as a teacher, farmer and politician. After serving as chairman of the Sumter County Republican Party, he was elected in the 1890s as a United States congressman from South Carolina. He was the only black member in the 53rd and 54th Congresses. Because South Carolina passed a constitution in 1895 that effectively disenfranchised blacks and crippled the Republican Party, Murray was the last Republican elected in the state for nearly 100 years. The next Republican, elected in 1980, was the result of a realignment of voters and parties; he was white.",
+          "semantic_score": 0.3851960003376007,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9393",
+          "text": "Murray Hedgcock\nMurray Hedgcock (born 23 February 1931) is an Australian cricket writer and journalist. He was born in south Melbourne and grew up in various country towns in Victoria. The test cricketer Bill Woodfull was the headmaster of one of his schools. After leaving school, he worked briefly in a bank before becoming a journalist. From 1966 until his retirement in 1991, he was posted to London. He wrote regularly for \"The Australian\", Wisden and \"The Cricketer\".",
+          "semantic_score": 0.3842158913612366,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1689",
+          "text": "One Night in Bangkok\n\"One Night in Bangkok\" is a song from the concept album and subsequent musical \"Chess\" by Tim Rice, Benny Andersson and Björn Ulvaeus. It was originally rapped by the British actor and singer Murray Head (verses) and sung by the Swedish singer and songwriter Anders Glenmark (choruses).",
+          "semantic_score": 0.10203777998685837,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3808",
+          "text": "Vinylshakerz\nVinylshakerz (also known as Vanguard prior to 2005) were a German tech house/electro house act, formed in 2004 and best known for the 2005 remix of the Murray Head hit \"One Night in Bangkok\". The producers have also remixed material for other artists, mainly for dance compilation CDs.",
+          "semantic_score": 0.3297393321990967,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9396",
+          "text": "Bill Woodfull\nWilliam Maldon \"Bill\" Woodfull OBE (22 August 1897 – 11 August 1965) was an Australian cricketer of the 1920s and 1930s. He captained both Victoria and Australia, and was best known for his dignified and moral conduct during the tumultuous bodyline series in 1932–33 that almost saw the end of Anglo-Australian cricketing ties. Trained as a schoolteacher, Woodfull was known for his benevolent attitude towards his players, and his patience and defensive technique as an opening batsman. Woodfull was not a flamboyant player, but was known for his calm, unruffled style and his reliability in difficult situations. His opening pairing with fellow Victorian Bill Ponsford for both his state and Australia remains one of the most successful in history. While not known for his tactical skills, Woodfull was widely admired by his players and observers for his sportsmanship and ability to mould a successful and loyal team through the strength of his character.",
+          "semantic_score": 0.18686775863170624,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9397",
+          "text": "Jack Fingleton\nJohn \"Jack\" Henry Webb Fingleton OBE (28 April 190822 November 1981) was an Australian cricketer who was trained as a journalist and became a political and cricket commentator after the end of his playing career. A stubborn opening batsman known for his dour defensive approach, he scored five Test centuries, representing Australia in 18 Tests between 1932 and 1938. He was also known for his involvement in several cricket diplomacy incidents in his career, accused of leaking the infamous verbal exchange between Australian captain Bill Woodfull and English manager Plum Warner during the acrimonious Bodyline series, and later of causing sectarian tension within the team by leading a group of players of Irish Catholic descent in undermining the leadership of the Protestant Don Bradman. In retirement, Fingleton became a prominent political commentator in Canberra, with links to Australian prime ministers. The author of many cricket books, he is regarded as one of Australia's finest cricket writers, with a perceptive and occasionally sardonic style, marked by persistent criticisms of Bradman.",
+          "semantic_score": 0.16806402802467346,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7687",
+          "text": "Nicholas Ashley-Cooper, 12th Earl of Shaftesbury\nNicholas Edmund Anthony Ashley-Cooper, 12th Earl of Shaftesbury Bt, (born 3 June 1979) also known as Nick Ashley-Cooper, is an English peer, landowner and philanthropist. He succeeded his brother as Earl of Shaftesbury in 2005. The 12th Earl of Shaftesbury is the godson of Gerald Grosvenor, 6th Duke of Westminster, and Simon Elliot, brother-in-law of Charles, Prince of Wales.",
+          "semantic_score": 0.21639053523540497,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Murray Seafield St George Head is an English actor and singer, best known for \"Superstar\" and \"One Night in Bangkok.\""
+    },
+    {
+      "step": 2,
+      "sub_question": "Which songs from the concept album and musical \"Chess\" is he most recognised for?",
+      "retrieved": [
+        {
+          "id": "1692",
+          "text": "Murray Head\nMurray Seafield St George Head (born 5 March 1946) is an English actor and singer, most recognised for his international hit songs \"Superstar\" (from the 1970 rock opera \"Jesus Christ Superstar\") and \"One Night in Bangkok\" (the 1984 single from the musical \"Chess\", which topped the charts in various countries), and for his 1975 album \"Say It Ain't So\". He has been involved in several projects since the 1960s and continues to record music, perform concerts, and make appearances on television either as himself or as a character actor.",
+          "semantic_score": 0.8033468723297119,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1689",
+          "text": "One Night in Bangkok\n\"One Night in Bangkok\" is a song from the concept album and subsequent musical \"Chess\" by Tim Rice, Benny Andersson and Björn Ulvaeus. It was originally rapped by the British actor and singer Murray Head (verses) and sung by the Swedish singer and songwriter Anders Glenmark (choruses).",
+          "semantic_score": 0.6934529542922974,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3808",
+          "text": "Vinylshakerz\nVinylshakerz (also known as Vanguard prior to 2005) were a German tech house/electro house act, formed in 2004 and best known for the 2005 remix of the Murray Head hit \"One Night in Bangkok\". The producers have also remixed material for other artists, mainly for dance compilation CDs.",
+          "semantic_score": 0.6031237244606018,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8574",
+          "text": "One Night Only with Ricky Martin\nOne Night Only with Ricky Martin (also known as Una Noche con Ricky Martin) was the worldwide concert tour by Puerto Rican singer Ricky Martin, in support of his 2005 album \"Life\". The tour visited the Americas, Europe, Asia and Africa.",
+          "semantic_score": 0.4828435778617859,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4469",
+          "text": "J-Shin\nJonathan \"J-Shin\" Shinoster is a contemporary R&B/gospel singer born in Liberty City, Florida, who was signed to Slip-n-Slide Records/Atlantic Records and is best known for his hit single \"One Night Stand\" with LaTocha Scott of Xscape.",
+          "semantic_score": 0.4288885295391083,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8571",
+          "text": "Ricky Martin Live\nRicky Martin Live is the ninth concert tour by Puerto Rican singer Ricky Martin. It supported his compilation album, \"\". The tour started in Newcastle on October 3, 2013 and continued across Australia for three weeks before coming to a close on October 20, 2013 in Melbourne.",
+          "semantic_score": 0.31897321343421936,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8575",
+          "text": "Livin' la Vida Loca Tour\nThe Livin' La Vida Loca World Tour was the first major world concert tour by Puerto Rican singer Ricky Martin to support his first English-language album \"Ricky Martin\". The tour started in October 1999 and continued until October 2000.",
+          "semantic_score": 0.31428828835487366,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "\"One Night in Bangkok\""
+    }
+  ],
+  "links": [
+    {
+      "source": "1692",
+      "target": "1689",
+      "reason": "Paragraph 1692 identifies Murray Head as most recognised for 'One Night in Bangkok' from the musical 'Chess'; paragraph 1689 confirms that song is from the concept album and musical 'Chess' by Tim Rice, Benny Andersson and Björn Ulvaeus, directly bridging the person to the answer."
+    }
+  ],
+  "questions_seen": 171,
+  "_id": "5a8e2147554299068b959e67",
+  "correct_answer": "One Night in Bangkok",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

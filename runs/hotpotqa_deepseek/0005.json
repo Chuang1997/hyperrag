@@ -1,0 +1,275 @@
+{
+  "question": "What screenplay was worked on by both Edward Carfagno and Miklos Rozsa?",
+  "answer": "Julius Caesar (1953 film)",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What films or projects did Edward Carfagno work on?",
+      "retrieved": [
+        {
+          "id": "53",
+          "text": "Edward Carfagno\nEdward Carfagno (November 28, 1907 – December 28, 1996) was an art director who established himself in the 1950s with his Oscar-winning work on such films as Vincente Minnelli's \"The Bad and the Beautiful\" (1952), Joseph Mankiewicz's \"Julius Caesar\" (1953) and William Wyler's \"Ben-Hur\" (1959). Carfagno went on to work consistently on a variety of films, including five collaborations with Clint Eastwood including \"Tightrope\" (1984) and \"Heartbreak Ridge\" (1987).",
+          "semantic_score": 0.5652588605880737,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2202",
+          "text": "Francis Ford Coppola\nFrancis Ford Coppola ( ; born April 7, 1939), also credited as Francis Coppola, is a semi-retired American film director, producer, screenwriter and film composer. He was a central figure in the New Hollywood wave of filmmaking.",
+          "semantic_score": 0.5270479321479797,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2798",
+          "text": "Edward H. Griffith\nEdward H. Griffith (August 23, 1888 – March 3, 1975) (\"Also Known As: E H Griffith, Lieut. Edward H. Griffith, Edward Griffith, E. H. Griffith\") was an American motion picture director, screenwriter, and producer. He directed 61 films from 1917 to 1946.",
+          "semantic_score": 0.4702451527118683,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7479",
+          "text": "Albert Capellani\nAlbert Capellani (23 August 1874 – 26 September 1931) was a French film director and screenwriter of the silent era. He directed films between 1905 and 1922. One of his brother was the actor-sculptor Paul Capellani. and another the film director Roger Capellani.",
+          "semantic_score": 0.4656297564506531,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5371",
+          "text": "Alfred Santell\nAlfred Allen Santell also known as Al Santell (born September 14, 1895 in San Francisco, California) was an American film director and film producer.",
+          "semantic_score": 0.44782766699790955,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7478",
+          "text": "Paul Capellani\nPaul Capellani (September 9, 1877 – November 7, 1960) was a noted French silent film actor. His brother was the director Albert Capellani and his uncle the film director Roger Capellani who died May 1940 at the Battle of Dunkirk.",
+          "semantic_score": 0.36943674087524414,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7483",
+          "text": "Roger Capellani\nRoger Capellani (31 January 1905 – 30 May 1940) was a French film director, the son of film director and screenwriter Albert Capellani and the nephew of the actor Paul Capellani.",
+          "semantic_score": 0.3373335301876068,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2205",
+          "text": "Francis Ford Coppola Presents\nFrancis Ford Coppola Presents is a lifestyle brand created by Francis Ford Coppola, under which he markets goods from companies he owns or controls. It includes films and videos, resorts, cafes, a literary magazine and a winery.",
+          "semantic_score": 0.40068235993385315,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2197",
+          "text": "Eleanor Coppola\nEleanor Coppola (born May 4, 1936) is an American documentary filmmaker, artist, and writer. She is married to director Francis Ford Coppola. She is most known for her 1991 documentary film \"\" as well as other documentaries chronicling the films of her husband and children. Coppola currently lives on her family's winery in Napa Valley, California.",
+          "semantic_score": 0.38728341460227966,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2198",
+          "text": "Anton Coppola\nAntonio Coppola (born March 21, 1917) is an American opera conductor and composer. He is the uncle of film director Francis Ford Coppola and actress Talia Shire, as well as the grand-uncle of Nicolas Cage, Sofia Coppola, Gian-Carlo Coppola, Jason Schwartzman and Robert Schwartzman, and is the younger brother of American composer and musician Carmine Coppola.",
+          "semantic_score": 0.4187124967575073,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "\"The Bad and the Beautiful\" (1952), \"Julius Caesar\" (1953), \"Ben-Hur\" (1959), \"Tightrope\" (1984), and \"Heartbreak Ridge\" (1987)."
+    },
+    {
+      "step": 2,
+      "sub_question": "What films or projects did Miklos Rozsa work on?",
+      "retrieved": [
+        {
+          "id": "53",
+          "text": "Edward Carfagno\nEdward Carfagno (November 28, 1907 – December 28, 1996) was an art director who established himself in the 1950s with his Oscar-winning work on such films as Vincente Minnelli's \"The Bad and the Beautiful\" (1952), Joseph Mankiewicz's \"Julius Caesar\" (1953) and William Wyler's \"Ben-Hur\" (1959). Carfagno went on to work consistently on a variety of films, including five collaborations with Clint Eastwood including \"Tightrope\" (1984) and \"Heartbreak Ridge\" (1987).",
+          "semantic_score": 0.5945442914962769,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9048",
+          "text": "Desire (1936 film)\nDesire is an American romantic drama film released in 1936 and directed by Frank Borzage. It was produced by Borzage and Ernst Lubitsch. The picture is a remake of the 1933 German film \"Happy Days in Aranjuez\". The screenplay was written by Samuel Hoffenstein, Edwin Justus Mayer and Waldemar Young based on the play \"Die Schönen Tage von Aranjuez\" by Hans Székely and Robert A. Stemmle. The music score was composed by Frederick Hollander and the cinematography was shot by Charles Lang and Victor Milner. Marlene Dietrich's wardrobe was designed by Travis Banton.",
+          "semantic_score": 0.4431662857532501,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "56",
+          "text": "Julius Caesar (1953 film)\nJulius Caesar is a 1953 epic Metro-Goldwyn-Mayer film adaptation of the play by Shakespeare, directed by Joseph L. Mankiewicz, who also wrote the uncredited screenplay, and produced by John Houseman. The original music score is by Miklós Rózsa. The film stars Marlon Brando as Mark Antony, James Mason as Brutus, John Gielgud as Cassius, Louis Calhern as Julius Caesar, Edmond O'Brien as Casca, Greer Garson as Calpurnia, and Deborah Kerr as Portia.",
+          "semantic_score": 0.4385518431663513,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1009",
+          "text": "Robert Surtees (cinematographer)\nRobert L. Surtees, A.S.C. (August 9, 1906 – January 5, 1985) was an American cinematographer who won three Academy Awards for the films \"King Solomon's Mines\", \"The Bad and the Beautiful\" and the 1959 version of \"Ben Hur\". Surtees has worked at various studios, including Universal, UFA, Warner Brothers, and MGM alongside directors such as Robert Mulligan, Peter Bogdanovich, and Vincente Minnelli gaining him a reputation as one of the most versatile cinematographers to date.",
+          "semantic_score": 0.4292520582675934,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4828",
+          "text": "Lourenço Mutarelli\nIn addition to comic books, Mutarelli has also created plays, books, and all the illustration and animated sequences of the 2004 motion picture \"Nina\", which was based on the novel \"Crime and Punishment\" by Dostoyevsky.",
+          "semantic_score": 0.3986363112926483,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4821",
+          "text": "Crime and Punishment\nCrime and Punishment (Russian: Преступлéние и наказáние , \"Prestupleniye i nakazaniye\"; ] ) is a novel by the Russian author Fyodor Dostoyevsky. It was first published in the literary journal \"The Russian Messenger\" in twelve monthly installments during 1866. Later, it was published in a single volume. It is the second of Dostoyevsky's full-length novels following his return from 5 years of exile in Siberia. \"Crime and Punishment\" is considered the first great novel of his \"mature\" period of writing.",
+          "semantic_score": 0.14376744627952576,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2202",
+          "text": "Francis Ford Coppola\nFrancis Ford Coppola ( ; born April 7, 1939), also credited as Francis Coppola, is a semi-retired American film director, producer, screenwriter and film composer. He was a central figure in the New Hollywood wave of filmmaking.",
+          "semantic_score": 0.2737893760204315,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4883",
+          "text": "Une Tempête\nUne Tempête (\"A tempest\") is a 1969 play by Aimé Césaire. It is an adaptation of Shakespeare's \"The Tempest\" from a postcolonial perspective. The play was first performed at the Festival d'Hammamet in Tunisia under the direction of Jean-Marie Serreau. It later played in Avignon and Paris. Césaire uses all of the characters from Shakespeare's version, but he specifies that Prospero is a white master, while Ariel is a mulatto and Caliban is a black slave. These characters are the focus of the play as Césaire foregrounds issues of race, power, and decolonization.",
+          "semantic_score": 0.12232448160648346,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Julius Caesar (1953 film)"
+    },
+    {
+      "step": 3,
+      "sub_question": "Which screenplay is common to both Edward Carfagno and Miklos Rozsa?",
+      "retrieved": [
+        {
+          "id": "56",
+          "text": "Julius Caesar (1953 film)\nJulius Caesar is a 1953 epic Metro-Goldwyn-Mayer film adaptation of the play by Shakespeare, directed by Joseph L. Mankiewicz, who also wrote the uncredited screenplay, and produced by John Houseman. The original music score is by Miklós Rózsa. The film stars Marlon Brando as Mark Antony, James Mason as Brutus, John Gielgud as Cassius, Louis Calhern as Julius Caesar, Edmond O'Brien as Casca, Greer Garson as Calpurnia, and Deborah Kerr as Portia.",
+          "semantic_score": 0.7498409152030945,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "53",
+          "text": "Edward Carfagno\nEdward Carfagno (November 28, 1907 – December 28, 1996) was an art director who established himself in the 1950s with his Oscar-winning work on such films as Vincente Minnelli's \"The Bad and the Beautiful\" (1952), Joseph Mankiewicz's \"Julius Caesar\" (1953) and William Wyler's \"Ben-Hur\" (1959). Carfagno went on to work consistently on a variety of films, including five collaborations with Clint Eastwood including \"Tightrope\" (1984) and \"Heartbreak Ridge\" (1987).",
+          "semantic_score": 0.5545207262039185,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4491",
+          "text": "Les Misérables (1952 film)\nLes Misérables is a 1952 American film adapted from the novel \"Les Misérables\" by Victor Hugo. It was directed by Lewis Milestone, and featured Michael Rennie as Jean Valjean, Robert Newton as Javert, and Sylvia Sidney as Fantine.",
+          "semantic_score": 0.4526386857032776,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2202",
+          "text": "Francis Ford Coppola\nFrancis Ford Coppola ( ; born April 7, 1939), also credited as Francis Coppola, is a semi-retired American film director, producer, screenwriter and film composer. He was a central figure in the New Hollywood wave of filmmaking.",
+          "semantic_score": 0.4039006233215332,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5584",
+          "text": "Marlon Brando\nMarlon Brando Jr. (April 3, 1924 – July 1, 2004) was an American actor, film director and political activist. He is widely credited with bringing realism to film acting. He helped to popularize the Stanislavski system of acting, studying with Stella Adler in the 1940s. Brando is widely known for his Academy Award-winning performances as Terry Malloy in \"On the Waterfront\" (1954) and Vito Corleone in \"The Godfather\" (1972), as well as his performances in \"A Streetcar Named Desire\" (1951), \"Viva Zapata!\" (1952), \"Julius Caesar\" (1953), \"The Wild One\" (1953), \"Guys and Dolls\" (1955), \"Sayonara\" (1957), \"Last Tango in Paris\" (1972), and \"Apocalypse Now\" (1979). Brando was also an activist for many causes, notably the Civil Rights Movement and various Native American movements.",
+          "semantic_score": 0.40342724323272705,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2205",
+          "text": "Francis Ford Coppola Presents\nFrancis Ford Coppola Presents is a lifestyle brand created by Francis Ford Coppola, under which he markets goods from companies he owns or controls. It includes films and videos, resorts, cafes, a literary magazine and a winery.",
+          "semantic_score": 0.28813913464546204,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2197",
+          "text": "Eleanor Coppola\nEleanor Coppola (born May 4, 1936) is an American documentary filmmaker, artist, and writer. She is married to director Francis Ford Coppola. She is most known for her 1991 documentary film \"\" as well as other documentaries chronicling the films of her husband and children. Coppola currently lives on her family's winery in Napa Valley, California.",
+          "semantic_score": 0.3377576470375061,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5581",
+          "text": "Truckline Cafe\nTruckline Cafe was the title of a 1946 Broadway play written by Maxwell Anderson, directed by Harold Clurman, produced by Elia Kazan, and starring Marlon Brando and Karl Malden. The short-lived play ran only 13 performances and is best remembered today for the fact that each night Brando would run up and down a flight of stairs prior to an entrance to induce an effectively frenzied demeanor for one of the scenes. The cast also included David Manners, to whom Brando has attributed much of his subsequent success, and Kevin McCarthy. The play is noted for Brando's first major appearance on Broadway, during which he garnered attention for an unusually intense performance which presaged his later work on \"A Streetcar Named Desire\". \"Truckline Cafe\" is also notable for being the first collaboration between Brando and Kazan, who later made \"A Streetcar Named Desire\", \"Viva Zapata\", and \"On the Waterfront\" together. The play also remains notable for being the first time Brando and Malden worked together, prior to co-starring in \"A Streetcar Named Desire\", \"On the Waterfront\", and \"One Eyed Jacks\".",
+          "semantic_score": 0.3124502897262573,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2198",
+          "text": "Anton Coppola\nAntonio Coppola (born March 21, 1917) is an American opera conductor and composer. He is the uncle of film director Francis Ford Coppola and actress Talia Shire, as well as the grand-uncle of Nicolas Cage, Sofia Coppola, Gian-Carlo Coppola, Jason Schwartzman and Robert Schwartzman, and is the younger brother of American composer and musician Carmine Coppola.",
+          "semantic_score": 0.2759045958518982,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1009",
+          "text": "Robert Surtees (cinematographer)\nRobert L. Surtees, A.S.C. (August 9, 1906 – January 5, 1985) was an American cinematographer who won three Academy Awards for the films \"King Solomon's Mines\", \"The Bad and the Beautiful\" and the 1959 version of \"Ben Hur\". Surtees has worked at various studios, including Universal, UFA, Warner Brothers, and MGM alongside directors such as Robert Mulligan, Peter Bogdanovich, and Vincente Minnelli gaining him a reputation as one of the most versatile cinematographers to date.",
+          "semantic_score": 0.30810198187828064,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Julius Caesar (1953 film)"
+    }
+  ],
+  "links": [
+    {
+      "source": "53",
+      "target": "56",
+      "reason": "Paragraph 53 lists Edward Carfagno's work on 'Julius Caesar' (1953), while paragraph 56 identifies Miklós Rózsa as the composer for the same film, bridging the two people to the shared screenplay."
+    }
+  ],
+  "questions_seen": 6,
+  "_id": "5ade9c9c5542997c77adee8c",
+  "correct_answer": "Julius Caesar",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

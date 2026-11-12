@@ -1,0 +1,341 @@
+{
+  "question": "Where was the second World Junior Ice Hockey Championship in which Miroslav Přerost coached the men's national junior ice hockey team hosted?",
+  "answer": "Ufa, Russia",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is the World Junior Ice Hockey Championship?",
+      "retrieved": [
+        {
+          "id": "737",
+          "text": "2013 World Junior Ice Hockey Championships\nThe 2013 IIHF World U20 Championship was the 37th World Junior Ice Hockey Championships (WJHC). It was hosted in Ufa, Russia. It began on December 26, 2012, and ended with the gold medal game played on January 5, 2013. The United States defeated defending-champion Sweden 3–1 to win their third title, their first one since 2010. American goalie John Gibson was named MVP of the tournament.",
+          "semantic_score": 0.7044022679328918,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "741",
+          "text": "Norway men's national junior ice hockey team\nThe Norwegian men's national junior ice hockey team is the national junior ice hockey team in Norway. The team represents Norway at the International Ice Hockey Federation's IIHF World U20 Championship.",
+          "semantic_score": 0.5576246380805969,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "736",
+          "text": "France men's national junior ice hockey team\nThe French men's national under 20 ice hockey team is the national under-20 ice hockey team in France. The team represents France at the International Ice Hockey Federation's IIHF World U20 Championship's World Junior Hockey Championship Division I. France made their first and only appearance at the top level at the 2002 World Junior Championships, when the French team defeated the likes of Germany, Ukraine, Austria, Norway, Latvia, and Poland, all of whom would eventually or saw top division competition. France defeated Ukraine 2-1 to secure a spot among the 10 national junior teams competing at the 25th IIHF-sanctioned World Junior Hockey Championships held in Pardubice, Czech-Republic in 2001-02. France opened their first game against Canada and lost 15-0, which still stands as their largest margin of defeat. The French would never recover with losses to Russia (5-1), Finland (8-0), Switzerland (8-0). France would automatically be sent down to the relegation round with back-to-back games against Belarus. France won the first game 3-2, but would end up losing 4-2 the following game sending France packing back to Division I.",
+          "semantic_score": 0.5325832962989807,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "506",
+          "text": "Matthews Arena\nMatthews Arena, located in Boston, Massachusetts, is a basketball and ice hockey arena. Renovated several times, it is the oldest indoor ice hockey arena still being used for hockey — and is the oldest multi-purpose athletic building still in use in the world. It opened in 1910 on what is now the east end of Northeastern University's campus, and is currently owned by the university. It is the original home of the National Hockey League (NHL) Boston Bruins — the only team of the NHL's Original Six whose original home arena still exists for the sport of ice hockey at any level of competition — and the WHA New England Whalers (now the NHL Carolina Hurricanes), as well as the secondary home of the NBA Boston Celtics.",
+          "semantic_score": 0.48735490441322327,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2500",
+          "text": "2007 Ivan Hlinka Memorial Tournament\nThe 2007 Ivan Hlinka Memorial Tournament was an ice hockey tournament held in Hodonin, Czech Republic and Piešťany, Slovakia between August 14, 2007 and August 18, 2007. It was the 2007 installment of the Ivan Hlinka Memorial Tournament. Sweden defeated Finland 3-2 in the final to claim the gold medal, while Russia defeated Canada 5-4 to capture the bronze medal.",
+          "semantic_score": 0.47281596064567566,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "739",
+          "text": "Ukraine men's national junior ice hockey team\nThe Ukrainian men's national junior ice hockey team is the national under-20 ice hockey team in Ukraine. The team represents Ukraine at the International Ice Hockey Federation's World Junior Hockey Championship Division I.",
+          "semantic_score": 0.41713947057724,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "192",
+          "text": "Boston Bruins\nThe Boston Bruins are a professional ice hockey team based in Boston, Massachusetts. They are members of the Atlantic Division of the Eastern Conference of the National Hockey League (NHL). The team has been in existence since 1924, and is the league's third-oldest team overall and the oldest in the United States. It is also an Original Six franchise, along with the Chicago Blackhawks, Detroit Red Wings, Montreal Canadiens, New York Rangers and Toronto Maple Leafs. The Bruins have won six Stanley Cup championships, tied for fourth most of all-time with the Blackhawks and tied second-most of any American NHL team also with the Blackhawks (behind the Red Wings, who have 11).",
+          "semantic_score": 0.45346754789352417,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The World Junior Ice Hockey Championship is the annual international under-20 ice hockey tournament organized by the IIHF."
+    },
+    {
+      "step": 2,
+      "sub_question": "In which editions of the World Junior Ice Hockey Championship did Miroslav Přerost coach the men's national junior ice hockey team?",
+      "retrieved": [
+        {
+          "id": "737",
+          "text": "2013 World Junior Ice Hockey Championships\nThe 2013 IIHF World U20 Championship was the 37th World Junior Ice Hockey Championships (WJHC). It was hosted in Ufa, Russia. It began on December 26, 2012, and ended with the gold medal game played on January 5, 2013. The United States defeated defending-champion Sweden 3–1 to win their third title, their first one since 2010. American goalie John Gibson was named MVP of the tournament.",
+          "semantic_score": 0.736210286617279,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "741",
+          "text": "Norway men's national junior ice hockey team\nThe Norwegian men's national junior ice hockey team is the national junior ice hockey team in Norway. The team represents Norway at the International Ice Hockey Federation's IIHF World U20 Championship.",
+          "semantic_score": 0.6650217175483704,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "742",
+          "text": "Miroslav Přerost\nMiroslav Přerost (born 1963) is a Czech former professional ice hockey forward who played with HC Plzen during the 1982–83 Czech Extraliga season. He is currently the head coach of the Czech Republic men's national junior ice hockey team. He coached the men's national junior ice hockey team at the 2012, 2013 and the 2014 World Junior Ice Hockey Championships.",
+          "semantic_score": 0.6379718780517578,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "736",
+          "text": "France men's national junior ice hockey team\nThe French men's national under 20 ice hockey team is the national under-20 ice hockey team in France. The team represents France at the International Ice Hockey Federation's IIHF World U20 Championship's World Junior Hockey Championship Division I. France made their first and only appearance at the top level at the 2002 World Junior Championships, when the French team defeated the likes of Germany, Ukraine, Austria, Norway, Latvia, and Poland, all of whom would eventually or saw top division competition. France defeated Ukraine 2-1 to secure a spot among the 10 national junior teams competing at the 25th IIHF-sanctioned World Junior Hockey Championships held in Pardubice, Czech-Republic in 2001-02. France opened their first game against Canada and lost 15-0, which still stands as their largest margin of defeat. The French would never recover with losses to Russia (5-1), Finland (8-0), Switzerland (8-0). France would automatically be sent down to the relegation round with back-to-back games against Belarus. France won the first game 3-2, but would end up losing 4-2 the following game sending France packing back to Division I.",
+          "semantic_score": 0.6112023591995239,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "739",
+          "text": "Ukraine men's national junior ice hockey team\nThe Ukrainian men's national junior ice hockey team is the national under-20 ice hockey team in Ukraine. The team represents Ukraine at the International Ice Hockey Federation's World Junior Hockey Championship Division I.",
+          "semantic_score": 0.5661764144897461,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8582",
+          "text": "František Hossa\nFrantišek Hossa (born 13 September 1954) is a Slovak former ice hockey player and the current head coach of Spartak Moscow of the KHL. Both his sons, Marián and Marcel, are professional ice hockey players. As of 2002, he is also the assistant coach of the Slovakia men's national ice hockey team.",
+          "semantic_score": 0.4768359959125519,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8584",
+          "text": "Jozef Golonka\nJozef Golonka (born January 6, 1938) is a former ice hockey player who played in the Czechoslovak Extraliga and was a member of the Czechoslovakia national ice hockey team. He won a bronze medal in the 1964 Winter Olympics in Innsbruck, Austria and won a silver medal in the 1968 Winter Olympics in Grenoble, France. He was inducted into the International Ice Hockey Federation Hall of Fame in 1998.",
+          "semantic_score": 0.46555548906326294,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8586",
+          "text": "Radek Ťoupal\nRadek Ťoupal (born August 16, 1966 in Písek, Czechoslovakia) is a former ice hockey player. His debut in Czechoslovak ice hockey league came in season 1982/1983, playing for HC České Budějovice, when he was only 16. During an army duty spent two years playing for Slovakian club HC Dukla Trenčín. He played on 1992 Bronze Medal winning Olympic ice hockey team for Czechoslovakia and also on Bronze Medal winning 1993 World Championships. Drafted 6th round draft choice of the Edmonton Oilers in 1987. Radek earned a university degree and is qualified to be a teacher. He left professional ice hockey in 2000.",
+          "semantic_score": 0.4342268407344818,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "2012, 2013 and 2014"
+    },
+    {
+      "step": 3,
+      "sub_question": "Which of those editions was the second one in which he coached?",
+      "retrieved": [
+        {
+          "id": "4644",
+          "text": "2014 Grand Prix of Houston\nThe 2014 Shell and Pennzoil Grand Prix of Houston was the second doubleheader of the 2014 season, hosting Rounds 9 and 10 of the 2014 IndyCar Series season. Carlos Huertas won Race 1, and Simon Pagenaud won the second race.",
+          "semantic_score": 0.4148980677127838,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8503",
+          "text": "Football Manager (1982 series)\nFootball Manager is a video game series published and developed by Addictive Games, the label set up by the game's creator Kevin Toms. The first game was released in 1982. It was then ported to most home computers during the 1980s and spawned several sequels: \"Football Manager 2\" (1988) and \"Football Manager World Cup Edition\" (1990), both designed by Kevin Toms, and finally \"Football Manager 3\" (1992), without Toms' involvement. \"Football Manager 3\" sold poorly, and as a result the series came to an end. The series was claimed to have sold over a million copies by 1992. The game was to start a whole new genre of computer game, the football management simulation.",
+          "semantic_score": 0.40160688757896423,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2001",
+          "text": "Joe Harasymiak\nJoe Harasymiak (born June 23, 1986) is an American college football coach. In January 2016, he became the youngest head coach in NCAA Division I football when he was named to the post at the University of Maine.",
+          "semantic_score": 0.4001460671424866,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5768",
+          "text": "Des McAleenan\nDes McAleenan was the goalkeeping coach for New York Red Bulls in Major League Soccer. Born in Ireland, he was with the MetroStars franchise from 2002 until his firing on 28 February 2011. He played his schoolboy football with Stella Maris. Has coached world-class goalkeepers including Tim Howard, before his move to Manchester United, and US full internationals Tony Meola and Jonny Walker. McAleenan also coached the boy's varsity soccer team at Newington High School in Newington, CT.",
+          "semantic_score": 0.3771103024482727,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2004",
+          "text": "Chris Harrison (baseball coach)\nChris Harrison is a former American baseball coach. He was the interim head coach of the Michigan Wolverines baseball team from October 2001 to May 2002. He joined the Michigan coaching staff in September 1995 as an assistant baseball coach under Geoff Zahn; he remained in that position for six years. During Harrison's single year as head coach, the Michigan baseball team led the Big Ten Conference in pitching but finished the season with a 21-32 record (14-17 in the Big Ten). Harrison resigned as head coach in late May 2002; he was replaced in June 2002 by Rich Maloney. Before coaching at Michigan, Harrison was the head baseball coach at The Master's College in Santa Clarita, California, from June 1990 to May 1994. In 1991, he led the Master's Mustangs to a school record 28 victories and was named the NAIA District 3 Coach of the Year. Through the 1991 season, he had become the only baseball coach in the school's history with a winning record. After the team finished at 14-32-2 in 1992, Harrison resigned at the request of school officials. His overall record at The Master's College was 83-100-2.",
+          "semantic_score": 0.37324610352516174,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5495",
+          "text": "Matt Lubick\nMatt Lubick (born January 26, 1972) is an American football coach. He currently serves as the co-offensive coordinator/wide receivers coach at Washington. He was named the 2012 Football Scoop Wide Receivers Coach of the Year while coaching at Duke.",
+          "semantic_score": 0.37044695019721985,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9371",
+          "text": "Pat Cerroni\nPat Cerroni (born c. 1965) is an American football coach. He is the head football coach at the University of Wisconsin–Oshkosh. Cerroni was named interim head coach at Wisconsin–Oshkosh in January 2007. The interim tag was removed in December of that year.",
+          "semantic_score": 0.3421001136302948,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6862",
+          "text": "John McLaren (baseball)\nJohn Lowell McLaren (born September 29, 1951) is a former Major League Baseball coach and manager, best known for his brief tenure as manager of the Seattle Mariners, from July 1, to June 19, . A native of the Houston, Texas area, McLaren was a catcher in the Houston Astros minor league system from 1970–1976, and later managed in the Toronto Blue Jays minor league system. He became a major league coach with the Blue Jays in 1986 and has since held major league coaching positions with the Mariners, Boston Red Sox, Cincinnati Reds, Tampa Bay Devil Rays, and Washington Nationals. He also served as a coach for the United States national baseball team during the 2006 World Baseball Classic, spent two nonconsecutive seasons as a scout in the Devil Rays/Rays organization, and was interim manager of the Nationals for three games in 2011. He was employed as a professional scout for the Oakland Athletics organization from 2012–2015. He will be the catching coach for the Philadelphia Phillies under manager Pete Mackanin for the 2016 season.",
+          "semantic_score": 0.3277098536491394,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7219",
+          "text": "Aaron McCreary\nAaron Monroe \"Mac\" McCreary (September 15, 1892 – ?) was an American football, basketball, and baseball player, coach, and college athletics administrator. He served as the head football coach at Tempe State Teachers College, known at Arizona State Teachers College by 1929 and now called Arizona State University, compiling a career college football record of 25–17–4. McCreary was also the head basketball coach at Tempe/Arizona State Teachers from 1923 to 1930 and at Arizona State Teacher's College of Flagstaff, now Northern Arizona University, amassing a career college basketball record of 140–149. In addition, he coached baseball at Tempe/Arizona State Teachers (1924–1926, 1928, 1930–1931) and at Arizona State Teacher's Flagstaff in 1959, tallying a career college baseball mark of 22–56–1.",
+          "semantic_score": 0.24619655311107635,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9375",
+          "text": "Ruffin McNeill\nRuffin Horne McNeill Jr. (born October 8, 1958) is an American football coach and former player. He is currently the assistant head coach and defensive tackles coach at the University of Oklahoma. He was previously the assistant head coach and defensive line coach at the University of Virginia. McNeill also served as the head coach of the East Carolina Pirates from 2010 to 2015. Before being named head coach of the Pirates, McNeill served the Texas Tech Red Raiders as an interim head coach, assistant head coach, special teams coordinator, and linebackers coach. On December 28, 2009, he was named interim head coach of the Red Raiders following the suspension and later firing of head coach Mike Leach. He served in the position until the hiring of Tommy Tuberville, who subsequently released him as defensive coordinator.",
+          "semantic_score": 0.298944354057312,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "2013"
+    },
+    {
+      "step": 4,
+      "sub_question": "Where was that second championship hosted?",
+      "retrieved": [
+        {
+          "id": "6680",
+          "text": "1991 USAC FF2000 Championship\nThe 1991 USAC FF2000 Championship was the second season of the series. The series was sanctioned by the United States Auto Club and ran races in California and Arizona. Craig Taylor won the championship in a Swift DB-6.",
+          "semantic_score": 0.44824981689453125,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4644",
+          "text": "2014 Grand Prix of Houston\nThe 2014 Shell and Pennzoil Grand Prix of Houston was the second doubleheader of the 2014 season, hosting Rounds 9 and 10 of the 2014 IndyCar Series season. Carlos Huertas won Race 1, and Simon Pagenaud won the second race.",
+          "semantic_score": 0.43411144614219666,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1807",
+          "text": "The United States Poker Championship\nThe United States Poker Championship (USPC) was a major annual stop on the poker tournament tour. This event was held at the Trump Taj Mahal in Atlantic City, New Jersey. This series of poker tournaments culminated with a $10,000 no-limit Texas hold 'em championship tournament televised by ESPN. The last time this tournament series was run was 2010.",
+          "semantic_score": 0.4326411485671997,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "737",
+          "text": "2013 World Junior Ice Hockey Championships\nThe 2013 IIHF World U20 Championship was the 37th World Junior Ice Hockey Championships (WJHC). It was hosted in Ufa, Russia. It began on December 26, 2012, and ended with the gold medal game played on January 5, 2013. The United States defeated defending-champion Sweden 3–1 to win their third title, their first one since 2010. American goalie John Gibson was named MVP of the tournament.",
+          "semantic_score": 0.4286799132823944,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6996",
+          "text": "2012 Toray Pan Pacific Open – Doubles\nLiezel Huber and Lisa Raymond were the defending champions, but Huber chose not to compete that year. Raymond played with Sabine Lisicki.<br>",
+          "semantic_score": 0.42365533113479614,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6991",
+          "text": "2013 Dubai Tennis Championships – Women's Doubles\nLiezel Huber and Lisa Raymond were the defending champions but chose not to participate together. Huber played with Hsieh Su-wei, but lost in the first round to Bethanie Mattek-Sands and Sania Mirza. Raymond played alongside Samantha Stosur but lost in the quarterfinals to Cara Black and Anastasia Rodionova.<br>",
+          "semantic_score": 0.39463868737220764,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6995",
+          "text": "2010 Aegon Classic – Doubles\nCara Black and Liezel Huber were the two-time defending champions but did not compete together. Black partnered up with Lisa Raymond and Huber with Bethanie Mattek-Sands. Black and Raymond won in the final after Huber and Mattek-Sands retired.",
+          "semantic_score": 0.3727952837944031,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6997",
+          "text": "2012 Dubai Tennis Championships – Women's Doubles\nLiezel Huber and María José Martínez Sánchez are the defending champions but chose not to participate together. Huber played with Lisa Raymond as the first seed while Martínez Sánchez played with Shahar Pe'er.",
+          "semantic_score": 0.3881540298461914,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6994",
+          "text": "2013 New Haven Open at Yale – Doubles\nLiezel Huber and Lisa Raymond were the defending champions, but decided not to defend their title together. Huber partnered up with Nuria Llagostera Vives, while Raymond played alongside Flavia Pennetta. Huber and Llagostera Vives defeated Pennetta and Raymond in the first round, but lost to Anabel Medina Garrigues and Katarina Srebotnik in the semifinals.<br>",
+          "semantic_score": 0.3897627592086792,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6678",
+          "text": "United States Auto Club\nThe United States Auto Club (USAC) is one of the sanctioning bodies of auto racing in the United States. From 1956 to 1979, USAC sanctioned the United States National Championship, and from 1956 to 1997 the organization sanctioned the Indianapolis 500. Today, USAC serves as the sanctioning body for a number of racing series, including the Silver Crown Series, National Sprint Car Series, National Midget Series, HPD Midget Series, .25 Midget Series, Speed Energy Formula Off-Road, , and Pirelli World Challenge.",
+          "semantic_score": 0.26029887795448303,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Ufa, Russia"
+    }
+  ],
+  "links": [
+    {
+      "source": "742",
+      "target": "737",
+      "reason": "Paragraph 742 lists the 2012, 2013, and 2014 World Junior Championships Přerost coached, identifying 2013 as the second; paragraph 737 states the 2013 championship was hosted in Ufa, Russia, directly answering where that second championship was held."
+    }
+  ],
+  "questions_seen": 75,
+  "_id": "5a86b13f55429960ec39b6c3",
+  "correct_answer": "Ufa, Russia",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

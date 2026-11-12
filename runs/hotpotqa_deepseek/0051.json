@@ -1,0 +1,188 @@
+{
+  "question": "What is the current home arena of the NHL team Chris Summers plays for?",
+  "answer": "PPG Paints Arena",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Which NHL team does Chris Summers play for?",
+      "retrieved": [
+        {
+          "id": "505",
+          "text": "Chris Summers (ice hockey)\nChristopher C Summers (born February 5, 1988 in Ann Arbor, Michigan) is an American professional ice hockey defenseman currently playing for the Pittsburgh Penguins organization of the National Hockey League.",
+          "semantic_score": 0.7969164848327637,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2997",
+          "text": "Curtis Glencross\nCurtis Jack Glencross (born December 28, 1982) is a Canadian former professional ice hockey player. An undrafted player, he signed with the Anaheim Mighty Ducks as a free agent in 2004 and made his NHL debut with the team in 2007. He has also played for the Columbus Blue Jackets, Edmonton Oilers, Calgary Flames and Washington Capitals. He was an effective goal scorer and active within the community during his time in Calgary, which led to the team naming him its recipient of the Ralph T. Scurfield Humanitarian Award in 2012. After splitting the 2014–15 season between Calgary and Washington, Glencross was unable to reach a contract deal with any NHL team (despite pre-season attempts with the Toronto Maple Leafs and Colorado Avalanche and opted to retire as a player. During his playing career, Glencross was a spokesman for the Special Olympics. He has also participated with Rae Croteau Jr.'s chuckwagon racing team in the summer.",
+          "semantic_score": 0.5776771306991577,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8587",
+          "text": "Valeri Bure\nValeri Vladimirovich \"Val\" Bure ( ; Russian: Валерий Владимирович Буре ; ] ; born June 13, 1974) is a Russian-American former ice hockey right winger. He played 10 seasons in the National Hockey League (NHL) for the Montreal Canadiens, Calgary Flames, Florida Panthers, St. Louis Blues, and Dallas Stars. A second round selection of the Canadiens, 33rd overall, at the 1992 NHL Entry Draft, Bure appeared in one NHL All-Star Game, in 2000. He led the Flames in scoring with 35 goals and 75 points in 1999–2000, a season in which he and brother Pavel combined to set an NHL record for goals by a pair of siblings with 93.",
+          "semantic_score": 0.49053722620010376,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8756",
+          "text": "Toronto Maple Leafs\nThe Toronto Maple Leafs (officially the Toronto Maple Leaf Hockey Club) are a professional ice hockey team based in Toronto, Ontario. They are members of the Atlantic Division of the Eastern Conference of the National Hockey League (NHL). The club is owned by Maple Leaf Sports & Entertainment, Ltd. and are represented by Chairman Larry Tanenbaum. With an estimated worth of US $1.1 billion in 2016 according to \"Forbes\", the Leafs are the third most valuable franchise in the NHL, after the Montreal Canadiens and the New York Rangers. The team's broadcasting rights are split between BCE Inc. and Rogers Communication. For their first 14 seasons, the club played their home games at the Mutual Street Arena, before moving to Maple Leaf Gardens in 1931. The club moved to their present home, the Air Canada Centre in February 1999.",
+          "semantic_score": 0.4733685851097107,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5344",
+          "text": "Thomas Westwick\nThomas Frederick \"Tom\" Westwick (June 28, 1887 – December 15, 1963) was a Canadian professional ice hockey player. He played five professional seasons for the Ottawa Senators and the Quebec Bulldogs from 1909 until 1916. His brother Harry was also a professional ice hockey player.",
+          "semantic_score": 0.4602425992488861,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5348",
+          "text": "Ontario Raiders\nThe Ontario Raiders were a member of the National Lacrosse League during the 1998 NLL season. The franchise was founded as an expansion team in Hamilton, Ontario, and played their home games at Copps Coliseum. Former Buffalo Bandits coach Les Bartley was hired to coach the new team, and he lured former Bandit Jim Veltman to join him, becoming the Raiders' captain. The team finished a respectable 6-6 in their inaugural season, but missed the playoffs on a tie-breaker. Following the season, losses of $250,000 forced owner Chris Fritz to look for partners. Maple Leaf Sports & Entertainment considered purchasing the team, but ultimately a group which included Bill Watters, the then Assistant General Manager of the Toronto Maple Leafs, Paul Beeston, former president of the Toronto Blue Jays, Tie Domi, player for the Maple Leafs, and Bobby Orr, former NHL player, bought it for $250,000 and promptly relocated the team to Toronto's Maple Leaf Gardens where they rebranded it the Toronto Rock.",
+          "semantic_score": 0.4512830376625061,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "509",
+          "text": "Bell Sensplex\nThe Bell Sensplex is a four-pad ice facility, located in the city of Ottawa, Ontario, Canada. It is the primary practice facility of the Ottawa Senators NHL team. In a partnership with the City of Ottawa, it is also used for minor hockey and hosts the annual Bell Capital Cup ice hockey tournament. The Sensplex is located at 1565 Maple Grove Road in the Kanata district of Ottawa. It is also the home arena for the Ottawa Senators of the Canadian Women's Hockey League.",
+          "semantic_score": 0.3690268397331238,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8761",
+          "text": "1966–67 NHL season\nThe 1966–67 NHL season was the 50th season of the National Hockey League. Six teams each played 70 games. Since the 1942–43 season, there had only been six teams in the NHL, but this was to be the last season of the \"Original Six\" as six more teams were added for the 1967–68 season. This season saw the debut of one of the greatest players in hockey history, defenceman Bobby Orr of the Boston Bruins. The Toronto Maple Leafs won the Stanley Cup over the Montreal Canadiens; this would be the Leafs' most recent Stanley Cup, as of 2017 .",
+          "semantic_score": 0.40813085436820984,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "506",
+          "text": "Matthews Arena\nMatthews Arena, located in Boston, Massachusetts, is a basketball and ice hockey arena. Renovated several times, it is the oldest indoor ice hockey arena still being used for hockey — and is the oldest multi-purpose athletic building still in use in the world. It opened in 1910 on what is now the east end of Northeastern University's campus, and is currently owned by the university. It is the original home of the National Hockey League (NHL) Boston Bruins — the only team of the NHL's Original Six whose original home arena still exists for the sport of ice hockey at any level of competition — and the WHA New England Whalers (now the NHL Carolina Hurricanes), as well as the secondary home of the NBA Boston Celtics.",
+          "semantic_score": 0.41171303391456604,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Pittsburgh Penguins"
+    },
+    {
+      "step": 2,
+      "sub_question": "What is the current home arena of that NHL team?",
+      "retrieved": [
+        {
+          "id": "513",
+          "text": "Pittsburgh Penguins\nThe Pittsburgh Penguins are a professional ice hockey team based in Pittsburgh, Pennsylvania. They are members of the Metropolitan Division of the Eastern Conference of the National Hockey League (NHL). The franchise was founded in 1967 as one of the first expansion teams during the league's original expansion from six to twelve teams. The Penguins played in the Civic Arena, also known to Pittsburgh fans as \"The Igloo\", from the time of their inception through the end of the 2009–10 season. They moved into their new arena, PPG Paints Arena, to begin the 2010–11 season. They have qualified for six Stanley Cup Finals, winning the Stanley Cup five times – in 1991, 1992, 2009, 2016, and 2017. Along with the Edmonton Oilers, the Penguins are tied for the most Cup championships among non-Original Six teams. With their Stanley Cup wins in 2016 and 2017, the Penguins became the first back-to-back champions in 19 years (since the 1997–98 Detroit Red Wings) and the first team to do so since the introduction of the salary cap.",
+          "semantic_score": 0.6950493454933167,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "506",
+          "text": "Matthews Arena\nMatthews Arena, located in Boston, Massachusetts, is a basketball and ice hockey arena. Renovated several times, it is the oldest indoor ice hockey arena still being used for hockey — and is the oldest multi-purpose athletic building still in use in the world. It opened in 1910 on what is now the east end of Northeastern University's campus, and is currently owned by the university. It is the original home of the National Hockey League (NHL) Boston Bruins — the only team of the NHL's Original Six whose original home arena still exists for the sport of ice hockey at any level of competition — and the WHA New England Whalers (now the NHL Carolina Hurricanes), as well as the secondary home of the NBA Boston Celtics.",
+          "semantic_score": 0.5782093405723572,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "785",
+          "text": "BB&amp;T Center (Sunrise, Florida)\nThe BB&T Center (previously known as the National Car Rental Center, Office Depot Center, and BankAtlantic Center) is an indoor arena located in Sunrise, Florida. It is home to the Florida Panthers of the National Hockey League. It was completed in 1998, at a cost of US$185 million, almost entirely publicly financed, and features 70 suites and 2,623 club seats.",
+          "semantic_score": 0.5070862770080566,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "509",
+          "text": "Bell Sensplex\nThe Bell Sensplex is a four-pad ice facility, located in the city of Ottawa, Ontario, Canada. It is the primary practice facility of the Ottawa Senators NHL team. In a partnership with the City of Ottawa, it is also used for minor hockey and hosts the annual Bell Capital Cup ice hockey tournament. The Sensplex is located at 1565 Maple Grove Road in the Kanata district of Ottawa. It is also the home arena for the Ottawa Senators of the Canadian Women's Hockey League.",
+          "semantic_score": 0.48101794719696045,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8756",
+          "text": "Toronto Maple Leafs\nThe Toronto Maple Leafs (officially the Toronto Maple Leaf Hockey Club) are a professional ice hockey team based in Toronto, Ontario. They are members of the Atlantic Division of the Eastern Conference of the National Hockey League (NHL). The club is owned by Maple Leaf Sports & Entertainment, Ltd. and are represented by Chairman Larry Tanenbaum. With an estimated worth of US $1.1 billion in 2016 according to \"Forbes\", the Leafs are the third most valuable franchise in the NHL, after the Montreal Canadiens and the New York Rangers. The team's broadcasting rights are split between BCE Inc. and Rogers Communication. For their first 14 seasons, the club played their home games at the Mutual Street Arena, before moving to Maple Leaf Gardens in 1931. The club moved to their present home, the Air Canada Centre in February 1999.",
+          "semantic_score": 0.4779704809188843,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5348",
+          "text": "Ontario Raiders\nThe Ontario Raiders were a member of the National Lacrosse League during the 1998 NLL season. The franchise was founded as an expansion team in Hamilton, Ontario, and played their home games at Copps Coliseum. Former Buffalo Bandits coach Les Bartley was hired to coach the new team, and he lured former Bandit Jim Veltman to join him, becoming the Raiders' captain. The team finished a respectable 6-6 in their inaugural season, but missed the playoffs on a tie-breaker. Following the season, losses of $250,000 forced owner Chris Fritz to look for partners. Maple Leaf Sports & Entertainment considered purchasing the team, but ultimately a group which included Bill Watters, the then Assistant General Manager of the Toronto Maple Leafs, Paul Beeston, former president of the Toronto Blue Jays, Tie Domi, player for the Maple Leafs, and Bobby Orr, former NHL player, bought it for $250,000 and promptly relocated the team to Toronto's Maple Leaf Gardens where they rebranded it the Toronto Rock.",
+          "semantic_score": 0.3583318293094635,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "192",
+          "text": "Boston Bruins\nThe Boston Bruins are a professional ice hockey team based in Boston, Massachusetts. They are members of the Atlantic Division of the Eastern Conference of the National Hockey League (NHL). The team has been in existence since 1924, and is the league's third-oldest team overall and the oldest in the United States. It is also an Original Six franchise, along with the Chicago Blackhawks, Detroit Red Wings, Montreal Canadiens, New York Rangers and Toronto Maple Leafs. The Bruins have won six Stanley Cup championships, tied for fourth most of all-time with the Blackhawks and tied second-most of any American NHL team also with the Blackhawks (behind the Red Wings, who have 11).",
+          "semantic_score": 0.43091973662376404,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8757",
+          "text": "Prince of Wales Trophy\nThe Prince of Wales Trophy, also known as the Wales Trophy, is an award presented by the National Hockey League (NHL) to the Eastern Conference (formerly the Wales Conference) playoff champions, prior to the final series of games for the Stanley Cup. Named for Prince Edward, Prince of Wales (later King Edward VIII and then Duke of Windsor), the trophy was first presented in the 1925–26 NHL season to the champion of the first game in Madison Square Garden and then subsequently presented to the champion of the NHL playoffs (including the previous two seasons). However, the trophy has been awarded for eight different accomplishments throughout its history, including for the American Division regular season champions, the NHL regular season champions, the East Division season champions, the Wales Conference regular season champions, the Wales Conference playoff champions, and the Eastern Conference playoff champions. The current holder of the Prince of Wales Trophy are the Pittsburgh Penguins, after winning the 2017 Eastern Conference Final.",
+          "semantic_score": 0.420860230922699,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8753",
+          "text": "2006 Stanley Cup Finals\nThe 2006 Stanley Cup Finals was the championship series of the National Hockey League's (NHL) 2005–06 season, and the culmination of the 2006 Stanley Cup playoffs. It was contested between the Eastern Conference champion Carolina Hurricanes and the Western Conference champion Edmonton Oilers. It was Carolina's second appearance in the Final, the other being in 2002, a loss to the Detroit Red Wings. It was Edmonton's seventh appearance in the Final and their first since their fifth Cup win in 1990. It was also the first (and to date only) Final matchup between two former WHA franchises. Carolina defeated Edmonton in seven games to win the franchise's first Stanley Cup becoming the tenth post-1967 expansion team and third former WHA team to win the Cup. Carolina's 2006 win was also the teams' second league championship (the club, then known as the New England Whalers won the WHA Championship in 1973).",
+          "semantic_score": 0.37373921275138855,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "PPG Paints Arena"
+    }
+  ],
+  "links": [
+    {
+      "source": "505",
+      "target": "513",
+      "reason": "Paragraph 505 identifies Chris Summers as playing for the Pittsburgh Penguins, and paragraph 513 states the Penguins' current home arena is PPG Paints Arena, directly bridging the team to its arena."
+    }
+  ],
+  "questions_seen": 52,
+  "_id": "5a8a2a5555429930ff3c0ccc",
+  "correct_answer": "PPG Paints Arena",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

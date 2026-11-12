@@ -1,0 +1,202 @@
+{
+  "question": "Which movie came out first, \"Bambi\" or \"Underdog\"?",
+  "answer": "Bambi",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "When was \"Bambi\" released?",
+      "retrieved": [
+        {
+          "id": "1432",
+          "text": "Bambi\nBambi is a 1942 American animated film directed by David Hand (supervising a team of sequence directors), produced by Walt Disney and based on the book \"Bambi, a Life in the Woods\" by Austrian author Felix Salten. The film was released by RKO Radio Pictures on August 13, 1942, and is the fifth Disney animated feature film.",
+          "semantic_score": 0.6900115013122559,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7258",
+          "text": "Bam Bam (wrestler)\nJesús Guillermo Anaya Cortés is a Mexican luchador, or professional wrestler, best known under the ring name \"Bam Bam\", a Mini-Estrella, or \"Mini\" wrestler. Anaya made his professional wrestling debut in 2002 and has worked mainly for the Mexican professional wrestling promotion Consejo Mundial de Lucha Libre (CMLL), where he is a former CMLL World Mini-Estrella Champion. He is the son of professional wrestler Popitekus, Jr. who also helped train him for his pro wrestling career.",
+          "semantic_score": 0.3785857856273651,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3464",
+          "text": "Bichunmoo\nBichunmoo is a South Korean martial arts film written and directed by Kim Young-jun featuring Kim Hee-sun and Shin Hyun-joon. Originally released in 2000, it was at the time the most expensive film in Korean history (an honor it soon lost to \"Musa\").",
+          "semantic_score": 0.3669520318508148,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5546",
+          "text": "Ride Out (album)\nRide Out is the seventeenth studio album by American rock singer–songwriter Bob Seger. The album was released on October 14, 2014. Although Seger had previously stated that this may be his final album, a followup album entitled \"I Knew You When\" will be released on November 17, 2017.",
+          "semantic_score": 0.360024631023407,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2795",
+          "text": "Babs (1920 film)\nBabs is a lost 1920 American silent film directed by Edward H. Griffith and starring Corinne Griffith. Griffith and the Vitagraph Company produced with Vitagraph distributing. The film was also called \"Bab's Candidate\" and had the working title \"Gumshoes 4-B\".",
+          "semantic_score": 0.35629981756210327,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7251",
+          "text": "Bam Bam Bigelow\nScott Charles Bigelow (September 1, 1961 – January 19, 2007) was an American professional wrestler, better known by the ring name Bam Bam Bigelow. Recognizable by his close to 400 lb frame and the distinctive flame tattoo that spanned most of his bald head, Bigelow was described by WWE in 2013 as \"the most natural, agile and physically remarkable big man of the past quarter century.\"",
+          "semantic_score": 0.33946946263313293,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5549",
+          "text": "Against the Wind (album)\nAgainst the Wind is the eleventh album by American rock singer Bob Seger and his fourth with the Silver Bullet Band. It was released in February 1980. It is Seger's only number-one album to date, spending six weeks at the top of the \"Billboard\" Top LPs chart, knocking Pink Floyd's \"The Wall\" from the top spot.",
+          "semantic_score": 0.2241363376379013,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8816",
+          "text": "Bruce Lee Fights Back from the Grave\nBruce Lee Fights Back From The Grave, released originally as Visitor of America (Hangul: 아메리카 방문객 ; Hanja: 아메리카 訪問客 ; RR: \"Amelika bangmungaeg \" ), is a 1976 Bruceploitation movie starring Bruce Lee impersonator and tae kwon do instructor Jun Chong (using the alias Bruce K.L. Lea). The film was directed by Lee Doo-yong, though persistent misinformation claims that the movie was directed by Italian horror director Umberto Lenzi. The poster's artwork was very common among exploitation films at the time.",
+          "semantic_score": 0.32757678627967834,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5548",
+          "text": "Bob Seger\nRobert Clark Seger ( , born May 6, 1945) is an American singer-songwriter, guitarist and pianist. As a locally successful Detroit-area artist, he performed and recorded as Bob Seger and the Last Heard and Bob Seger System throughout the 1960s. By the early 1970s, he had dropped the 'System' from his recordings and continued to strive for broader success with various other bands. In 1973, he put together the Silver Bullet Band, with a group of Detroit-area musicians, with whom he became most successful on the national level with the album \"Live Bullet\" (1976), recorded live with the Silver Bullet Band in 1975 at Cobo Hall in Detroit, Michigan. In 1976, he achieved a national breakout with the studio album \"Night Moves\". On his studio albums, he also worked extensively with the Alabama-based Muscle Shoals Rhythm Section, which appeared on several of Seger's best-selling singles and albums.",
+          "semantic_score": 0.2221231907606125,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3465",
+          "text": "Shadowless Sword\nShadowless Sword () is a 2005 South Korean film starring Lee Seo-jin, Yoon So-yi, and Shin Hyun-joon. A martial arts epic filmed in China, the film follows the exploits of the last prince of the Balhae Kingdom, who hides his identity in a small village until he is called to battle invaders from Khitan. It was released in North America, the United Kingdom and Ireland by New Line Cinema on DVD as The Legend of the Shadowless Sword.",
+          "semantic_score": 0.1901484727859497,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "August 13, 1942"
+    },
+    {
+      "step": 2,
+      "sub_question": "When was \"Underdog\" released?",
+      "retrieved": [
+        {
+          "id": "1433",
+          "text": "Underdog (film)\nUnderdog is a 2007 American family superhero comedy film based on the 1960s cartoon series of the same name. Directed by Frederik Du Chau and written by Joe Piscatella, Adam Rifkin, and Craig A. Williams, the film stars Jim Belushi, Peter Dinklage, John Slattery, and Patrick Warburton with the voice talents of Jason Lee, Amy Adams, and Brad Garrett. Unlike the TV series, the Underdog character is portrayed as a regular dog rather than an anthropomorphic one. Underdog, voiced by Jason Lee, was played by a lemon beagle named Leo sporting a red sweater and a blue cape. The film grossed $65.3 million worldwide.",
+          "semantic_score": 0.5079953074455261,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1429",
+          "text": "Anthem for the Underdog\nAnthem for the Underdog is the third album by the rock band 12 Stones. It was released on August 14, 2007. The first single \"Lie to Me\", was made available on 12 Stones' MySpace and official website along with the second single \"Anthem For The Underdog\", which was used in the movie \"Never Back Down\". Both singles charted in the top 30 on the Mainstream Rock Tracks chart, while \"It Was You\" charted in the top 10 on Christian Rock charts. The third single, \"Adrenaline\", was the theme song for the Met-Rx World's Strongest Man competition in 2007. \"Anthem for the Underdog\" debuted at No. 53 on the \"Billboard\" 200, and stayed on the chart for four weeks.",
+          "semantic_score": 0.445782870054245,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "683",
+          "text": "From Under the Cork Tree\nFrom Under the Cork Tree is the second studio album by American rock band Fall Out Boy. It was released on May 3, 2005, through Island Records as the band's major label debut. The music was composed by lead vocalist and guitarist Patrick Stump, with all lyrics penned by bassist Pete Wentz, continuing the band's songwriting approach they took for some songs on their prior 2003 effort \"Take This to Your Grave\". Neal Avron handled production duties. Commenting on the record's lyrical themes, Wentz said the lyrics were about \"the anxiety and depression that goes along with looking at your own life.\" In support of their release the group headlined tours worldwide and played at various music festivals. For their Black Clouds and Underdogs tour the album was re-released as \"From Under the Cork Tree (Limited \"Black Clouds and Underdogs\" Edition)\", featuring new songs and remixes.",
+          "semantic_score": 0.39772355556488037,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2222",
+          "text": "Dirty Sweet\nDirty Sweet is the debut four-track extended play released by Australian rock band Jet in November 2002 on Rubber Records. It was re-recorded and re-issued on 6 May 2003 by Elektra Records. All tracks on the EP are also on the band's debut album, \"Get Born\", which followed on 14 September. Two tracks, originally on the EP, were later issued as singles from \"Get Born\", \"Rollover DJ\" (November) and \"Cold Hard Bitch\" (March 2004).",
+          "semantic_score": 0.38783934712409973,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4211",
+          "text": "Underclass Hero (song)\n\"Underclass Hero\" is the first single from Sum 41's fourth studio album \"Underclass Hero\". The song impacted radio on May 15, 2007. The song in its entirety was leaked on April 23 from a 91X podcast interview with Deryck Whibley. It was confirmed on Sum 41's official site that this would be the opening track for the album. The song was used in the EA Sports computer game \"Madden 08\" and Sony's \"NBA 08\". It is the band's first single since the departure of guitarist Dave Baksh.",
+          "semantic_score": 0.38099968433380127,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2217",
+          "text": "Rollover DJ\n\"Rollover DJ\" is the second single (except in the United States, where it was the third, after \"Cold Hard Bitch\") by the Australian rock band Jet, from their debut album \"Get Born\" (14 September 2003). It was released in November, two months after the album, and was promoted with two different music videos. It reached the Top 40 on both the ARIA Singles Chart and the UK Singles Chart.",
+          "semantic_score": 0.31959354877471924,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2216",
+          "text": "Cold Hard Bitch\n\"Cold Hard Bitch\" is the fourth single (second in the United States) by the Australian rock group, Jet, from their 2003 album, \"Get Born\". It was released in March 2004 and was written by band-members Chris Cester, Nic Cester, and Cameron Muncey. On the ARIA Singles Chart in the group's native country, it reached the top 40.",
+          "semantic_score": 0.26729103922843933,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6239",
+          "text": "Beneath (2007 film)\nBeneath is a straight-to-DVD thriller-horror film co-produced in a first time partnership between Paramount Classics (a Viacom subsidiary) and MTV Films (although both co-purchased the rights to \"Hustle & Flow\" in 2005). The film is directed by the newcomer Dagen Merrill, who co-wrote the script with Kevin Burke, and the list of producers include Sean Covel and Chris Wyatt (\"Napoleon Dynamite\", \"Think Tank\"), as well as Troy Craig Poon. In Paramount Classics's first horror movie, which marks the company's expansion from acquisitions into the production arena, the cast includes Nora Zehetner (\"Brick\", \"May\", \"R.S.V.P.\", \"Everwood\") and Matthew Settle (\"U-571\", \"Band of Brothers\"). Shooting started 2005 in Vancouver, the film was released on DVD August 7, 2007. It was the first direct-to-video title produced by MTV Films.",
+          "semantic_score": 0.34563055634498596,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6098",
+          "text": "Come Clean (Puddle of Mudd album)\nCome Clean is the second studio album by the rock band Puddle of Mudd. Released on August 28, 2001, the album's music was responsible for breaking Puddle of Mudd into the mainstream music scene. It features the singles \"Control,\" \"Blurry,\" \"Drift & Die\" and \"She Hates Me\". Various tracks were re-recorded from the band's previous releases, \"Stuck\" and \"Abrasive\". The album reached the Billboard 200 Albums chart peaking at #9.",
+          "semantic_score": 0.21067963540554047,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4402",
+          "text": "Barking Dogs Never Bite\nBarking Dogs Never Bite (Korean: 플란다스의 개 , also known as \"A Higher Animal\" and \"Dog of Flanders\") is a 2000 South Korean dark comedy-drama film. The film's original Korean title is a satirical take on \"A Dog of Flanders\", a European pet story that is very popular in parts of East Asia. It is also the directorial debut of Bong Joon-ho, who would later go on to direct \"Memories of Murder\" in 2003, \"The Host\" in 2006, and \"Snowpiercer\" in 2013.",
+          "semantic_score": 0.22543324530124664,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "August 3, 2007"
+    }
+  ],
+  "links": [
+    {
+      "source": "1432",
+      "target": "1433",
+      "reason": "Paragraph 1432 gives Bambi's release date (August 13, 1942) and paragraph 1433 gives Underdog's release year (2007), directly enabling the comparison of which came first."
+    }
+  ],
+  "questions_seen": 145,
+  "_id": "5a729fa15542994cef4bc397",
+  "correct_answer": "Bambi",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

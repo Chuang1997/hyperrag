@@ -1,0 +1,154 @@
+{
+  "question": "Lex Antonia nullified the dictatorial laws set up by which Roman general?",
+  "answer": "Julius Caesar",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What was the Lex Antonia?",
+      "retrieved": [
+        {
+          "id": "1020",
+          "text": "Lex Antonia de Termessibus\nThe Lex Antonia de Termessibus was a Roman law passed in 71 or 68 BC, at the initiative of the tribune Gaius Antonius.",
+          "semantic_score": 0.584441065788269,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1022",
+          "text": "Lex Antonia\nLex Antonia (Latin for \"Antonine law\", sometimes presented plurally as the leges Antoniae, \"Antonine laws\") was a law established in ancient Rome in April 44 BC. It was proposed by Mark Antony and passed by the Roman Senate, following the assassination of Julius Caesar. It formally abolished the Dictatorship. It was the second law to do so (the first being passed after the Second Punic War, replacing the Dictatorship with the final decree of the Senate); however, the earlier law had essentially been nullified by the subsequent Dictatorships of Sulla and Caesar.",
+          "semantic_score": 0.5689983367919922,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1023",
+          "text": "Lex Burgundionum\nThe Lex Burgundionum (Latin for Burgundian Laws, also \"Lex Gundobada\") refers to the law code of the Burgundians, probably issued by king Gundobad. It is influenced by Roman law and deals with domestic laws concerning marriage and inheritance as well as regulating weregild and other penalties. Interaction between Burgundians is treated separately from interaction between Burgundians and Gallo-Romans. The oldest of the 14 surviving manuscripts of the text dates to the 9th century, but the code's institution is ascribed to king Gundobad (died 516), with a possible revision by his successor Sigismund (died 523). The \"Lex Romana Burgundionum\" is a separate code, containing various laws taken from Roman sources, probably intended to apply to the Burgundians' Gallo-Roman subjects. The oldest copy of this text dates to the 7th century.",
+          "semantic_score": 0.37536513805389404,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4864",
+          "text": "Bobbie van de Graaf\nRobert \"Bobbie\" van de Graaf (born 17 March 1944) is a retired Dutch rower who won a bronze medal in the coxed fours at the 1964 Summer Olympics. His team mates were Marius Klumperbeek (cox), Lex Mullink, Freek van de Graaff and Jan van de Graaff. The latter two were also born in 1944 and are unrelated to Bobbie.",
+          "semantic_score": 0.37146997451782227,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5649",
+          "text": "Stuart Hanlon\nStuart Hanlon is an attorney based in San Francisco, California who represented San Francisco Police Chief Greg Suhr, Geronimo Pratt and members of the Symbionese Liberation Army.",
+          "semantic_score": 0.3677419424057007,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4866",
+          "text": "Freek van de Graaff\nFrederik Robbert \"Freek\" van de Graaff (20 February 1944 – 24 June 2009) was a Dutch rower who won a bronze medal in the coxed fours at the 1964 Summer Olympics. His team mates were Marius Klumperbeek (cox), Lex Mullink, Bobbie van de Graaf and Jan van de Graaff. The three \"van de Graaf(f)s\" were all born in 1944.",
+          "semantic_score": 0.26657915115356445,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4865",
+          "text": "Jan van de Graaff\nJan van de Graaff (born 24 September 1944) is a retired Dutch rower. He won the world title in the coxed pair at the 1966 World Rowing Championships and a bronze medal in the coxed fours at the 1964 Summer Olympics. At the 1964 Olympics his team mates were Marius Klumperbeek (cox), Lex Mullink, Bobbie van de Graaf and Freek van de Graaff. The three \"van de Graaf(f)s\" were all born in 1944.",
+          "semantic_score": 0.24243344366550446,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Lex Antonia was a law established in ancient Rome in April 44 BC, proposed by Mark Antony and passed by the Roman Senate following the assassination of Julius Caesar, which formally abolished the Dictatorship."
+    },
+    {
+      "step": 2,
+      "sub_question": "Which Roman general established the dictatorial laws that the Lex Antonia nullified?",
+      "retrieved": [
+        {
+          "id": "1022",
+          "text": "Lex Antonia\nLex Antonia (Latin for \"Antonine law\", sometimes presented plurally as the leges Antoniae, \"Antonine laws\") was a law established in ancient Rome in April 44 BC. It was proposed by Mark Antony and passed by the Roman Senate, following the assassination of Julius Caesar. It formally abolished the Dictatorship. It was the second law to do so (the first being passed after the Second Punic War, replacing the Dictatorship with the final decree of the Senate); however, the earlier law had essentially been nullified by the subsequent Dictatorships of Sulla and Caesar.",
+          "semantic_score": 0.8966860175132751,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1020",
+          "text": "Lex Antonia de Termessibus\nThe Lex Antonia de Termessibus was a Roman law passed in 71 or 68 BC, at the initiative of the tribune Gaius Antonius.",
+          "semantic_score": 0.8009338974952698,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1023",
+          "text": "Lex Burgundionum\nThe Lex Burgundionum (Latin for Burgundian Laws, also \"Lex Gundobada\") refers to the law code of the Burgundians, probably issued by king Gundobad. It is influenced by Roman law and deals with domestic laws concerning marriage and inheritance as well as regulating weregild and other penalties. Interaction between Burgundians is treated separately from interaction between Burgundians and Gallo-Romans. The oldest of the 14 surviving manuscripts of the text dates to the 9th century, but the code's institution is ascribed to king Gundobad (died 516), with a possible revision by his successor Sigismund (died 523). The \"Lex Romana Burgundionum\" is a separate code, containing various laws taken from Roman sources, probably intended to apply to the Burgundians' Gallo-Roman subjects. The oldest copy of this text dates to the 7th century.",
+          "semantic_score": 0.527369499206543,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3200",
+          "text": "Claudius Xenophon\nClaudius Xenophon (or Xenephon) was a governor of Britannia Inferior, a province of Roman Britain around AD 223. He is named on two milestones with nearly identical texts, which can be dated to that year. He succeeded Marius Valerianus, whose rule is attested in AD 222; and his governorship must have ended by AD 225, when another governor is mentioned in a fragmentary inscription, which only provides part of the name (Maximus). He is also mentioned in inscriptions in Vindolanda and perhaps at Chesters. His father is thought to be a T. Cl(audius) T. f(ilius) Papiria Xenophon, who is mentioned in inscriptions and papyri in various procuratorships in Egypt and Dacia under Commodus.",
+          "semantic_score": 0.495229035615921,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8936",
+          "text": "Marcus Sedatius Severianus\nMarcus Sedatius Severianus (Latin: \"Marcus Sedatius C. f. Severianus Iulius Acer Metillius Nepos Rufinus Ti. Rutilianus Censor\"; Ancient Greek: \"Μ. Σηδάτιος Σεουηριανὸς\"; ca. 105-161/162) was a senator, consul, and Roman general during the 2nd-century AD, originally from Gaul. Sedatius was a provincial governor and later a provincial consul. His career led up to consul \"suffect\" in 153. However brilliant, his career did not progress quickly through the \"cursus honorum\". He had to earn his way from patrician to the more prestigious senatorial order. It is distinguished through his link with the oracle of Glycon (Alexander of Abonoteichus) while its end shows the military difficulties of the Empire during the reign of Marcus Aurelius. He was governor of Cappadocia at the start of the Roman war with Parthia during which he was convinced by the untrustworthy oracle to invade Armenia in 161, although Parthia had been making trouble in Armenia since the death of the emperor Antoninus Pius (died 7 March 161). Sedatius committed suicide while under siege in the Armenian city of Elegeia, on the upper Euphrates. He was replaced as governor of Cappadocia by Marcus Statius Priscus.",
+          "semantic_score": 0.48710912466049194,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3207",
+          "text": "Appius Claudius Pulcher (consul 79 BC)\nAppius Claudius Pulcher (c. 139 BC – 76 BC) was a Roman politician of the 1st century BC. There is uncertainty about who his father was. It was most probably the Appius Claudius Pulcher who was consul in 143 BC. He was a supporter of Lucius Cornelius Sulla and served as praetor in 88 BC. He was exiled in that year by Gaius Marius while Sulla was away in the east. He returned to Rome after Lucius Cornelius Cinna died in 84 BC, and served as consul in 79 BC and as governor of Roman Macedonia from 78 BC to 76 BC.",
+          "semantic_score": 0.40497836470603943,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8899",
+          "text": "Maximus of Tyre\nMaximus of Tyre (Greek: Μάξιμος Τύριος ; fl. late 2nd century AD), also known as Cassius Maximus Tyrius, was a Greek rhetorician and philosopher who lived in the time of the Antonines and Commodus, and who belongs to the trend of the Second Sophistic. His writings contain many allusions to the history of Greece, while there is little reference to Rome; hence it is inferred that he lived longer in Greece, perhaps as a professor at Athens. Although nominally a Platonist, he is really an Eclectic and one of the precursors of Neoplatonism.",
+          "semantic_score": 0.32474616169929504,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Julius Caesar"
+    }
+  ],
+  "links": [],
+  "questions_seen": 103,
+  "_id": "5a8a1dbc55429970aeb7025a",
+  "correct_answer": "Sulla",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "question": "What was the name of the lawyer who took the main role in the report that helped land Pete Rose a lifetime suspension from baseball?",
+  "answer": "John M. Dowd",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What was the report that helped land Pete Rose a lifetime suspension from baseball?",
+      "retrieved": [
+        {
+          "id": "1404",
+          "text": "Dowd Report\nThe Dowd Report is the document describing the transgressions of baseball player and manager Pete Rose in betting on baseball, which precipitated his agreement to a lifetime suspension from the sport in the United States. The 225-page report was prepared by Special Counsel to the Commissioner, John M. Dowd and was submitted to Commissioner Bart Giamatti in May 1989. The report, published in June 1989, was accompanied by seven volumes of exhibits, which included bank and telephone records, alleged betting records, expert reports, and transcripts of interviews with Rose and other witnesses.",
+          "semantic_score": 0.6685243844985962,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1402",
+          "text": "Pete Rose Jr.\nPeter Edward \"PJ\" Rose Jr. (born November 16, 1969) is the manager of the Wichita Wingnuts in the American Association of Independent Professional Baseball and former professional baseball player. The son of Major League Baseball's all-time hits leader Pete Rose, Rose Jr. played in the minor leagues most of his career except for a brief stint in for the Cincinnati Reds. He was released September 14, 2009, by the York Revolution of the Atlantic League of Professional Baseball. In 2011, he joined the White Sox coaching staff and became the manager of their Appalachian League (rookie league) affiliate in Bristol. In 2012, he moved up to the Pioneer League with the affiliate in Great Falls, Montana. After one season, he advanced to the lower-A South Atlantic League team in Kannapolis, North Carolina.",
+          "semantic_score": 0.5740059614181519,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1403",
+          "text": "Hustle (2004 film)\nHustle is a television film about baseball player Pete Rose, created by ESPN Films. It was first broadcast on September 25, 2004. The movie follows Rose as he gambled on Major League Baseball while managing the Cincinnati Reds, then was caught and banned from baseball for life. The title, \"Hustle\", is a reference to both Rose's gambling problem and his nickname, \"Charlie Hustle.\"",
+          "semantic_score": 0.5455322861671448,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1405",
+          "text": "Jerry Crasnick\nJerry Crasnick is a sportswriter currently covering baseball for the sports website ESPN.com. He began his career working for the Biddeford Journal Tribune in Maine, as well as the Portland Press Herald. In 1988 he served as the beat writer for \"The Cincinnati Post\" where he covered the Cincinnati Reds. During his time as beat writer, Crasnick covered Pete Rose and his suspension from Major League Baseball. Crasnick also covered the Reds' 1990 World Series championship, and five years of Marge Schott's tenure as owner of the Reds. He has worked for \"The Denver Post\" and Bloomberg News, while also writing for The Sporting News and Baseball America.",
+          "semantic_score": 0.46398356556892395,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1399",
+          "text": "Pete Rose: Hits &amp; Mrs.\nPete Rose: Hits & Mrs. is an American reality television series on TLC that chronicles the lives of baseball player Pete Rose, his fiancée Kiana Kim, and Kim's two children — Cassie and Ashton. On July 18, 2012, TLC announced the series started production for a six-episode first season. Amy Winter, general manager of TLC, said \"This series will open the door into a very modern family dynamic of trying to blend families when your kids are no longer children, and when your private life is in the public spotlight\". The series debuted on January 13, 2013. After airing four episodes, it was stated that the last two episodes would be shelved until the 2013 baseball season started. Despite that statement, the final episodes aired on TLC's sister channel Destination America during a Sunday morning marathon and the network has no plans to air any reruns of the series, thus announcing its cancellation.",
+          "semantic_score": 0.4352523684501648,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1401",
+          "text": "John M. Dowd\nJohn M. Dowd (born February 11, 1941) is an American lawyer, former attorney for the United States Department of Justice, and former Marine. His expertise in the law field focuses on white-collar crime. He took the main role in several baseball investigations with the most notable being the \"Dowd Report\" in 1989.",
+          "semantic_score": 0.42355862259864807,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6466",
+          "text": "Jalen Rose\nJalen Anthony Rose (born January 30, 1973) is a former American professional basketball player, current sports analyst for ESPN, and cofounder of the Jalen Rose Leadership Academy. In college, he was a member of the University of Michigan Wolverines' \"Fab Five\" (along with Chris Webber, Juwan Howard, Jimmy King, and Ray Jackson) that reached the 1992 and 1993 NCAA Men's Division I Basketball Championship games as both freshmen and sophomores. Rose played in the NBA for six teams, most notably alongside Reggie Miller on the Indiana Pacers teams that made three consecutive Eastern Conference finals, including the 2000 NBA Finals. Rose was primarily a small forward; however, he sometimes played the role of a shooting guard.",
+          "semantic_score": 0.3483303189277649,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1400",
+          "text": "1988 Cincinnati Reds season\nThe Cincinnati Reds' 1988 season was a season in American baseball. It consisted of the Cincinnati Reds attempting to win the National League West. Led by manager Pete Rose, the Reds had a record of 87 wins and 74 losses, finishing seven games back of the eventual world champion Los Angeles Dodgers. The 1988 season would be Pete Rose's last full season as Reds manager.",
+          "semantic_score": 0.42281287908554077,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The Dowd Report"
+    },
+    {
+      "step": 2,
+      "sub_question": "Who played the main role in that report?",
+      "retrieved": [
+        {
+          "id": "1401",
+          "text": "John M. Dowd\nJohn M. Dowd (born February 11, 1941) is an American lawyer, former attorney for the United States Department of Justice, and former Marine. His expertise in the law field focuses on white-collar crime. He took the main role in several baseball investigations with the most notable being the \"Dowd Report\" in 1989.",
+          "semantic_score": 0.6443928480148315,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1404",
+          "text": "Dowd Report\nThe Dowd Report is the document describing the transgressions of baseball player and manager Pete Rose in betting on baseball, which precipitated his agreement to a lifetime suspension from the sport in the United States. The 225-page report was prepared by Special Counsel to the Commissioner, John M. Dowd and was submitted to Commissioner Bart Giamatti in May 1989. The report, published in June 1989, was accompanied by seven volumes of exhibits, which included bank and telephone records, alleged betting records, expert reports, and transcripts of interviews with Rose and other witnesses.",
+          "semantic_score": 0.6409193873405457,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8065",
+          "text": "What I Saw: Reports from Berlin, 1920-1933\nWhat I Saw: Reports from Berlin, 1920-1933 is a book of reportage by the Austrian writer Joseph Roth from the era of the Weimar Republic. The selection of pieces from Roth's large journalistic output was made by Michael Bienert and published in German in 1996. The English translation with the present title was made by Michael Hofmann and appeared in 2003.",
+          "semantic_score": 0.44229042530059814,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8821",
+          "text": "Mazengarb Report\nThe Mazengarb Report of 1954, formally titled the \"Report of the Special Committee on Moral Delinquency in Children and Adolescents\", resulted from a ministerial inquiry (the Special Committee on Moral Delinquency in Children and Adolescents) sparked primarily by two infamous and well-publicised events in New Zealand's history: the 22 June 1954 Parker–Hulme murder case (subject of the 1994 Peter Jackson film \"Heavenly Creatures\") and the 20 June 1954 \"Petone incident\". The report gained its name from the inquiry chairman, Queen's Counsel Ossie Mazengarb.",
+          "semantic_score": 0.3574082851409912,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5677",
+          "text": "Sanford Socolow\nSanford Socolow (November 11, 1928 – January 31, 2015) was an American broadcast journalist who worked at CBS News from 1956 to 1988. He was executive producer of \"The CBS Evening News with Walter Cronkite\" from 1978 to 1981.",
+          "semantic_score": 0.3549896478652954,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5676",
+          "text": "Walter Cronkite\nWalter Leland Cronkite Jr. (November 4, 1916 – July 17, 2009) was an American broadcast journalist, best known as anchorman for the \"CBS Evening News\" for 19 years (1962–1981). During the heyday of CBS News in the 1960s and 1970s, he was often cited as \"the most trusted man in America\" after being so named in an opinion poll.",
+          "semantic_score": 0.2766220271587372,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5673",
+          "text": "Terry Drinkwater\nTerry Drinkwater (May 9, 1936 – May 31, 1989) was an American television and radio journalist most widely known for his quarter-century career as a correspondent for CBS News. Drinkwater was also an anchorman for the West Coast editions of the \"CBS Evening News\", covering events that occurred after the East Coast version with Walter Cronkite aired.",
+          "semantic_score": 0.21133948862552643,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5678",
+          "text": "CBS Evening News\nCBS Evening News is the flagship evening television news program of CBS News, the news division of the CBS television network in the United States. The program has been broadcast since May 3, 1948 under the original title \"CBS Television News\", eventually adopting its current title in 1963. Since June 19, 2017, the program is anchored by Anthony Mason on an interim basis. Previous anchors have included Douglas Edwards, Walter Cronkite, Dan Rather, Connie Chung, Bob Schieffer, Katie Couric and Scott Pelley.",
+          "semantic_score": 0.20664189755916595,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "John M. Dowd"
+    },
+    {
+      "step": 3,
+      "sub_question": "What was the name of the lawyer who took that main role?",
+      "retrieved": [
+        {
+          "id": "1401",
+          "text": "John M. Dowd\nJohn M. Dowd (born February 11, 1941) is an American lawyer, former attorney for the United States Department of Justice, and former Marine. His expertise in the law field focuses on white-collar crime. He took the main role in several baseball investigations with the most notable being the \"Dowd Report\" in 1989.",
+          "semantic_score": 0.7875602841377258,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1404",
+          "text": "Dowd Report\nThe Dowd Report is the document describing the transgressions of baseball player and manager Pete Rose in betting on baseball, which precipitated his agreement to a lifetime suspension from the sport in the United States. The 225-page report was prepared by Special Counsel to the Commissioner, John M. Dowd and was submitted to Commissioner Bart Giamatti in May 1989. The report, published in June 1989, was accompanied by seven volumes of exhibits, which included bank and telephone records, alleged betting records, expert reports, and transcripts of interviews with Rose and other witnesses.",
+          "semantic_score": 0.5188647508621216,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1080",
+          "text": "John G. Wilson\nJohn Guy Wilson (1842–1892) was a Manchester, UK patent agent and the founder of Wilson Gunn, one of the oldest firms of Patent and Trade Mark Attorneys in the UK. John G. Wilson built up the business until his death in the 1890s. As a side line he acted as agent to the Alliance Insurance Company. There is no record that Mr. Wilson ever became a member of the Chartered Institute of Patent Agents.",
+          "semantic_score": 0.48710745573043823,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1387",
+          "text": "John Marshall Harlan\nJohn Marshall Harlan (June 1, 1833October 14, 1911) was an American lawyer and politician from Kentucky who served as an associate justice on the U.S. Supreme Court.",
+          "semantic_score": 0.4136902093887329,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "467",
+          "text": "John Leverett\nJohn Leverett (baptized 7 July 1616 – 16 March 1678/9) was an English colonial magistrate, merchant, soldier and governor of the Massachusetts Bay Colony. Born in England, he came to Massachusetts as a teenager. He was a leading merchant in the colony, and served in its military. In the 1640s he went back to England to fight in the English Civil War.",
+          "semantic_score": 0.3697514533996582,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1082",
+          "text": "H. Donald Wilson\nHenry Donald Wilson (Nov. 21, 1923 - November 12, 2006), generally referred to as H. Donald Wilson was a database pioneer and entrepreneur. He was also the first president and one of the principal creators of the Lexis legal information system, and Nexis. An attorney by training who became an information industry innovator and a venture capital consultant to numerous businesses, Mr. Wilson was also an internationalist and a conservationist. At the time of his death, he was chairman of Lessac Technologies Inc., a text-to-voice software venture based on nearly fifty years of partnership with Arthur Lessac.",
+          "semantic_score": 0.33899274468421936,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6188",
+          "text": "John Button (Parliamentarian)\nJohn Button (died 1665) was an English politician who sat in the House of Commons at various times between 1625 and 1648. He fought on the Parliamentary side in the English Civil War.",
+          "semantic_score": 0.3019240200519562,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "919",
+          "text": "Rehnquist Court\nThe Rehnquist Court refers to the Supreme Court of the United States from 1986 to 2005, when William Rehnquist served as Chief Justice of the United States. Rehnquist succeeded Warren Burger as Chief Justice after the latter's retirement, and Rehnquist served as Chief Justice until his death in 2005, at which point John Roberts was nominated and confirmed as Rehnquist's replacement. The Rehnquist Court is generally considered to be more conservative than the preceding Burger Court and Warren Court. According to Jeffrey Rosen, Rehnquist combined an amiable nature with great organizational skill, and he \"led a Court that put the brakes on some of the excesses of the Earl Warren era while keeping pace with the sentiments of a majority of the country.\" Biographer John Jenkins argued that Rehnquist politicized the Supreme Court and moved the court and the country to the right. Through its rulings, the Rehnquist Court often promoted a policy of New Federalism in which more power was given to the states at the expense of the federal government. The Rehnquist Court was also notable for its stability, as the same nine justices served together from 1994 to 2005, the longest such stretch in Supreme Court history.",
+          "semantic_score": 0.21274566650390625,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "John M. Dowd"
+    }
+  ],
+  "links": [
+    {
+      "source": "1404",
+      "target": "1401",
+      "reason": "Paragraph 1404 identifies the Dowd Report as the document that precipitated Pete Rose's lifetime suspension and names John M. Dowd as its preparer; paragraph 1401 confirms Dowd is a lawyer who took the main role in the Dowd Report, directly bridging the report to the lawyer's name."
+    }
+  ],
+  "questions_seen": 142,
+  "_id": "5ab2b7c1554299166977406a",
+  "correct_answer": "John M. Dowd",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

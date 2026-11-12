@@ -1,0 +1,240 @@
+{
+  "question": "Gérald Genta, a Swiss jewelllery designer, worked with what luxury Swiss watch manufacturer which was founded by American Watch,aker Florentine Ariosts Jones?",
+  "answer": "IWC",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Gérald Genta?",
+      "retrieved": [
+        {
+          "id": "7857",
+          "text": "Don Manoukian\nDonald J. Manoukian (June 9, 1934 – September 23, 2014) was an American football guard and professional wrestler of Armenian descent from Reno, Nevada.",
+          "semantic_score": 0.46131381392478943,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "767",
+          "text": "Gérald Genta\nCharles Gérald Genta (1931-2011) was a Swiss jewellery designer, noted for his eponymous line of time pieces as well as his design work with other firms, including IWC, Universal Genève, Patek Philippe and Audemars Piguet, among others. Christie's auction house of New York called Genta's work \"\"the Fabergé of watches\"\", while \"The Wall Street Journal\" has called them the \"world's most complicated and pricey watches\".",
+          "semantic_score": 0.45956864953041077,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3457",
+          "text": "Philip Fasano\nPhilip Fasano is an executive vice president and the chief information officer at American International Group (AIG). Formerly he served as executive vice president and chief information officer at Kaiser Permanente. He graduated with a BS degree in computer science from New York Institute of Technology.",
+          "semantic_score": 0.4285756051540375,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4638",
+          "text": "Alan Faena\nAlan Faena (Buenos Aires, November 20, 1963) is an Argentine hotelier and real estate developer. He has developed properties in Miami Beach, Florida and Buenos Aires, Argentina. Faena is the founder and President of the Faena Group. He is a member of the Tate International Committee and the New Museum Leaders Council. He previously founded Via Vai in 1985, a fashion label, and worked as a fashion designer.",
+          "semantic_score": 0.41704127192497253,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7423",
+          "text": "Park Hyung-sik\nPark Hyung-Sik (born November 16, 1991), known mononymously as Hyungsik, is a South Korean singer and actor. He is a member of the South Korean boy group, and its sub-group ZE:A Five. Apart from his singing career, he is most well known for his work in \"The Heirs\" (2013), \"High Society\" (2015), \"\" (2016) and \"Strong Woman Do Bong-soon\" (2017).",
+          "semantic_score": 0.40440642833709717,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4635",
+          "text": "Faena Arts Center\nFaena Art Center is the cultural center of the Faena District Buenos Aires, a residential and cultural community in the Puerto Madero waterfront in Buenos Aires developed by the Faena Group and opened in September 2011. Alan Faena founded the center. Ximena Caminos is the Executive Director.",
+          "semantic_score": 0.22547563910484314,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4634",
+          "text": "Ximena Caminos\nXimena Caminos is Chair of Faena Art, Executive Creative Director and partner in Faena Group, and Chief Curator and Executive Director of the Faena Arts Center in Buenos Aires since 2004. Caminos leads the Faena Prize for the Arts (see: Faena Arts Center), one of the largest art prizes in Latin America. Caminos is the Executive Director of Faena Forum, \"a new kind of multidisciplinary center in a flexible building that can house dance, theater, political debates, lectures and a wide range of other cultural happenings,\" opened in Miami Beach in 2016 and designed by Rem Koolhaas",
+          "semantic_score": 0.17561668157577515,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7127",
+          "text": "Kim Hyun-joong\nKim Hyun-joong (; born June 6, 1986) is a South Korean actor and singer, and the leader and main rapper of boyband SS501.",
+          "semantic_score": 0.32123899459838867,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3456",
+          "text": "Chief information officer\nChief information officer (CIO), chief digital information officer (CDIO) or information technology (IT) director, is a job title commonly given to the most senior executive in an enterprise responsible for the information technology and computer systems that support enterprise goals. Typically, the CIO reports directly to the chief executive officer but may also report to the chief operating officer or chief financial officer. In military organizations, they report to the commanding officer. The Chief Information Officer role was first defined in 1981 by William R. Synnott, former Senior Vice President of the Bank of Boston, and William H. Gruber, former professor at the MIT Sloan School of Management.",
+          "semantic_score": 0.16076049208641052,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7118",
+          "text": "Kim Hyung-jun\nKim Hyung-jun (; born August 3, 1987) is a South Korean entertainer, lead rapper and youngest member of boyband SS501 and SS301.",
+          "semantic_score": 0.31968262791633606,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Gérald Genta was a Swiss jewellery designer, noted for his eponymous line of timepieces and his design work with firms including IWC, Universal Genève, Patek Philippe, and Audemars Piguet."
+    },
+    {
+      "step": 2,
+      "sub_question": "Which luxury Swiss watch manufacturer did Gérald Genta work with?",
+      "retrieved": [
+        {
+          "id": "767",
+          "text": "Gérald Genta\nCharles Gérald Genta (1931-2011) was a Swiss jewellery designer, noted for his eponymous line of time pieces as well as his design work with other firms, including IWC, Universal Genève, Patek Philippe and Audemars Piguet, among others. Christie's auction house of New York called Genta's work \"\"the Fabergé of watches\"\", while \"The Wall Street Journal\" has called them the \"world's most complicated and pricey watches\".",
+          "semantic_score": 0.8367627263069153,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "768",
+          "text": "Patek Philippe &amp; Co.\nPatek Philippe & Co. is a Swiss watch manufacturer founded in 1851, located in Geneva and the Vallée de Joux. It designs and manufactures timepieces and movements, including some of the most complicated mechanical watches. It is considered by many experts and aficionados to be one of the most prestigious watch manufacturers.",
+          "semantic_score": 0.5549979209899902,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1988",
+          "text": "Favre-Leuba\nFavre-Leuba is a Swiss manufacturer of wristwatches headquartered in Solothurn, Switzerland. It was a pioneer in watch design, manufacturing and distribution, thus contributing immensely to the Swiss watchmaking industry. The foundation of the brand was laid in 1737 when Abraham Favre was registered as a watchmaker, so it has been reported as the second-oldest watch brand in Switzerland.",
+          "semantic_score": 0.4936850666999817,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "766",
+          "text": "Hamilton Watch Company\nThe Hamilton Watch Company is a brand of the Swatch Group, a Swiss watch company based in Bienne, Switzerland. The Hamilton Watch Company had its genesis as an American watch design and manufacturing company, which incorporated in 1892 and produced its first watch in 1893.",
+          "semantic_score": 0.46579110622406006,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "772",
+          "text": "E. Gluck Corporation\nE. Gluck Corporation is an American watch manufacturer headquartered in Little Neck, New York. It was founded in 1956 by its current President, Eugen Gluck. E. Gluck Corporation manufactures watches under two flagship brand names, Armitron and Anne Klein. As of 1999, Armitron had the fifth largest share of all watch purchasers, by brand, in the United States. As of 2005, Armitron ranks as one of the top ten fine and fashion watch brands in the US, along with Timex, Fossil, Seiko, Citizen, Casio, Guess, Bulova, Movado, and Pulsar.",
+          "semantic_score": 0.461728036403656,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "769",
+          "text": "Lemania\nLemania was a Swiss watch manufacturer and manufacturer of watch movements.",
+          "semantic_score": 0.4575786888599396,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "773",
+          "text": "International Watch Company\nInternational Watch Co., also known as IWC, is a luxury Swiss watch manufacturer located in Schaffhausen, Switzerland, and founded by American watchmaker Florentine Ariosto Jones in 1868.",
+          "semantic_score": 0.4444619119167328,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "IWC, Universal Genève, Patek Philippe, and Audemars Piguet"
+    },
+    {
+      "step": 3,
+      "sub_question": "Which luxury Swiss watch manufacturer was founded by Florentine Ariosto Jones?",
+      "retrieved": [
+        {
+          "id": "768",
+          "text": "Patek Philippe &amp; Co.\nPatek Philippe & Co. is a Swiss watch manufacturer founded in 1851, located in Geneva and the Vallée de Joux. It designs and manufactures timepieces and movements, including some of the most complicated mechanical watches. It is considered by many experts and aficionados to be one of the most prestigious watch manufacturers.",
+          "semantic_score": 0.7543760538101196,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "773",
+          "text": "International Watch Company\nInternational Watch Co., also known as IWC, is a luxury Swiss watch manufacturer located in Schaffhausen, Switzerland, and founded by American watchmaker Florentine Ariosto Jones in 1868.",
+          "semantic_score": 0.6628701090812683,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1988",
+          "text": "Favre-Leuba\nFavre-Leuba is a Swiss manufacturer of wristwatches headquartered in Solothurn, Switzerland. It was a pioneer in watch design, manufacturing and distribution, thus contributing immensely to the Swiss watchmaking industry. The foundation of the brand was laid in 1737 when Abraham Favre was registered as a watchmaker, so it has been reported as the second-oldest watch brand in Switzerland.",
+          "semantic_score": 0.6315491795539856,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "771",
+          "text": "Ulysse Nardin\nUlysse Nardin is a luxury Swiss watch manufacturer founded in 1846 in Le Locle, Switzerland, which has remained in continuous production since. Ulysse Nardin has operated out of the same building headquartered in Le Locle, Switzerland since 1865. Historically, the company is best known for its manufacture of highly accurate marine chronometers supplied at one point during the 1800s to over fifty of the world's navies.",
+          "semantic_score": 0.6115627288818359,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "769",
+          "text": "Lemania\nLemania was a Swiss watch manufacturer and manufacturer of watch movements.",
+          "semantic_score": 0.599345326423645,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "766",
+          "text": "Hamilton Watch Company\nThe Hamilton Watch Company is a brand of the Swatch Group, a Swiss watch company based in Bienne, Switzerland. The Hamilton Watch Company had its genesis as an American watch design and manufacturing company, which incorporated in 1892 and produced its first watch in 1893.",
+          "semantic_score": 0.5792099237442017,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "International Watch Company (IWC)"
+    }
+  ],
+  "links": [
+    {
+      "source": "767",
+      "target": "773",
+      "reason": "Paragraph 767 lists IWC among the firms Gérald Genta designed for, and paragraph 773 identifies IWC as the luxury Swiss watch manufacturer founded by Florentine Ariosto Jones, bridging Genta to the manufacturer named in the question."
+    }
+  ],
+  "questions_seen": 78,
+  "_id": "5ade56ed5542997c77adee04",
+  "correct_answer": "International Watch Co.",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

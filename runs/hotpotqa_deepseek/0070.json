@@ -1,0 +1,188 @@
+{
+  "question": "What movie did Chris Duesterdiek work on that was directed by Seth Rogen and Evan Goldberg?",
+  "answer": "The Interview",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What movies has Chris Duesterdiek worked on?",
+      "retrieved": [
+        {
+          "id": "696",
+          "text": "Chris Duesterdiek\nChristopher \"Chris\" Robin Duesterdiek is a Canadian sound designer. He is best known for his work on \"The Snow Walker\" (2003), \"Elysium\" (2013), \"The Interview\" (2014) and \"The Revenant\" (2015).",
+          "semantic_score": 0.5995779037475586,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4987",
+          "text": "Adam Bond\nAdam Richardson Bond is a multi-ethnic, British-American actor and stage director. He began his career as a teenager as a film extra in Stanley Kubrick's final film, \"Eyes Wide Shut\". He has had minor roles in films such as \"Green Zone\", \"Legally Blonde\", \"\" and \"Inkheart\". His heritage can be traced back to Jewish, Polish, Scottish, French, Irish, and Lakota Sioux ancestry. During spring 2016 and 2017, he has portrayed Jesus Christ for the U.S.-based cable news giant CNN's continuing docudrama series \"Finding Jesus: Faith, Fact, Forgery\", in tandem with the Christian faith's observance of the Passion of Christ and Easter.",
+          "semantic_score": 0.4474979043006897,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9787",
+          "text": "Steve Buscemi\nSteven Vincent Buscemi ( ; born December 13, 1957) is an American actor and film director. Buscemi has starred and supported in successful Hollywood and indie films, including \"Parting Glances\", \"New York Stories\", \"Mystery Train\", \"Reservoir Dogs\", \"Desperado\", \"Con Air\", \"Armageddon\", \"The Grey Zone\", \"Ghost World\", \"Big Fish\", and \"The Sopranos\". He is also known for his appearances in many films by the Coen brothers: \"Miller's Crossing\", \"Barton Fink\", \"The Hudsucker Proxy\", \"Fargo\", and \"The Big Lebowski\". Buscemi provides the voice of Randall Boggs in the \"Monsters, Inc.\" franchise.",
+          "semantic_score": 0.4380873143672943,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2734",
+          "text": "Daniel Kaluuya\nDaniel Kaluuya (born 8 May 1989) is an English actor and writer. Kaluuya is best known for playing Chris Washington in the 2017 horror film \"Get Out\", Posh Kenneth in the E4 teen-drama \"Skins\", and Bing in the \"Black Mirror\" episode \"Fifteen Million Merits\".",
+          "semantic_score": 0.4284273087978363,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2792",
+          "text": "Edward Burns\nEdward Fitzgerald Burns (born January 29, 1968) is an American actor, film producer, writer, and director best known for appearing in several films including \"Saving Private Ryan\" (1998), \"15 Minutes\" (2001), \"Life or Something Like It\" (2002), \"A Sound of Thunder\" (2005), \"The Holiday\" (2006), \"One Missed Call\" (2008), \"27 Dresses\" (2008), \"Man on a Ledge\" (2012), \"Friends with Kids\" (2012), and \"Alex Cross\" (2012). Burns directed movies such as \"The Brothers McMullen\" (1995), \"She's the One\" (1996), \"Sidewalks of New York\" (2001), \"Purple Violets\" (2007), and \"The Fitzgerald Family Christmas\" (2012). He also starred as Bugsy Siegel in the TNT crime drama series \"Mob City\" and as Terry Muldoon in TNT's \"Public Morals\".",
+          "semantic_score": 0.42580461502075195,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6000",
+          "text": "Jeff Bridges\nJeffrey Leon Bridges (born December 4, 1949) is an American actor, singer and producer. He comes from a prominent acting family and appeared on the television series \"Sea Hunt\" (1958–60), with his father, Lloyd Bridges and brother, Beau Bridges. He won the Academy Award for Best Actor for his role as Otis \"Bad\" Blake in the 2009 film \"Crazy Heart\", and earned Academy Award nominations for his roles in \"The Last Picture Show\" (1971), \"Thunderbolt and Lightfoot\" (1974), \"Starman\" (1984), \"The Contender\" (2000), \"True Grit\" (2010), and \"Hell or High Water\" (2016). His other films include \"Tron\" (1982), \"Jagged Edge\" (1985), \"The Fabulous Baker Boys\" (1989), \"The Fisher King\" (1991), \"Fearless\" (1993), \"The Big Lebowski\" (1998), \"Seabiscuit\" (2003), \"Iron Man\" (2008), \"\" (2010), and \"The Giver\" (2014).",
+          "semantic_score": 0.3622506558895111,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9287",
+          "text": "A Monster Calls (film)\nA Monster Calls is a 2016 dark fantasy drama film directed by J. A. Bayona and written by Patrick Ness, based on his novel of the same name. The film stars Sigourney Weaver, Felicity Jones, Toby Kebbell, Lewis MacDougall, and Liam Neeson, and tells the story of Conor (MacDougall), a child whose mother (Jones) is terminally ill; one night, he is visited by a giant tree-like monster (Neeson), who states that he will come back and tell Conor three stories.",
+          "semantic_score": 0.25057175755500793,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1558",
+          "text": "Lou Cutell\nLou Cutell (born October 6, 1930) is an American movie and television actor. He portrayed the proctologist, Dr. Cooperman, in \"The Fusilli Jerry\" episode of the television series \"Seinfeld\" and Leo Funkhouser on \"Curb Your Enthusiasm\". Among cult movie fans, he is best known for his portrayal of Dr. Nadir in \"Frankenstein Meets the Space Monster\", and he can be briefly seen in \"Pee-wee's Big Adventure\" as Amazing Larry. In 1998, he also played a small role in \"The Odd Couple II\" as Abe, one of Oscar Madison (Walter Matthau)'s card-playing friends in Sarasota, Florida. Recently, he was a series regular on the NBC show, \"Betty White's Off Their Rockers\". In 2013, he appeared on the \"How I Met Your Mother\" episode \"Last Time in New York\".",
+          "semantic_score": 0.2667998969554901,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The Snow Walker (2003), Elysium (2013), The Interview (2014), and The Revenant (2015)."
+    },
+    {
+      "step": 2,
+      "sub_question": "Which of those movies were directed by Seth Rogen and Evan Goldberg?",
+      "retrieved": [
+        {
+          "id": "696",
+          "text": "Chris Duesterdiek\nChristopher \"Chris\" Robin Duesterdiek is a Canadian sound designer. He is best known for his work on \"The Snow Walker\" (2003), \"Elysium\" (2013), \"The Interview\" (2014) and \"The Revenant\" (2015).",
+          "semantic_score": 0.5253376960754395,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "703",
+          "text": "Superbad (film)\nSuperbad is a 2007 American teen comedy film directed by Greg Mottola and produced by Judd Apatow. The film stars Jonah Hill and Michael Cera as Seth and Evan, two teenagers about to graduate high-school. Before graduating, the boys want to go to a party and each lose their virginity. However, their plan proves harder than expected. Written by Seth Rogen and Evan Goldberg, the script began development when Rogen and Goldberg were 13 years old, and was loosely based on their experience in Grade 12 in Vancouver during the 1990s. The main characters have the same given names as the two writers. Rogen was also initially intended to play Seth, but due to age and physical size this was changed, and Hill went on to portray Seth, while Rogen portrayed the irresponsible Officer Michaels, opposite \"Saturday Night Live\" star Bill Hader as Officer Slater.",
+          "semantic_score": 0.4694681167602539,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "701",
+          "text": "The Interview\nThe Interview is a 2014 American action comedy film directed by Seth Rogen and Evan Goldberg. It is their second directorial work, following \"This Is the End\" (2013). The screenplay is by Dan Sterling, based upon a story he co-authored with Rogen and Goldberg. The film stars Rogen and James Franco as journalists who set up an interview with North Korean leader Kim Jong-un (Randall Park), and are recruited by the CIA to assassinate him. The film is also heavily inspired by a Vice documentary which was shot in 2012.",
+          "semantic_score": 0.46022915840148926,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "694",
+          "text": "Bigfoot (TV series)\nBigfoot is an American animated series television pilot created by Seth Rogen, Matt McKenna, and Evan Goldberg that is in development for the FX cable network. It would be based on the autobiographical bigfoot-themed books from the illustrator Graham Roumieu. Rogen, McKenna, and Goldberg would also be serving as executive producers of the show. The series will follow the protagonist Bigfoot.",
+          "semantic_score": 0.3972492516040802,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "691",
+          "text": "Angels &amp; Demons (film)\nAngels & Demons is a 2009 American mystery thriller film directed by Ron Howard and written by Akiva Goldsman and David Koepp, based on Dan Brown's novel of the same name. It is the sequel to the 2006 film \"The Da Vinci Code\", also directed by Howard, and the second installment in the \"Robert Langdon\" film series. The novel was published first and \"The Da Vinci Code\" novel followed it. Filming took place in Rome, Italy, and the Sony Pictures Studios in Culver City, California. Tom Hanks reprises his role as Professor Robert Langdon. Producer Brian Grazer, composer Hans Zimmer and screenwriter Akiva Goldsman also return, with David Koepp coming on board to help the latter.",
+          "semantic_score": 0.3960665762424469,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4434",
+          "text": "Angels &amp; Demons\nAngels & Demons is a 2000 bestselling mystery-thriller novel written by American author Dan Brown and published by Pocket Books and then by Corgi Books. The novel introduces the character Robert Langdon, who recurs as the protagonist of Brown's subsequent novels. \"Angels & Demons\" shares many stylistic literary elements with its sequel, such as conspiracies of secret societies, a single-day time frame, and the Catholic Church. Ancient history, architecture, and symbology are also heavily referenced throughout the book. A film adaptation was released on May 15, 2009. \"The Da Vinci Code\" film had been released in 2006.",
+          "semantic_score": 0.3130382001399994,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "697",
+          "text": "This Is the End\nThis Is the End is a 2013 American disaster black comedy horror fantasy film written, directed and story by Seth Rogen and Evan Goldberg and stars Rogen, James Franco, Jonah Hill, Jay Baruchel, Danny McBride, Craig Robinson, Michael Cera and Emma Watson. The story features real life actors playing fictionalized versions of themselves in the aftermath of a global biblical apocalypse. The film premiered at the Fox Village Theater on June 3, 2013 and was released in the United States on June 14, 2013 by Columbia Pictures, before being re-released on September 6, 2013. The film grossed $126 million on a $32 million budget.",
+          "semantic_score": 0.3340644836425781,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8961",
+          "text": "Sam Raimi\nSamuel M \"Sam\" Raimi ( ; born October 23, 1959) is an American film director, producer, screenwriter and actor, famous for creating the cult horror \"Evil Dead\" series, as well as directing the original \"Spider-Man\" trilogy (2002–07), the 1990 superhero film \"Darkman\" and the \"I Will Rip Your Soul Out\" scene from the 2013 remake of \"Evil Dead\". His most recent film is the 2013 Disney fantasy film \"Oz the Great and Powerful\".",
+          "semantic_score": 0.36099469661712646,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5641",
+          "text": "View Askew Productions\nView Askew Productions is an American film and television production company founded by Kevin Smith and Scott Mosier in 1994. Actors Ben Affleck, Jeff Anderson, Matt Damon, Chris Rock, Walter Flanagan, Bryan Johnson, Jason Lee, Jason Mewes, Brian O'Halloran, Ethan Suplee, and Smith himself are just some of the stars that frequently appear in projects under the View Askew banner.",
+          "semantic_score": 0.3195230960845947,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8826",
+          "text": "Peter Jackson\nSir Peter Robert Jackson {'1': \", '2': \", '3': \", '4': \"} (born 31 October 1961) is a New Zealand film director, screenwriter and film producer. He is best known as the director, writer, and producer of \"The Lord of the Rings\" trilogy (2001–03) and \"The Hobbit\" trilogy (2012–14), both of which are adapted from the novels of the same name by J. R. R. Tolkien. Other notable films include the critically lauded drama \"Heavenly Creatures\" (1994), the mockumentary \"Forgotten Silver\" (1995), the horror comedy \"The Frighteners\" (1996), the epic monster remake film \"King Kong\" (2005), and the supernatural drama film \"The Lovely Bones\" (2009). He also produced \"District 9\" (2009), \"The Adventures of Tintin: The Secret of the Unicorn\" (2011), and the documentary \"West of Memphis\" (2012).",
+          "semantic_score": 0.35678914189338684,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The Interview (2014)"
+    }
+  ],
+  "links": [
+    {
+      "source": "696",
+      "target": "701",
+      "reason": "Paragraph 696 lists The Interview (2014) among Chris Duesterdiek's works; paragraph 701 confirms The Interview was directed by Seth Rogen and Evan Goldberg, bridging the two sub-questions to the answer."
+    }
+  ],
+  "questions_seen": 71,
+  "_id": "5a88f7bf5542997e5c09a6dd",
+  "correct_answer": "The Interview",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

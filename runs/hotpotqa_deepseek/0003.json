@@ -1,0 +1,243 @@
+{
+  "question": "Sparking the Marian civil war, who helped the recently abdicated queen to escape her imprisonment?",
+  "answer": "Her gaoler's family",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What event sparked the Marian civil war?",
+      "retrieved": [
+        {
+          "id": "39",
+          "text": "Marian civil war\nThe Marian civil war in Scotland (1568–1573) was a period of conflict which followed the abdication of Mary, Queen of Scots, and her escape from Loch Leven Castle in May 1568. Those who ruled in the name of her infant son James VI fought against the supporters of the Queen, who was exiled in England. Edinburgh Castle, which was garrisoned in her name, became the focus of the conflict and surrendered only after an English intervention in May 1573. The conflict in 1570 was called an \"intestine war in the bowels of this commonwealth\", and the period was called soon after an \"intestine war driven by questions against authority.\"",
+          "semantic_score": 0.5381081104278564,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "37",
+          "text": "Battle of Langside\nThe Battle of Langside, fought on 13 May 1568, was one of the most unusual contests in Scottish history, bearing a superficial resemblance to a grand family quarrel, in which a woman fought her brother who was defending the rights of her infant son. In 1567, Mary, Queen of Scots' short period of personal rule ended in recrimination, intrigue and disaster when, after her capture at Carberry Hill, she was forced to abdicate in favour of James VI, her infant son. Mary was imprisoned in Loch Leven Castle, while her Protestant half-brother, James Stewart, Earl of Moray was appointed Regent on behalf of his nephew. In early May 1568 Mary escaped, heading west to the country of the Hamiltons, high among her remaining supporters, and the safety of Dumbarton Castle with the determination to restore her rights as queen. Mary was defeated and went into exile and captivity in England. The battle can be regarded as the start of the Marian civil war.",
+          "semantic_score": 0.44432133436203003,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9804",
+          "text": "Gwendolyn Elaine Armstrong\nGwendolyn Elaine Armstrong was a black Mississippi pioneer in the Civil Rights Movement. In September, 1965, she and Raylawni Branch, both local natives, integrated the University of Southern Mississippi at Hattiesburg. They thus completed the process of breaking the segregation barriers at Mississippi’s universities which had been begun by Clyde Kennard at (then) Mississippi Southern College (1956–61) and carried forward by James Meredith at the University of Mississippi (September, 1962) and Richard Holmes at Mississippi State University (July, 1965).",
+          "semantic_score": 0.38917556405067444,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4169",
+          "text": "Sierra Leone Civil War\nThe Sierra Leone Civil War (1991–2002) began on 23 March 1991 when the Revolutionary United Front (RUF), with support from the special forces of Charles Taylor’s National Patriotic Front of Liberia (NPFL), intervened in Sierra Leone in an attempt to overthrow the Joseph Momoh government. The resulting civil war lasted 11 years, enveloped the country, and left over 50,000 dead.",
+          "semantic_score": 0.3769129812717438,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4268",
+          "text": "Appomattox Campaign\nThe Appomattox Campaign was a series of American Civil War battles fought March 29 – April 9, 1865 in Virginia that concluded with the surrender of Confederate General Robert E. Lee's Army of Northern Virginia to forces of the Union Army (Army of the Potomac, Army of the James and Army of the Shenandoah) under the overall command of Lieutenant General Ulysses S. Grant. In the following eleven weeks after Lee's surrender, the American Civil War ended as other Confederate armies surrendered and Confederate government leaders were captured or fled the country.",
+          "semantic_score": 0.37240567803382874,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4273",
+          "text": "Battle of Appomattox Court House\nThe Battle of Appomattox Court House (Virginia, U.S.), fought on the morning of April 9th, 1865, was one of the last battles of the American Civil War (1861-1865). It was the final engagement of Confederate States Army general Robert E. Lee's Army of Northern Virginia before it surrendered to the Union Army / Army of the Potomac under Lt. Gen. and General-in-Chief Ulysses S. Grant. Lee, having abandoned the Confederate capital of Richmond, Virginia, after the ten-month Siege of Petersburg and Richmond, retreated west, hoping to join his army with the remaining Confederate forces in North Carolina of the Army of Tennessee under Gen. Joseph E. Johnston. Union infantry and cavalry forces under Gen. Phillip Sheridan pursued and cut off the Confederates' retreat at the central Virginia village of Appomattox Court House. Lee launched an last-ditch attack to break through the Union forces to his front, assuming the Union force consisted entirely of lightly armed cavalry. When he realized that the cavalry was now backed up by two corps of Federal infantry, he had no choice but to surrender with his further avenue of retreat and escape now cut off.",
+          "semantic_score": 0.33383890986442566,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "31",
+          "text": "Battle of Carberry Hill\nThe Battle of Carberry Hill took place on 15 June 1567, near Musselburgh, East Lothian, a few miles east of Edinburgh, Scotland. A number of Scottish lords objected to the rule of Mary, Queen of Scots after she had married the Earl of Bothwell, who was widely believed to have murdered her previous husband Lord Darnley. The Lords were intent to avenge Darnley's death. However, Bothwell escaped from the stand-off at Carberry while Queen Mary surrendered. Mary abdicated, escaped from prison, and was defeated at the battle of Langside. She went to exile in England while her supporters continued a civil war in Scotland.",
+          "semantic_score": 0.32199692726135254,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4270",
+          "text": "Battle of Lewis's Farm\nThe Battle of Lewis's Farm (also known as Quaker Road, Military Road, or Gravelly Run) was fought on March 29, 1865, in Dinwiddie County, Virginia near the end of the American Civil War. In climactic battles at the end of the Richmond–Petersburg Campaign, usually referred to as the Siege of Petersburg, starting with Lewis's Farm, the Union Army commanded by Lieutenant General Ulysses S. Grant dislodged the Confederate Army of Northern Virginia commanded by General Robert E. Lee from defensive lines at Petersburg, Virginia and the Confederate capital of Richmond, Virginia. Many historians and the United States National Park Service consider the Battle of Lewis's Farm to be the opening battle of the Appomattox Campaign, which resulted in the surrender of Lee's army on April 9, 1865.",
+          "semantic_score": 0.3502090573310852,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The Battle of Langside"
+    },
+    {
+      "step": 2,
+      "sub_question": "Who was the recently abdicated queen?",
+      "retrieved": [
+        {
+          "id": "37",
+          "text": "Battle of Langside\nThe Battle of Langside, fought on 13 May 1568, was one of the most unusual contests in Scottish history, bearing a superficial resemblance to a grand family quarrel, in which a woman fought her brother who was defending the rights of her infant son. In 1567, Mary, Queen of Scots' short period of personal rule ended in recrimination, intrigue and disaster when, after her capture at Carberry Hill, she was forced to abdicate in favour of James VI, her infant son. Mary was imprisoned in Loch Leven Castle, while her Protestant half-brother, James Stewart, Earl of Moray was appointed Regent on behalf of his nephew. In early May 1568 Mary escaped, heading west to the country of the Hamiltons, high among her remaining supporters, and the safety of Dumbarton Castle with the determination to restore her rights as queen. Mary was defeated and went into exile and captivity in England. The battle can be regarded as the start of the Marian civil war.",
+          "semantic_score": 0.7067780494689941,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "31",
+          "text": "Battle of Carberry Hill\nThe Battle of Carberry Hill took place on 15 June 1567, near Musselburgh, East Lothian, a few miles east of Edinburgh, Scotland. A number of Scottish lords objected to the rule of Mary, Queen of Scots after she had married the Earl of Bothwell, who was widely believed to have murdered her previous husband Lord Darnley. The Lords were intent to avenge Darnley's death. However, Bothwell escaped from the stand-off at Carberry while Queen Mary surrendered. Mary abdicated, escaped from prison, and was defeated at the battle of Langside. She went to exile in England while her supporters continued a civil war in Scotland.",
+          "semantic_score": 0.49926841259002686,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9723",
+          "text": "Elizabeth Stuart, Queen of Bohemia\nElizabeth Stuart (19 August 1596 – 13 February 1662) was Electress of the Palatinate and briefly Queen of Bohemia as the wife of Frederick V of the Palatinate. Due to her husband’s reign in Bohemia lasting for just one winter, Elizabeth is often referred to as The Winter Queen.",
+          "semantic_score": 0.4484800398349762,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2787",
+          "text": "Queen Anne's War\nQueen Anne's War (1702–1713), as the North American theater of the War of the Spanish Succession was known in the British colonies, was the second in a series of French and Indian Wars fought between France and England, later Great Britain, in North America for control of the continent. The War of the Spanish Succession was primarily fought in Europe. In addition to the two main combatants, the war also involved numerous American Indian tribes allied with each nation, and Spain, which was allied with France. It was also known as the Third Indian War or in French as the Second Intercolonial War.",
+          "semantic_score": 0.4345109462738037,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1033",
+          "text": "Johann von Geyso\nJohann von Geyso (1593 – 1661) was a German nobleman and General-Lieutenant, who fought during the course of the Thirty Years' War. After studying in a Dutch military academy, Geyso fought as a mercenary in the armies of Sweden, Bohemia, Denmark and the German Protestant Union. In 1628, having gained significant experience in warfare he returned to his native Hesse-Kassel which he served until the end of the Thirty Years' War, reaching the rank of commander in chief of the Langraviate's forces and becoming ennobled.",
+          "semantic_score": 0.4304039776325226,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "39",
+          "text": "Marian civil war\nThe Marian civil war in Scotland (1568–1573) was a period of conflict which followed the abdication of Mary, Queen of Scots, and her escape from Loch Leven Castle in May 1568. Those who ruled in the name of her infant son James VI fought against the supporters of the Queen, who was exiled in England. Edinburgh Castle, which was garrisoned in her name, became the focus of the conflict and surrendered only after an English intervention in May 1573. The conflict in 1570 was called an \"intestine war in the bowels of this commonwealth\", and the period was called soon after an \"intestine war driven by questions against authority.\"",
+          "semantic_score": 0.3735191524028778,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3159",
+          "text": "Military history of North America\nThe Military history of North America can be viewed as having four distinct phases. The first is the precolonial period, during which warfare and conquest occurred from time to time between Native American tribes and alliances. The second is the colonial period following the European discovery of the continent, during which the region saw both European efforts to wrest territories from their native inhabitante, and where European nations used their North American colonial possessions to wage wars with one another for the control of resources. This phase culminated in the American Revolution, with the continent thereafter shifting away from European military domination. The third phase was one of internal discord on the continent, including skirmishes between the United States and Canada, the Mexican–American War, the American Civil War and similar internal violence in Mexico, the Indian Wars, and the expulsion of the last major colonial bastion in the Spanish–American War.",
+          "semantic_score": 0.10168614238500595,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "35",
+          "text": "Loch Leven Castle\nLoch Leven Castle is a ruined castle on an island in Loch Leven, in the Perth and Kinross local authority area of Scotland. Possibly built around 1300, the castle was the location of military action during the Wars of Scottish Independence (1296–1357). In the latter part of the 14th century, the castle was granted by his uncle to William Douglas, 1st Earl of Douglas, and remained in Douglas' hands for the next 300 years. Mary, Queen of Scots was imprisoned here in 1567–1568, and forced to abdicate as queen, before escaping with the help of her gaoler's family. In 1588, the Queen's gaoler inherited the title Earl of Morton, and moved away from the castle. It was bought, in 1675, by Sir William Bruce, who used the castle as a focal point in his garden; it was never again used as a residence.",
+          "semantic_score": 0.2864048182964325,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Mary, Queen of Scots"
+    },
+    {
+      "step": 3,
+      "sub_question": "Who helped this queen escape her imprisonment?",
+      "retrieved": [
+        {
+          "id": "39",
+          "text": "Marian civil war\nThe Marian civil war in Scotland (1568–1573) was a period of conflict which followed the abdication of Mary, Queen of Scots, and her escape from Loch Leven Castle in May 1568. Those who ruled in the name of her infant son James VI fought against the supporters of the Queen, who was exiled in England. Edinburgh Castle, which was garrisoned in her name, became the focus of the conflict and surrendered only after an English intervention in May 1573. The conflict in 1570 was called an \"intestine war in the bowels of this commonwealth\", and the period was called soon after an \"intestine war driven by questions against authority.\"",
+          "semantic_score": 0.6345248222351074,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "37",
+          "text": "Battle of Langside\nThe Battle of Langside, fought on 13 May 1568, was one of the most unusual contests in Scottish history, bearing a superficial resemblance to a grand family quarrel, in which a woman fought her brother who was defending the rights of her infant son. In 1567, Mary, Queen of Scots' short period of personal rule ended in recrimination, intrigue and disaster when, after her capture at Carberry Hill, she was forced to abdicate in favour of James VI, her infant son. Mary was imprisoned in Loch Leven Castle, while her Protestant half-brother, James Stewart, Earl of Moray was appointed Regent on behalf of his nephew. In early May 1568 Mary escaped, heading west to the country of the Hamiltons, high among her remaining supporters, and the safety of Dumbarton Castle with the determination to restore her rights as queen. Mary was defeated and went into exile and captivity in England. The battle can be regarded as the start of the Marian civil war.",
+          "semantic_score": 0.591825544834137,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "35",
+          "text": "Loch Leven Castle\nLoch Leven Castle is a ruined castle on an island in Loch Leven, in the Perth and Kinross local authority area of Scotland. Possibly built around 1300, the castle was the location of military action during the Wars of Scottish Independence (1296–1357). In the latter part of the 14th century, the castle was granted by his uncle to William Douglas, 1st Earl of Douglas, and remained in Douglas' hands for the next 300 years. Mary, Queen of Scots was imprisoned here in 1567–1568, and forced to abdicate as queen, before escaping with the help of her gaoler's family. In 1588, the Queen's gaoler inherited the title Earl of Morton, and moved away from the castle. It was bought, in 1675, by Sir William Bruce, who used the castle as a focal point in his garden; it was never again used as a residence.",
+          "semantic_score": 0.5601131319999695,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "31",
+          "text": "Battle of Carberry Hill\nThe Battle of Carberry Hill took place on 15 June 1567, near Musselburgh, East Lothian, a few miles east of Edinburgh, Scotland. A number of Scottish lords objected to the rule of Mary, Queen of Scots after she had married the Earl of Bothwell, who was widely believed to have murdered her previous husband Lord Darnley. The Lords were intent to avenge Darnley's death. However, Bothwell escaped from the stand-off at Carberry while Queen Mary surrendered. Mary abdicated, escaped from prison, and was defeated at the battle of Langside. She went to exile in England while her supporters continued a civil war in Scotland.",
+          "semantic_score": 0.47104474902153015,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9723",
+          "text": "Elizabeth Stuart, Queen of Bohemia\nElizabeth Stuart (19 August 1596 – 13 February 1662) was Electress of the Palatinate and briefly Queen of Bohemia as the wife of Frederick V of the Palatinate. Due to her husband’s reign in Bohemia lasting for just one winter, Elizabeth is often referred to as The Winter Queen.",
+          "semantic_score": 0.4400293231010437,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1072",
+          "text": "Elisabeth of Bavaria, Queen of Germany\nElisabeth of Bavaria (  1227 – 9 October 1273), a member of the House of Wittelsbach, was Queen consort of Germany from 1246 to 1254 by her marriage to King Conrad IV of Germany.",
+          "semantic_score": 0.28182291984558105,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Her gaoler's family"
+    }
+  ],
+  "links": [
+    {
+      "source": "35",
+      "target": "39",
+      "reason": "Paragraph 35 identifies Mary's escape from Loch Leven Castle as being helped by her gaoler's family, while paragraph 39 identifies that same escape from Loch Leven Castle as the event that sparked the Marian civil war, bridging the escape helper to the war's outbreak."
+    },
+    {
+      "source": "35",
+      "target": "37",
+      "reason": "Paragraph 35 states Mary escaped Loch Leven Castle with her gaoler's family's help; paragraph 37 confirms Mary was imprisoned in Loch Leven Castle and escaped in early May 1568, with the Battle of Langside regarded as the start of the Marian civil war."
+    },
+    {
+      "source": "37",
+      "target": "39",
+      "reason": "Paragraph 37 says the Battle of Langside can be regarded as the start of the Marian civil war, while paragraph 39 defines the Marian civil war as following Mary's abdication and escape from Loch Leven Castle, jointly linking the escape to the war's outbreak."
+    }
+  ],
+  "questions_seen": 4,
+  "_id": "5ae6c2285542995703ce8b9a",
+  "correct_answer": "the Queen's gaoler",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

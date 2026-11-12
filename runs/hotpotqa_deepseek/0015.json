@@ -1,0 +1,334 @@
+{
+  "question": "Are Steve Perry and Leslie West both singers?",
+  "answer": "Yes",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Steve Perry?",
+      "retrieved": [
+        {
+          "id": "148",
+          "text": "S. D. Perry\nStephani Danelle Perry (credited as S. D. Perry in her works) is an American novelist. She is the daughter of writer Steve Perry.",
+          "semantic_score": 0.6485861539840698,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "150",
+          "text": "Steve Perry (Oregon musician)\nStephen Henry Perry (born October 8, 1963) is an American musician, best known as lead singer, songwriter and rhythm guitarist for the Oregon ska-swing band the Cherry Poppin' Daddies.",
+          "semantic_score": 0.5772992968559265,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3102",
+          "text": "Jason Perry (singer)\nJason Perry (born 29 December 1969) is a Grammy award-winning English record producer and singer/songwriter. He is the lead vocalist of the Suffolk based band ’A’. He has an identical twin brother, Adam, and an older brother, Giles, both of whom are also members of the band. Recently, Perry has produced albums by Greywind, Fatherson, Don Broco, Molotov, McBusted, Matthew P, Ivyrise, The Blackout, Kids in Glass Houses, Get Cape. Wear Cape. Fly, Futures, Matt Willis and McFly.",
+          "semantic_score": 0.5345664620399475,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9042",
+          "text": "Scott Pye\nScott Robert Pye (born 8 January, 1990) is an Australian professional racing driver competing in the Virgin Australia Supercars Championship. He currently drives the No. 2 Holden VF Commodore for Walkinshaw Racing.",
+          "semantic_score": 0.4508891701698303,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6597",
+          "text": "Danny Hodge\nDaniel Allen Hodge (born May 13, 1932) is a retired American wrestler and boxer. He is renowned for his wrestling career, both amateur and professional. He was born and raised in Perry, Oklahoma, where he continues to live. He is famous for the ability to crush apples with one hand, a feat which he demonstrated live on ESPN during the 2006 NCAA Wrestling Championships. He said his strength was due to having double tendons in his hands.",
+          "semantic_score": 0.4450984597206116,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9038",
+          "text": "David Reynolds (racing driver)\nDavid Reynolds (born 3 July, 1985) is an Australian professional racing driver. He currently drives the No. 9 Holden VF Commodore for Erebus Motorsport in the Virgin Australia Supercars Championship.",
+          "semantic_score": 0.3407941460609436,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9045",
+          "text": "Macauley Jones\nMacauley Jones (born 6 October 1994) is an Australian racing driver currently who competes in the Dunlop Series, driving the No. 14 Holden VF Commodore for Brad Jones Racing. He is also a co-driver in the Pirtek Enduro Cup series.",
+          "semantic_score": 0.26443663239479065,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9039",
+          "text": "Shane van Gisbergen\nShane van Gisbergen (born 9 May, 1989) is a New Zealand racing driver competing in the Supercars Championship. He currently drives the No. 97 Holden VF Commodore for Triple Eight Race Engineering.",
+          "semantic_score": 0.3060593008995056,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8019",
+          "text": "James Bourne\nJames Elliot Bourne (born 13 September 1983 in Rochford, Essex, England) is an English singer-songwriter and co-founder of pop rock bands Busted and Son of Dork as well as a solo electronic project, Future Boy. From 2013-2015 he was a member of supergroup McBusted, which consisted of himself, Busted bandmate Matt Willis, and McFly.",
+          "semantic_score": 0.2907945513725281,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9040",
+          "text": "James Moffat (racing driver)\nJames Moffat (born 18 June 1984) is an Australian professional racing driver competing in the Virgin Australia Supercars Championship. He currently drives the No. 34 Holden VF Commodore for Garry Rogers Motorsport.",
+          "semantic_score": 0.30397701263427734,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Steve Perry is an American musician, best known as the lead singer, songwriter and rhythm guitarist for the Oregon ska-swing band the Cherry Poppin' Daddies."
+    },
+    {
+      "step": 2,
+      "sub_question": "Is Steve Perry a singer?",
+      "retrieved": [
+        {
+          "id": "150",
+          "text": "Steve Perry (Oregon musician)\nStephen Henry Perry (born October 8, 1963) is an American musician, best known as lead singer, songwriter and rhythm guitarist for the Oregon ska-swing band the Cherry Poppin' Daddies.",
+          "semantic_score": 0.9375281929969788,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3102",
+          "text": "Jason Perry (singer)\nJason Perry (born 29 December 1969) is a Grammy award-winning English record producer and singer/songwriter. He is the lead vocalist of the Suffolk based band ’A’. He has an identical twin brother, Adam, and an older brother, Giles, both of whom are also members of the band. Recently, Perry has produced albums by Greywind, Fatherson, Don Broco, Molotov, McBusted, Matthew P, Ivyrise, The Blackout, Kids in Glass Houses, Get Cape. Wear Cape. Fly, Futures, Matt Willis and McFly.",
+          "semantic_score": 0.5288325548171997,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "148",
+          "text": "S. D. Perry\nStephani Danelle Perry (credited as S. D. Perry in her works) is an American novelist. She is the daughter of writer Steve Perry.",
+          "semantic_score": 0.5134174227714539,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "217",
+          "text": "Ricky Skaggs\nRickie Lee Skaggs (born July 18, 1954), known professionally as Ricky Skaggs, is an American country and bluegrass singer, musician, producer, and composer. He primarily plays mandolin; however, he also plays fiddle, guitar, mandocaster and banjo.",
+          "semantic_score": 0.43683138489723206,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9712",
+          "text": "Ray Fenwick\nRaymond John Fenwick (born 18 July 1946) is an English guitarist and session musician, best known for replacing Steve Howe in The Syndicats, and as the lead guitarist of Ian Gillan's post Deep Purple solo project, the Ian Gillan Band.",
+          "semantic_score": 0.4300338923931122,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9713",
+          "text": "Ian Gillan\nIan Gillan (born 19 August 1945) is an English singer and songwriter. He originally found commercial success as the lead singer and lyricist for Deep Purple.",
+          "semantic_score": 0.34810829162597656,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9721",
+          "text": "Ian Gillan &amp; Tony Iommi: WhoCares\nWhoCares, full title Ian Gillan & Tony Iommi: WhoCares is a music project by Deep Purple frontman Ian Gillan and Black Sabbath guitarist Tony Iommi and a charity release by the supergroup WhoCares they had formed with the help of other musicians, to raise money to rebuild a music school in Gyumri, Armenia after the destruction of the city in the 1988 earthquake in Armenia.",
+          "semantic_score": 0.315258651971817,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9718",
+          "text": "The Javelins\nThe Javelins, sometimes also known as Ian Gillan & the Javelins, was a 1960s band fronted by Ian Gillan of Deep Purple. The band played live but never recorded in their initial spell together. The other members included rhythm guitarist Tony Tacon, bass player Tony Whitfield,drummer Keith Roach and lead guitarist Gordon Fairminer. All from Hayes/Heston area of West London.",
+          "semantic_score": 0.26061564683914185,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "223",
+          "text": "Highway 40 Blues\n\"Highway 40 Blues\" is a song written by Larry Cordle, and recorded by American country music artist Ricky Skaggs. It was released in March 1983 as the third single from the album \"Highways & Heartaches\". \"Highway 40 Blues\" was Ricky Skaggs' fifth number one on the country chart and his fifth consecutive number one. The single stayed at number one for one week and spent a total of twelve weeks on the chart.",
+          "semantic_score": 0.23331308364868164,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "218",
+          "text": "Cajun Moon\n\"Cajun Moon' is a song written by Jim Rushing, and recorded by American country artist Ricky Skaggs. It was released in January 1986 as the second single from the album \"Live in London\". \"Cajun Moon\" was Ricky Skaggs' tenth number one on the country chart. The single went to number one for one week and spent thirteen weeks on the country chart.",
+          "semantic_score": 0.28946536779403687,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "step": 3,
+      "sub_question": "Who is Leslie West?",
+      "retrieved": [
+        {
+          "id": "153",
+          "text": "The Leslie West Band\nThe Leslie West Band is the third album released by American rock guitarist Leslie West. The album, recorded at Electric Lady Studios in New York City, was released on Bud Prager's Phantom Records in 1976 and features Mick Jones of Foreigner on guitar.",
+          "semantic_score": 0.6541822552680969,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "146",
+          "text": "Leslie West\nLeslie West (born Leslie Weinstein; October 22, 1945) is an American rock guitarist, vocalist, and songwriter. He is best known as a founding member of the hard rock band Mountain.",
+          "semantic_score": 0.617033839225769,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "147",
+          "text": "Leslie West Live!\nLeslie West Live! is a live album by Leslie West, released in 1993.",
+          "semantic_score": 0.5870534181594849,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7164",
+          "text": "West Is West (2010 film)\nWest Is West is a 2010 British comedy-drama film, which is a sequel to the 1999 comedy \"East Is East\". It stars Om Puri, Linda Bassett, Aqib Khan, Ila Arun and Jimi Mistry, is written by Ayub Khan-Din, directed by Andy DeEmmony, and produced by Leslee Udwin for Assassin Films and BBC Films.",
+          "semantic_score": 0.42704328894615173,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6464",
+          "text": "Merlakia Jones\nMerlakia Jones (born June 21, 1974) is a former American college and professional basketball player who was a guard in the Women's National Basketball Association (WNBA) for eight seasons during the 1990s and 2000s. Jones played college basketball for the University of Florida, and then played professionally for the Cleveland Rockers and Detroit Shock of the WNBA.",
+          "semantic_score": 0.4122256934642792,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7160",
+          "text": "East Is East (1999 film)\nEast Is East is a 1999 British comedy-drama film written by Ayub Khan-Din and directed by Damien O'Donnell. It is set in Salford, Lancashire, in 1971, in a mixed-ethnicity British household headed by Pakistani father George (Om Puri) and an English mother, Ella (Linda Bassett).",
+          "semantic_score": 0.31396517157554626,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6472",
+          "text": "Jalen Jones\nJalen Jones (born May 27, 1993) is an American professional basketball player for the New Orleans Pelicans of the National Basketball Association (NBA). He was signed on a two-way contract with the NBA G League. He played college basketball for Southern Methodist and Texas A&M.",
+          "semantic_score": 0.2875595986843109,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Leslie West (born Leslie Weinstein; October 22, 1945) is an American rock guitarist, vocalist, and songwriter, best known as a founding member of the hard rock band Mountain."
+    },
+    {
+      "step": 4,
+      "sub_question": "Is Leslie West a singer?",
+      "retrieved": [
+        {
+          "id": "146",
+          "text": "Leslie West\nLeslie West (born Leslie Weinstein; October 22, 1945) is an American rock guitarist, vocalist, and songwriter. He is best known as a founding member of the hard rock band Mountain.",
+          "semantic_score": 0.981003999710083,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "153",
+          "text": "The Leslie West Band\nThe Leslie West Band is the third album released by American rock guitarist Leslie West. The album, recorded at Electric Lady Studios in New York City, was released on Bud Prager's Phantom Records in 1976 and features Mick Jones of Foreigner on guitar.",
+          "semantic_score": 0.7189913988113403,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "151",
+          "text": "Climbing!\nClimbing!, also known as Mountain Climbing!, is the official debut studio album by American blues rock band Mountain. Released on March 7, 1970, the album featured the 'classic' Mountain lineup of Leslie West (guitar, vocals), Felix Pappalardi (bass, vocals, piano), Corky Laing (drums, percussion) and Steve Knight (keyboards) and followed the West solo album \"Mountain\" featuring Pappalardi and drummer Norman Smart, released in 1969 and often credited to the band. Produced by Pappalardi, the album reached number 17 on the American \"Billboard\" 200 albums chart and featured the band's best-known song, \"Mississippi Queen\". An early rendition of \"For Yasgur's Farm\" was actually performed at the Woodstock Festival in August 1969 as Who Am I But You And The Sun. It was subsequently recorded and retitled for the album.",
+          "semantic_score": 0.5525673627853394,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "147",
+          "text": "Leslie West Live!\nLeslie West Live! is a live album by Leslie West, released in 1993.",
+          "semantic_score": 0.5422897338867188,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8468",
+          "text": "Alexander Young (musician)\nAlexander Young (28 December 1938 – 4 August 1997), also known as George Alexander, was a Scottish singer, songwriter, saxophonist, bassist, guitarist and session musician. He is an elder brother of George Young, the rhythm guitarist and founding member of the Easybeats, as well as Malcolm and Angus Young, founding members of the Australian hard rock band AC/DC, and the younger brother of Stephen Young, the father of Stevie Young, who was also a member of AC/DC.",
+          "semantic_score": 0.4300806522369385,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8467",
+          "text": "Stevie Young\nStephen Crawford Young (born 11 December 1956 in Glasgow, Scotland) is a Scottish musician, and the rhythm guitarist and backing vocalist for the Australian hard rock band, AC/DC. He officially joined the band in September 2014, replacing his uncle, Malcolm Young who retired due to dementia. He had previously filled in for Malcolm on AC/DC's 1988 U.S. tour.",
+          "semantic_score": 0.3506067991256714,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6072",
+          "text": "Vanda &amp; Young\nVanda & Young were a songwriting/producing duo composed of Harry Vanda and George Young. They performed as members of 1960s Australian rock group The Easybeats where Vanda was their lead guitarist and backing singer and Young was their rhythm guitarist and backing singer. Vanda & Young co-wrote most of The Easybeats later hits including their international hit \"Friday on My Mind\" and they were the record producers for the group from 1967. Young is the older brother of Malcolm and Angus Young of the hard rock band AC/DC, being the record producer behind several of the band's biggest albums (such as 1976's \"Dirty Deeds Done Dirt Cheap\").",
+          "semantic_score": 0.31562313437461853,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "links": [
+    {
+      "source": "150",
+      "target": "146",
+      "reason": "Paragraph 150 identifies Steve Perry as a lead singer; paragraph 146 identifies Leslie West as a vocalist, together establishing that both are singers."
+    }
+  ],
+  "questions_seen": 16,
+  "_id": "5a8481945542997175ce1ed3",
+  "correct_answer": "yes",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

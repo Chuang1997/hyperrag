@@ -1,0 +1,236 @@
+{
+  "question": "In what year was the Golden State NBA player, who was part of the Cavaliers-Warriors rivalry, named NBA Finals Most Valuable Player?",
+  "answer": "2015",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who are the Golden State NBA players who were part of the Cavaliers–Warriors rivalry?",
+      "retrieved": [
+        {
+          "id": "162",
+          "text": "Cavaliers–Warriors rivalry\nThe Cavaliers–Warriors rivalry is a National Basketball Association (NBA) rivalry between the Cleveland Cavaliers and the Golden State Warriors. While the two teams have played each other since the Cavaliers joined the league in 1970, their rivalry did not develop until the 2014–15 season, when they met in the first of three consecutive NBA Finals series. The two teams have met in three straight NBA Finals, becoming the only two teams in NBA history to do so. Of these three series, the Warriors have won two, most recently in 2017the Cavaliers have won one, in 2016. The two teams feature 11 NBA All-Stars: LeBron James, Kyrie Irving, Kevin Love, Deron Williams and Kyle Korver (Cleveland), and Stephen Curry, Kevin Durant, Draymond Green, Klay Thompson, David West and Andre Iguodala (Golden State). Two players, Andrew Bogut and Anderson Varejão, played for both teams during this time.",
+          "semantic_score": 0.7417588829994202,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "163",
+          "text": "Kevin Durant\nKevin Wayne Durant (born September 29, 1988) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). He has won an NBA championship, an NBA Most Valuable Player Award, the Bill Russell NBA Finals Most Valuable Player Award, the NBA All-Star Game Most Valuable Player Award, four NBA scoring titles, the NBA Rookie of the Year Award, and two Olympic gold medals. Durant has also been selected to seven All-NBA teams and eight NBA All-Star teams.",
+          "semantic_score": 0.5336326956748962,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "160",
+          "text": "Andre Iguodala\nAndre Tyler Iguodala ( ; born January 28, 1984) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). The swingman was an NBA All-Star in 2012 and has been named to the NBA All-Defensive Team twice. Iguodala won an NBA championship with the Warriors in 2015, when he was named the NBA Finals Most Valuable Player. Iguodala helped the Warriors return to the NBA Finals for a third straight year in 2017, winning his second NBA Championship. He was also a member of the United States national team at the 2010 FIBA World Championship and 2012 Summer Olympics, winning the gold medal both times.",
+          "semantic_score": 0.518033504486084,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "156",
+          "text": "Klay Thompson\nKlay Alexander Thompson (born February 8, 1990) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). The son of former NBA player Mychal Thompson, he played college basketball for three seasons at Washington State University, where he was a two-time first-team all-conference selection in the Pac-10. Thompson was selected in the first round of the 2011 NBA draft by Golden State with the 11th overall pick. In 2014, he and teammate Stephen Curry set a then NBA record with 484 combined three-pointers in a season, as the pair were given the nickname the \"Splash Brothers\". Thompson is a three-time NBA All-Star and a two-time All-NBA Third Team honoree. In 2015, he helped lead the Warriors to their first NBA Championship since 1975. Thompson helped the Warriors return to the NBA Finals for a third straight year in 2017, winning his second NBA Championship.",
+          "semantic_score": 0.501044511795044,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "154",
+          "text": "2015 NBA Finals\nThe 2015 NBA Finals was the championship series of the 2014–15 season of the National Basketball Association (NBA) and the conclusion of the season's playoffs. The Western Conference champion Golden State Warriors defeated the Eastern Conference champion Cleveland Cavaliers in six games (4–2) for the Warriors' first title in 40 years and their fourth in franchise history, becoming the first team since the 1990–91 Chicago Bulls to win a championship without any prior Finals experience from any player on their roster. Golden State's Andre Iguodala was named the Finals Most Valuable Player (MVP).",
+          "semantic_score": 0.47865256667137146,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "158",
+          "text": "Stephen Curry\nWardell Stephen Curry II (born March 14, 1988) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). Many players and analysts have called him the greatest shooter in NBA history. In 2014–15, Curry won the NBA Most Valuable Player Award and led the Warriors to their first championship since 1975. The following season, he became the first player in NBA history to be elected MVP by a unanimous vote and to lead the league in scoring while shooting above 50–40–90. That same year, the Warriors broke the record for the most wins in an NBA season. Curry helped the Warriors return to the NBA Finals for a third straight year in 2017, where he won his second NBA championship.",
+          "semantic_score": 0.45794442296028137,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7177",
+          "text": "Mychal Thompson\nMychal George Thompson (born January 30, 1955) is a Bahamian retired basketball player. He played the power forward and center positions for the University of Minnesota and the NBA's Portland Trail Blazers, San Antonio Spurs, and Los Angeles Lakers. Thompson won two NBA championships with the Lakers during their Showtime era in the 1980s. He is the father of basketball players Klay Thompson, and Mychel Thompson, and baseball player Trayce Thompson.",
+          "semantic_score": 0.3962547481060028,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Stephen Curry, Kevin Durant, Draymond Green, Klay Thompson, David West, Andre Iguodala"
+    },
+    {
+      "step": 2,
+      "sub_question": "Which of those players was named NBA Finals Most Valuable Player?",
+      "retrieved": [
+        {
+          "id": "163",
+          "text": "Kevin Durant\nKevin Wayne Durant (born September 29, 1988) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). He has won an NBA championship, an NBA Most Valuable Player Award, the Bill Russell NBA Finals Most Valuable Player Award, the NBA All-Star Game Most Valuable Player Award, four NBA scoring titles, the NBA Rookie of the Year Award, and two Olympic gold medals. Durant has also been selected to seven All-NBA teams and eight NBA All-Star teams.",
+          "semantic_score": 0.706348717212677,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "158",
+          "text": "Stephen Curry\nWardell Stephen Curry II (born March 14, 1988) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). Many players and analysts have called him the greatest shooter in NBA history. In 2014–15, Curry won the NBA Most Valuable Player Award and led the Warriors to their first championship since 1975. The following season, he became the first player in NBA history to be elected MVP by a unanimous vote and to lead the league in scoring while shooting above 50–40–90. That same year, the Warriors broke the record for the most wins in an NBA season. Curry helped the Warriors return to the NBA Finals for a third straight year in 2017, where he won his second NBA championship.",
+          "semantic_score": 0.631036639213562,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "160",
+          "text": "Andre Iguodala\nAndre Tyler Iguodala ( ; born January 28, 1984) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). The swingman was an NBA All-Star in 2012 and has been named to the NBA All-Defensive Team twice. Iguodala won an NBA championship with the Warriors in 2015, when he was named the NBA Finals Most Valuable Player. Iguodala helped the Warriors return to the NBA Finals for a third straight year in 2017, winning his second NBA Championship. He was also a member of the United States national team at the 2010 FIBA World Championship and 2012 Summer Olympics, winning the gold medal both times.",
+          "semantic_score": 0.62833172082901,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "156",
+          "text": "Klay Thompson\nKlay Alexander Thompson (born February 8, 1990) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). The son of former NBA player Mychal Thompson, he played college basketball for three seasons at Washington State University, where he was a two-time first-team all-conference selection in the Pac-10. Thompson was selected in the first round of the 2011 NBA draft by Golden State with the 11th overall pick. In 2014, he and teammate Stephen Curry set a then NBA record with 484 combined three-pointers in a season, as the pair were given the nickname the \"Splash Brothers\". Thompson is a three-time NBA All-Star and a two-time All-NBA Third Team honoree. In 2015, he helped lead the Warriors to their first NBA Championship since 1975. Thompson helped the Warriors return to the NBA Finals for a third straight year in 2017, winning his second NBA Championship.",
+          "semantic_score": 0.6140709519386292,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "157",
+          "text": "2013 NBA Summer League\nThe 2013 NBA Summer League is a pro basketball league run by the NBA just after the 2013 NBA draft. It gives newly drafted players a chance to test their skills against each other, and to give them a feel for professional basketball. All 30 NBA teams participated, along with the D-League Select. The Miami Heat were the only team to participate in both Summer Leagues. It ran from July 7–12 in Orlando and July 12–22 in Las Vegas. Jeremy Lamb of the Oklahoma City Thunder was named the Most Valuable Player of the Orlando Summer League. Jonas Valančiūnas of the Toronto Raptors went on to be named the Most Valuable Player of the Las Vegas Summer League. Ian Clark of the Golden State Warriors was named the Most Valuable Player of the Las Vegas Summer League Championship Game.",
+          "semantic_score": 0.5764859318733215,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7177",
+          "text": "Mychal Thompson\nMychal George Thompson (born January 30, 1955) is a Bahamian retired basketball player. He played the power forward and center positions for the University of Minnesota and the NBA's Portland Trail Blazers, San Antonio Spurs, and Los Angeles Lakers. Thompson won two NBA championships with the Lakers during their Showtime era in the 1980s. He is the father of basketball players Klay Thompson, and Mychel Thompson, and baseball player Trayce Thompson.",
+          "semantic_score": 0.5140429735183716,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2587",
+          "text": "2017 NBA Summer League\nThe 2017 NBA Summer League consisted of three pro basketball leagues organized by the National Basketball Association (NBA): the Orlando Pro Summer League, Utah Jazz Summer League, and Las Vegas Summer League.",
+          "semantic_score": 0.32476678490638733,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Kevin Durant, Andre Iguodala"
+    },
+    {
+      "step": 3,
+      "sub_question": "In what year was that player named NBA Finals MVP?",
+      "retrieved": [
+        {
+          "id": "163",
+          "text": "Kevin Durant\nKevin Wayne Durant (born September 29, 1988) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). He has won an NBA championship, an NBA Most Valuable Player Award, the Bill Russell NBA Finals Most Valuable Player Award, the NBA All-Star Game Most Valuable Player Award, four NBA scoring titles, the NBA Rookie of the Year Award, and two Olympic gold medals. Durant has also been selected to seven All-NBA teams and eight NBA All-Star teams.",
+          "semantic_score": 0.6928420662879944,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "160",
+          "text": "Andre Iguodala\nAndre Tyler Iguodala ( ; born January 28, 1984) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). The swingman was an NBA All-Star in 2012 and has been named to the NBA All-Defensive Team twice. Iguodala won an NBA championship with the Warriors in 2015, when he was named the NBA Finals Most Valuable Player. Iguodala helped the Warriors return to the NBA Finals for a third straight year in 2017, winning his second NBA Championship. He was also a member of the United States national team at the 2010 FIBA World Championship and 2012 Summer Olympics, winning the gold medal both times.",
+          "semantic_score": 0.6857156753540039,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "154",
+          "text": "2015 NBA Finals\nThe 2015 NBA Finals was the championship series of the 2014–15 season of the National Basketball Association (NBA) and the conclusion of the season's playoffs. The Western Conference champion Golden State Warriors defeated the Eastern Conference champion Cleveland Cavaliers in six games (4–2) for the Warriors' first title in 40 years and their fourth in franchise history, becoming the first team since the 1990–91 Chicago Bulls to win a championship without any prior Finals experience from any player on their roster. Golden State's Andre Iguodala was named the Finals Most Valuable Player (MVP).",
+          "semantic_score": 0.5705552697181702,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "158",
+          "text": "Stephen Curry\nWardell Stephen Curry II (born March 14, 1988) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). Many players and analysts have called him the greatest shooter in NBA history. In 2014–15, Curry won the NBA Most Valuable Player Award and led the Warriors to their first championship since 1975. The following season, he became the first player in NBA history to be elected MVP by a unanimous vote and to lead the league in scoring while shooting above 50–40–90. That same year, the Warriors broke the record for the most wins in an NBA season. Curry helped the Warriors return to the NBA Finals for a third straight year in 2017, where he won his second NBA championship.",
+          "semantic_score": 0.5615596771240234,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "156",
+          "text": "Klay Thompson\nKlay Alexander Thompson (born February 8, 1990) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). The son of former NBA player Mychal Thompson, he played college basketball for three seasons at Washington State University, where he was a two-time first-team all-conference selection in the Pac-10. Thompson was selected in the first round of the 2011 NBA draft by Golden State with the 11th overall pick. In 2014, he and teammate Stephen Curry set a then NBA record with 484 combined three-pointers in a season, as the pair were given the nickname the \"Splash Brothers\". Thompson is a three-time NBA All-Star and a two-time All-NBA Third Team honoree. In 2015, he helped lead the Warriors to their first NBA Championship since 1975. Thompson helped the Warriors return to the NBA Finals for a third straight year in 2017, winning his second NBA Championship.",
+          "semantic_score": 0.5219667553901672,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7177",
+          "text": "Mychal Thompson\nMychal George Thompson (born January 30, 1955) is a Bahamian retired basketball player. He played the power forward and center positions for the University of Minnesota and the NBA's Portland Trail Blazers, San Antonio Spurs, and Los Angeles Lakers. Thompson won two NBA championships with the Lakers during their Showtime era in the 1980s. He is the father of basketball players Klay Thompson, and Mychel Thompson, and baseball player Trayce Thompson.",
+          "semantic_score": 0.4706728160381317,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "162",
+          "text": "Cavaliers–Warriors rivalry\nThe Cavaliers–Warriors rivalry is a National Basketball Association (NBA) rivalry between the Cleveland Cavaliers and the Golden State Warriors. While the two teams have played each other since the Cavaliers joined the league in 1970, their rivalry did not develop until the 2014–15 season, when they met in the first of three consecutive NBA Finals series. The two teams have met in three straight NBA Finals, becoming the only two teams in NBA history to do so. Of these three series, the Warriors have won two, most recently in 2017the Cavaliers have won one, in 2016. The two teams feature 11 NBA All-Stars: LeBron James, Kyrie Irving, Kevin Love, Deron Williams and Kyle Korver (Cleveland), and Stephen Curry, Kevin Durant, Draymond Green, Klay Thompson, David West and Andre Iguodala (Golden State). Two players, Andrew Bogut and Anderson Varejão, played for both teams during this time.",
+          "semantic_score": 0.5218628644943237,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "2015"
+    }
+  ],
+  "links": [
+    {
+      "source": "162",
+      "target": "160",
+      "reason": "Paragraph 162 identifies Andre Iguodala as a Golden State player in the Cavaliers–Warriors rivalry; paragraph 160 states he was named NBA Finals MVP in 2015, bridging the rivalry player to the MVP year."
+    },
+    {
+      "source": "160",
+      "target": "154",
+      "reason": "Paragraph 160 says Iguodala was named Finals MVP in 2015; paragraph 154 confirms the 2015 NBA Finals MVP was Andre Iguodala, jointly establishing the year."
+    },
+    {
+      "source": "162",
+      "target": "154",
+      "reason": "Paragraph 162 establishes the Cavaliers–Warriors Finals rivalry beginning in 2014–15; paragraph 154 identifies that 2015 Finals and its MVP, linking the rivalry context to the MVP year."
+    }
+  ],
+  "questions_seen": 17,
+  "_id": "5a84574455429933447460e6",
+  "correct_answer": "2015",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

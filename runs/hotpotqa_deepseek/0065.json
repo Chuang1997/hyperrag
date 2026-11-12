@@ -1,0 +1,196 @@
+{
+  "question": "What 1944 Bollywood film was the mother of Bollywood actor Govinda in?",
+  "answer": "Jwar Bhata",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is the mother of Bollywood actor Govinda?",
+      "retrieved": [
+        {
+          "id": "653",
+          "text": "Nirmala Devi\nNirmala Devi, also known as Nirmala Arun (died 1996), was an Indian film actress in the 1940s and a Hindustani classical vocalist of the Patiala Gharana. She is the mother of Bollywood actor Govinda.",
+          "semantic_score": 0.7051554322242737,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "652",
+          "text": "Vinay Anand\nVinay Anand (Hindi: विनय आनंद ) is an Indian actor, having featured in around 60 Hindi and Bhojpuri movies. Known for his roles in movies like Dil Ne Phir Yaad Kiya, Sautela, Jahan Jaaeyega Hamen Paaeyega, Aamdani Atthani Kharcha Rupaiyaa, Vinay Anand is also related to Bollywood actor Govinda.",
+          "semantic_score": 0.5789213180541992,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4438",
+          "text": "Mom (film)\nMom is a 2017 Indian thriller film directed by Ravi Udyawar. Produced by Boney Kapoor, Sunil Manchanda, Mukesh Talreja, Naresh Agarwal and Gautam Jain, the film stars Sridevi, as a vigilante, who sets out to avenge her daughter, played by Sajal Ali. Adnan Siddiqui. Akshaye Khanna and Nawazuddin Siddiqui play supporting roles in the film. Music for the film has been produced by A. R. Rahman. The film was released on 7 July 2017, in four languages, and received positive reviews from film critics. It was successful commercially as well. \"Mom\" marked Sridevi's 300th film appearance.",
+          "semantic_score": 0.5615156292915344,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "592",
+          "text": "Divya Rana\nDivya Rana is a former Bollywood actress most noted for her role in Raj Kapoor's \"Ram Teri Ganga Maili\" Divya began her career with the film \"Ek Jaan Hain Hum\" (1984) opposite Raj Kapoor's youngest son Rajiv Kapoor. Then she was selected as the second lead in Raj Kapoor's \"Ram Teri Ganga Maili\" (1985) co-starring Rajiv Kapoor & Mandakini. Divya later acted in films like \"Watan Ke Rakhwale\", \"Ek Hi Maqsad , Aasmaan (1984) , Maa Kasam (1985 film) , Param Dharam as Munnibai)\" and many others. She quit acting after her marriage and currently lives in Mumbai with her husband Fazal and goes by the name Salma Manekia. She works as a photographer and makes ceramic sculptures.",
+          "semantic_score": 0.5214366912841797,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4436",
+          "text": "Shashaa Tirupati\nShashaa Tirupati is a playback singer, songwriter and voice over artist of Indo-Canadian origin, with family roots in Kashmir, predominantly active in the Bollywood and South Indian music industries. She is the voice behind Bollywood hits such as: \"The Humma Song\" (OK Jaanu), \"Phir Bhi Tumko Chahunga\" (with Arijit Singh) (Half Girlfriend), \"Baarish\" (Half Girlfriend), \"Kanha\" (Shubh Mangal Saavdhan), \"O Sona Tere Liye\" (with A.R. Rahman) and \"Chal Kahin Door\", both from the Sridevi starrer MOM.",
+          "semantic_score": 0.5205308198928833,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "586",
+          "text": "Ram Teri Ganga Maili\nRam Teri Ganga Maili (literal translation: \"Ram, Your Ganga's Become Impure\") is a 1985 Bollywood film directed by actor-director Raj Kapoor. The movie stars Mandakini and Rajiv Kapoor, son of Raj Kapoor. It was Raj Kapoor's last film. The film became a \"Blockbuster\" at the box office and went on to be the highest grossing Hindi film of 1985. The music director Ravindra Jain received a Filmfare Award for this film. The storyline of the film is somewhat similar to \"Pakeezah\". The film became very controversial because of Mandakini's bold scenes of breastfeeding and bathing in a transparent saree, which wasn't something the conservative Indian Censor Board allowed at that point in time.",
+          "semantic_score": 0.426368772983551,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8342",
+          "text": "Kareena Kapoor filmography\nKareena Kapoor, also credited by her married name Kareena Kapoor Khan, is an Indian actress who has appeared in over 50 Bollywood films. Kapoor made her acting debut opposite Abhishek Bachchan in the 2000 drama \"Refugee\", for which she earned a Filmfare Award for Best Female Debut. The following year, she appeared in five films, including the romance \"Mujhe Kucch Kehna Hai\", the thriller \"Ajnabee\", and the ensemble melodrama \"Kabhi Khushi Kabhie Gham...\". The latter emerged as the highest-grossing Bollywood film in overseas market to that point, and the success of these films established her in Bollywood. However, she followed this with roles in a series of commercial failures, including \"Mujhse Dosti Karoge!\" (2002) and \"Main Prem Ki Diwani Hoon\" (2003), in which she was perceived to play variations of her character in \"Kabhi Khushi Kabhie Gham...\".",
+          "semantic_score": 0.4386402666568756,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8340",
+          "text": "Sudha Malhotra\nSudha Malhotra is an Indian playback singer. She also acted in some Bollywood films and as a playback singer worked in popular Bollywood movies in the 1950s and 1960s, like \"Arzoo\", \"Dhool Ka Phool\", \"Ab Dilli Door Nahin\", \"Girl Friend\", \"Barsat Ki Raat\", \"Didi\", \"Kala Pani\", \"Prem Rog\", and \"Dekh Kabira Roya\". She was last heard in Raj Kapoor's \"Prem Rog\" (1982) in the song \"Yeh Pyar tha ya kuch aur tha\". Apart from Hindi songs Sudha sang many popular Marathi songs (Bhavgeet) with Arun Date.",
+          "semantic_score": 0.4029293358325958,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1600",
+          "text": "Amitabh Bachchan filmography\nAmitabh Bachchan is an Indian film actor, playback singer, producer and television personality. He made his acting debut in 1969 with \"Saat Hindustani\", and narrated Mrinal Sen's \"Bhuvan Shome\" (1969). He later appeared as Dr. Bhaskar Banerjee in Hrishikesh Mukherjee's \"Anand\" (1971), for which he won the Filmfare Award for Best Supporting Actor. In 1973, Bachchan played the role of Inspector Vijay Khanna in Prakash Mehra's action film \"Zanjeer\". He has since appeared in several films with the character name \"Vijay\". During the same year, he appeared in \"Abhimaan\" and \"Namak Haraam\". For the latter, he received the Filmfare Award for Best Supporting Actor. Two years later he appeared along with Shashi Kapoor, in Yash Chopra's \"Deewar\", which earned him the Filmfare Award for Best Actor nomination. He was cited as the \"angry young man\" for his roles in \"Deewaar\" and \"Zanjeer\". Later he starred in Ramesh Sippy's \"Sholay\" (1975), which is considered to be one of the greatest Indian films of all time. After appearing in the romantic drama \"Kabhie Kabhie\" (1976), Bachchan starred in Manmohan Desai's action comedy \"Amar Akbar Anthony\" (1977). He won the Filmfare Award for Best Actor for his performance in the latter. He then played dual roles of Don and Vijay in \"Don\" (1978).",
+          "semantic_score": 0.42672428488731384,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7672",
+          "text": "Madhuri Desai\nMadhuri Desai is an Indian actress, model and a dancer. She played the lead role of Veda Deshmukh in the Marathi TV serial Yek Number that aired on Star Pravah.She is currently working with director Mahesh Manjrekar on his upcoming movie alongside other notable stars .She has finished her post graduation in Pharma Management from Mumbai University.",
+          "semantic_score": 0.49167001247406006,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Nirmala Devi"
+    },
+    {
+      "step": 2,
+      "sub_question": "What 1944 Bollywood film was she in?",
+      "retrieved": [
+        {
+          "id": "653",
+          "text": "Nirmala Devi\nNirmala Devi, also known as Nirmala Arun (died 1996), was an Indian film actress in the 1940s and a Hindustani classical vocalist of the Patiala Gharana. She is the mother of Bollywood actor Govinda.",
+          "semantic_score": 0.6389154195785522,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9321",
+          "text": "Zindagi (1940 film)\nZindagi (Life) is a 1940 Indian Bollywood film directed by P.C. Barua. It was the highest grossing Indian film of 1940. The music, by Pankaj Mullick, features songs such as \"So Ja Rajkumari\" and \"Jeevan Asha Hai\". It starred K. L. Saigal, Jamuna, Pahari Sanyal, Shyam Laha, Sitara Devi, and Nemo. The film has been described as one of Barua's \"most beautiful films, and his last for New Theatres\".",
+          "semantic_score": 0.4948146939277649,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9317",
+          "text": "Dharti Mata (film)\nDharti Mata is a 1938 Hindi social film directed by Nitin Bose. The film was also made and in Bengali as \"Desher Mati\" in the same year by New Theatres. It starred K.L. Saigal, Uma Shashi, Jagdish Sethi, Kamlesh Kumari, and K. C. Dey. The music was by Pankaj Mullick and lyricist and dialogue writer was Pandit Sudarshan. The story, screenplay and cinematography was by Nitin Bose. The story is about two friends Ashok and Ajay, one interested in agriculture and the other in technology. Ashok goes to the village to help the farmers while Ajay goes to UK for higher studies in engineering. The film highlights the need of technology and new concepts for effective farming.",
+          "semantic_score": 0.4627326726913452,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9318",
+          "text": "Dikshul\nDikshul is a 1943 Indian Bengali film directed by Premankur Atorthy. The film was produced by New Theatres Ltd, Calcutta. Its music direction was by Pankaj Mullick and the cinematographer was Rabi Dhar. The lyricist for the film was Kazi Nazrul Islam who was famous as the Bidrohi Kavi (Rebel Poet). The film marked the entry of actress and singer Binota Roy as a playback singer. The cast included",
+          "semantic_score": 0.45601266622543335,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9083",
+          "text": "Neetu Singh (born 1990)\nNeetu Singh (born 25 November 1990) is a model and Punjabi actress. She came to the showbiz spotlight when she won Miss PTC Punjabi in 2008. Soon after she came in a famous music video \"Call Jalandhar Ton\" by Harbhajan Maan. She debuted in Dil Tainu Karda Ae Pyaar with Gulzar Inder Chahal in 2012. Her latest movie Saadi Love Story was released in January 2013. In addition to that she also appeared in the Bollywood heist film Special 26 released in February 2013.",
+          "semantic_score": 0.45518967509269714,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9077",
+          "text": "Saadi Love Story\nSaadi Love Story is a Punjabi film starring Amrinder Gill, Diljit Dosanjh, Surveen Chawla and Neetu Singh. Jimmy Shergill is the co-producer and Dheeraj Rattan is the director as well as the screenplay writer. This is Dheeraj Rattan's debut movie as a director.",
+          "semantic_score": 0.30869606137275696,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7909",
+          "text": "Mansi Aggarwal\nMansi Aggarwal is an Indian choreographer who has choreographed dances in Bollywood movies. She is best known for choreographing the song, 'Bharat Mata ki Jai, from the movie Shanghai that starred actor Emraan Hashmi - the song gained a lot of popularity and became a 'hit' in India. She has worked with notable actors such as Sushant Singh Rajput in the award-winning movie, Kai Po Che, and with Abhay Deol in the movie Dev D. The song 'Suno Na Sangemarmar' that she choreographed was nominated for Stardust and Filmfare awards.",
+          "semantic_score": 0.3537934124469757,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "592",
+          "text": "Divya Rana\nDivya Rana is a former Bollywood actress most noted for her role in Raj Kapoor's \"Ram Teri Ganga Maili\" Divya began her career with the film \"Ek Jaan Hain Hum\" (1984) opposite Raj Kapoor's youngest son Rajiv Kapoor. Then she was selected as the second lead in Raj Kapoor's \"Ram Teri Ganga Maili\" (1985) co-starring Rajiv Kapoor & Mandakini. Divya later acted in films like \"Watan Ke Rakhwale\", \"Ek Hi Maqsad , Aasmaan (1984) , Maa Kasam (1985 film) , Param Dharam as Munnibai)\" and many others. She quit acting after her marriage and currently lives in Mumbai with her husband Fazal and goes by the name Salma Manekia. She works as a photographer and makes ceramic sculptures.",
+          "semantic_score": 0.38282090425491333,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9322",
+          "text": "Pankaj Mullick\nPankaj Mullick, also known as Pankaj Kumar Mullick (\"Pôngkoj Kumar Mollik\"; 10 May 1905 – 19 February 1978), was a Bengali Indian music director, who was a pioneer of film music in Bengali cinema and Hindi cinema at the advent of playback singing, as well as an early exponent of Rabindra Sangeet.",
+          "semantic_score": 0.26649242639541626,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4393",
+          "text": "Paresh Mokashi\nParesh Mokashi (born 6 February 1969) is an Indian filmmaker, producer, actor and Theatre director-producer; working predominantly in Marathi cinema and Marathi theatre. He started working as a backstage worker for theatre and did few minor roles for plays as well as films. Mokashi made his directorial debut for theatre with the Marathi play, \"Sangeet Debuchya Mulee\" in 1999. He continued to work for theatre and made his directorial debut for cinema with the 2009 Marathi feature film, \"Harishchandrachi Factory\". The film depicts the making of India's first full-length feature film, \"Raja Harishchandra\" (1913), made by Dadasaheb Phalke. The film was acclaimed critically and won several awards. It was also selected as India's official entry to 82nd Academy Awards in the Best Foreign Language Film category.",
+          "semantic_score": 0.36214572191238403,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Jwar Bhata"
+    }
+  ],
+  "links": [],
+  "questions_seen": 66,
+  "_id": "5a7732dc55429972597f149b",
+  "correct_answer": "Geet or The Song",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

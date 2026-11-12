@@ -1,0 +1,188 @@
+{
+  "question": "In the The Simpsons episode \"Principal Charming, Homer invites a character over for dinner who is voiced by whom?",
+  "answer": "Harry Shearer",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "In The Simpsons episode \"Principal Charming,\" which character does Homer invite over for dinner?",
+      "retrieved": [
+        {
+          "id": "1452",
+          "text": "Principal Charming\n\"Principal Charming\" is the fourteenth episode of \"The Simpsons\"<nowiki>'</nowiki> second season. It originally aired on the Fox network in the United States on February 14, 1991. In the episode, Marge's sister Selma is looking for a husband, so Marge orders Homer to help her find one. Things go wrong, however, when Homer invites Principal Skinner over for dinner and Skinner instead falls for Selma's twin sister Patty.",
+          "semantic_score": 0.7271709442138672,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1455",
+          "text": "Homer Goes to College\n\"Homer Goes to College\" is the third episode of \"The Simpsons\"<nowiki>'</nowiki> fifth season. It originally aired on the Fox network in the United States on October 14, 1993. In the episode, Homer's lack of a college degree is revealed and he is sent to Springfield University to pass a nuclear physics class. Homer, who bases his perception of college on comedy films and TV shows, goofs around and is sent to a group of boys for tutoring. The boys, who are stereotypical nerds, try to help Homer, but he instead tries to help them party and decides to pull a prank on another college. They steal Springfield A&M's mascot, but his friends are caught and expelled. Homer invites them to live with him, but his family soon become angered by their new housemates.",
+          "semantic_score": 0.5955541133880615,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1457",
+          "text": "Principal Skinner\nPrincipal W. Seymour Skinner (born Armin Tamzarian) is a fictional character in the American animated sitcom \"The Simpsons\", who is voiced by Harry Shearer. He is the principal of Springfield Elementary School, which he struggles to control, and is constantly engaged in a battle against its inadequate resources, apathetic and bitter teachers, and often rowdy and unenthusiastic students, Bart Simpson being a standout example.",
+          "semantic_score": 0.5593950152397156,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1450",
+          "text": "The Food Wife\n\"The Food Wife\" is the fifth episode of the twenty-third season of the American animated sitcom \"The Simpsons\". It originally aired on the Fox network in the United States on November 13, 2011, and was seen by around 7.5 million people during this broadcast. In the episode, Homer feels left out when Marge, Bart, and Lisa join a group of foodies. Their personal blog quickly becomes popular and the trio is invited to a molecular gastronomy restaurant. Feeling pity toward Homer, Marge invites him along. However, after beginning to worry that he will reclaim his position as the parent perceived as the most fun by the children, she sends him to the wrong address. Homer unknowingly arrives at a meth lab, where a gunfight starts as the police burst in.",
+          "semantic_score": 0.538972795009613,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1449",
+          "text": "Homer Loves Flanders\n\"Homer Loves Flanders\" is the sixteenth episode of \"The Simpsons\"<nowiki>'</nowiki> fifth season. It originally aired on the Fox network in the United States on March 17, 1994. In the episode, Ned Flanders invites Homer to a football game and the two become good friends. However, Ned soon grows weary of Homer's overbearing friendship and stupid antics, and begins to hate him.",
+          "semantic_score": 0.5357468724250793,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5164",
+          "text": "Ned Flanders\nNedward \"Ned\" Flanders, Jr. is a recurring fictional character in the animated television series \"The Simpsons\". He is voiced by Harry Shearer, and first appeared in the series premiere episode \"Simpsons Roasting on an Open Fire\". He is the good-natured, cheery next-door neighbor to the Simpson family and is generally loathed by Homer Simpson. A devout Evangelical Christian with an annoyingly perfect family, he is among the friendliest and most compassionate of Springfield's residents and is generally considered a pillar of the Springfield community.",
+          "semantic_score": 0.5244702100753784,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5167",
+          "text": "Homer's Odyssey (The Simpsons)\n\"Homer's Odyssey\" is the third episode of the first season of \"The Simpsons\". It originally aired on the Fox network in the United States on January 21, 1990. In this episode, Homer becomes a crusader for citizen safety in Springfield, and is promoted to his current position as Nuclear Safety Inspector for the entire power plant. It was written by Jay Kogen and Wallace Wolodarsky and was the first \"Simpsons\" script to be completed, although it was the third episode produced.",
+          "semantic_score": 0.48642438650131226,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1456",
+          "text": "Homer vs. Lisa and the 8th Commandment\n\"Homer vs. Lisa and the 8th Commandment\" is the thirteenth episode of \"The Simpsons\"<nowiki>'</nowiki> second season. The 26th episode of the series overall, it originally aired on the Fox network in the United States on February 7, 1991. In the episode, Homer gets an illegal cable hook-up. Despite the family's enjoyment of the new channels, Lisa becomes suspicious that they are stealing cable. Her suspicions are confirmed by Reverend Lovejoy and she protests by no longer watching television. Meanwhile, Bart manages to tune into a sexually explicit adult movie channel, and Homer invites his friends over to watch a boxing match, but Lisa's protest gets to him. He decides not to watch the fight and cuts the cable.",
+          "semantic_score": 0.5154497623443604,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Principal Skinner"
+    },
+    {
+      "step": 2,
+      "sub_question": "Who voices that character?",
+      "retrieved": [
+        {
+          "id": "1457",
+          "text": "Principal Skinner\nPrincipal W. Seymour Skinner (born Armin Tamzarian) is a fictional character in the American animated sitcom \"The Simpsons\", who is voiced by Harry Shearer. He is the principal of Springfield Elementary School, which he struggles to control, and is constantly engaged in a battle against its inadequate resources, apathetic and bitter teachers, and often rowdy and unenthusiastic students, Bart Simpson being a standout example.",
+          "semantic_score": 0.6463189721107483,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2444",
+          "text": "Garcia Júnior\nManoel Garcia Júnior (March 2, 1967 - ) is a Brazilian voice actor, translator, and dubbing director from São Paulo. He is best known as the voice of He-Man in the media franchise Masters of the Universe, Montgomery Moose in The Get Along Gang, and Donald Duck in Disney productions. He is the son of voice actor Garcia Neto.",
+          "semantic_score": 0.41846317052841187,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5585",
+          "text": "G. D. Spradlin\nGervase Duan \"G.D.\" Spradlin (August 31, 1920 – July 24, 2011) was an American actor. Known for his distinctive accent and voice, he often played devious authority figures. He is credited in over 70 television and film productions, and performed alongside actors including Marlon Brando, Al Pacino, Charlton Heston, George C. Scott, and Johnny Depp.",
+          "semantic_score": 0.41207966208457947,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "696",
+          "text": "Chris Duesterdiek\nChristopher \"Chris\" Robin Duesterdiek is a Canadian sound designer. He is best known for his work on \"The Snow Walker\" (2003), \"Elysium\" (2013), \"The Interview\" (2014) and \"The Revenant\" (2015).",
+          "semantic_score": 0.408458411693573,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2443",
+          "text": "Tex Brashear\nTex Brashear (born January 2, 1955) is a voice actor, who after a career in radio in Texas, Arizona, and Los Angeles, made the transition into voice acting. Known as \"The Man of 1000 Voices\" (although he actually does more than 3000), Brashear has been heard in thousands of cartoons, radio and television commercials, and has narrated many nature and historical films. His \"basso profundo\" voice has been heard in countless movie trailers through the years. His comedic singing has even been featured on \"The Doctor Demento Show\". He has also voiced and produced comedy bits for \"The Howard Stern Show\" and \"The Rush Limbaugh Program\". Winner of 102 Addy Awards, he is also credited with discovering and developing the technique of reverse breathing, a vocal technique used by voice actors to help sustain their long breaths. It is somewhat related to circular breathing. In addition to voice acting, he has also served as casting director and dialect coach for many films, both American and foreign, and has contributed many research papers on the history of the American Southwest.",
+          "semantic_score": 0.4066371023654938,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5160",
+          "text": "Kent Brockman\nKent Brockman is a fictional character in the animated television series \"The Simpsons\". He is voiced by Harry Shearer and first appeared in the episode \"Krusty Gets Busted\". He is a grumpy, self-centered local Springfield news anchor.",
+          "semantic_score": 0.3650270402431488,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5159",
+          "text": "Waylon Smithers\nWaylon J. Smithers Jr., usually referred to as Mr. Smithers or simply Smithers, is a recurring fictional character in the American animated sitcom \"The Simpsons\", who is voiced by Harry Shearer. Smithers first appeared in the episode \"Homer's Odyssey\", although his voice could be heard in the series premiere \"Simpsons Roasting on an Open Fire\". He is the consummate executive and personal assistant of Springfield Nuclear Power Plant's owner Mr. Burns.",
+          "semantic_score": 0.33730220794677734,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1451",
+          "text": "Hans Moleman\nHans Moleman is a recurring character on the animated television series \"The Simpsons\". He was created by series creator Matt Groening and is voiced by Dan Castellaneta and first appeared in the episode \"Principal Charming\". His appearance usually comes in the form of a running gag, in which, as a bystander to disastrous events, he suffers unfortunate, often seemingly fatal accidents, only to return in later episodes completely unharmed.",
+          "semantic_score": 0.39379119873046875,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5164",
+          "text": "Ned Flanders\nNedward \"Ned\" Flanders, Jr. is a recurring fictional character in the animated television series \"The Simpsons\". He is voiced by Harry Shearer, and first appeared in the series premiere episode \"Simpsons Roasting on an Open Fire\". He is the good-natured, cheery next-door neighbor to the Simpson family and is generally loathed by Homer Simpson. A devout Evangelical Christian with an annoyingly perfect family, he is among the friendliest and most compassionate of Springfield's residents and is generally considered a pillar of the Springfield community.",
+          "semantic_score": 0.28254804015159607,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5162",
+          "text": "Otto Mann\nOtto Mann is a fictional character on the animated TV series \"The Simpsons\", voiced by Harry Shearer. He is the school bus driver for Springfield Elementary School.",
+          "semantic_score": 0.3818725347518921,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Harry Shearer"
+    }
+  ],
+  "links": [
+    {
+      "source": "1452",
+      "target": "1457",
+      "reason": "Paragraph 1452 identifies Principal Skinner as the character Homer invites to dinner in 'Principal Charming'; paragraph 1457 states that Principal Skinner is voiced by Harry Shearer, directly bridging the episode's dinner guest to his voice actor."
+    }
+  ],
+  "questions_seen": 147,
+  "_id": "5ae786c8554299540e5a55d7",
+  "correct_answer": "Harry Shearer",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

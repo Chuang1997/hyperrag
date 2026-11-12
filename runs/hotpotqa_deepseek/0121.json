@@ -1,0 +1,266 @@
+{
+  "question": "What Harry Potter actor strred in My Boy Jack?",
+  "answer": "Daniel Radcliffe",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who are the actors in the Harry Potter films?",
+      "retrieved": [
+        {
+          "id": "3847",
+          "text": "Sam Clemmett\nSam Clemmett is a British actor. Born in Brundall, Norfolk, Clemmett began his acting career in 2013. He is known for being cast as Albus Potter in 2015 for the British play Harry Potter and the Cursed Child. His performance in the play has made him popular with Harry Potter fans, as well as the creator of Harry Potter, J.K. Rowling. Rowling stated that, \"There's much I could say about Sam-as-Albus, but we'd be into spoiler territory so quickly I'll just say we couldn't have cast better.\" He played the role in the West End, until late-Spring 2017.",
+          "semantic_score": 0.5054292678833008,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1203",
+          "text": "Daniel Radcliffe\nDaniel Jacob Radcliffe (born 23 July 1989) is an English actor best known for his role as Harry Potter in the film series of the same name. He made his acting debut at 10 years of age in BBC One's 1999 television film \"David Copperfield\", followed by his cinematic debut in 2001's \"The Tailor of Panama\". At age 11, he was cast as Harry Potter in the first \"Harry Potter\" film, and starred in the series for 10 years until the release of the eighth and final film in 2011.",
+          "semantic_score": 0.4984009265899658,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3849",
+          "text": "Harry Morgan\nHarry Morgan (born Harry Bratsberg, April 10, 1915 – December 7, 2011) was an American actor and director whose television and film career spanned six decades. Morgan's major roles included Pete Porter in both \"December Bride\" (1954–1959) and \"Pete and Gladys\" (1960–1962); Officer Bill Gannon on \"Dragnet\" (1967–1970); Amos Coogan on \"Hec Ramsey\" (1972–1974); and his starring role as Colonel Sherman T. Potter in \"M*A*S*H\" (1975–1983) and \"AfterMASH\" (1983–1984). Morgan appeared in more than 100 films.",
+          "semantic_score": 0.447456032037735,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1199",
+          "text": "Lego Harry Potter\nLego \"Harry Potter\" is a Lego theme based on the films of the \"Harry Potter\" series. Lego models of important scenes, vehicles and characters were made for the first six films and all the books released. The first sets appeared in 2001, to coincide with the release of the first film \"Harry Potter and the Philosopher's Stone\" (Harry Potter and the Sorcerer's Stone in the United States). Subsequent sets were released alongside the new films, until Harry Potter and the Order of the Phoenix. The line then went dormant for three years. It is unknown if the theme will again be revived to coincide with future installations in the Harry Potter franchise, such as the film Fantastic Beasts and Where to Find Them.",
+          "semantic_score": 0.4434134364128113,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1202",
+          "text": "Fantastic Beasts and Where to Find Them\nFantastic Beasts and Where to Find Them is a 2001 book written by British author J. K. Rowling (under the pen name of the fictitious author Newt Scamander) about the magical creatures in the \"Harry Potter\" universe. The original version purports to be Harry Potter's copy of the textbook of the same name mentioned in \"Harry Potter and the Philosopher's Stone\" (or \"Harry Potter and the Sorcerer's Stone\" in the US), the first novel of the \"Harry Potter\" series. It includes several notes inside it supposedly handwritten by Harry, Ron Weasley, and Hermione Granger, detailing their own experiences with some of the beasts described, and including in-jokes relating to the original series.",
+          "semantic_score": 0.3966089189052582,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1208",
+          "text": "Lego Harry Potter: Years 1–4\nLego Harry Potter: Years 1–4 is a Lego-themed action-adventure video game developed by Traveller's Tales and published by Warner Bros. The game is based on the Lego Harry Potter line and its storyline covers the first four films in the \"Harry Potter\" series: \"Harry Potter and the Sorcerer's Stone\", \"Harry Potter and the Chamber of Secrets\", \"Harry Potter and the Prisoner of Azkaban\", and \"Harry Potter and the Goblet of Fire\". The game is available on the Wii, Xbox 360, PlayStation 3, Nintendo DS, PlayStation Portable, Microsoft Windows, OS X, iOS and Android. The OS X version of the game was released on 22 February 2011 by Feral Interactive. The game was released for the PlayStation 4 on October 21, 2016, as part of the \"Lego Harry Potter Collection\", which bundles the game with its sequel, \"\".",
+          "semantic_score": 0.3404703140258789,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1205",
+          "text": "Lego Harry Potter: Years 5–7\nLego Harry Potter: Years 5–7 is a Lego-themed action-adventure video game developed by Traveller's Tales and published by Warner Bros. Interactive Entertainment. Released on 11 November 2011 in North America and 18 November in Europe, the game is based on the Lego Harry Potter line and is based on the final three books and four films in the \"Harry Potter\" series: \"Harry Potter and the Order of the Phoenix\", \"Harry Potter and the Half-Blood Prince\", \"Harry Potter and the Deathly Hallows – Part 1\", and \"Harry Potter and the Deathly Hallows – Part 2\". The game was released for the PlayStation 3, Xbox 360, PlayStation Portable, PlayStation Vita, Wii, Nintendo DS, Nintendo 3DS, Microsoft Windows, iOS and Android. The first trailer of three trailers was released 6 October 2011, and the demo was released on 1 November. The game was released on Steam on 5 January 2012. The OS X version of the game was released by Feral Interactive on 7 March 2012. The game was released for the PlayStation 4 on October 21, 2016, as part of the \"Lego Harry Potter Collection\", which bundles the game with its predecessor, \"\".",
+          "semantic_score": 0.32326817512512207,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1200",
+          "text": "Harry Potter and the Deathly Hallows\nHarry Potter and the Deathly Hallows is the seventh and final novel of the \"Harry Potter\" series, written by British author J. K. Rowling. The book was released on 21 July 2007, ten years after publication of \"Harry Potter and the Philosopher's Stone\" (1997), by Bloomsbury Publishing in the United Kingdom, in the United States by Scholastic, and in Canada by Raincoast Books, ending the series that began in 1997 with the publication of \"Harry Potter and the Philosopher's Stone\". The novel chronicles the events directly following \"Harry Potter and the Half-Blood Prince\" (2005), and the final confrontation between the wizards Harry Potter and Lord Voldemort, as well as revealing the previously concealed back story of several main characters. The title of the book refers to three mythical objects featured in the story, collectively known as the \"Deathly Hallows\"—an unbeatable wand, a stone to bring the dead to life, and a cloak of invisibility.",
+          "semantic_score": 0.36730849742889404,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Daniel Radcliffe, Rupert Grint, Emma Watson, and others."
+    },
+    {
+      "step": 2,
+      "sub_question": "Who are the actors in My Boy Jack?",
+      "retrieved": [
+        {
+          "id": "1204",
+          "text": "Brian Kirk\nBrian Kirk (born 1968) is an Irish film and television director who has most recently directed episodes of \"Game of Thrones\", FX's \"The Riches\" and Showtime's \"Brotherhood\" and \"The Tudors\". He also directed the television film \"My Boy Jack\" starring David Haig and Daniel Radcliffe and based on the play of the same name.",
+          "semantic_score": 0.542990505695343,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6533",
+          "text": "My Boy Jack (film)\nMy Boy Jack is a 2007 television drama based on David Haig's 1997 play of the same name. It was filmed in August 2007, with Haig as Rudyard Kipling and Daniel Radcliffe as John Kipling. It does not include act three of the play, which extended to the 1920s and 1930s: instead it ends with Kipling reciting the poem \"My Boy Jack\". The American television premiere was on 20 April 2008 on PBS, with primetime rebroadcast on 27 March 2011. The film attracted about 5.7 million viewers on its original broadcast in the UK on Remembrance Day, 11 November 2007.",
+          "semantic_score": 0.4938201308250427,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5605",
+          "text": "Jared Daperis\nJared Daperis (born 18 August 1990) is an Australian actor. He has received a Young Artist Award nomination. Daperis' recent film work has been compared with that of a \"young Mel Gibson\", whilst co-stars have likened him to Heath Ledger. He is the middle child of three.He is the brother of actor and director Daniel Daperis.and he has a younger sister Stephanie Daperis.",
+          "semantic_score": 0.4640885293483734,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7908",
+          "text": "Jack Hofsiss\nJohn Bernard \"Jack\" Hofsiss (September 28, 1950 – September 13, 2016) was an American theatre, film, and television director. He received a Tony Award for his direction of \"The Elephant Man\" on Broadway, the youngest director to have ever received it at the time. The production also garnered him a Drama Desk Award, Outer Critics Circle Award, Obie Award, and New York Drama Critics Circle Award. Director of Family Secrets in the year 1984; starring Melissa Gilbert, James Spader, Stefanie Powers, and Maureen Stapleton.",
+          "semantic_score": 0.4045930802822113,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6628",
+          "text": "Ryan Dunn\nRyan Matthew Dunn (June 11, 1977 – June 20, 2011) was an American stunt performer, television personality, comedian, actor, writer, musician, and one of the stars of the MTV reality stunt show \"Jackass\".",
+          "semantic_score": 0.39691558480262756,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6629",
+          "text": "Dave England\nDave England (born December 30, 1969) is an American stunt performer, and former professional snowboarder. He is best remembered as one of the stars of the MTV reality stunt show \"Jackass\".",
+          "semantic_score": 0.30794256925582886,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6524",
+          "text": "My Boy Jack (poem)\n\"My Boy Jack\" is a 1915 poem by Rudyard Kipling. Although Kipling wrote it after his son John (called Jack), an 18-year-old Lieutenant in the 2nd Battalion, when Irish Guards disappeared in September 1915 during the Battle of Loos in World War I, it was published as a prelude to a story in his book \"Sea Warfare\" written about the Battle of Jutland in 1916. The imagery and theme is maritime in nature and as such it is about a generic nautical Jack (or Jack Tar), though emotionally affected by the death of Kipling's son.",
+          "semantic_score": 0.21854659914970398,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3840",
+          "text": "Jackass Number Two\nJackass Number Two is a 2006 American reality comedy film. It is the sequel to \"\" (2002), both based upon the MTV series \"Jackass\". Like its predecessor and the original TV show, the film is a compilation of stunts, pranks and skits. The film stars the regular \"Jackass\" cast of Johnny Knoxville, Bam Margera, Chris Pontius, Steve-O, Ryan Dunn, Dave England, Jason \"Wee Man\" Acuña, Preston Lacy and Ehren McGhehey. Everyone depicted in the film plays as themselves. All nine main cast members from the first film returned for the sequel. The film was directed by Jeff Tremaine, who also directed \"\" and produced \"Jackass\".",
+          "semantic_score": 0.2835061848163605,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "David Haig and Daniel Radcliffe"
+    },
+    {
+      "step": 3,
+      "sub_question": "Which actor appears in both?",
+      "retrieved": [
+        {
+          "id": "4492",
+          "text": "Philip Quast\nPhilip Mark Quast (born 30 July 1957) is an Australian actor and singer. He has won the Laurence Olivier Award for Best Actor in a Musical three times, the most of any actor to date.",
+          "semantic_score": 0.45407024025917053,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3294",
+          "text": "Bernard Lloyd\nBernard Lloyd (born 30 January 1934) is a Welsh actor noted for his television roles. He attended the Royal Academy of Dramatic Art and he has performed with the Royal Shakespeare Company.",
+          "semantic_score": 0.43222635984420776,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1204",
+          "text": "Brian Kirk\nBrian Kirk (born 1968) is an Irish film and television director who has most recently directed episodes of \"Game of Thrones\", FX's \"The Riches\" and Showtime's \"Brotherhood\" and \"The Tudors\". He also directed the television film \"My Boy Jack\" starring David Haig and Daniel Radcliffe and based on the play of the same name.",
+          "semantic_score": 0.42145100235939026,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5605",
+          "text": "Jared Daperis\nJared Daperis (born 18 August 1990) is an Australian actor. He has received a Young Artist Award nomination. Daperis' recent film work has been compared with that of a \"young Mel Gibson\", whilst co-stars have likened him to Heath Ledger. He is the middle child of three.He is the brother of actor and director Daniel Daperis.and he has a younger sister Stephanie Daperis.",
+          "semantic_score": 0.4193075895309448,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5135",
+          "text": "David Earl (actor)\nDavid Earl is a British actor and comedian, best known for his comedy character Brian Gittins. He has featured in several projects associated with Ricky Gervais, most notably as Kevin 'Kev' Twine in the sitcom \"Derek\", and in smaller roles in \"Extras\" and the film \"Cemetery Junction\". He also co-wrote and starred in the sitcom \"Rovers\" for Sky 1 with Joe Wilkinson.",
+          "semantic_score": 0.40551453828811646,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6533",
+          "text": "My Boy Jack (film)\nMy Boy Jack is a 2007 television drama based on David Haig's 1997 play of the same name. It was filmed in August 2007, with Haig as Rudyard Kipling and Daniel Radcliffe as John Kipling. It does not include act three of the play, which extended to the 1920s and 1930s: instead it ends with Kipling reciting the poem \"My Boy Jack\". The American television premiere was on 20 April 2008 on PBS, with primetime rebroadcast on 27 March 2011. The film attracted about 5.7 million viewers on its original broadcast in the UK on Remembrance Day, 11 November 2007.",
+          "semantic_score": 0.37076613306999207,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6602",
+          "text": "Jared Rosholt\nJared Rosholt (born August 4, 1986) is an American mixed martial artist currently competing in the Heavyweight division of the World Series of Fighting. A professional competitor since 2011, Rosholt has also competed for the UFC, Titan FC, and Legacy FC. He is the younger brother of former mixed martial artist Jake Rosholt.",
+          "semantic_score": 0.14457280933856964,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1874",
+          "text": "Stéphan Aubé\nStéphan Aubé (born 11 November 1971) is a French Music video director for classical music and pianist.",
+          "semantic_score": 0.19642393290996552,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3290",
+          "text": "Peter O'Toole\nPeter Seamus O'Toole ( ; 2 August 1932 – 14 December 2013) was an Anglo-Irish stage and film actor. He attended the Royal Academy of Dramatic Art and began working in the theatre, gaining recognition as a Shakespearean actor at the Bristol Old Vic and with the before making his film debut in 1959.",
+          "semantic_score": 0.3723461329936981,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1601",
+          "text": "Akim Tamiroff\nAkim Mikhailovich Tamiroff (Armenian: Ակիմ Թամիրով , Russian: Аким Михайлович Тамиров ; birth name` Hovakim, Armenian: Հովակիմ ; 29 October 1899 – 17 September 1972) was an ethnic Armenian actor. He won the first Golden Globe Award for Best Supporting Actor, was nominated twice for the Academy Award for Best Supporting Actor, and appeared in at least 80 American motion pictures in a career spanning thirty-seven years.",
+          "semantic_score": 0.27900925278663635,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Daniel Radcliffe"
+    }
+  ],
+  "links": [
+    {
+      "source": "1203",
+      "target": "6533",
+      "reason": "Paragraph 1203 identifies Daniel Radcliffe as the actor who played Harry Potter, and paragraph 6533 states Daniel Radcliffe starred in My Boy Jack, directly bridging the two sub-questions to answer which Harry Potter actor appeared in My Boy Jack."
+    },
+    {
+      "source": "1203",
+      "target": "1204",
+      "reason": "Paragraph 1203 establishes Daniel Radcliffe as the Harry Potter film actor, while paragraph 1204 confirms he starred in My Boy Jack, providing complementary evidence for the same overlap."
+    }
+  ],
+  "questions_seen": 122,
+  "_id": "5ab30f9a554299233954fef2",
+  "correct_answer": "Daniel Radcliffe",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

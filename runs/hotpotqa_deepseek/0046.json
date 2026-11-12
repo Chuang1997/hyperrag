@@ -1,0 +1,273 @@
+{
+  "question": "Stockely Webster has paintings hanging in what home (that serves as the residence for the Mayor of New York)?",
+  "answer": "Gracie Mansion",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Stockely Webster?",
+      "retrieved": [
+        {
+          "id": "6874",
+          "text": "Sister Outsider\nSister Outsider: Essays and Speeches is a collection of essays and speeches by Audre Lorde, poet and feminist writer. The book is considered a classic volume of Lorde's most influential works of non-fiction prose and has been groundbreaking and formative in the development of contemporary feminist theories. In fifteen essays and speeches dating from 1976 to 1984, Lorde explores the complexities of intersectional identity, drawing from her personal experiences with oppression, including sexism, heterosexism, racism, homophobia, classism, and ageism. The book examines a broad range of topics, including love, war, imperialism, police brutality, coalition building, violence against women, Black feminism, and movements towards equality. Lorde's distrust for and internalization of the widespread system of dominant values within the United States is apparent throughout the collection. The work is considered controversial as Lorde expresses unapologetic anger at the injustices of society. The essays in this collection are extensively taught and have become a popular subject of academic analysis. Lorde's theorizing of oppressions as complex and interlocking within the collection are considered a significant contribution to critical social theory.",
+          "semantic_score": 0.36628711223602295,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "501",
+          "text": "Faith Goldy\nFaith Julia Goldy (born 1989) is a Canadian right-wing writer and commentator. She has been noted for her sympathetic coverage of the alt-right for The Rebel Media, particularly on her former programme \"On The Hunt with Faith Goldy\", and her live coverage of events surrounding the 2017 Unite the Right rally in Charlottesville, Virginia. She was fired from The Rebel on August 17, 2017, in response to an interview she gave on \"The Krypto Report\", a podcast produced by the white supremacist site \"The Daily Stormer\".",
+          "semantic_score": 0.36497464776039124,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "460",
+          "text": "Stokely Webster\nStokely Webster (1912 – 2001) was best known as an American impressionist painter who studied in Paris. His paintings can be found in the permanent collections of many museums, including the Metropolitan Museum of Art in New York, the National Museum of American Art, the Smithsonian Institution, the White House, Gracie Mansion in New York, the Senate Office Building, and the Museum of the City of New York.",
+          "semantic_score": 0.3622826039791107,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2789",
+          "text": "Cristanne Miller\nCristanne Miller (born 1953) is Edward H. Butler Professor of English and Chair of the Department at the University at Buffalo in New York. She received her PhD in 1980 from the University of Chicago, and was for many years the W.M. Keck Distinguished Service Professor at Pomona College. Since 2006 she has taught at the University at Buffalo, where she is Edward H. Butler Professor of English and SUNY Distinguished Professor. She has served editor of the \"Emily Dickinson Journal\" for a decade and as President of the Emily Dickinson International Society.",
+          "semantic_score": 0.3583325147628784,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9527",
+          "text": "Langston Hughes\nJames Mercer Langston Hughes (February 1, 1902 – May 22, 1967) was an American poet, social activist, novelist, playwright, and columnist from Joplin, Missouri.",
+          "semantic_score": 0.35793349146842957,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9535",
+          "text": "Langston Hughes Society\nThe Langston Hughes Society is a United States-based literary society concerned with the work of African American poet Langston Hughes. The society was the first national organisation to be dedicated to the work of an African American writer. Founded after the poet's death and in the wake of the Langston Hughes Study conference of 1981 by Hughes' literary assistant George Houston Bass, the society's official publication is the \"Langston Hughes Review\", published by Institute for African American Studies at The University of Georgia. The organisation also presents the \"Langston Hughes Award\" annually.",
+          "semantic_score": 0.21153341233730316,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9528",
+          "text": "Langston Hughes Medal\nThe Langston Hughes Medal has been awarded annually since 1978 to recognize an influential and distinguished writer associated with the African diaspora for their \"impressive works of poetry, fiction, drama, autobiography and critical essays that help to celebrate the memory and tradition of Langston Hughes\".",
+          "semantic_score": 0.2478208839893341,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9534",
+          "text": "I, Too (Langston Hughes poem)\nI, Too is a poem written by Langston Hughes that demonstrates a yearning for equality through perseverance while disproving the idea that patriotism is limited by race. It was first published in 1926, and published in \"The First Collection of Poems of Langston Hughes.\" This poem, along with other works by Hughes, helped define the Harlem Renaissance, a period in the early 1920s and 30s of newfound cultural identity for blacks in America who had discovered the power of literature, art, music, and poetry as a means of personal and collective expression in the scope of civil rights.",
+          "semantic_score": 0.2509429156780243,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9531",
+          "text": "Langston Hughes House\nLangston Hughes House is a historic home located in Harlem, Manhattan, New York City. It is an Italianate style dwelling built in 1869. It is a three story with basement, rowhouse faced in brownstone and measuring 20 feet wide and 45 feet deep. Noted African American poet and author Langston Hughes (1902-1967) occupied the top floor as his workroom from 1947 to 1967.",
+          "semantic_score": 0.28957751393318176,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "462",
+          "text": "Joseph Alexander Ames\nJoseph Alexander Ames (1816–1872) was an American artist, primarily known for portrait and genre painting. Originally named Joseph Emes, he was born in Roxbury, New Hampshire. Ames began painting at a young age. At the age of twelve Henry Theodore Tuckerman wrote about one of his paintings. After moderate success at home in Saugus, Massachusetts, he left for Boston in 1841. While in Boston, Ames tried to replicate the style of Washington Allston. In 1848, Ames traveled to Rome, where he painted a portrait of Pope Pius IX that was featured at the National Academy of Design's annual exhibition in 1850. When he returned from Italy he was commissioned by Rufus Choate, Daniel Webster, and Abraham Lincoln. He kept a studio in Boston in Amory Hall (ca.1849), and later on Tremont Street (ca.1856), and then on Summer Street. Ames exhibited at the Boston Athenæum, the National Academy of Design, and the Pennsylvania Academy. He eventually moved to Baltimore, and then to New York, where he died of a \"brain fever\".",
+          "semantic_score": 0.1091785654425621,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Stokely Webster (1912–2001) was an American impressionist painter who studied in Paris, known for his paintings held in museums including the Metropolitan Museum of Art and the Smithsonian."
+    },
+    {
+      "step": 2,
+      "sub_question": "What home serves as the residence for the Mayor of New York?",
+      "retrieved": [
+        {
+          "id": "460",
+          "text": "Stokely Webster\nStokely Webster (1912 – 2001) was best known as an American impressionist painter who studied in Paris. His paintings can be found in the permanent collections of many museums, including the Metropolitan Museum of Art in New York, the National Museum of American Art, the Smithsonian Institution, the White House, Gracie Mansion in New York, the Senate Office Building, and the Museum of the City of New York.",
+          "semantic_score": 0.9296979904174805,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "462",
+          "text": "Joseph Alexander Ames\nJoseph Alexander Ames (1816–1872) was an American artist, primarily known for portrait and genre painting. Originally named Joseph Emes, he was born in Roxbury, New Hampshire. Ames began painting at a young age. At the age of twelve Henry Theodore Tuckerman wrote about one of his paintings. After moderate success at home in Saugus, Massachusetts, he left for Boston in 1841. While in Boston, Ames tried to replicate the style of Washington Allston. In 1848, Ames traveled to Rome, where he painted a portrait of Pope Pius IX that was featured at the National Academy of Design's annual exhibition in 1850. When he returned from Italy he was commissioned by Rufus Choate, Daniel Webster, and Abraham Lincoln. He kept a studio in Boston in Amory Hall (ca.1849), and later on Tremont Street (ca.1856), and then on Summer Street. Ames exhibited at the Boston Athenæum, the National Academy of Design, and the Pennsylvania Academy. He eventually moved to Baltimore, and then to New York, where he died of a \"brain fever\".",
+          "semantic_score": 0.4887256920337677,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9531",
+          "text": "Langston Hughes House\nLangston Hughes House is a historic home located in Harlem, Manhattan, New York City. It is an Italianate style dwelling built in 1869. It is a three story with basement, rowhouse faced in brownstone and measuring 20 feet wide and 45 feet deep. Noted African American poet and author Langston Hughes (1902-1967) occupied the top floor as his workroom from 1947 to 1967.",
+          "semantic_score": 0.46962472796440125,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5983",
+          "text": "Michael R. Taylor (museum director)\nDr. Michael R. Taylor is a curator, author, and expert in modern and contemporary art with a focus on Dada, Surrealism, and the work of Marcel Duchamp. With a Ph.D in Art History from the Courtauld Institute of Art in London, he was a Curator of Modern Art at the Philadelphia Museum of Art from 1997 until 2011, and Director of the Hood Museum of Art at Dartmouth College in Hanover, New Hampshire from 2011 until 2015 In May 2015, the Virginia Museum of Fine Arts announced its appointment of Dr. Taylor as Chief Curator and Deputy Director for Art and Education.",
+          "semantic_score": 0.4666476845741272,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8775",
+          "text": "Kehinde Wiley\nKehinde Wiley (born 1977) is a New York-based portrait painter who is known for his highly naturalistic paintings of black people in heroic poses. The Columbus Museum of Art, which hosted an exhibition of his work in 2007, describes his work with the following: \"Kehinde Wiley has gained recent acclaim for his heroic portraits which address the image and status of young African-American men in contemporary culture.\"",
+          "semantic_score": 0.4648989140987396,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8771",
+          "text": "Tim Conlon (artist)\nTim Conlon (born 1974 in Alexandria, Virginia) is an American artist and graffiti writer known for large-scale murals and works on canvas. He was featured as one of several artists (including Kehinde Wiley and poet, Nikki Giovanni) in the Smithsonian National Portrait Gallery exhibit, \"Recognize! Hip Hop and Contemporary Portraiture\", which included four large graffiti murals painted by Conlon and collaborator, David Hupp in 2008. This marked the first modern graffiti ever to be in the Smithsonian Institution.",
+          "semantic_score": 0.42345044016838074,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9535",
+          "text": "Langston Hughes Society\nThe Langston Hughes Society is a United States-based literary society concerned with the work of African American poet Langston Hughes. The society was the first national organisation to be dedicated to the work of an African American writer. Founded after the poet's death and in the wake of the Langston Hughes Study conference of 1981 by Hughes' literary assistant George Houston Bass, the society's official publication is the \"Langston Hughes Review\", published by Institute for African American Studies at The University of Georgia. The organisation also presents the \"Langston Hughes Award\" annually.",
+          "semantic_score": 0.3168252408504486,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9527",
+          "text": "Langston Hughes\nJames Mercer Langston Hughes (February 1, 1902 – May 22, 1967) was an American poet, social activist, novelist, playwright, and columnist from Joplin, Missouri.",
+          "semantic_score": 0.3553486466407776,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4028",
+          "text": "Georgy Kiesewalter\nGeorgy Kiesewalter (Russian: Георгий Кизевальтер, b. 1955 in Moscow) is a Russian conceptual artist, photographer and essayist. As an artist, he uses a wide range of media to communicate his concepts to the public —– from painting to graphic art, from installations to conceptual photography and digital art.",
+          "semantic_score": 0.36555325984954834,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Gracie Mansion"
+    },
+    {
+      "step": 3,
+      "sub_question": "Which of Stockely Webster’s paintings hang in that residence?",
+      "retrieved": [
+        {
+          "id": "459",
+          "text": "Gracie Mansion\nArchibald Gracie Mansion (commonly called Gracie Mansion) is the official residence of the Mayor of the City of New York. Built in 1799, it is located in Carl Schurz Park, at East End Avenue and 88th Street in the Yorkville neighborhood of Manhattan. The mansion overlooks Hell Gate channel in the East River.",
+          "semantic_score": 0.7255157828330994,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "458",
+          "text": "Archibald Gracie\nArchibald Gracie (June 25, 1755 – April 11, 1829) was a Scottish-born shipping magnate and early American businessman and merchant in New York City and Virginia whose spacious home, Gracie Mansion, now serves as the residence of the Mayor of New York City.",
+          "semantic_score": 0.6156837940216064,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "460",
+          "text": "Stokely Webster\nStokely Webster (1912 – 2001) was best known as an American impressionist painter who studied in Paris. His paintings can be found in the permanent collections of many museums, including the Metropolitan Museum of Art in New York, the National Museum of American Art, the Smithsonian Institution, the White House, Gracie Mansion in New York, the Senate Office Building, and the Museum of the City of New York.",
+          "semantic_score": 0.5460100769996643,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9531",
+          "text": "Langston Hughes House\nLangston Hughes House is a historic home located in Harlem, Manhattan, New York City. It is an Italianate style dwelling built in 1869. It is a three story with basement, rowhouse faced in brownstone and measuring 20 feet wide and 45 feet deep. Noted African American poet and author Langston Hughes (1902-1967) occupied the top floor as his workroom from 1947 to 1967.",
+          "semantic_score": 0.4365197420120239,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4001",
+          "text": "Morton F. Plant House\nMorton F. Plant House may refer to either of two mansions on Fifth Avenue in New York City built for Morton F. Plant. The first, at 52nd Street, was completed in 1905 and is now also known as the Cartier Building. The second, at 86th Street, was built in 1916 and is now demolished. The 52nd Street building was designated a New York City Landmark on .",
+          "semantic_score": 0.3977171778678894,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9535",
+          "text": "Langston Hughes Society\nThe Langston Hughes Society is a United States-based literary society concerned with the work of African American poet Langston Hughes. The society was the first national organisation to be dedicated to the work of an African American writer. Founded after the poet's death and in the wake of the Langston Hughes Study conference of 1981 by Hughes' literary assistant George Houston Bass, the society's official publication is the \"Langston Hughes Review\", published by Institute for African American Studies at The University of Georgia. The organisation also presents the \"Langston Hughes Award\" annually.",
+          "semantic_score": 0.16241823136806488,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9527",
+          "text": "Langston Hughes\nJames Mercer Langston Hughes (February 1, 1902 – May 22, 1967) was an American poet, social activist, novelist, playwright, and columnist from Joplin, Missouri.",
+          "semantic_score": 0.2233119159936905,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "462",
+          "text": "Joseph Alexander Ames\nJoseph Alexander Ames (1816–1872) was an American artist, primarily known for portrait and genre painting. Originally named Joseph Emes, he was born in Roxbury, New Hampshire. Ames began painting at a young age. At the age of twelve Henry Theodore Tuckerman wrote about one of his paintings. After moderate success at home in Saugus, Massachusetts, he left for Boston in 1841. While in Boston, Ames tried to replicate the style of Washington Allston. In 1848, Ames traveled to Rome, where he painted a portrait of Pope Pius IX that was featured at the National Academy of Design's annual exhibition in 1850. When he returned from Italy he was commissioned by Rufus Choate, Daniel Webster, and Abraham Lincoln. He kept a studio in Boston in Amory Hall (ca.1849), and later on Tremont Street (ca.1856), and then on Summer Street. Ames exhibited at the Boston Athenæum, the National Academy of Design, and the Pennsylvania Academy. He eventually moved to Baltimore, and then to New York, where he died of a \"brain fever\".",
+          "semantic_score": 0.3468053340911865,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Stokely Webster's paintings hang in Gracie Mansion."
+    }
+  ],
+  "links": [
+    {
+      "source": "460",
+      "target": "459",
+      "reason": "Paragraph 460 states Stokely Webster's paintings are in Gracie Mansion; paragraph 459 identifies Gracie Mansion as the official residence of the Mayor of New York, bridging the painter to the mayoral home."
+    },
+    {
+      "source": "460",
+      "target": "458",
+      "reason": "Paragraph 460 lists Gracie Mansion among collections holding Webster's paintings; paragraph 458 confirms Gracie Mansion serves as the residence of the Mayor of New York City, connecting the two facts."
+    }
+  ],
+  "questions_seen": 47,
+  "_id": "5a84973e5542992a431d1a67",
+  "correct_answer": "Gracie Mansion",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "question": "What profession do Raj Kapoor and Mike Cahill share?",
+  "answer": "Film director",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is Raj Kapoor's profession?",
+      "retrieved": [
+        {
+          "id": "587",
+          "text": "Raj Kapoor\nRanbir Raj Kapoor (14 December 1924 – 2 June 1988), also known as \"the greatest showman of Indian cinema\", was a noted Indian film actor, producer and director of Hindi cinema. Born at Kapoor Haveli in Peshawar to actor Prithviraj Kapoorhe was a prominent member of the Kapoor familythat produced several celebrated Bollywood superstars.",
+          "semantic_score": 0.6089218854904175,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8142",
+          "text": "Kamal Haasan\nKamal Haasan (born 7 November 1954) is an Indian film actor, director, screenwriter, producer, playback singer and lyricist who works primarily in Tamil cinema. Kamal has won several film awards including three National Film Awards, the second-most by any Indian actor, and nineteen Filmfare Awards. His production company, Rajkamal International, has produced several of his films.",
+          "semantic_score": 0.45784780383110046,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "586",
+          "text": "Ram Teri Ganga Maili\nRam Teri Ganga Maili (literal translation: \"Ram, Your Ganga's Become Impure\") is a 1985 Bollywood film directed by actor-director Raj Kapoor. The movie stars Mandakini and Rajiv Kapoor, son of Raj Kapoor. It was Raj Kapoor's last film. The film became a \"Blockbuster\" at the box office and went on to be the highest grossing Hindi film of 1985. The music director Ravindra Jain received a Filmfare Award for this film. The storyline of the film is somewhat similar to \"Pakeezah\". The film became very controversial because of Mandakini's bold scenes of breastfeeding and bathing in a transparent saree, which wasn't something the conservative Indian Censor Board allowed at that point in time.",
+          "semantic_score": 0.44469165802001953,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "910",
+          "text": "Jaydrathsinh Parmar\nJaydrathsinh is a member of the Council of Ministers of Gujarat in 13th Gujarat Legislative Assembly of Indian state of Gujarat.He is a cabinet minister of Road and Buildings and Capital Projects in 13th Gujarat Legislative Assembly.",
+          "semantic_score": 0.4385441243648529,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2685",
+          "text": "National Film Award for Best Actor\nThe National Film Award for Best Actor, officially known as the Rajat Kamal Award for the Best Actor (] ), is an honour presented annually at the National Film Awards of India instituted only since 1967 to actors who have delivered the best performance in a leading role within the Indian film industry. Called the \"State Awards for Films\" when established in 1954, the National Film Awards ceremony is older than the Directorate of Film Festivals. The State Awards instituted the individual award in 1968 as the \"Bharat Award for the Best Actor\"; in 1975, it was renamed as the \"Rajat Kamal Award for the Best Actor\". Throughout the past 45 years, accounting for ties and repeat winners, the Government of India has presented a total of 52 \"Best Actor\" awards to 40 actors. Until 1974, winners of the National Film Award received a figurine and certificate; since 1975, they have been awarded with a \"Rajat Kamal\" (silver lotus), certificate and a cash prize.",
+          "semantic_score": 0.43373996019363403,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5993",
+          "text": "National Film Award for Best Supporting Actress\nThe National Film Award for Best Supporting Actress (also known as the Rajat Kamal Award for the Best Supporting Actress) (] ), is an honour presented annually at the National Film Awards of India since 1984 to an actress for the best performance in a supporting role within Indian cinema. The National Film Awards were established in 1954 and are presented by the Directorate of Film Festivals, the organization set up by Ministry of Information and Broadcasting, India. The National Film Awards instituted the \"Best Supporting Actress\" category in 1984 as the \"Rajat Kamal Award for the Best Supporting Actress\".",
+          "semantic_score": 0.4317781925201416,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "592",
+          "text": "Divya Rana\nDivya Rana is a former Bollywood actress most noted for her role in Raj Kapoor's \"Ram Teri Ganga Maili\" Divya began her career with the film \"Ek Jaan Hain Hum\" (1984) opposite Raj Kapoor's youngest son Rajiv Kapoor. Then she was selected as the second lead in Raj Kapoor's \"Ram Teri Ganga Maili\" (1985) co-starring Rajiv Kapoor & Mandakini. Divya later acted in films like \"Watan Ke Rakhwale\", \"Ek Hi Maqsad , Aasmaan (1984) , Maa Kasam (1985 film) , Param Dharam as Munnibai)\" and many others. She quit acting after her marriage and currently lives in Mumbai with her husband Fazal and goes by the name Salma Manekia. She works as a photographer and makes ceramic sculptures.",
+          "semantic_score": 0.40133899450302124,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5507",
+          "text": "Asiavision Awards\nAsiavision Movie Awards has been held annually since 2006 to honor the artistes and technicians of south Indian cinema. More than 40,000 people across United Arab Emirates attended the 2012 movie awards which was held on November 9, 2012 at Sharjah cricket stadium. Mohanlal and Rima Kallingal won Best Actors and Juhi Chawla and Shruti Haasan won excellence awards. In 2013 Asiavision Movie Awards was held at Dubai festival city, where Mammootty won Best Actor for Kunjananthante kada and Kavya Madhavan won best actress for Bavuttiyude Namathil .Bollywood actor John Abraham won Icon of the year and Rani Mukerji won excellence in Hindi cinema for Talaash and Bombay talkies . Preity Zinta won Pride of Bollywood award and Karisma Kapoor was one among the chief guests. In 2009 first edition of Asiavision Television Awards started at Sharjah cricket stadium where Oscar Award winner Resul Pookutty attended as chief guest.4th and 5th edition of Television Awards witnessed the presence of Mohanlal and Karisma Kapoor along with the television celebrities of Malayalam television industry. In 2014 February 8 first edition of Asiavision Radio Awards was launched, where the leading Malayalam radio stations representatives were honored also kareena kapoor khan awarded with Icon of India.",
+          "semantic_score": 0.3694208264350891,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Indian film actor, producer and director"
+    },
+    {
+      "step": 2,
+      "sub_question": "What is Mike Cahill's profession?",
+      "retrieved": [
+        {
+          "id": "589",
+          "text": "Mike Cahill (director)\nMike Cahill (born July 5, 1979) is an American film director and screenwriter.",
+          "semantic_score": 0.7641559839248657,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2202",
+          "text": "Francis Ford Coppola\nFrancis Ford Coppola ( ; born April 7, 1939), also credited as Francis Coppola, is a semi-retired American film director, producer, screenwriter and film composer. He was a central figure in the New Hollywood wave of filmmaking.",
+          "semantic_score": 0.47546958923339844,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "652",
+          "text": "Vinay Anand\nVinay Anand (Hindi: विनय आनंद ) is an Indian actor, having featured in around 60 Hindi and Bhojpuri movies. Known for his roles in movies like Dil Ne Phir Yaad Kiya, Sautela, Jahan Jaaeyega Hamen Paaeyega, Aamdani Atthani Kharcha Rupaiyaa, Vinay Anand is also related to Bollywood actor Govinda.",
+          "semantic_score": 0.44395682215690613,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2059",
+          "text": "Smeep Kang\nSmeep Kang is a Punjabi actor, film producer and director. He graduated from Punjab University with a degree in Chemical Engineering. He is well known for directing the Punjabi comedy films Chak De Phatte (2008), Carry On Jatta (2012), Lucky Di Unlucky Story (2013).",
+          "semantic_score": 0.4229390025138855,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9274",
+          "text": "Yuen Woo-ping\nYuen Woo-ping (; born 1945) is a Chinese martial arts choreographer and film director, renowned as one of the most successful and influential figures in the world of Hong Kong action cinema. He is one of the inductees on the Avenue of Stars in Hong Kong. Yuen is also a son of Yuen Siu-tien, a renowned martial arts film actor.",
+          "semantic_score": 0.42212021350860596,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9276",
+          "text": "Yuen Cheung-yan\nYuen Cheung-yan is an actor, director, stuntman, and fight choreographer who has worked for many years in the Hong Kong film industry. During the 1970s and early 1980s, he worked with his elder brother, Yuen Woo-ping, and other members of the Yuen family on several films, some of them kung fu comedies such as \"Shaolin Drunkard\" (1982) and \"The Miracle Fighters\" (1983).",
+          "semantic_score": 0.31485751271247864,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2205",
+          "text": "Francis Ford Coppola Presents\nFrancis Ford Coppola Presents is a lifestyle brand created by Francis Ford Coppola, under which he markets goods from companies he owns or controls. It includes films and videos, resorts, cafes, a literary magazine and a winery.",
+          "semantic_score": 0.2944874167442322,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2197",
+          "text": "Eleanor Coppola\nEleanor Coppola (born May 4, 1936) is an American documentary filmmaker, artist, and writer. She is married to director Francis Ford Coppola. She is most known for her 1991 documentary film \"\" as well as other documentaries chronicling the films of her husband and children. Coppola currently lives on her family's winery in Napa Valley, California.",
+          "semantic_score": 0.29127055406570435,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2198",
+          "text": "Anton Coppola\nAntonio Coppola (born March 21, 1917) is an American opera conductor and composer. He is the uncle of film director Francis Ford Coppola and actress Talia Shire, as well as the grand-uncle of Nicolas Cage, Sofia Coppola, Gian-Carlo Coppola, Jason Schwartzman and Robert Schwartzman, and is the younger brother of American composer and musician Carmine Coppola.",
+          "semantic_score": 0.3461594879627228,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9273",
+          "text": "Dance of the Drunk Mantis\nDance of the Drunk Mantis () is a 1979 Hong Kong kung fu comedy film directed by Yuen Siu-tien's real life son Yuen Woo-ping, starring Yuen Siu-tien, Hwang Jang Lee, Linda Lin, Yuen Shun-yee, Charlie Shek and Yuen Kwai. This was Yuen Siu-tien's final film appearance before his death on 8 January 1979 from a heart attack.",
+          "semantic_score": 0.16198109090328217,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "American film director and screenwriter"
+    },
+    {
+      "step": 3,
+      "sub_question": "What profession do they share?",
+      "retrieved": [
+        {
+          "id": "2202",
+          "text": "Francis Ford Coppola\nFrancis Ford Coppola ( ; born April 7, 1939), also credited as Francis Coppola, is a semi-retired American film director, producer, screenwriter and film composer. He was a central figure in the New Hollywood wave of filmmaking.",
+          "semantic_score": 0.5302914977073669,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3191",
+          "text": "Lewis Allen (director)\nLewis Allen (25 December 1905 – 3 May 2000) was an English director. Allen worked mainly in the United States, working on Broadway and directing 18 feature films between 1944 and 1959. From the mid-1950s he moved increasingly into television and worked on a number of the most popular shows of the time in the US.",
+          "semantic_score": 0.5226845741271973,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5273",
+          "text": "Merchant Ivory Productions\nMerchant Ivory Productions is a film company founded in 1961 by producer Ismail Merchant (d. 2005) and director James Ivory. Their films were for the most part produced by Merchant, directed by Ivory, and 23 (of the 44 total films) were scripted by Ruth Prawer Jhabvala (d. 2013) in some capacity, all but two of those with solo credit. The films were often based upon novels or short stories, particularly the work of Henry James, E. M. Forster, and two novels by Jhabvala herself.",
+          "semantic_score": 0.4865899085998535,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4989",
+          "text": "Influence of Stanley Kubrick\nStanley Kubrick is regarded by film critics and historians as one of the most influential directors of all time. Leading directors, including Martin Scorsese, Steven Spielberg, George Lucas, James Cameron, Woody Allen, Terry Gilliam, the Coen Brothers, Ridley Scott, Paul Thomas Anderson, Christopher Nolan, David Lynch, and George A. Romero, have cited Kubrick as a source of inspiration, and in the case of Spielberg, collaboration. In an interview for the \"Eyes Wide Shut\" DVD release, Steven Spielberg comments that \"nobody could shoot a picture better in history\", and that Kubrick told stories in a way \"antithetical to the way we are accustomed to receiving stories\". Writing in the introduction to a recent edition of Michel Ciment's \"Kubrick\", film director Martin Scorsese notes most of Kubrick's films were misunderstood and under-appreciated when first released, only to be considered masterpieces later on.",
+          "semantic_score": 0.456479549407959,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1729",
+          "text": "Robert Florey\nRobert Florey (14 September 1900 – 16 May 1979) was a French-American director, screenwriter, film journalist, and occasional actor.",
+          "semantic_score": 0.4423123598098755,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2205",
+          "text": "Francis Ford Coppola Presents\nFrancis Ford Coppola Presents is a lifestyle brand created by Francis Ford Coppola, under which he markets goods from companies he owns or controls. It includes films and videos, resorts, cafes, a literary magazine and a winery.",
+          "semantic_score": 0.2994677722454071,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4986",
+          "text": "Filmography and awards of Stanley Kubrick\nStanley Kubrick directed 13 feature films and three short documentaries over the course of his career, from \"Day of the Fight\" in 1951 to \"Eyes Wide Shut\" in 1999. Many of Kubrick's films were nominated for Academy Awards or Golden Globes, but his only personal win of an Academy Award was for his work as director of special effects on \"\".",
+          "semantic_score": 0.2773732841014862,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2197",
+          "text": "Eleanor Coppola\nEleanor Coppola (born May 4, 1936) is an American documentary filmmaker, artist, and writer. She is married to director Francis Ford Coppola. She is most known for her 1991 documentary film \"\" as well as other documentaries chronicling the films of her husband and children. Coppola currently lives on her family's winery in Napa Valley, California.",
+          "semantic_score": 0.3997648358345032,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2198",
+          "text": "Anton Coppola\nAntonio Coppola (born March 21, 1917) is an American opera conductor and composer. He is the uncle of film director Francis Ford Coppola and actress Talia Shire, as well as the grand-uncle of Nicolas Cage, Sofia Coppola, Gian-Carlo Coppola, Jason Schwartzman and Robert Schwartzman, and is the younger brother of American composer and musician Carmine Coppola.",
+          "semantic_score": 0.25264421105384827,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2200",
+          "text": "Gia Coppola\nGian-Carla \"Gia\" Coppola (born January 1, 1987) is an American film director, screenwriter, and actress. She is a granddaughter of Francis Ford Coppola, the daughter of Gian-Carlo Coppola and the niece of Roman Coppola and Sofia Coppola.",
+          "semantic_score": 0.277452677488327,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Film director"
+    }
+  ],
+  "links": [
+    {
+      "source": "587",
+      "target": "589",
+      "reason": "Paragraph 587 identifies Raj Kapoor as an Indian film actor, producer and director; paragraph 589 identifies Mike Cahill as an American film director and screenwriter. Together they establish the shared profession: film director."
+    }
+  ],
+  "questions_seen": 60,
+  "_id": "5ac00278554299012d1db56b",
+  "correct_answer": "director",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

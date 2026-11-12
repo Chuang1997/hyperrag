@@ -1,0 +1,247 @@
+{
+  "question": "In what month was the relief first officer of the flight that crashed on its way to Cairo with a stop in New York Born?",
+  "answer": "February",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Which flight crashed on its way to Cairo with a stop in New York?",
+      "retrieved": [
+        {
+          "id": "927",
+          "text": "EgyptAir Flight 990\nEgyptAir Flight 990 (MS990/MSR990) was a regularly scheduled flight from Los Angeles International Airport, United States, to Cairo International Airport, Egypt, with a stop at John F. Kennedy International Airport, New York City. On October 31, 1999, the Boeing 767 operating the route crashed into the Atlantic Ocean about 60 mi south of Nantucket Island, Massachusetts, killing all 217 people on board. The official probable cause of the crash was deliberate action by the relief first officer.",
+          "semantic_score": 0.6566558480262756,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5152",
+          "text": "American Airlines Flight 28\nAmerican Airlines Flight 28 was a scheduled domestic passenger flight that crashed on October 23, 1942 in Chino Canyon, near Palm Springs, California after being struck by a United States Army Air Forces B-34 'Lexington' bomber. The B-34 suffered only minor damage, and landed safely at the Army Airport of the Sixth Ferrying Command, Palm Springs, California.",
+          "semantic_score": 0.6087005138397217,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "926",
+          "text": "Gameel Al-Batouti\nGameel Al-Batouti (Arabic: جميل البطوطي‎ ‎ ; also rendered \"Gamil El Batouti\" or \"El Batouty\" in U.S. official reports; 2 February 1940 – 31 October 1999) was a pilot for EgyptAir and a former officer for the Egyptian Air Force. On 31 October 1999, all 217 people aboard EgyptAir Flight 990 were killed when it crashed into the Atlantic Ocean about 60 mi southeast of Nantucket Island, Massachusetts. The US National Transportation Safety Board (NTSB) concluded that the official probable cause of the crash was a series of control inputs made by Al-Batouti, who was in the position of relief first officer in command at the time of the crash.",
+          "semantic_score": 0.5415429472923279,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "931",
+          "text": "Colgan Air Flight 9446\nColgan Air Flight 9446 was a repositioning flight operated by Colgan Air for US Airways Express. On August 26, 2003 a Beech 1900D crashed into water 100 yards offshore from Yarmouth, Massachusetts, United States shortly after taking off from Barnstable Municipal Airport in Yarmouth. Captain Scott Knabe and First Officer Steven Dean died. The plane was bound for Albany, New York, U.S.",
+          "semantic_score": 0.5108048915863037,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5482",
+          "text": "United Express Flight 2415\nUnited Express Flight 2415 was a regularly scheduled flight from Seattle to Pasco, Washington, operated using a BAe Jetstream 31. On December 26, 1989, Flight 2415 crashed while attempting to land at Pasco's Tri-Cities Airport, killing both pilots and all four passengers aboard.",
+          "semantic_score": 0.5041933059692383,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5481",
+          "text": "United Express Flight 6291\nUnited Express Flight 6291 was a regularly scheduled United Express flight from Washington D.C. to Columbus, Ohio. It was a service operated by Atlantic Coast Airlines on behalf of United Express.",
+          "semantic_score": 0.3170953392982483,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "EgyptAir Flight 990"
+    },
+    {
+      "step": 2,
+      "sub_question": "Who was the relief first officer of that flight?",
+      "retrieved": [
+        {
+          "id": "927",
+          "text": "EgyptAir Flight 990\nEgyptAir Flight 990 (MS990/MSR990) was a regularly scheduled flight from Los Angeles International Airport, United States, to Cairo International Airport, Egypt, with a stop at John F. Kennedy International Airport, New York City. On October 31, 1999, the Boeing 767 operating the route crashed into the Atlantic Ocean about 60 mi south of Nantucket Island, Massachusetts, killing all 217 people on board. The official probable cause of the crash was deliberate action by the relief first officer.",
+          "semantic_score": 0.6982938647270203,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "926",
+          "text": "Gameel Al-Batouti\nGameel Al-Batouti (Arabic: جميل البطوطي‎ ‎ ; also rendered \"Gamil El Batouti\" or \"El Batouty\" in U.S. official reports; 2 February 1940 – 31 October 1999) was a pilot for EgyptAir and a former officer for the Egyptian Air Force. On 31 October 1999, all 217 people aboard EgyptAir Flight 990 were killed when it crashed into the Atlantic Ocean about 60 mi southeast of Nantucket Island, Massachusetts. The US National Transportation Safety Board (NTSB) concluded that the official probable cause of the crash was a series of control inputs made by Al-Batouti, who was in the position of relief first officer in command at the time of the crash.",
+          "semantic_score": 0.6096460819244385,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "930",
+          "text": "Air Tahoma Flight 185\nAir Tahoma Flight 185 was a scheduled cargo flight from Memphis to the Cincinnati/Northern Kentucky International Airport conducted by Air Tahoma as part of a contract to freight parcels for courier firm DHL. On August 13, 2004, the flight crashed during approach to landing just one mile short of the runway. The Convair 580, which is a twin engine turboprop, was destroyed upon impact. The first officer was killed and the captain received minor injuries.",
+          "semantic_score": 0.44383367896080017,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3522",
+          "text": "Antonio Lippi\nAntonio Lippi (1900–1957) was an Italian aviator. He participated to the Transatlantic flight organized by Italo Balbo and awarded with the Medaglia d'Oro to aeronautic valor of Regia Aeronautica.",
+          "semantic_score": 0.4397933781147003,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5152",
+          "text": "American Airlines Flight 28\nAmerican Airlines Flight 28 was a scheduled domestic passenger flight that crashed on October 23, 1942 in Chino Canyon, near Palm Springs, California after being struck by a United States Army Air Forces B-34 'Lexington' bomber. The B-34 suffered only minor damage, and landed safely at the Army Airport of the Sixth Ferrying Command, Palm Springs, California.",
+          "semantic_score": 0.42906811833381653,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5482",
+          "text": "United Express Flight 2415\nUnited Express Flight 2415 was a regularly scheduled flight from Seattle to Pasco, Washington, operated using a BAe Jetstream 31. On December 26, 1989, Flight 2415 crashed while attempting to land at Pasco's Tri-Cities Airport, killing both pilots and all four passengers aboard.",
+          "semantic_score": 0.42544907331466675,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6460",
+          "text": "1950 British Columbia B-36 crash\nOn 14 February 1950, a Convair B-36B, Air Force Serial Number \"44-92075\" assigned to the 7th Bomb Wing at Carswell Air Force Base, crashed in northern British Columbia after jettisoning a Mark 4 nuclear bomb. This was the first such nuclear weapon loss in history. The B-36 had been en route from Eielson Air Force Base near Fairbanks, Alaska to Carswell AFB in Fort Worth, Texas, more than 3000 miles south-east, on a mission that included a simulated nuclear attack on San Francisco.",
+          "semantic_score": 0.24371129274368286,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "931",
+          "text": "Colgan Air Flight 9446\nColgan Air Flight 9446 was a repositioning flight operated by Colgan Air for US Airways Express. On August 26, 2003 a Beech 1900D crashed into water 100 yards offshore from Yarmouth, Massachusetts, United States shortly after taking off from Barnstable Municipal Airport in Yarmouth. Captain Scott Knabe and First Officer Steven Dean died. The plane was bound for Albany, New York, U.S.",
+          "semantic_score": 0.4024103879928589,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Gameel Al-Batouti"
+    },
+    {
+      "step": 3,
+      "sub_question": "In what month was that relief first officer born?",
+      "retrieved": [
+        {
+          "id": "3522",
+          "text": "Antonio Lippi\nAntonio Lippi (1900–1957) was an Italian aviator. He participated to the Transatlantic flight organized by Italo Balbo and awarded with the Medaglia d'Oro to aeronautic valor of Regia Aeronautica.",
+          "semantic_score": 0.4741067588329315,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "926",
+          "text": "Gameel Al-Batouti\nGameel Al-Batouti (Arabic: جميل البطوطي‎ ‎ ; also rendered \"Gamil El Batouti\" or \"El Batouty\" in U.S. official reports; 2 February 1940 – 31 October 1999) was a pilot for EgyptAir and a former officer for the Egyptian Air Force. On 31 October 1999, all 217 people aboard EgyptAir Flight 990 were killed when it crashed into the Atlantic Ocean about 60 mi southeast of Nantucket Island, Massachusetts. The US National Transportation Safety Board (NTSB) concluded that the official probable cause of the crash was a series of control inputs made by Al-Batouti, who was in the position of relief first officer in command at the time of the crash.",
+          "semantic_score": 0.46857595443725586,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7623",
+          "text": "Georges Madon\nGeorges Félix Madon (July 28, 1892 – November 11, 1924) was the fourth ranked French ace pilot of the First World War. His lengthy career and wide variety of aviation experiences were remarkable.",
+          "semantic_score": 0.40251636505126953,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3611",
+          "text": "Sylvester Antolak\nSylvester Antolak (September 10, 1916 St. Clairsville, Ohio – May 24, 1944 Cisterna di Littoria, Italy) was a United States Army Sergeant who posthumously received the Medal of Honor for actions on May 24, 1944. Sergeant Antolak was an American of Polish descent. He joined the army from his hometown in July 1941.",
+          "semantic_score": 0.39992907643318176,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3549",
+          "text": "Darrell Ceciliani\nDarrell Albert Ceciliani, Jr. (born June 22, 1990) is an American professional baseball left fielder for the Toronto Blue Jays of Major League Baseball (MLB). He made his MLB debut with the New York Mets in 2015.",
+          "semantic_score": 0.3900517225265503,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "927",
+          "text": "EgyptAir Flight 990\nEgyptAir Flight 990 (MS990/MSR990) was a regularly scheduled flight from Los Angeles International Airport, United States, to Cairo International Airport, Egypt, with a stop at John F. Kennedy International Airport, New York City. On October 31, 1999, the Boeing 767 operating the route crashed into the Atlantic Ocean about 60 mi south of Nantucket Island, Massachusetts, killing all 217 people on board. The official probable cause of the crash was deliberate action by the relief first officer.",
+          "semantic_score": 0.1437530368566513,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7626",
+          "text": "Gervais Raoul Lufbery\nGervais Raoul Victor Lufbery (March 14, 1885 – May 19, 1918) was a French and American fighter pilot and flying ace in World War I. Because he served in both the French Air Force, and later the United States Army Air Service in World War I, he is sometimes listed alternately as a French ace or as an American ace. Officially, all but one of his 17 combat victories came while flying in French units.",
+          "semantic_score": 0.3446727693080902,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7629",
+          "text": "Paul Sauvage (aviator)\nSergent Paul Joannes Sauvage was a French World War I flying ace credited with eight confirmed and six unconfirmed aerial victories. He was originally posted to fly a Nieuport for Escadrille 65, and scored his first victory with them on 16 July 1916. He became the youngest French ace on 2 October, and held that distinction until his death by anti-aircraft fire on January 7, 1917.",
+          "semantic_score": 0.37164801359176636,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7625",
+          "text": "Charles Nungesser\nCharles Eugène Jules Marie Nungesser, MC (15 March 1892 – presumably on or after 8 May 1927) was a French ace pilot and adventurer, best remembered as a rival of Charles Lindbergh. Nungesser was a renowned ace in France, ranking third highest in the country with 43 air combat victories during World War I.",
+          "semantic_score": 0.3292652666568756,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7630",
+          "text": "Wooster and Davis\nWooster and Davis-- Lieutenant Stanton Hall Wooster (April 1, 1895 Connecticut - April 26, 1927) and Lieutenant Commander Noel Guy Davis (December 25, 1891 Salt Lake City, Utah - April 26, 1927) were two United States Navy (USN) airmen who made an attempt to fly the Atlantic Ocean from New York-to-Paris in the spring of 1927. The men were trying to win the $25,000 dollar Orteig Prize offered by New York hotelier Raymond Orteig for the first nonstop flight between New York and Paris. Competitors for the prize were French World War One ace Rene Fonck and his crew of three, USN Commander Richard Evelyn Byrd, Clarence Chamberlain and a young airmail pilot named Charles Lindbergh. On the Paris side of the Atlantic their competitors were another World War One French ace, Charles Nungesser, and his navigator Francois Coli.",
+          "semantic_score": 0.3054281175136566,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "February"
+    }
+  ],
+  "links": [
+    {
+      "source": "927",
+      "target": "926",
+      "reason": "Paragraph 927 identifies EgyptAir Flight 990 as the flight whose probable cause was the relief first officer's actions; paragraph 926 names that relief first officer as Gameel Al-Batouti and gives his birth date."
+    }
+  ],
+  "questions_seen": 94,
+  "_id": "5ae791ef55429952e35ea979",
+  "correct_answer": "February",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

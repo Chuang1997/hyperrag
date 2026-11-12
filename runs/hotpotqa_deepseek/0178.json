@@ -1,0 +1,193 @@
+{
+  "question": "What is the name of the hotel on the Upper West Side of New York City that housed a gay bathhouse?",
+  "answer": "The hotel on the Upper West Side of New York City that housed a gay bathhouse was the **Hotel Ansonia** (often referred to simply as **The Ansonia**).",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What hotels are located on the Upper West Side of New York City?",
+      "retrieved": [
+        {
+          "id": "1777",
+          "text": "West Side (Manhattan)\nThe West Side of Manhattan refers to the side of Manhattan Island which abuts the Hudson River and faces New Jersey. Fifth Avenue, Central Park, and lower Broadway separate it from the East Side. The major neighborhoods on the West Side are (from north to south) West Harlem, Morningside Heights, Manhattan Valley, Upper West Side, Hell's Kitchen, Chelsea, West Village, SoHo, and Tribeca. The 8th Avenue and West Side subway lines connect all parts of the West Side. The main north-south roads servicing the West Side are the Henry Hudson Parkway in the north, and the West Side Highway in the south. The Hudson River Greenway separates them from the west shore of the island.",
+          "semantic_score": 0.6237454414367676,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8886",
+          "text": "Hotel Pennsylvania\nThe Hotel Pennsylvania is a hotel located at 401 Seventh Avenue (15 Penn Plaza) in Manhattan, across the street from Pennsylvania Station and Madison Square Garden in New York City.",
+          "semantic_score": 0.5841790437698364,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9020",
+          "text": "Roxy Hotel (New York City)\nThe Roxy Hotel, formerly the Tribeca Grand Hotel, is a hotel located at 2 Avenue of the Americas between Walker and White Streets in the Tribeca neighborhood of Lower Manhattan, New York City. It is the sister hotel of the Soho Grand Hotel which is located a few blocks away. Both hotels are owned and operated under Grand Life Hotels. Tribeca Grand opened in 2000 and has 201 guest rooms. The hotel's event venues are often used for movie premiers, screenings, and social events. In September 2015 the hotel re-branded and changed its name to The Roxy Hotel.",
+          "semantic_score": 0.537998378276825,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1771",
+          "text": "79th Street (Manhattan)\n79th Street is a major two-way street in the Upper East Side and Upper West Side of the New York City borough of Manhattan. On the Upper East Side East 79th Street stretches from East End Avenue, passing the New York Public Library, Yorkville Branch, to Fifth Avenue, where the entrance to the 79th Street Transverse is flanked by Children's Gate. The transverse crosses Central Park; its exit at West 81st Street on the Upper West Side is flanked by Hunters' Gate. 79th Street does not exist between Central Park West and Columbus Avenue, due to the superblock of Manhattan Square, largely occupied by the American Museum of Natural History. West of Columbus Avenue, 79th Street continues and terminates in Riverside Park at a traffic circle directly after the exit/entrance ramps for the Henry Hudson Parkway, under which sit the 79th Street Boat Basin and its cafe.",
+          "semantic_score": 0.507000207901001,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7521",
+          "text": "Mandarin Oriental, New York\nMandarin Oriental, New York, is a five-star hotel located in Manhattan's Time Warner Center at Columbus Circle in New York City, managed by Mandarin Oriental Hotel Group. A part of the multi-use Time Warner Center development, the hotel opened its doors in December 2003. In addition to the 248 guestrooms and suites, the hotel provides services for 64 residences. The hotel has received many national and international awards, and operates one of only two Forbes Five-Star spas in Manhattan.",
+          "semantic_score": 0.5009014010429382,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8881",
+          "text": "Pennsylvania Plaza\nPennsylvania Plaza (Penn Plaza) is the office, entertainment and hotel complex occupying and near the site of Pennsylvania Station, between 31st and 34th Streets and Seventh and Eighth Avenues in New York.",
+          "semantic_score": 0.36542508006095886,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8887",
+          "text": "One Penn Plaza\nOne Penn Plaza (1 Penn Plaza) is a skyscraper in New York City, located between 33rd Street and 34th Street, west of Seventh Avenue, and adjacent to Pennsylvania Station and Madison Square Garden. It is the tallest building in the Pennsylvania Plaza complex of office buildings, hotels, and entertainment facilities.",
+          "semantic_score": 0.35934388637542725,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5744",
+          "text": "Park Avenue\nPark Avenue is a wide New York City boulevard which carries north and southbound traffic in the borough of Manhattan. For most of the road's length in Manhattan, it runs parallel to Madison Avenue to the west and Lexington Avenue to the east. Park Avenue's entire length was formerly called Fourth Avenue; the title still applies to the section between the Bowery and 14th Street. Meanwhile, the section between 14th and 17th Street is called Union Square East, and between 17th and 32nd Streets, the name Park Avenue South is used.",
+          "semantic_score": 0.4036232531070709,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The Mandarin Oriental, New York is located on the Upper West Side at Columbus Circle."
+    },
+    {
+      "step": 2,
+      "sub_question": "Which of these hotels housed a gay bathhouse?",
+      "retrieved": [
+        {
+          "id": "7521",
+          "text": "Mandarin Oriental, New York\nMandarin Oriental, New York, is a five-star hotel located in Manhattan's Time Warner Center at Columbus Circle in New York City, managed by Mandarin Oriental Hotel Group. A part of the multi-use Time Warner Center development, the hotel opened its doors in December 2003. In addition to the 248 guestrooms and suites, the hotel provides services for 64 residences. The hotel has received many national and international awards, and operates one of only two Forbes Five-Star spas in Manhattan.",
+          "semantic_score": 0.69036465883255,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1770",
+          "text": "New St. Marks Baths\nThe New St. Marks Baths was a gay bathhouse at 6 St. Marks Place in the East Village of Manhattan, New York City from 1979 to 1985. It claimed to be the largest gay bath house in the world.",
+          "semantic_score": 0.507884681224823,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3473",
+          "text": "The Shops at Columbus Circle\nThe Shops at Columbus Circle is an urban shopping mall in the Time Warner Center in Manhattan, New York City — a complex of skyscrapers that was completed in 2003. It is located at Columbus Circle, next to the southwestern corner of Central Park. The shopping mall includes Amazon Books, H&M, L'Occitane, Michael Kors, Hugo Boss, Tumi, Coach, Cole Haan, Thomas Pink, J.Crew and Stuart Weitzman. The mall also has several restaurants such as the Michelin 3-star Per Se, Masa (allegedly the most expensive restaurant in New York ), the East Coast flagship of Williams-Sonoma, and a Whole Foods Market. It is owned by The Related Companies.",
+          "semantic_score": 0.4773343503475189,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9020",
+          "text": "Roxy Hotel (New York City)\nThe Roxy Hotel, formerly the Tribeca Grand Hotel, is a hotel located at 2 Avenue of the Americas between Walker and White Streets in the Tribeca neighborhood of Lower Manhattan, New York City. It is the sister hotel of the Soho Grand Hotel which is located a few blocks away. Both hotels are owned and operated under Grand Life Hotels. Tribeca Grand opened in 2000 and has 201 guest rooms. The hotel's event venues are often used for movie premiers, screenings, and social events. In September 2015 the hotel re-branded and changed its name to The Roxy Hotel.",
+          "semantic_score": 0.4753267168998718,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8886",
+          "text": "Hotel Pennsylvania\nThe Hotel Pennsylvania is a hotel located at 401 Seventh Avenue (15 Penn Plaza) in Manhattan, across the street from Pennsylvania Station and Madison Square Garden in New York City.",
+          "semantic_score": 0.4750151038169861,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8881",
+          "text": "Pennsylvania Plaza\nPennsylvania Plaza (Penn Plaza) is the office, entertainment and hotel complex occupying and near the site of Pennsylvania Station, between 31st and 34th Streets and Seventh and Eighth Avenues in New York.",
+          "semantic_score": 0.3022366762161255,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8887",
+          "text": "One Penn Plaza\nOne Penn Plaza (1 Penn Plaza) is a skyscraper in New York City, located between 33rd Street and 34th Street, west of Seventh Avenue, and adjacent to Pennsylvania Station and Madison Square Garden. It is the tallest building in the Pennsylvania Plaza complex of office buildings, hotels, and entertainment facilities.",
+          "semantic_score": 0.3084389269351959,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3476",
+          "text": "Columbus Circle\nColumbus Circle, named for Christopher Columbus, is a traffic circle and heavily trafficked intersection in the New York City borough of Manhattan, located at the intersection of Eighth Avenue, Broadway, Central Park South (West 59th Street), and Central Park West, at the southwest corner of Central Park. It is the point from which all official distances from New York City are measured. The name is also used for the neighborhood a few blocks around the circle in each direction. To the south of the circle lies Hell's Kitchen, also known as \"Clinton\", and the Theater District, and to the north is the Upper West Side.",
+          "semantic_score": 0.4563189744949341,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3471",
+          "text": "Time Warner Center\nTime Warner Center is a mixed use (office/commercial and residential) twin-tower building in New York City. Developed by The Related Companies and AREA Property Partners (formerly known as Apollo Real Estate Advisors), its design by David Childs and Mustafa Kemal Abadan of Skidmore, Owings & Merrill, consists of two 750 ft twin towers bridged by a multi-story atrium containing upscale retail shops. Construction began in November 2000, following the demolition of the New York Coliseum, and a topping-out ceremony was held on February 27, 2003. The property had the highest-listed market value in New York City, $1.1 billion, in 2006. Originally constructed as the AOL Time Warner Center, the building encircles the western side of Columbus Circle and straddles the border between Midtown and the Upper West Side. The total floor area of 2.8 e6ft2 is occupied by office space (notably the offices of Time Warner and an R&D Center for VMware), residential condominiums, and the Mandarin Oriental, New York hotel. The Shops at Columbus Circle is an upscale shopping mall located in a curving arcade at the base of the building, with a large Whole Foods Market grocery store on the lower level.",
+          "semantic_score": 0.3754310607910156,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3472",
+          "text": "Columbus Circle (Syracuse, New York)\nColumbus Circle is a neighborhood and plaza in the downtown section of Syracuse, New York. Columbus Monument was designed by the Syracuse-born architect, Dwight James Baum in 1934. Columbus Circle is home to Syracuse's two cathedrals, the Episcopalian St. Paul's Cathedral and the Roman Catholic Cathedral of the Immaculate Conception. As well as County Court House and the County's John H. Mulroy Civic Center, home of the Onondaga County Government.",
+          "semantic_score": 0.40583112835884094,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "New St. Marks Baths"
+    }
+  ],
+  "links": [
+    {
+      "source": "7521",
+      "target": "3471",
+      "reason": "Paragraph 3471 identifies the Mandarin Oriental, New York hotel as part of the Time Warner Center, which straddles the border between Midtown and the Upper West Side, confirming the hotel's Upper West Side location referenced in 7521."
+    },
+    {
+      "source": "7521",
+      "target": "3476",
+      "reason": "Paragraph 3476 establishes that Columbus Circle is on the Upper West Side, and paragraph 7521 places the Mandarin Oriental, New York at Columbus Circle, bridging the hotel to the Upper West Side location."
+    }
+  ],
+  "questions_seen": 179,
+  "_id": "5abb2a5f5542996cc5e49fca",
+  "correct_answer": "The Ansonia Hotel",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

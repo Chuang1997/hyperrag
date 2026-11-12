@@ -1,0 +1,8 @@
+.env
+.env.*
+.venv*/
+__pycache__/
+*.py[cod]
+.DS_Store
+/all-MiniLM-L6-v2/
+/state/

@@ -1,0 +1,188 @@
+{
+  "question": "In what year was the narrator of \"Blackadder's Christmas Carol\" born?",
+  "answer": "1959",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is the narrator of \"Blackadder's Christmas Carol\"?",
+      "retrieved": [
+        {
+          "id": "1358",
+          "text": "Blackadder's Christmas Carol\nBlackadder's Christmas Carol is a one-off episode of \"Blackadder\", a parody of Charles Dickens' \"A Christmas Carol\". It is set between \"Blackadder the Third\" (1987) and \"Blackadder Goes Forth\" (1989), and is narrated by Hugh Laurie. Produced by the BBC, it was first broadcast on BBC1 on 23 December 1988.",
+          "semantic_score": 0.6859958171844482,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1357",
+          "text": "A Christmas Carol\nA Christmas Carol in Prose, Being a Ghost-Story of Christmas, commonly known as A Christmas Carol, is a novella by Charles Dickens, first published in London by Chapman & Hall in 1843; the first edition was illustrated by John Leech. \"A Christmas Carol\" tells the story of Ebenezer Scrooge, an old miser who is visited by the ghost of his former business partner Jacob Marley and the Ghosts of Christmas Past, Present and Yet to Come. After their visits Scrooge is transformed into a kinder, gentler man.",
+          "semantic_score": 0.5452777147293091,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "696",
+          "text": "Chris Duesterdiek\nChristopher \"Chris\" Robin Duesterdiek is a Canadian sound designer. He is best known for his work on \"The Snow Walker\" (2003), \"Elysium\" (2013), \"The Interview\" (2014) and \"The Revenant\" (2015).",
+          "semantic_score": 0.48344558477401733,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1355",
+          "text": "A Christmas Carol (1999 film)\nA Christmas Carol is a 1999 British-American made-for-television film adaptation of Charles Dickens' famous novel \"A Christmas Carol\" that was first televised December 5, 1999 on TNT. It was directed by David Jones and stars Patrick Stewart as Ebenezer Scrooge and Richard E. Grant as Bob Cratchit. The film was produced after Patrick Stewart performed a series of successful theatrical readings of \"A Christmas Carol\" on Broadway and in London.",
+          "semantic_score": 0.4735763669013977,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9593",
+          "text": "Mickey's Christmas Carol\nMickey's Christmas Carol is a 1983 American animated featurette produced by Walt Disney Productions and released by Buena Vista Distribution. It was directed and produced by Burny Mattinson. The cartoon is an adaptation of Charles Dickens' \"A Christmas Carol\", starring Scrooge McDuck as Ebenezer Scrooge. Many other Disney characters, primarily from the Mickey Mouse universe, \"Robin Hood\", and \"The Adventures of Ichabod and Mr. Toad\", were cast throughout the film.",
+          "semantic_score": 0.46645718812942505,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1352",
+          "text": "The Muppet Christmas Carol\nThe Muppet Christmas Carol is a 1992 American-British musical fantasy comedy-drama film and an adaptation of Charles Dickens's 1843 novel \"A Christmas Carol\". It is the fourth in a series of live-action musical films featuring The Muppets, with Michael Caine starring as Ebenezer Scrooge. Although it is a comedic film with contemporary songs, \"The Muppet Christmas Carol\" otherwise follows Dickens's original story closely. The film was produced and directed by Brian Henson for Jim Henson Productions and released by Walt Disney Pictures.",
+          "semantic_score": 0.4308967590332031,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3313",
+          "text": "Mickey's Twice Upon a Christmas\nMickey's Twice Upon a Christmas is a 2004 computer-animated direct-to-video fantasy comedy anthology film produced by Disney Toon Studios and the sequel to 1999's \"Mickey's Once Upon a Christmas\". The segments in this video feature Mickey Mouse, Minnie Mouse, Pluto, Goofy, Max, Donald Duck, Daisy Duck, Huey, Dewey and Louie, and Scrooge McDuck in five different segments. Along with the Mickey's PhilharMagic theme park attraction, this production was one of the first to depict the Mickey Mouse series characters with 3D computer animation. It is the final direct-to-video film to feature both Wayne Allwine and Alan Young, who both died in different years.",
+          "semantic_score": 0.22513674199581146,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "528",
+          "text": "Mickey's Mouse Tracks\nMickey's Mouse Tracks is an American animated television series on The Disney Channel which ran from 1992 to 1995, and featured Disney cartoons and animated short films, dating from before the advent of The Disney Channel. A similar show was \"Donald's Quack Attack\". The show premiered on November 2, 1992, along with \"Donald's Quack Attack\", on The Disney Channel. The show was made to replace \"Good Morning, Mickey!\". A show identical to this show called \"Mickey Mouse and Friends\" premiered in 1994. It was not possible to know what episode was going to be shown on any given day, but the show \"did\" feature showings of some shorts that do not show up on \"The Ink and Paint Club\" along with some shorts made by the \"Fleischer\" brothers, and clips from the animated features, such as \"Snow White and the Seven Dwarfs\", \"Pinocchio\", \"Dumbo\", \"Cinderella\", and \"Alice in Wonderland\". In 1996, the show was replaced by \"Mickey Mouse Works\", later given a plot as \"House of Mouse\". In between each cartoon, a short segment featured a small clip of a Mickey Mouse cartoon, accompanied by the \"Mouse Tracks\" logo. In addition to airing on The Disney Channel from 1992 to 1996, the show also ran on Toon Disney from 1998 to 1999.",
+          "semantic_score": 0.034457139670848846,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Hugh Laurie"
+    },
+    {
+      "step": 2,
+      "sub_question": "In what year was that narrator born?",
+      "retrieved": [
+        {
+          "id": "1353",
+          "text": "Hugh Laurie\nJames Hugh Calum Laurie, {'1': \", '2': \", '3': \", '4': \"} ( ; born 11 June 1959) is an English actor, director, musician, singer, comedian, and author. He became known as one half of the Fry and Laurie double act with his friend and comedy partner Stephen Fry, whom he joined in the cast of \"A Bit of Fry & Laurie\", \"Blackadder\", and \"Jeeves and Wooster\" in the 1980s and 1990s.",
+          "semantic_score": 0.5114502310752869,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3296",
+          "text": "Hugh Sinclair (actor)\nHugh Sinclair (19 May 1903 – 29 December 1962) was a British actor born in London, England, the son of a clergyman. He was educated at Charterhouse School and a graduate of the Royal Academy of Dramatic Art. His first marriage was to the actress Valerie Taylor. In his book \"The Stage Struck Me!\" fellow actor Neville Phillips felt Sinclair always played variations of himself, handsome, debonair, suave and witty and excelled in light comedy. By contrast Phillips felt his wife, who Sinclair often appeared opposite, was a dramatic actress of tremendous power with a magnificent voice.",
+          "semantic_score": 0.46318548917770386,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5118",
+          "text": "Walter Renneisen\nWalter Renneisen (born 3 March 1940 in Mainz, Germany) is a German television and stage actor. He is the maternal uncle of English actress Alex Kingston.",
+          "semantic_score": 0.45969751477241516,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3145",
+          "text": "Hal Linden\nHal Linden (born Harold Lipshitz, March 20, 1931) is an American stage and screen actor, television director and musician.",
+          "semantic_score": 0.4031709134578705,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5605",
+          "text": "Jared Daperis\nJared Daperis (born 18 August 1990) is an Australian actor. He has received a Young Artist Award nomination. Daperis' recent film work has been compared with that of a \"young Mel Gibson\", whilst co-stars have likened him to Heath Ledger. He is the middle child of three.He is the brother of actor and director Daniel Daperis.and he has a younger sister Stephanie Daperis.",
+          "semantic_score": 0.40023547410964966,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6602",
+          "text": "Jared Rosholt\nJared Rosholt (born August 4, 1986) is an American mixed martial artist currently competing in the Heavyweight division of the World Series of Fighting. A professional competitor since 2011, Rosholt has also competed for the UFC, Titan FC, and Legacy FC. He is the younger brother of former mixed martial artist Jake Rosholt.",
+          "semantic_score": 0.17612065374851227,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1874",
+          "text": "Stéphan Aubé\nStéphan Aubé (born 11 November 1971) is a French Music video director for classical music and pianist.",
+          "semantic_score": 0.2559773027896881,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8019",
+          "text": "James Bourne\nJames Elliot Bourne (born 13 September 1983 in Rochford, Essex, England) is an English singer-songwriter and co-founder of pop rock bands Busted and Son of Dork as well as a solo electronic project, Future Boy. From 2013-2015 he was a member of supergroup McBusted, which consisted of himself, Busted bandmate Matt Willis, and McFly.",
+          "semantic_score": 0.20019973814487457,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8700",
+          "text": "Paul Whitehouse\nPaul Julian Whitehouse (born 17 May 1958) is a British actor, writer and comedian. He became known for his work with Harry Enfield and as one of the stars of the popular BBC sketch comedy series \"The Fast Show\". In a 2005 poll to find The Comedian's Comedian, he was in the top 50 comedy acts voted for by comedians and comedy insiders. He is most well known for his comic characters in \"The Fast Show\", \"Harry and Paul\" and \"Harry Enfield and Chums\". He also appears in AVIVA insurance adverts.",
+          "semantic_score": 0.24761557579040527,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8932",
+          "text": "Brandon Keener\nBrandon James Keener (born October 1, 1974) is an American actor living in Los Angeles, California. He was born and raised in Fort Smith, Arkansas and graduated from University of Arkansas at Fayetteville, where he won an Irene Ryan scholarship for collegiate actors and performed at the Kennedy Center.",
+          "semantic_score": 0.38045889139175415,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1959"
+    }
+  ],
+  "links": [
+    {
+      "source": "1358",
+      "target": "1353",
+      "reason": "Paragraph 1358 identifies Hugh Laurie as the narrator of Blackadder's Christmas Carol; paragraph 1353 gives Hugh Laurie's birth year (1959), directly bridging the two sub-questions."
+    }
+  ],
+  "questions_seen": 137,
+  "_id": "5adc597d55429947ff17392f",
+  "correct_answer": "1959",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

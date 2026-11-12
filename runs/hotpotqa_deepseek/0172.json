@@ -1,0 +1,233 @@
+{
+  "question": "Whiich genus has more species, Dracula or Pistacia?",
+  "answer": "Dracula",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "How many species are in the genus Dracula?",
+      "retrieved": [
+        {
+          "id": "1716",
+          "text": "Dracula wallisii\nDracula wallisii is a species of orchid belonging to the genus \"Dracula\". The species is found at altitudes of 1600 to in Cordillera Central, Colombia. It is a common species, with large flowers that are often highly variable in form.",
+          "semantic_score": 0.7010757327079773,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1710",
+          "text": "Dracula (plant)\nThe orchid genus Dracula, abbreviated as Drac in horticultural trade, consists of 118 species native to Mexico, Central America, Colombia, Ecuador and Peru. The name \"Dracula\" literally means \"little dragon\", an allusion to the mythical Count Dracula, a lead character in numerous vampire novels and films. The name was applied to the orchid because of the blood-red color of several of the species, the strange aspect of the long spurs of the sepals.",
+          "semantic_score": 0.6484616994857788,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2517",
+          "text": "Aneurophyton\nAneurophyton is a genus of extinct vascular plants that belong to the Aneurophytales, a class of progymnosperms. The genus is primarily known from records of two well-known species found in mostly Middle Devonian and Upper Devonian (late Eifelian to Famennian) outcrops in Belgium, China (West Junggar), Germany, and the United States (New York). Some uncertain species within the genus are also recorded from Middle Devonian outcrops in Kazakhstan, Russia (Timan and Siberia), and the Ukraine. While a number of species have been described in the paleobotanical literature, the genus likely only contains two well-circumscribed species, \"A. germanicum\" and \"A. doui\", and possibly a third species, \"A. olnense\", from Fammenian outcrops in Belgium. If the ages of the Early Devonian (Emsian) records of \"A. germanicum\" reported from Siberia are confirmed, these would constitute the oldest records of this genus.",
+          "semantic_score": 0.4892313480377197,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3653",
+          "text": "Dactylis\nThe genus has been treated as containing only a single species \"D. glomerata\" by many authors, treating variation in the genus at only subspecific rank within \"Dactylis glomerata\", but more recently, there has been a trend to accept two species, while some authors accept even more species in the genus, particularly island endemic species in Macaronesia.",
+          "semantic_score": 0.4829235374927521,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2485",
+          "text": "Giraffe\nThe giraffe (\"Giraffa\") is a genus of African even-toed ungulate mammals, the tallest living terrestrial animals and the largest ruminants. The genus currently consists of one species, \"Giraffa camelopardalis\", the type species. Seven other species are extinct, prehistoric species known from fossils. Taxonomic classifications of one to eight extant giraffe species have been described, based upon research into the mitochondrial and nuclear DNA, as well as morphological measurements of \"Giraffa,\" but the IUCN currently recognizes only one species with nine subspecies.",
+          "semantic_score": 0.46891868114471436,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2484",
+          "text": "Megacheira\nMegacheira (\"Great Hands\") is an extinct class of predatory arthropods that possessed a pair of short enlarged appendages (the source of the class' name). They strongly resemble early chelicerates. Most of them were found in marine environments throughout the world from the lower to middle Cambrian. The group might also contain one species (\"Enalikter aphson\") described from the Silurian Herefordshire Lagerstätte of the United Kingdom, and one species (\"Bundenbachiellus giganteus\") known from the Early Devonian of Germany; however, the interpretation of these taxa as megacheirans was challenged by Struck \"et al.\" (2015). Megacheirans were important components of several faunas, including the Burgess, Wheeler and Maotianshan Shales Lagerstatten. Genera referred to the class include \"Leanchoilia\", \"Alalcomenaeus\", \"Oestokerkus\", \"Yohoia\", \"Fortiforceps\" and \"Jianfengia\".",
+          "semantic_score": 0.3257410526275635,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6340",
+          "text": "Caladenia\nCaladenia, commonly known as spider orchids, is a genus of 350 species of plants in the orchid family, Orchidaceae. Spider orchids are terrestrial herbs with a single hairy leaf and a hairy stem. The labellum is fringed or toothed in most species and there are small projections called calli on the labellum. The flowers have adaptations to attract particular species of insects for pollination. The genus is divided into three groups on the basis of flower shape, broadly, spider orchids, zebra orchids and cowslip orchids, although other common names are often used. Although they occur in other countries, most are Australian and 136 species occur in Western Australia, making it the most species-rich orchid genus in that state.",
+          "semantic_score": 0.3776964545249939,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5460",
+          "text": "Sphaerotholus\nSphaerotholus is a genus of pachycephalosaurid dinosaur from the Upper Cretaceous of the western United States and Canada. To date, three species have been described: the type species, \"S. goodwini\", from the Den-na-zin Member of the Kirtland Formation (Late Campanian) of San Juan County, New Mexico, USA; \"S. buchholtzae\", from the Hell Creek Formation (Late Maastrichtian) of western Carter County, Montana, USA; and \"S. edmontonense\", from the Horseshoe Canyon Formation of Alberta, Canada. The etymology of \"Sphaerotholus\" is a combination of the Greek \"sphaira\", meaning \"ball\", and \"tholos\", meaning \"dome\", and is a reference to the characteristically dome-shaped pachycephalosaurian skull. The survival of \"Sphaerotholus\" from the Campanian of New Mexico to the end of the Maastrichtian of Montana demonstrates that this taxon had both a relatively long duration (approximately 7-8 million years) and a widespread distribution. Williamson and Carr, who first described the genus in 2002, diagnose it as follows: \"Differs from all other pachycephalosaurids where known in the possession of a parietosquamosal bar that decreases in depth laterally as seen in caudal view and is bordered by a single row of nodes and one lateroventral corner node.\" \"Sphaerotholus\" is considered a highly derived pachycephalosaur.",
+          "semantic_score": 0.2508130967617035,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "118"
+    },
+    {
+      "step": 2,
+      "sub_question": "How many species are in the genus Pistacia?",
+      "retrieved": [
+        {
+          "id": "1717",
+          "text": "Pistacia\nPistacia is a genus of flowering plants in the cashew family, Anacardiaceae. It contains 10 to 20 species that are native to Africa and Eurasia from the Canary Islands, all of Africa, and southern Europe, warm and semidesert areas across Asia, and North America from Mexico to warm and semidesert United States, such as Texas or California.",
+          "semantic_score": 0.6984277367591858,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1712",
+          "text": "Terebinth\nTwo similar species of the plant genus \"Pistacia\":",
+          "semantic_score": 0.6627299785614014,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1715",
+          "text": "Pistacia aethiopica\nPistacia aethiopica is an African and Arabia coast peninsula species of plant in the Anacardiaceae family. It is a dioecious evergreen shrub or tree of the pistacio genus, growing up to 20 m tall, adapted to the dry environment. It is found in Ethiopia, Kenya, Somalia, Tanzania, Uganda, and Yemen.",
+          "semantic_score": 0.6532825827598572,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1714",
+          "text": "Pistacia chinensis\nPistacia chinensis (English: Chinese pistache ; ) is a small to medium-sized tree in the genus \"Pistacia\" in the cashew family, Anacardiaceae, native to central and western China. It is hardy, can withstand harsh conditions and poor quality soils, and grows up to 20 m. The leaves are deciduous, alternate, pinnate, 20–25 cm long, with 10 or 12 leaflets, the terminal leaflet usually absent. The flowers are produced in panicles 15–20 cm long at the ends of the branches; it is dioecious, with separate male and female plants. The fruit is a small red drupe, turning blue when ripe, containing a single seed. This species is planted as a street tree in temperate areas worldwide due to its attractive fruit and autumn foliage.",
+          "semantic_score": 0.6198462247848511,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1713",
+          "text": "Pistacia khinjuk\nPistacia khinjuk is a species of plant in the \"Pistacia\" genus which grows in Iran, northern Iraq, southern Jordan and Turkey. The tree grows up to 10 metres.",
+          "semantic_score": 0.5549910068511963,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1708",
+          "text": "Anacardiaceae\nThe Anacardiaceae, commonly known as the cashew family or sumac family, are a family of flowering plants, including about 83 genera with about 860 known species. Members of the Anacardiaceae bear fruits that are drupes and in some cases produce urushiol, an irritant. The Anacardiaceae include numerous genera, several of which are economically important, notably cashew (in the type genus \"Anacardium\"), mango, poison ivy, sumac, smoke tree, marula, yellow mombin, and cuachalalate. The genus \"Pistacia\" (which includes the pistachio and mastic tree) is now included, but was previously placed in its own family, the Pistaciaceae.",
+          "semantic_score": 0.46537303924560547,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "10 to 20 species"
+    },
+    {
+      "step": 3,
+      "sub_question": "Which genus has more species, Dracula or Pistacia?",
+      "retrieved": [
+        {
+          "id": "1716",
+          "text": "Dracula wallisii\nDracula wallisii is a species of orchid belonging to the genus \"Dracula\". The species is found at altitudes of 1600 to in Cordillera Central, Colombia. It is a common species, with large flowers that are often highly variable in form.",
+          "semantic_score": 0.6024135947227478,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1710",
+          "text": "Dracula (plant)\nThe orchid genus Dracula, abbreviated as Drac in horticultural trade, consists of 118 species native to Mexico, Central America, Colombia, Ecuador and Peru. The name \"Dracula\" literally means \"little dragon\", an allusion to the mythical Count Dracula, a lead character in numerous vampire novels and films. The name was applied to the orchid because of the blood-red color of several of the species, the strange aspect of the long spurs of the sepals.",
+          "semantic_score": 0.5742526650428772,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3653",
+          "text": "Dactylis\nThe genus has been treated as containing only a single species \"D. glomerata\" by many authors, treating variation in the genus at only subspecific rank within \"Dactylis glomerata\", but more recently, there has been a trend to accept two species, while some authors accept even more species in the genus, particularly island endemic species in Macaronesia.",
+          "semantic_score": 0.5323011875152588,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1717",
+          "text": "Pistacia\nPistacia is a genus of flowering plants in the cashew family, Anacardiaceae. It contains 10 to 20 species that are native to Africa and Eurasia from the Canary Islands, all of Africa, and southern Europe, warm and semidesert areas across Asia, and North America from Mexico to warm and semidesert United States, such as Texas or California.",
+          "semantic_score": 0.5229350328445435,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1712",
+          "text": "Terebinth\nTwo similar species of the plant genus \"Pistacia\":",
+          "semantic_score": 0.5148552656173706,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1715",
+          "text": "Pistacia aethiopica\nPistacia aethiopica is an African and Arabia coast peninsula species of plant in the Anacardiaceae family. It is a dioecious evergreen shrub or tree of the pistacio genus, growing up to 20 m tall, adapted to the dry environment. It is found in Ethiopia, Kenya, Somalia, Tanzania, Uganda, and Yemen.",
+          "semantic_score": 0.4435237646102905,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1714",
+          "text": "Pistacia chinensis\nPistacia chinensis (English: Chinese pistache ; ) is a small to medium-sized tree in the genus \"Pistacia\" in the cashew family, Anacardiaceae, native to central and western China. It is hardy, can withstand harsh conditions and poor quality soils, and grows up to 20 m. The leaves are deciduous, alternate, pinnate, 20–25 cm long, with 10 or 12 leaflets, the terminal leaflet usually absent. The flowers are produced in panicles 15–20 cm long at the ends of the branches; it is dioecious, with separate male and female plants. The fruit is a small red drupe, turning blue when ripe, containing a single seed. This species is planted as a street tree in temperate areas worldwide due to its attractive fruit and autumn foliage.",
+          "semantic_score": 0.40766075253486633,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1708",
+          "text": "Anacardiaceae\nThe Anacardiaceae, commonly known as the cashew family or sumac family, are a family of flowering plants, including about 83 genera with about 860 known species. Members of the Anacardiaceae bear fruits that are drupes and in some cases produce urushiol, an irritant. The Anacardiaceae include numerous genera, several of which are economically important, notably cashew (in the type genus \"Anacardium\"), mango, poison ivy, sumac, smoke tree, marula, yellow mombin, and cuachalalate. The genus \"Pistacia\" (which includes the pistachio and mastic tree) is now included, but was previously placed in its own family, the Pistaciaceae.",
+          "semantic_score": 0.3665415048599243,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Dracula"
+    }
+  ],
+  "links": [
+    {
+      "source": "1710",
+      "target": "1717",
+      "reason": "Provides the species counts for both genera (Dracula: 118; Pistacia: 10 to 20), enabling the direct comparison that Dracula has more species."
+    }
+  ],
+  "questions_seen": 173,
+  "_id": "5a8b6ee255429950cd6afcfd",
+  "correct_answer": "Dracula",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

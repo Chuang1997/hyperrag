@@ -1,0 +1,188 @@
+{
+  "question": "Which software application was originally made for the company that acquired RadioShack in 1963?",
+  "answer": "DeskMate",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Which company acquired RadioShack in 1963?",
+      "retrieved": [
+        {
+          "id": "395",
+          "text": "Tandy Corporation\nTandy Corporation was an American family-owned leather goods company based in Fort Worth, Texas. Tandy Leather was founded in 1919 as a leather supply store and acquired a number of craft retail companies, including RadioShack in 1963. In 2000, the Tandy Corporation name was dropped and the entity became the RadioShack Corporation.",
+          "semantic_score": 0.5790733098983765,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3860",
+          "text": "Radioshow\nRadioshow is а cult Lithuanian black comedy radio and TV show hosted by Algis Ramanauskas-Greitai and Rimas Šapauskas. It is also the name of their humorous rock band. Radioshow has started at radio station Radiocentras in 1992. Later it has moved to the radio station Ultra Vires. In 1995 Radioshow debuted as a comedy puppet show on TV at LNK station. From 1997 till 1999 Radioshow was running at BTV TV station. In 2004 it briefly ran on Vilnius radio station Užupio radijas before being shut down, because of swearing on the air. However the show was immediately picked up by the regional radio station Vox Maris.",
+          "semantic_score": 0.44473686814308167,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3857",
+          "text": "KWPW\nKWPW (107.9 FM, \"Power 108\") is a radio station broadcasting a contemporary hit radio format. Licensed to Robinson, Texas, United States, the station serves the Waco area. The station is currently owned by Bill McCutcheon.",
+          "semantic_score": 0.4114239811897278,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5022",
+          "text": "Black Squirrel Radio\nBlack Squirrel Radio (BSR) is an Internet radio station run by students of Kent State University, broadcasting exclusively online. Black Squirrel Radio is overseen by faculty from Kent State University's Journalism and Mass Communication program.",
+          "semantic_score": 0.3969647288322449,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3430",
+          "text": "Steve Robinson (executive)\nSteve Robinson (born September 7, 1946) is an American radio manager, producer and executive producer. He has held senior management positions with numerous American radio stations, including WFMT and the WFMT Radio Network/Chicago, WBUR/Boston, WGBH/Boston, WCRB/Boston, KPFA/Berkeley, WBGO/Newark, Vermont Public Radio and Nebraska Public Radio Network.ork. Robinson served as general manager of the statewide Nebraska Public Radio Network (1990-2000) and WFMT and the WFMT Radio Network from 2000 until October 2016.",
+          "semantic_score": 0.3943268954753876,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "397",
+          "text": "Tandy-12\nThe Tandy-12 is a computerized arcade game produced by the Tandy Corporation for sale in its Radio Shack chain of stores. The Tandy Corporation acquired Radioshack in 1970. The arcade game featured \"12 challenging games of skill\". However, most of these were based on luck and freestyle ability. Directions for the game are still available on the Radio Shack website. The game had its packaging updated several times since its original release. It was packaged with the game unit itself, a manual, a cardboard playing board, and a set of plastic tokens. The manual is available online. The 1981 Tandy-12 Model number is 60-2159. The 1982 Tandy-12 Model number is 60-2159.",
+          "semantic_score": 0.38772329688072205,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3051",
+          "text": "KWXL-LP\nKWXL-LP (98.7 FM) is a high school radio station broadcasting a variety format. Licensed to Tucson, Arizona, United States, the station serves the Tucson area. The station is currently owned by the Tucson Unified School District. KWXL-LP is Tucson's only high school radio station. It is also a news radio station for students who attend Pueblo High Magnet School. Students broadcasting over the radio station are enrolled in a \"Writing/Reporting for Broadcasting\" class with instructor Sarah Walson. Originally started by Douglas Potter, who retired in 2006. Listeners can also find FM 98.7, KWXL on iTunes.",
+          "semantic_score": 0.3263874351978302,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9036",
+          "text": "Rove Live Radio\nRove Live Radio was a radio programme starring Rove McManus, Corinne Grant, and Peter Helliar. It ran from 2002 to 2004.",
+          "semantic_score": 0.3357756733894348,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7979",
+          "text": "Radio Disney\nRadio Disney, also known as Radio Disney Networks (corporate name Radio Disney, Inc.), is an American radio network that is owned by Disney Channels Worldwide, Inc., a subsidiary of Disney–ABC Television Group, a primary component of The Walt Disney Company's Disney Media Networks segment. Radio Disney Networks broadcasts three separated digital channels, Radio Disney, Radio Disney Country and Radio Disney Junior, via radio station's HD channel or by online stream sites. The original Radio Disney network play music and other content aimed at preteens and young teenagers; it can be described as a youth-targeted contemporary hit radio format with heavy emphasis on teen idols. Recently Radio Disney has become a Mainstream Top 40 Indicator reporter on Nielsen-BDS eventually being upgraded to monitored status with Nielsen-BDS. Radio Disney is also a monitored reporter on the Mediabase 24/7 Top 40 panel. The network is headquartered in Burbank, California.",
+          "semantic_score": 0.3917737603187561,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3428",
+          "text": "Minnesota Public Radio\nMinnesota Public Radio (MPR), is a public radio network for the state of Minnesota. With its three services, News & Information, Classical Music and The Current, MPR operates a 44-station regional radio network in the upper Midwest serving over 9 million people. MPR has 127,150 members and more than one million listeners each week, the largest audience of any regional public radio network.",
+          "semantic_score": 0.266370564699173,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Tandy Corporation"
+    },
+    {
+      "step": 2,
+      "sub_question": "What software application was originally made for that company?",
+      "retrieved": [
+        {
+          "id": "395",
+          "text": "Tandy Corporation\nTandy Corporation was an American family-owned leather goods company based in Fort Worth, Texas. Tandy Leather was founded in 1919 as a leather supply store and acquired a number of craft retail companies, including RadioShack in 1963. In 2000, the Tandy Corporation name was dropped and the entity became the RadioShack Corporation.",
+          "semantic_score": 0.6310605406761169,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "397",
+          "text": "Tandy-12\nThe Tandy-12 is a computerized arcade game produced by the Tandy Corporation for sale in its Radio Shack chain of stores. The Tandy Corporation acquired Radioshack in 1970. The arcade game featured \"12 challenging games of skill\". However, most of these were based on luck and freestyle ability. Directions for the game are still available on the Radio Shack website. The game had its packaging updated several times since its original release. It was packaged with the game unit itself, a manual, a cardboard playing board, and a set of plastic tokens. The manual is available online. The 1981 Tandy-12 Model number is 60-2159. The 1982 Tandy-12 Model number is 60-2159.",
+          "semantic_score": 0.5405264496803284,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "400",
+          "text": "DeskMate\nDeskMate was a software application that provided an operating environment that competed with early versions of Microsoft Windows. It originally was made for Tandy's TRS-DOS Operating System and for their TRS-80 line of computers, but eventually shifted to PC, where it was developed using C and Assembly. Like Windows (and other competitors from the time, such as GEM), it was not a full operating system, requiring a separate disk operating system in order to function. Although the initial PC ports would only run on Tandy's PCs (such as the Tandy 1000), the introduction of the true PC-compatible computers such as the Tandy 3000 resulted in the software later being made available for other compatibles.",
+          "semantic_score": 0.4877651333808899,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2959",
+          "text": "Lynx Software Technologies\nLynx Software Technologies, Inc. (formerly LynuxWorks) is a San Jose, California software company founded in 1988. Lynx Software Technologies specializes in secure virtualization and open and reliable real-time operating system (RTOS). Originally known as Lynx Real-Time Systems, the company changed its name to LynuxWorks in 2000 after acquiring, and merging with, ISDCorp (Integrated Software & Devices Corporation) a nine-year-old embedded systems company with a strong Linux background. In May 2014, the company changed its name to Lynx Software Technologies as a representation of the company’s forward direction as the LynxOS RTOS family of products and the LynxSecure hypervisor continued to gain increased traction both with current customers and markets, and with the new Internet connected embedded world.",
+          "semantic_score": 0.46648678183555603,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4776",
+          "text": "Proginet\nProginet Corporation, which was acquired by Tibco Software in 2010, was a systems management software company. It is best known for having developed a breakthrough product in the late 1980s called XCOM, which allowed companies to manage the process of moving bulk data between 26 different computer operating systems. In the early 1990s, the company's rights in XCOM were sold to its distributor, which was itself later acquired by CA-Inc. XCOM went on to generate hundreds of millions of dollars in sales for CA-Inc. After the sale of its only product, the company secured equity stakes from Microsoft and Novell, and began the development of enterprise managed file transfer products across many major computing platforms including Windows, UNIX, Linux, AS/400 and the mainframe. The company has been in business since 1986. Proginet's products include CyberFusion Integration Suite, Slingshot, Edge Server, Harbor NSM and HFT, and the Rocketstream software suite. Proginet's global customer base spans more than 23 countries and includes many Fortune 500 companies. The company is headquartered in Garden City, New York, has offices in Toronto, Canada. On June 22, 2010 the company announced that it is to be acquired by TIBCO Corporation for $23 million.",
+          "semantic_score": 0.4310794770717621,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7896",
+          "text": "Teletrol\nTeletrol (Teletrol Systems Inc.) is a United States company based in Manchester, New Hampshire. Originally founded in 1981 as Teletrol, Inc., it was acquired in 1985 by Philips, under which it continues to operate as a subsidiary. Teletrol is a supplier of building automation systems and components. Its products are designed to centralize the management and control of heating/cooling (HVAC) and lighting systems to reduce energy consumption and operating costs for organizations with multiple locations. Teletrol's products consist of hardware components (thermostatic controllers) installed at remote sites, and browser-based software that is used to communicate between those sites and the central location via HTTP.",
+          "semantic_score": 0.31564539670944214,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8786",
+          "text": "IBM 1030\nThe IBM 1030 Data Collection System was a remote terminal system created by IBM in Endicott, New York in 1963, intended to transmit data from remote locations to a central computer system.",
+          "semantic_score": 0.34230268001556396,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4773",
+          "text": "Guidance Software\nGuidance Software, Inc. was a public company (NASDAQ: GUID) founded in 1997. Headquartered in Pasadena, Calif., the company developed and provided software solutions for digital investigations primarily in the United States, Europe, the Middle East, Africa, and the Asia/Pacific Rim. Guidance Software had offices in Brazil, Chicago, Houston, New York City, San Francisco, Singapore, United Kingdom and Washington, D.C. and employed approximately 371 employees. On September 14 2017 the company was acquired by OpenText",
+          "semantic_score": 0.42625099420547485,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "DeskMate"
+    }
+  ],
+  "links": [
+    {
+      "source": "395",
+      "target": "400",
+      "reason": "Paragraph 395 identifies Tandy Corporation as the company that acquired RadioShack in 1963; paragraph 400 identifies DeskMate as software originally made for Tandy's TRS-DOS/TRS-80 line, bridging the acquired company to the software application."
+    }
+  ],
+  "questions_seen": 41,
+  "_id": "5a77322055429972597f1494",
+  "correct_answer": "DeskMate",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

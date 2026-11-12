@@ -1,0 +1,261 @@
+{
+  "question": "Who is the writer of this song that was inspired by words on a tombstone and was the first track on the box set Back to Mono?",
+  "answer": "Phil Spector",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What song was the first track on the box set *Back to Mono*?",
+      "retrieved": [
+        {
+          "id": "1550",
+          "text": "Back to Mono (1958–1969)\nBack to Mono (1958–1969) is a box set (4 compact discs or 5 vinyl LPs) compilation of the recorded work of record producer Phil Spector, through the 1960s, released in 1991 by ABKCO as #7118-2. The first track, \"To Know Him Is to Love Him,\" released in 1958, features Spector performing as part of the group the Teddy Bears. Initially a vinyl album-sized package, the box contained a booklet with photographs, complete song lyrics, discographical information, and a reproduction of the essay on Spector by Tom Wolfe, \"The First Tycoon of Teen.\" The package also contained a small, round, red \"Back to Mono\" pin.",
+          "semantic_score": 0.6289851665496826,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1554",
+          "text": "Mono Masters\nMono Masters is a compilation album by the Beatles, and is an alternate, all-mono version of the album \"Past Masters\". \"Mono Masters\" was originally a two-CD set included as part of \"The Beatles in Mono\" box set. The premise of this box set was to compile only Beatles material which was released or prepared for release with a dedicated mono mix (the set excludes later material mixed and released only in stereo, and material whose mono version was simply created as an equal mix of the two channels of the stereo version). As a result, the track listing for \"Mono Masters\" differs from \"Past Masters\" on the second half of disc two, omitting some later songs that never had a mono mix (\"Old Brown Shoe\", \"The Ballad of John and Yoko\" and \"Let It Be\"), and adding several songs released on stereo-only albums that had unreleased mono mixes. Tracks 9–12 and 15 were prepared in March 1969 for release as a 7\" mono \"Yellow Submarine\" EP, two months after the release of the similarly titled soundtrack album, but the project was scrapped, although the EP was mastered. Subsequently, the tracks were only released in stereo (and in an electronically produced mono mixdown, or \"fold-down\", of the stereo mix), while the true mono mixes remained unreleased. \"Get Back\" (with B-side \"Don't Let Me Down\") was the final Beatles single mixed for mono format. It was released in the UK in mono, though the US release was in stereo. Thus, the songs that were originally released on stereo singles in the UK are omitted on this release.",
+          "semantic_score": 0.5734388828277588,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6775",
+          "text": "Creedence Clearwater Revival: Box Set\nCreedence Clearwater Revival: Box Set is a box set by Creedence Clearwater Revival, released in 2001. It contains all of their complete studio albums, two complete live albums, and material recorded by the band under their previous names \"The Golliwogs\" and \"The Blue Velvets\". In November 2013 the box set was reissued with different artwork. This box set spans their career, and contains all of their complete materials.",
+          "semantic_score": 0.5169336199760437,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1553",
+          "text": "Radiohead Box Set\nRadiohead Box Set is a box set of the first six studio albums and one live album by the English rock band Radiohead, released on 10 December 2007. The box set is available as a seven CD box set, a digital download and a 4GB USB Stick. The box set peaked at #95 in Canada's album charts.",
+          "semantic_score": 0.5025584101676941,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1555",
+          "text": "Led Zeppelin Boxed Set 2\nLed Zeppelin Boxed Set 2 is a double album released by Atlantic Records on 21 September 1993. This box set features the rest of the English rock band Led Zeppelin's catalogue not included in the 1990 4-CD box set \"Led Zeppelin\", all digitally remastered, including the previously unreleased studio track \"Baby Come On Home\". A 54-page booklet was also included with the release. Between this box set and the 4-CD box set every track from the band's nine studio albums are featured along with two BBC live recordings; the band's only non-LP b-side; and one studio outtake.",
+          "semantic_score": 0.46945130825042725,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6772",
+          "text": "Creedence Clearwater Revival (album)\nCreedence Clearwater Revival is the debut studio album by the American rock band Creedence Clearwater Revival, released in 1968.",
+          "semantic_score": 0.38290464878082275,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6773",
+          "text": "Creedence Clearwater Revival Covers the Classics\nCreedence Clearwater Revival Covers the Classics is a compilation album by Creedence Clearwater Revival. Released in 2009, the album contains cover versions of songs as recorded by the band.",
+          "semantic_score": 0.389261931180954,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6776",
+          "text": "Creedence Clearwater Revisited\nCreedence Clearwater Revisited is an American rock band formed in 1995 by two former members of Creedence Clearwater Revival – a much more well-known band with a very similar name. It is known for playing the music that was originally made famous by Creedence Clearwater Revival. The two common band members are Stu Cook (bass) and Doug \"Cosmo\" Clifford (drums).",
+          "semantic_score": 0.32852426171302795,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "\"To Know Him Is to Love Him\""
+    },
+    {
+      "step": 2,
+      "sub_question": "Which of those songs was inspired by words on a tombstone?",
+      "retrieved": [
+        {
+          "id": "1556",
+          "text": "To Know Him Is to Love Him\n\"To Know Him Is to Love Him\" is a song written by Phil Spector, inspired by words on his father's tombstone, \"To Know Him Was To Love Him.\" It was first recorded by the only vocal group of which he was a member, the Teddy Bears. Their recording spent three weeks at No. 1 on the \"Billboard\" Hot 100 singles chart in 1958, while reaching No. 2 on UK's \"New Musical Express\" chart. Peter & Gordon and Bobby Vinton later had hits with the song, with its title and lyrics changed to \"To Know You Is to Love You\". In 1987, the song was resurrected by Dolly Parton, Linda Ronstadt and Emmylou Harris, whose \"Trio\" recording topped the U.S. country singles charts. The song is in 12/8 time.",
+          "semantic_score": 0.6038670539855957,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7282",
+          "text": "Songs About Me\nSongs About Me is the seventh studio album of country music singer Trace Adkins. It was released on March 22, 2005 on Capitol Records Nashville. His highest-selling album to date, it has been certified 2× Platinum by the RIAA and had sold 1.5 million copies. Singles from this album include the title track, Arlington, and Honky Tonk Badonkadonk. The title track and \"Honky Tonk Badonkadonk\" both went to No.2 and Arlington went to No.16 on the U.S. \"Billboard\"Hot Country Songs charts. \"Honky Tonk Badonkadonk\" was also a Top 40 hit on the \"Billboard\" Hot 100 and Pop 100 as well.",
+          "semantic_score": 0.3928098976612091,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9115",
+          "text": "Riptide (album)\nRiptide is the eighth solo studio album by the British singer Robert Palmer. It was originally released in November 1985. The album was recorded over a period of three months in 1985, at Compass Point Studios in Nassau, Bahamas. The album charted at number 8 in the US and No. 5 in the UK. It was certified double platinum in the US by the RIAA in March 1996 and certified gold in the UK by BPI in August 1986. It featured the songs \"Addicted to Love\", \"I Didn't Mean to Turn You On\", \"Discipline of Love\", and \"Riptide\" which were all released as singles. The single \"Addicted to Love\" was accompanied by a memorable and much-imitated music video, directed by Terence Donovan, in which Palmer is surrounded by a bevy of near-identically clad, heavily made-up (and appropriately pouty) female \"musicians,\" either mimicking or mocking the painting style of Patrick Nagel. In September 1986, Palmer performed \"Addicted to Love\" at the 1986 MTV Video Music Awards in Los Angeles. In 1987, he won the Grammy Award for Best Male Rock Vocal Performance for \"Addicted to Love\". At the 1987 Brit Awards, Palmer received his first nomination for Best British Male.",
+          "semantic_score": 0.3869591951370239,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8393",
+          "text": "Reg Presley\nReginald Maurice Ball (12 June 1941 – 4 February 2013), known professionally as Reg Presley, was an English singer-songwriter. He was the lead singer with the 1960s rock and roll band The Troggs, whose hits included \"Wild Thing\" and \"With a Girl Like You\" (they reached number one in the US and the UK respectively). He wrote the song \"Love Is All Around\", which was featured in the films \"Four Weddings and a Funeral\" and \"Love Actually\".",
+          "semantic_score": 0.38561058044433594,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1745",
+          "text": "Paul Williams (songwriter)\nPaul Hamilton Williams, Jr. (born September 19, 1940) is an American composer, singer, songwriter and actor. He is perhaps best known for writing popular songs performed by a number of acts in the 1970s, including Three Dog Night's \"An Old Fashioned Love Song\" and \"Out in the Country\", Helen Reddy's \"You and Me Against the World\", David Bowie's \"Fill Your Heart\", and the Carpenters' \"We've Only Just Begun\" and \"Rainy Days and Mondays\", as well as for his contributions to films, such as writing the lyrics to the #1 chart-topping \"Evergreen\", the love theme from \"A Star Is Born\", starring Barbra Streisand, for which he won a Grammy for Song of the Year and an Academy Award for Best Original Song; and \"Rainbow Connection\" from \"The Muppet Movie\". He also wrote the lyrics to the opening theme for \"The Love Boat\", with music previously composed by Charles Fox, which was originally sung by Jack Jones and, later, by Dionne Warwick.",
+          "semantic_score": 0.37614089250564575,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6333",
+          "text": "Honkytonkville\nHonkytonkville is the twenty-second studio album by American country singer George Strait, released in 2003 by MCA Nashville. One of only a few albums of his career not to produce a Number One single, the album was certified platinum by the RIAA. It produced the singles \"Tell Me Something Bad About Tulsa\", \"Cowboys Like Us\" and \"Desperately\", at #11, #2 and #6 respectively on the country charts. \"Honk If You Honky Tonk\" also charted at #45 based on unsolicited airplay.",
+          "semantic_score": 0.27436384558677673,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7281",
+          "text": "Honky Tonk Boots\nHonky Tonk Boots is an album released in 2006 by American country music artist Sammy Kershaw. His only release for the Category 5 Records album, it was also his first studio release since 2003's \"I Want My Money Back\". The album's lead-off single, \"Tennessee Girl\", peaked at number 43 on the \"Billboard\" country charts in 2006. \"Honky Tonk Boots\" also reunited him with producers Buddy Cannon and Norro Wilson, who co-produced his first four albums.",
+          "semantic_score": 0.2255866378545761,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2663",
+          "text": "Honky Tonk Attitude (song)\n\"Honky Tonk Attitude\" is a song co-written and recorded by American country music artist Joe Diffie. It was released in March 1993 as the lead single and title track from his album \"Honky Tonk Attitude\". The song reached the top five of the \"Billboard\" Hot Country Singles & Tracks (now Hot Country Songs) chart and peaked at number 11 on the Canadian \"RPM\" Country Tracks chart. The song was written by Diffie and Lee Bogan.",
+          "semantic_score": 0.32626625895500183,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2665",
+          "text": "Honky Tonk Angels\nHonky Tonk Angels is a collaborative studio album by American country music artists Dolly Parton, Loretta Lynn, and Tammy Wynette. It was released on November 2, 1993, by Columbia Records.",
+          "semantic_score": 0.266770601272583,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9113",
+          "text": "Very Best of Robert Palmer\nVery Best of Robert Palmer is a 1995 compilation album by British singer Robert Palmer. Re-issued in 1997 with the addition of \"Addicted To Love '97\".",
+          "semantic_score": 0.34221532940864563,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "\"To Know Him Is to Love Him\""
+    },
+    {
+      "step": 3,
+      "sub_question": "Who is the writer of that song?",
+      "retrieved": [
+        {
+          "id": "1556",
+          "text": "To Know Him Is to Love Him\n\"To Know Him Is to Love Him\" is a song written by Phil Spector, inspired by words on his father's tombstone, \"To Know Him Was To Love Him.\" It was first recorded by the only vocal group of which he was a member, the Teddy Bears. Their recording spent three weeks at No. 1 on the \"Billboard\" Hot 100 singles chart in 1958, while reaching No. 2 on UK's \"New Musical Express\" chart. Peter & Gordon and Bobby Vinton later had hits with the song, with its title and lyrics changed to \"To Know You Is to Love You\". In 1987, the song was resurrected by Dolly Parton, Linda Ronstadt and Emmylou Harris, whose \"Trio\" recording topped the U.S. country singles charts. The song is in 12/8 time.",
+          "semantic_score": 0.6679250597953796,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3014",
+          "text": "Love Is Love Is Love\n\"Love Is Love Is Love\" (stylized as \"LovE Is LovE Is LovE\") is a song recorded by American singer LeAnn Rimes, and the fourth release from her sixteenth studio album, \"Remnants\". Rimes co-produced the track with Darrell Brown, Mark Batson, and Niko Bolas, and co-wrote the song with Darrell Brown, Lindy Robbins and Toby Gad. The single will be featured in the 2017 American film \"Lucky Logan\", in which Rimes will have a cameo.",
+          "semantic_score": 0.4460098445415497,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1688",
+          "text": "I Know Him So Well\n\"I Know Him So Well\" is a duet from the concept album and subsequent musical \"Chess\" by Tim Rice, Benny Andersson and Björn Ulvaeus. It was originally sung by Elaine Paige (as Florence) and Barbara Dickson (as Svetlana). In this duet, two women – Svetlana, the Russian chess champion's estranged wife, and Florence, his mistress – express their bittersweet feelings for him and at seeing their relationships fall apart.",
+          "semantic_score": 0.4266246259212494,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1745",
+          "text": "Paul Williams (songwriter)\nPaul Hamilton Williams, Jr. (born September 19, 1940) is an American composer, singer, songwriter and actor. He is perhaps best known for writing popular songs performed by a number of acts in the 1970s, including Three Dog Night's \"An Old Fashioned Love Song\" and \"Out in the Country\", Helen Reddy's \"You and Me Against the World\", David Bowie's \"Fill Your Heart\", and the Carpenters' \"We've Only Just Begun\" and \"Rainy Days and Mondays\", as well as for his contributions to films, such as writing the lyrics to the #1 chart-topping \"Evergreen\", the love theme from \"A Star Is Born\", starring Barbra Streisand, for which he won a Grammy for Song of the Year and an Academy Award for Best Original Song; and \"Rainbow Connection\" from \"The Muppet Movie\". He also wrote the lyrics to the opening theme for \"The Love Boat\", with music previously composed by Charles Fox, which was originally sung by Jack Jones and, later, by Dionne Warwick.",
+          "semantic_score": 0.40777701139450073,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6890",
+          "text": "Corey Chorus\nCorey Gibson, known professionally as Corey Chorus, is an American songwriter, record producer, vocal producer, sound engineer and publisher, known for having written songs such as Cheers (Drink to That) of Rihanna, Chica Bomb by Dan Balan, Made in the USA by Demi Lovato.",
+          "semantic_score": 0.4043532609939575,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3013",
+          "text": "Commitment (song)\n\"Commitment\" is a song written by Tony Colton, Tony Marty and Bobby Wood, and recorded by American country music artist LeAnn Rimes. It was released in April 1998 as the lead single from her album \"Sittin' on Top of the World\". The song placed at number 4 on the US country charts, number 38 in the UK. It was later featured on Rimes' \"Greatest Hits\" and its international version, \"The Best of LeAnn Rimes\".",
+          "semantic_score": 0.2974128723144531,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8193",
+          "text": "There Will Be Love There (Ai no Aru Basho)\nThere Will Be Love There (Ai no Aru Basho) (愛のある場所 , Place with Love , pronounced \"Zea Uiru Bī Rabu Zea Ai no Aru Basho\") is The Brilliant Green's third single, released on May 13, 1998. It was their first number-one single on Oricon charts. It was used as the drama Love Again's theme song.",
+          "semantic_score": 0.33084771037101746,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1741",
+          "text": "The Muppets (soundtrack)\nThe Muppets: An Original Walt Disney Records Soundtrack is a soundtrack album released by Walt Disney Records on November 22, 2011 for the musical comedy film \"The Muppets\". The soundtrack features five original songs, four re-recordings and remasterings of popular Muppet songs (\"The Muppet Show Theme\", \"Rainbow Connection\", and \"Mah Nà Mah Nà\"), two cover versions of existing songs (Cee Lo Green's \"Forget You\" and Nirvana's \"Smells Like Teen Spirit\"), two standalone songs (Paul Simon's \"Me and Julio Down by the Schoolyard\" and Starship's \"We Built This City\"), and fifteen dialogue tracks. It also features the song \"Man or Muppet\", which won the Academy Award for Best Original Song. The soundtrack was also nominated for Best Compilation Soundtrack for Visual Media at the 55th Grammy Awards.",
+          "semantic_score": 0.1703462153673172,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Phil Spector"
+    }
+  ],
+  "links": [
+    {
+      "source": "1550",
+      "target": "1556",
+      "reason": "Paragraph 1550 identifies 'To Know Him Is to Love Him' as the first track on Back to Mono, while paragraph 1556 confirms the same song was inspired by words on Phil Spector's father's tombstone and names Phil Spector as its writer."
+    }
+  ],
+  "questions_seen": 157,
+  "_id": "5ab859a955429934fafe6d7b",
+  "correct_answer": "Phil Spector",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

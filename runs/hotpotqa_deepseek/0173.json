@@ -1,0 +1,358 @@
+{
+  "question": "What occupation do Anita Loos and Grace Metalious share? ",
+  "answer": "Author",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Anita Loos?",
+      "retrieved": [
+        {
+          "id": "1718",
+          "text": "Mary Loos\nMary Loos (May 6, 1910 – October 11, 2004) was an American actress, screenwriter and novelist. She was occasionally credited under her full name, Mary Anita Loos.",
+          "semantic_score": 0.7117990255355835,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1727",
+          "text": "R. Beers Loos\nRichard Beers Loos (October 4, 1860 – March 6, 1944), was an American journalist and newspaper publisher. Loos was the father of Anita Loos, a famous American playwright and author who wrote, among other titles, \"Gentlemen Prefer Blondes\". Loos most often used the shortened form of his name for official work: R. Beers Loos. Anita Loos was born to Richard Beers Loos and Minnie Ellen Smith while the family lived near Sisson, California (today Mount Shasta). At that time, Loos owned a local newspaper called the \"Sisson Mascot\".",
+          "semantic_score": 0.5691331624984741,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "450",
+          "text": "Anita Bitri\nBitri started singing at the age of sixteen, and she became popular in Albania with her song \"First Love\". She emigrated to the United States in 1996. At the time of her death, she was in the process of recording two albums, one in Albanian and one in English.",
+          "semantic_score": 0.44017988443374634,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1719",
+          "text": "John Emerson (filmmaker)\nJohn Emerson (born Clifton Paden on May 29, 1874 – March 7, 1956) was an American stage actor, playwright, producer, and director of silent films (many featuring Douglas Fairbanks). Emerson was married to Anita Loos from June 15, 1919 until his death; prior to that they had functioned as a writing team for motion pictures and would continue to be credited jointly, even as Loos pursued independent projects.",
+          "semantic_score": 0.42318782210350037,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3901",
+          "text": "Anita Berber\nAnita Berber (10 June 1899 – 10 November 1928) was a German dancer, actress, and writer who was the subject of an Otto Dix painting. She lived during the Weimar period.",
+          "semantic_score": 0.4085279405117035,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1726",
+          "text": "Gentlemen Prefer Blondes (musical)\nGentlemen Prefer Blondes is a musical with a book by Joseph Fields and Anita Loos, lyrics by Leo Robin, and music by Jule Styne, based on the best-selling novel of the same name by Loos. The story involves an American woman's voyage to Paris to perform in a nightclub.",
+          "semantic_score": 0.38677334785461426,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1720",
+          "text": "Anita Loos\nAnita Loos (April 26, 1889 – August 18, 1981) was an American screenwriter, playwright and author, best known for her blockbuster comic novel, \"Gentlemen Prefer Blondes\". She wrote film scripts from 1912, and became arguably the first-ever staff scriptwriter, when D.W. Griffith put her on the payroll at Triangle Film Corporation. She went on to write many of the Douglas Fairbanks films, as well as the stage adaptation of Colette’s \"Gigi\".",
+          "semantic_score": 0.40409624576568604,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7479",
+          "text": "Albert Capellani\nAlbert Capellani (23 August 1874 – 26 September 1931) was a French film director and screenwriter of the silent era. He directed films between 1905 and 1922. One of his brother was the actor-sculptor Paul Capellani. and another the film director Roger Capellani.",
+          "semantic_score": 0.110568568110466,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Anita Loos was an American screenwriter, playwright, and author, best known for her novel \"Gentlemen Prefer Blondes.\""
+    },
+    {
+      "step": 2,
+      "sub_question": "What is Anita Loos’s occupation?",
+      "retrieved": [
+        {
+          "id": "1720",
+          "text": "Anita Loos\nAnita Loos (April 26, 1889 – August 18, 1981) was an American screenwriter, playwright and author, best known for her blockbuster comic novel, \"Gentlemen Prefer Blondes\". She wrote film scripts from 1912, and became arguably the first-ever staff scriptwriter, when D.W. Griffith put her on the payroll at Triangle Film Corporation. She went on to write many of the Douglas Fairbanks films, as well as the stage adaptation of Colette’s \"Gigi\".",
+          "semantic_score": 0.7810647487640381,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1726",
+          "text": "Gentlemen Prefer Blondes (musical)\nGentlemen Prefer Blondes is a musical with a book by Joseph Fields and Anita Loos, lyrics by Leo Robin, and music by Jule Styne, based on the best-selling novel of the same name by Loos. The story involves an American woman's voyage to Paris to perform in a nightclub.",
+          "semantic_score": 0.7409830689430237,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1727",
+          "text": "R. Beers Loos\nRichard Beers Loos (October 4, 1860 – March 6, 1944), was an American journalist and newspaper publisher. Loos was the father of Anita Loos, a famous American playwright and author who wrote, among other titles, \"Gentlemen Prefer Blondes\". Loos most often used the shortened form of his name for official work: R. Beers Loos. Anita Loos was born to Richard Beers Loos and Minnie Ellen Smith while the family lived near Sisson, California (today Mount Shasta). At that time, Loos owned a local newspaper called the \"Sisson Mascot\".",
+          "semantic_score": 0.7067069411277771,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1718",
+          "text": "Mary Loos\nMary Loos (May 6, 1910 – October 11, 2004) was an American actress, screenwriter and novelist. She was occasionally credited under her full name, Mary Anita Loos.",
+          "semantic_score": 0.644473671913147,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1721",
+          "text": "Gentlemen Prefer Blondes (novel)\nGentlemen Prefer Blondes: The Intimate Diary of a Professional Lady is a comic novel written by Anita Loos, first published in 1925. It is one of several famous novels published that year to chronicle the so-called Jazz Age, including Fitzgerald's \"The Great Gatsby\" and Van Vechten's \"Firecrackers\". Loos was inspired to write the book after watching a sexy blonde turn intellectual H. L. Mencken into a lovestruck schoolboy. Mencken, a close friend, actually enjoyed the work and saw to it that it was published. Originally published as a magazine series in \"Harper's Bazaar\", it was published as a book by Boni & Liveright in 1925 and became a runaway best seller, becoming the second best selling title of 1926 and earning the praise of no less than Edith Wharton who dubbed it \"The Great American Novel.\"",
+          "semantic_score": 0.6425074934959412,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "American screenwriter, playwright, and author"
+    },
+    {
+      "step": 3,
+      "sub_question": "Who is Grace Metalious?",
+      "retrieved": [
+        {
+          "id": "1725",
+          "text": "Grace Metalious\nGrace Metalious (September 8, 1924 – February 25, 1964) was an American author known for her controversial novel \"Peyton Place\", one of the best-selling works in publishing history.",
+          "semantic_score": 0.6509829759597778,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6347",
+          "text": "Christopher Oscar Peña\nChristopher Oscar Peña is a playwright, screenwright, actor and educator who resides in New York City. He teaches theater at NYU's Tisch School of Arts and is a member of the Playwrights Unit at Goodman Theatre in Chicago. He also has had work commissioned by Yale Repertory Theatre. Peña is the co-writer of the Golden Globe nominated TV series, Jane the Virgin and was on the \"Future Broadway Power List,\" by Backstage (magazine) in 2014.",
+          "semantic_score": 0.5025055408477783,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2901",
+          "text": "Christopher Lee (writer)\nChristopher David Lee (born 28 March 1947) is an Australian scriptwriter who has been an Australian Associated Press journalist and foreign correspondent and has worked as a script consultant in New Zealand, Singapore and New York City. He has won an AFI Award and four AWGIE Awards and is the recipient of a Centenary Medal and a Queensland Premier's Literary Award.",
+          "semantic_score": 0.4486803412437439,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8276",
+          "text": "What's So Amazing About Grace?\nWhat's So Amazing About Grace? is a 1997 book by Philip Yancey, an American journalist and editor-at-large for \"Christianity Today\". The book examines grace in Christianity, contending that people crave grace and that it is central to the gospel, but that many local churches ignore grace and instead seek to exterminate immorality. \"What's So Amazing About Grace?\" includes Bible stories, anecdotes from Yancey's life, accounts of historical events and other stories. These include a modern retelling of the Parable of the Prodigal Son, an account of Yancey's friendship with Mel White who came out as homosexual, a comparison of the teachings of early Christians Pelagius and Augustine of Hippo, and a summary of Karen Blixen's short story \"Babette's Feast\".",
+          "semantic_score": 0.4047947824001312,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7274",
+          "text": "Deborah S. Esquenazi\nDeborah S. Esquenazi is documentary filmmaker, writer, radio producer, instructor, and investigative journalist. She is a native Texan and currently resides in Austin, Texas with her wife and two children. She is the acclaimed director of the award winning documentary \"Southwest of Salem: The Story of the San Antonio Four\", as well as half a dozen short films and essays. Her work focuses on the intersections of mythology & justice, and identity & power. Esquenazi is a Rockwood JustFilms Ford Foundation Fellow, Sundance Creative Producing Lab Fellow (2015), Firelight Media Producers’ Lab Fellow (2015), IFP Spotlight on Docs (2015), Artist on two Artplace America commissions (2015), and Sundance Documentary Film Fellow (2014). She has also received funding from Humanities Texas, Sundance Institute⎹ John D. and Catherine T. MacArthur Fund, Chicken & Egg Pictures, Astraea Global Arts Fund, Paul Robeson Fund for Independent media, and several others.",
+          "semantic_score": 0.4024902582168579,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1723",
+          "text": "Return to Peyton Place (film)\nReturn to Peyton Place is a 1961 drama film produced by Jerry Wald and directed by José Ferrer. The screenplay by Ronald Alexander is based on the 1959 novel \"Return to Peyton Place\" by Grace Metalious. The film is a sequel to \"Peyton Place\".",
+          "semantic_score": 0.20102185010910034,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9549",
+          "text": "Stephen Lee (chemist)\nStephen Lee (born 25 October 1955) is an American chemist. He is the son of Tsung-Dao Lee, the winner of the 1957 Nobel Prize in Physics. He is currently a professor at Cornell University.",
+          "semantic_score": 0.22246244549751282,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4328",
+          "text": "Cid Ricketts Sumner\nCid Ricketts Sumner (September 27, 1890 – October 15, 1970) was a novelist from the United States whose works inspired several Hollywood films. She also taught English at a Jackson, Mississippi, high school and French at Millsaps College.",
+          "semantic_score": 0.2878963351249695,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "American author known for her controversial novel \"Peyton Place\""
+    },
+    {
+      "step": 4,
+      "sub_question": "What is Grace Metalious’s occupation?",
+      "retrieved": [
+        {
+          "id": "1725",
+          "text": "Grace Metalious\nGrace Metalious (September 8, 1924 – February 25, 1964) was an American author known for her controversial novel \"Peyton Place\", one of the best-selling works in publishing history.",
+          "semantic_score": 0.9054014086723328,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8276",
+          "text": "What's So Amazing About Grace?\nWhat's So Amazing About Grace? is a 1997 book by Philip Yancey, an American journalist and editor-at-large for \"Christianity Today\". The book examines grace in Christianity, contending that people crave grace and that it is central to the gospel, but that many local churches ignore grace and instead seek to exterminate immorality. \"What's So Amazing About Grace?\" includes Bible stories, anecdotes from Yancey's life, accounts of historical events and other stories. These include a modern retelling of the Parable of the Prodigal Son, an account of Yancey's friendship with Mel White who came out as homosexual, a comparison of the teachings of early Christians Pelagius and Augustine of Hippo, and a summary of Karen Blixen's short story \"Babette's Feast\".",
+          "semantic_score": 0.47334572672843933,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1723",
+          "text": "Return to Peyton Place (film)\nReturn to Peyton Place is a 1961 drama film produced by Jerry Wald and directed by José Ferrer. The screenplay by Ronald Alexander is based on the 1959 novel \"Return to Peyton Place\" by Grace Metalious. The film is a sequel to \"Peyton Place\".",
+          "semantic_score": 0.44665926694869995,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1113",
+          "text": "Denise Giardina\nDenise Giardina is a novelist. Her book \"Storming Heaven\" was a Discovery Selection of the Book-of-the-Month Club and received the 1987 W. D. Weatherford Award for the best published work about the Appalachian South. \"The Unquiet Earth\" received an American Book Award and the Lillian Smith Book Award for fiction. Her 1998 novel \"Saints and Villains\" was awarded the Boston Book Review fiction prize and was semifinalist for the International Dublin Literary Award.",
+          "semantic_score": 0.40450605750083923,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1117",
+          "text": "Storming Heaven (Giardina novel)\nStorming Heaven is Denise Giardina's second novel. It was published in 1987 and won the W.D. Weatherford Award that year. It is a fictionalized account of the labor strife in the coalfields of southern West Virginia, United States during 1920 and 1921.",
+          "semantic_score": 0.3817123770713806,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1110",
+          "text": "The Unquiet Earth\nThe Unquiet Earth is Denise Giardina's third novel. It was published in 1992 and won the W.D. Weatherford Award that year.",
+          "semantic_score": 0.26899453997612,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "American author"
+    },
+    {
+      "step": 5,
+      "sub_question": "What occupation do Anita Loos and Grace Metalious share?",
+      "retrieved": [
+        {
+          "id": "1718",
+          "text": "Mary Loos\nMary Loos (May 6, 1910 – October 11, 2004) was an American actress, screenwriter and novelist. She was occasionally credited under her full name, Mary Anita Loos.",
+          "semantic_score": 0.5777938365936279,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1725",
+          "text": "Grace Metalious\nGrace Metalious (September 8, 1924 – February 25, 1964) was an American author known for her controversial novel \"Peyton Place\", one of the best-selling works in publishing history.",
+          "semantic_score": 0.5371932983398438,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1727",
+          "text": "R. Beers Loos\nRichard Beers Loos (October 4, 1860 – March 6, 1944), was an American journalist and newspaper publisher. Loos was the father of Anita Loos, a famous American playwright and author who wrote, among other titles, \"Gentlemen Prefer Blondes\". Loos most often used the shortened form of his name for official work: R. Beers Loos. Anita Loos was born to Richard Beers Loos and Minnie Ellen Smith while the family lived near Sisson, California (today Mount Shasta). At that time, Loos owned a local newspaper called the \"Sisson Mascot\".",
+          "semantic_score": 0.4638215899467468,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8276",
+          "text": "What's So Amazing About Grace?\nWhat's So Amazing About Grace? is a 1997 book by Philip Yancey, an American journalist and editor-at-large for \"Christianity Today\". The book examines grace in Christianity, contending that people crave grace and that it is central to the gospel, but that many local churches ignore grace and instead seek to exterminate immorality. \"What's So Amazing About Grace?\" includes Bible stories, anecdotes from Yancey's life, accounts of historical events and other stories. These include a modern retelling of the Parable of the Prodigal Son, an account of Yancey's friendship with Mel White who came out as homosexual, a comparison of the teachings of early Christians Pelagius and Augustine of Hippo, and a summary of Karen Blixen's short story \"Babette's Feast\".",
+          "semantic_score": 0.42870157957077026,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1721",
+          "text": "Gentlemen Prefer Blondes (novel)\nGentlemen Prefer Blondes: The Intimate Diary of a Professional Lady is a comic novel written by Anita Loos, first published in 1925. It is one of several famous novels published that year to chronicle the so-called Jazz Age, including Fitzgerald's \"The Great Gatsby\" and Van Vechten's \"Firecrackers\". Loos was inspired to write the book after watching a sexy blonde turn intellectual H. L. Mencken into a lovestruck schoolboy. Mencken, a close friend, actually enjoyed the work and saw to it that it was published. Originally published as a magazine series in \"Harper's Bazaar\", it was published as a book by Boni & Liveright in 1925 and became a runaway best seller, becoming the second best selling title of 1926 and earning the praise of no less than Edith Wharton who dubbed it \"The Great American Novel.\"",
+          "semantic_score": 0.414171040058136,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1726",
+          "text": "Gentlemen Prefer Blondes (musical)\nGentlemen Prefer Blondes is a musical with a book by Joseph Fields and Anita Loos, lyrics by Leo Robin, and music by Jule Styne, based on the best-selling novel of the same name by Loos. The story involves an American woman's voyage to Paris to perform in a nightclub.",
+          "semantic_score": 0.35397300124168396,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1720",
+          "text": "Anita Loos\nAnita Loos (April 26, 1889 – August 18, 1981) was an American screenwriter, playwright and author, best known for her blockbuster comic novel, \"Gentlemen Prefer Blondes\". She wrote film scripts from 1912, and became arguably the first-ever staff scriptwriter, when D.W. Griffith put her on the payroll at Triangle Film Corporation. She went on to write many of the Douglas Fairbanks films, as well as the stage adaptation of Colette’s \"Gigi\".",
+          "semantic_score": 0.39057743549346924,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1719",
+          "text": "John Emerson (filmmaker)\nJohn Emerson (born Clifton Paden on May 29, 1874 – March 7, 1956) was an American stage actor, playwright, producer, and director of silent films (many featuring Douglas Fairbanks). Emerson was married to Anita Loos from June 15, 1919 until his death; prior to that they had functioned as a writing team for motion pictures and would continue to be credited jointly, even as Loos pursued independent projects.",
+          "semantic_score": 0.38556990027427673,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Author"
+    }
+  ],
+  "links": [
+    {
+      "source": "1720",
+      "target": "1725",
+      "reason": "Paragraph 1720 identifies Anita Loos as an American author (among other roles), and paragraph 1725 identifies Grace Metalious as an American author, establishing the shared occupation of author."
+    }
+  ],
+  "questions_seen": 174,
+  "_id": "5a7fd7a25542992e7d278dc3",
+  "correct_answer": "American author",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

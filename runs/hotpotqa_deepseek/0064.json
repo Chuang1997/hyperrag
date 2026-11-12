@@ -1,0 +1,261 @@
+{
+  "question": "What musical was inspired by the films that included Ruth Leuwerik's best known role?",
+  "answer": "The Sound of Music",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is Ruth Leuwerik's best known role?",
+      "retrieved": [
+        {
+          "id": "639",
+          "text": "Ruth Leuwerik\nRuth Leuwerik (23 April 1924 – 12 January 2016) was a German film actress, one of the most popular stars of German film during the 1950s. She appeared in 34 films between 1950 and 1977. Leuwerik is probably best known for her portrayal of Maria von Trapp in the films \"The Trapp Family\" and \"The Trapp Family in America\".",
+          "semantic_score": 0.4926910102367401,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4958",
+          "text": "Halina Reijn\nHalina Reijn (born 10 November 1975) is a Dutch actress and writer.",
+          "semantic_score": 0.42609643936157227,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3212",
+          "text": "Madam C. J. Walker\nSarah Breedlove (December 23, 1867 – May 25, 1919), known as Madam C. J. Walker, was an African American entrepreneur, philanthropist, and a political and social activist. Eulogized as the first female self-made millionaire in America, she became one of the wealthiest African American women in the country, \"the world's most successful female entrepreneur of her time,\" and one of the most successful African-American business owners ever.",
+          "semantic_score": 0.4130919575691223,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3873",
+          "text": "Ike Jones\nIsaac Lolette \"Ike\" Jones (December 23, 1929 – October 5, 2014) was an African-American producer and actor who was perhaps best known for coming forward after the death of actress Inger Stevens to reveal he was her husband, a claim that was backed up in court by Inger Stevens' brother, Carl O. Stensland. He also had the distinction of being the first black graduate of the UCLA Film School in June 1953 (with a degree in film studies) and the first black person to serve as a producer on a major motion picture.",
+          "semantic_score": 0.4079560339450836,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1505",
+          "text": "Dusty Anderson\nRuth \"Dusty\" Anderson (born December 17, 1918) is an American actress and World War II pin-up girl.",
+          "semantic_score": 0.4046526551246643,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "641",
+          "text": "Maria von Trapp\nMaria Augusta von Trapp (née Kutschera; 26 January 1905 – 28 March 1987), also known as Baroness von Trapp, was the stepmother and matriarch of the Trapp Family Singers. She wrote \"The Story of the Trapp Family Singers\" which was published in 1949. The story served as the inspiration for the 1956 West German film \"The Trapp Family\", which in turn inspired the Broadway musical \"The Sound of Music\" (1959) and the 1965 film of the same name.",
+          "semantic_score": 0.16136416792869568,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3210",
+          "text": "Villa Lewaro\nVilla Lewaro, formerly known as the Anne E. Poth Home, is a 34-room 20000 sqft mansion located at Fargo Lane and North Broadway (US 9) in Irvington, New York. It was the home of Madam C. J. Walker from 1918 to 1919. Walker was the first American female and first African-American female self-made millionaire, and \"the world's most successful female entrepreneur of her time.\" The mansion is an Italianate villa house designed for Walker by Vertner Tandy, the first African-American architect registered in New York, and has been considered to be one of his greatest works. It was constructed during 1916–1918 at an estimated cost of $250,000, and was furnished lavishly. The name Villa Lewaro was coined by a distinguished visitor, Enrico Caruso, from the first two letters of each word in Lelia Walker Robinson, the name of Walker's daughter, who later went by the name of A'Lelia Walker.",
+          "semantic_score": 0.2726803421974182,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5242",
+          "text": "Nancy Barry\nNancy M. Barry is the founder and president of Enterprise Solutions to Poverty. Launched in September 2006, the organization works with corporations, entrepreneurs, and business schools to build business models that engage low-income producers as suppliers, distributors and consumers of products that build income and assets. She was President of Women's World Banking from 1990 to 2006, expanding the organization's network to reach nearly 20 million low income entrepreneurs and shaping microfinance worldwide. From 1975 to 1990, Ms. Barry worked at the World Bank, pioneering small enterprise programs and leading work on industry, trade and finance. Ms. Barry has a B.A. in economics from Stanford University, an MBA from Harvard Business School, from where she received the Distinguished alumni award. She is the recipient of various awards and honors such as the \"Forbes\" Magazine's 100 Most Powerful Women in the World in 2004 and 2005,U.S. News and World Report 20 America's Best Leaders in 2006 and the Kellogg-McKinsey Award for Distinguished Leadership. \"",
+          "semantic_score": 0.27467048168182373,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8932",
+          "text": "Brandon Keener\nBrandon James Keener (born October 1, 1974) is an American actor living in Los Angeles, California. He was born and raised in Fort Smith, Arkansas and graduated from University of Arkansas at Fayetteville, where he won an Irene Ryan scholarship for collegiate actors and performed at the Kennedy Center.",
+          "semantic_score": 0.24030570685863495,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4256",
+          "text": "Kanako Takatsuki\nKanako Takatsuki (高槻 かなこ , Takatsuki Kanako , born September 25, 1993) is a Japanese voice actress and singer born in Hyōgo Prefecture, Japan. She is currently affiliated with Amuse and her single is released under label Victor Entertainment.",
+          "semantic_score": 0.26087242364883423,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Maria von Trapp"
+    },
+    {
+      "step": 2,
+      "sub_question": "Which films included that role?",
+      "retrieved": [
+        {
+          "id": "639",
+          "text": "Ruth Leuwerik\nRuth Leuwerik (23 April 1924 – 12 January 2016) was a German film actress, one of the most popular stars of German film during the 1950s. She appeared in 34 films between 1950 and 1977. Leuwerik is probably best known for her portrayal of Maria von Trapp in the films \"The Trapp Family\" and \"The Trapp Family in America\".",
+          "semantic_score": 0.7356060147285461,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "641",
+          "text": "Maria von Trapp\nMaria Augusta von Trapp (née Kutschera; 26 January 1905 – 28 March 1987), also known as Baroness von Trapp, was the stepmother and matriarch of the Trapp Family Singers. She wrote \"The Story of the Trapp Family Singers\" which was published in 1949. The story served as the inspiration for the 1956 West German film \"The Trapp Family\", which in turn inspired the Broadway musical \"The Sound of Music\" (1959) and the 1965 film of the same name.",
+          "semantic_score": 0.6236343383789062,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "465",
+          "text": "María de Navas\nMaría de Navas Bocos (18 March 1678 – 5 March 1721), was a Spanish stage actress born in Milan, known as La Milanesa.",
+          "semantic_score": 0.48086923360824585,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6489",
+          "text": "Aoife Mulholland\nAoife Mulholland ( ; ] ; born 29 May 1978) is an Irish actress and musical theatre performer from Salthill, Galway. Aoife is a successful leading lady in London's West End. She has starred as Roxie Hart (twice) in \"Chicago\", at the Cambridge Theatre and for 18 months as Maria von Trapp in \"The Sound of Music\" at the London Palladium; and as Brooke Wyndham in \"Legally Blonde\" at the Savoy Theatre. She has also appeared in concerts, films and several popular TV series.",
+          "semantic_score": 0.47133883833885193,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5523",
+          "text": "Mía Maestro\nMía Maestro (born June 19, 1978) is an Argentine actress and singer-songwriter. She is best known for her role as Nora Martinez in \"The Strain\", Nadia Santos in the television drama \"Alias\", as Christina Kahlo in \"Frida\", and as Carmen in \"The Twilight Saga\".",
+          "semantic_score": 0.46379029750823975,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5524",
+          "text": "Nadia Santos\nNadia Santos is a fictional character in the television series \"Alias\", and a main character during the series' fourth season. She is played by Mía Maestro.",
+          "semantic_score": 0.2973019480705261,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6493",
+          "text": "Roxie Hart (film)\nRoxie Hart, also known as Chicago or Chicago Gal, is a 1942 American comedy film directed by William A. Wellman and starring Ginger Rogers, Adolphe Menjou, George Montgomery, Nigel Bruce, Phil Silvers, William Frawley and Spring Byington. The film is an adaptation of the 1926 play \"Chicago\" by Maurine Dallas Watkins, a journalist who had found her inspiration in two real-life Chicago trials she had covered for the press. The play had already been adapted once before, as the 1927 silent movie \"Chicago\", and it would later be adapted as the 1975 musical \"Chicago\", which in turn was adapted as the 2002 film \"Chicago\".",
+          "semantic_score": 0.27001047134399414,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2892",
+          "text": "Mapita Cortés\nMapita Cortés (August 4, 1939 – January 1, 2006 born Maria del Pilar Mercado Cordero in 1939 in San Juan, Puerto Rico – died in Mexico City), was a Puerto Rican actress of telenovelas and the cinema of Mexico. She is the mother of Mexican actor Luis Gatica, the wife of Lucho Gatica, the niece of Puerto Rican actress Mapy Cortés, and the niece in law of Mexican actor Fernando Cortés. Mapita Cortés is also the cousin of famous Paquito Cordero, two years her junior.",
+          "semantic_score": 0.29658907651901245,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "\"The Trapp Family\" and \"The Trapp Family in America\""
+    },
+    {
+      "step": 3,
+      "sub_question": "What musical was inspired by those films?",
+      "retrieved": [
+        {
+          "id": "641",
+          "text": "Maria von Trapp\nMaria Augusta von Trapp (née Kutschera; 26 January 1905 – 28 March 1987), also known as Baroness von Trapp, was the stepmother and matriarch of the Trapp Family Singers. She wrote \"The Story of the Trapp Family Singers\" which was published in 1949. The story served as the inspiration for the 1956 West German film \"The Trapp Family\", which in turn inspired the Broadway musical \"The Sound of Music\" (1959) and the 1965 film of the same name.",
+          "semantic_score": 0.6334854364395142,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "639",
+          "text": "Ruth Leuwerik\nRuth Leuwerik (23 April 1924 – 12 January 2016) was a German film actress, one of the most popular stars of German film during the 1950s. She appeared in 34 films between 1950 and 1977. Leuwerik is probably best known for her portrayal of Maria von Trapp in the films \"The Trapp Family\" and \"The Trapp Family in America\".",
+          "semantic_score": 0.5562210083007812,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "934",
+          "text": "Trigger Hippy\nTrigger Hippy is an American rock band composed of Black Crowes drummer Steve Gorman, guitarist Guthrie Trapp, singer Joan Osborne and bassist Nick Govrik. Formerly of the group are Widespread Panic guitarist Jimmy Herring, former Black Crowes guitarist Audley Freed, session guitarist Tom Bukovac and singer/songwriter and Black Crowes guitarist Jackie Greene.",
+          "semantic_score": 0.3931390941143036,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1535",
+          "text": "Michelangelo Sosnowitz\nMichelangelo Sosnowitz (born August 21, 1973) is an American music composer. His works include ballet, musical theater, electronic and popular music, as well as commercial, television and film. His feature film scores include A Novel Romance, winner Best Film at the NYC International Independent Film Festival, the Dan Fogler directorial debut Hysterical Psycho and the Deborah Kampmeier film Split. His original ballet 'Petrouchka' won Best Choreography at NYMF 2010. He wrote the opening theme music to The History Channel show Battles BC and original theme music for ENTV, Deadline Hollywood BlackTreeMedia and other PMC programming. He also wrote the score and theme music to the Colin Quinn Web series COP SHOW. Original Off-Broadway musicals include Crazy Head Space and Love in the MIddle Ages.",
+          "semantic_score": 0.39280393719673157,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3376",
+          "text": "Midnight Madness (film)\nMidnight Madness is a 1980 American comedy film produced by Walt Disney Productions and starring David Naughton, Stephen Furst and Maggie Roswell.",
+          "semantic_score": 0.3851364850997925,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3373",
+          "text": "Mathew Laibowitz\nMat Laibowitz is an inventor, artist, and product designer. He holds a PhD degree from MIT Media Lab's Program in Media Arts and Sciences from the Responsive Environments Group under Prof. Joseph A. Paradiso. He founded in 1996 an urban experience named Midnight Madness after the 1980 film of the same name, Midnight Madness (film). Midnight Madness was regarded as igniting the large scale urban game scene in NYC, including elements of the Come Out and Play festival. Midnight Madness ran for its final time in 2007, at which time over 1000 people have participated throughout its 11 year history. Midnight Madness and Mat Laibowitz were the subjects of a chapter in David Rakoff's book, Don't Get Too Comfortable.",
+          "semantic_score": 0.31496337056159973,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3370",
+          "text": "Midnight Madness and Beyond\nMidnight Madness and Beyond is the third album by UK82 Hardcore punk band GBH from Birmingham UK. It was released in August 1986 on the Rough Justice label (the band's first release for their new label, following the departure from Clay Records) with catalogue number Just 2. Recorded once again at Strawberry Studios in Stockport UK. It was later Re-released with additional tracks (the \"Oh No It's GBH Again\" EP)in 2002 by leading Punk reissue label Captain Oi! (Ahoy CD 193)",
+          "semantic_score": 0.16619548201560974,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "935",
+          "text": "Marc Ford\nMarc Ford (born April 13, 1966), is an American blues-rock guitarist. He's a former lead guitarist of the rock and roll jam band The Black Crowes and the leader of his own bands: Burning Tree, Marc Ford & The Neptune Blues Club, Jefferson Steelflex, Fuzz Machine, Marc Ford & The Sinners. He is currently performing with other former Black Crowes members in The Magpie Salute.",
+          "semantic_score": 0.19452597200870514,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "\"The Sound of Music\""
+    }
+  ],
+  "links": [
+    {
+      "source": "639",
+      "target": "641",
+      "reason": "Paragraph 639 identifies Ruth Leuwerik's best-known role as Maria von Trapp in 'The Trapp Family' films; paragraph 641 explicitly states that 'The Trapp Family' inspired the Broadway musical 'The Sound of Music', bridging the role/films to the musical."
+    }
+  ],
+  "questions_seen": 65,
+  "_id": "5adc6a3b55429947ff173953",
+  "correct_answer": "The Sound of Music",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

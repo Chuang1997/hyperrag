@@ -1,0 +1,160 @@
+{
+  "question": "In what city can a person find both the Nusretiye Clock Tower and the Eski Imaret Mosque be found?",
+  "answer": "Istanbul",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "In what city is the Nusretiye Clock Tower located?",
+      "retrieved": [
+        {
+          "id": "372",
+          "text": "Nusretiye Clock Tower\nNusretiye Clock Tower, aka Tophane Clock Tower, is a clock tower situated in Tophane, a neighborhood in Beyoğlu district of Istanbul, Turkey next to Nusretiye Mosque and Tophane Kiosk at the European waterfront of Bosphorus. It was ordered by the Ottoman sultan Abdülmecid I (1823-1861), designed by architect Garabet Amira Balyan and completed in 1848.",
+          "semantic_score": 0.7142622470855713,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "373",
+          "text": "Clock Tower of Murshidabad\nThe Clock Tower of Murshidabad (locally known just as \"Clock Tower\" or \"Ghari Ghar\", also known as \"Big Ben of Murshidabad\") is a clock tower in the Nizamat Fort Campus in West Bengal, India. The clock tower stands in the garden space between the Nizamat Imambara and the Hazarduari Palace; to its east, hardly a few feet away, is the old Madina Mosque and the Bacchawali Tope.",
+          "semantic_score": 0.5562857389450073,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "370",
+          "text": "Kumanovo Clock Tower\nKumanovo Clock Tower (Macedonian: Саат Кула Куманово ) was a clock tower in Kumanovo, Ottoman Empire (today Republic of Macedonia). The tower is believed to have existed since the second half of the 18th century but there are now known historical facts. It was near Eski Mosque in the former Orta Bunar Neighborhood (Macedonian: Орта Бунар Маало ). It was demolished after the Second World War.",
+          "semantic_score": 0.49465814232826233,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1298",
+          "text": "Chamberlain Clock\nThe Chamberlain Clock is an Edwardian, cast-iron, clock tower in the Jewellery Quarter of Birmingham, England. It was erected in 1903 to mark Joseph Chamberlain's tour of South Africa between 26 December 1902 and 25 February 1903, after the end of the Second Boer War. The clock was unveiled during Chamberlain's lifetime, in January 1904 by Mary Crowninshield Endicott, Joseph Chamberlain's third wife.",
+          "semantic_score": 0.4749806523323059,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "365",
+          "text": "Galle Clock Tower\nThe Galle Clock Tower (or Anthonisz Memorial Clock Tower) is located within the Galle Fort in Galle, Sri Lanka. The Clock Tower is a popular landmark and overlooks the central Moon Bastion, on the site of the former guard room. The Clock Tower was constructed in 1883, paid for through public subscriptions by the people of Galle, in recognition of Dr. P. D. Anthonisz. The clock itself was the sole gift of a grateful patient, Mudaliyar Samson de Abrew Rajapakse.",
+          "semantic_score": 0.4630820155143738,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "371",
+          "text": "Hysen Pasha Mosque\nHysen Pasha Mosque (Albanian: \"Xhamia e Hysen Pashës\" ) or Clock Mosque \"(Xhamia e Sahatit)\" is a Cultural Monument of Albania, located in Berat. It was built in 1670 by Hussein Pasha. It is named Clock Mosque because in 1870 the Ottomans built a clock tower next to it. The clock tower was destroyed during the Communist dictatorship in 1967. The mosque also got destroyed with the minaret being the only part left over. After the end of Communism the mosque got renovated.",
+          "semantic_score": 0.42078903317451477,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Istanbul"
+    },
+    {
+      "step": 2,
+      "sub_question": "In what city is the Eski Imaret Mosque located?",
+      "retrieved": [
+        {
+          "id": "367",
+          "text": "Eski Imaret Mosque\nEski Imaret Mosque (Turkish: \"Eski Imaret Camii\" ) is a former Eastern Orthodox church converted into a mosque by the Ottomans. The church has traditionally been identified with that belonging to the Monastery of Christ Pantepoptes (Greek: Μονή του Χριστού Παντεπόπτη ), meaning \"Christ the all-seeing\". It is the only documented 11th-century church in Istanbul which survives intact, and represents a key monument of middle Byzantine architecture. Despite that, the building remains one among the least studied of the city.",
+          "semantic_score": 0.7791618704795837,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "372",
+          "text": "Nusretiye Clock Tower\nNusretiye Clock Tower, aka Tophane Clock Tower, is a clock tower situated in Tophane, a neighborhood in Beyoğlu district of Istanbul, Turkey next to Nusretiye Mosque and Tophane Kiosk at the European waterfront of Bosphorus. It was ordered by the Ottoman sultan Abdülmecid I (1823-1861), designed by architect Garabet Amira Balyan and completed in 1848.",
+          "semantic_score": 0.5103044509887695,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "371",
+          "text": "Hysen Pasha Mosque\nHysen Pasha Mosque (Albanian: \"Xhamia e Hysen Pashës\" ) or Clock Mosque \"(Xhamia e Sahatit)\" is a Cultural Monument of Albania, located in Berat. It was built in 1670 by Hussein Pasha. It is named Clock Mosque because in 1870 the Ottomans built a clock tower next to it. The clock tower was destroyed during the Communist dictatorship in 1967. The mosque also got destroyed with the minaret being the only part left over. After the end of Communism the mosque got renovated.",
+          "semantic_score": 0.5070905685424805,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6501",
+          "text": "Istanbul International Music Festival\nThe Istanbul International Music Festival, formerly Istanbul Festival, (Turkish: Uluslararası İstanbul Müzik Festivali ) is a cultural event held every June and July in Istanbul, Turkey. It offers a selection of European classical music, ballet, opera and traditional music performances with the participations of famous artists from all over the world. The festival was first held in 1973 and is organized by the Istanbul Foundation of Culture and Arts. In 2006, Borusan Holding took over its main sponsorship from Eczacıbaşı Holding.",
+          "semantic_score": 0.5027863383293152,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "369",
+          "text": "Tashkopryu Mosque\nTashkyopryu Mosque (Bulgarian: Ташкьопрю джамия \"Tashkyopryu Dzhamiya\", Turkish: \"Taşköprü Camii\") is a mosque in Plovdiv, Bulgaria , built by Ottoman Turks in 16th century during their 500-year rule in today's Bulgaria. It is currently the third mosque in Plovdiv which is in good condition after Dzhumaya Mosque and Imaret Mosque. It is currently inactive despite efforts and demands, mainly by Turks of Bulgaria, to give active status for it.",
+          "semantic_score": 0.4628913104534149,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "370",
+          "text": "Kumanovo Clock Tower\nKumanovo Clock Tower (Macedonian: Саат Кула Куманово ) was a clock tower in Kumanovo, Ottoman Empire (today Republic of Macedonia). The tower is believed to have existed since the second half of the 18th century but there are now known historical facts. It was near Eski Mosque in the former Orta Bunar Neighborhood (Macedonian: Орта Бунар Маало ). It was demolished after the Second World War.",
+          "semantic_score": 0.3986867666244507,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "373",
+          "text": "Clock Tower of Murshidabad\nThe Clock Tower of Murshidabad (locally known just as \"Clock Tower\" or \"Ghari Ghar\", also known as \"Big Ben of Murshidabad\") is a clock tower in the Nizamat Fort Campus in West Bengal, India. The clock tower stands in the garden space between the Nizamat Imambara and the Hazarduari Palace; to its east, hardly a few feet away, is the old Madina Mosque and the Bacchawali Tope.",
+          "semantic_score": 0.28153231739997864,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "366",
+          "text": "Azam mosque of Qom\nOn 22 June 1954 The foundation stone of this great mosque was laid in a religious customs. That day fell on the birth day of Ali al-Ridha, eighth Imam of shia. The construction of it was ended in 1961. Azam mosque had been built basis on the Islamic architecture. This mosque made of four prayer halls and three towering balconies. The diameter of the large dome of the mosque is 30 metres and its height above the roof of the mosque is 15 metres and 35 metres from the basement of the mosque. The minarets of the mosque has 25 metres length above the roof of the mosque and 45 metres from the basement of the mosque. The upper part of the minarets is 5 metres . It has special section and used to call to prayers (A'zaan). A towering clock tower with a big clock is located in the north of the mosque and this tower can be seen from all the four sides of the mosque.",
+          "semantic_score": 0.44142135977745056,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Istanbul"
+    }
+  ],
+  "links": [
+    {
+      "source": "372",
+      "target": "367",
+      "reason": "Paragraph 372 states the Nusretiye Clock Tower is in Istanbul, and paragraph 367 states the Eski Imaret Mosque is in Istanbul, jointly establishing that both landmarks are in the same city."
+    }
+  ],
+  "questions_seen": 38,
+  "_id": "5ae4d3c95542990ba0bbb165",
+  "correct_answer": "Istanbul, Turkey",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

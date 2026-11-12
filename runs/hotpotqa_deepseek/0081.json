@@ -1,0 +1,188 @@
+{
+  "question": "The player who defeated Johnny Majors for the Heisman Trophy in 1956 was born in what year?",
+  "answer": "1935",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who won the Heisman Trophy in 1956, defeating Johnny Majors?",
+      "retrieved": [
+        {
+          "id": "813",
+          "text": "Johnny Majors\nJohn Terrill Majors (born May 21, 1935) is a former American football player and coach. A standout halfback at the University of Tennessee, he was an All-American in 1956 and a two-time winner of the Southeastern Conference Most Valuable Player award, in 1955 and 1956. He finished second to Paul Hornung in voting for the Heisman Trophy in 1956. Majors served as the head football coach at Iowa State University (1968–1972), the University of Pittsburgh (1973–1976, 1993–1996), and Tennessee (1977–1992), compiling a career college football record of 185–137–10. His 1976 Pittsburgh squad won a national championship after capping a 12–0 season with a victory in the Sugar Bowl. Majors was inducted into the College Football Hall of Fame as a player in 1987.",
+          "semantic_score": 0.6707221865653992,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "809",
+          "text": "Heisman Trophy\nThe Heisman Memorial Trophy (usually known colloquially as the Heisman Trophy or The Heisman), is awarded annually to the most outstanding player in college football in the United States whose performance best exhibits the pursuit of excellence with integrity. Winners epitomize great ability combined with diligence, perseverance, and hard work. It is presented by the Heisman Trophy Trust in early December before the postseason bowl games.",
+          "semantic_score": 0.5334450602531433,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "812",
+          "text": "Frank Eliscu\nFrank Eliscu (1912–1996) was an American sculptor and art teacher who designed and created the Heisman Memorial Football Trophy in 1935 when he was only 20 years old. The first Heisman Trophy, a strong young bull of a football player cast in bronze, was presented to a college football player in 1935, and is considered one of the greatest honors a college athlete can receive. Over the years the Heisman Committee has paid tribute to Eliscu and his creation several times, and in 1985, the Heisman Committee invited him to speak at the 50th Anniversary Heisman ceremonies.",
+          "semantic_score": 0.5320907831192017,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "811",
+          "text": "Charlie Ward\nCharlie Ward Jr. (born October 12, 1970) is a retired American professional NBA basketball player, college football Heisman Trophy winner, Davey O'Brien Award winner and a Major League Baseball draftee. Despite his NCAA football success, Ward was one of the very few players who won a Heisman trophy but was not drafted in the NFL draft. He won the College Football National Championship with the Florida State University Seminoles. Ward played several years with the New York Knicks and started in the NBA Finals. He was inducted in the College Football Hall of Fame in 2006. An avid tennis player, Ward also displayed his skills at the Arthur Ashe Tennis Tournament in 1994.",
+          "semantic_score": 0.522845447063446,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "805",
+          "text": "Paul Hornung\nPaul Vernon Hornung (born December 23, 1935), nicknamed \"The Golden Boy\", is a former professional American football player, a Hall of Fame running back for the Green Bay Packers of the National Football League (NFL) from 1957 to 1966, winning four NFL titles and the first Super Bowl. He is the first in pro football history to win the Heisman Trophy, be selected as the first overall selection in the NFL Draft, win the NFL most valuable player award, and be inducted into both the professional and college football halls of fame.",
+          "semantic_score": 0.49090564250946045,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "804",
+          "text": "Heisman curse\nThe Heisman curse is a term coined to reference a two-part assertion of a negative future for the winning player of the Heisman Trophy. The \"curse\" supposes that any college football player who wins the Heisman plays on a team that will likely lose its subsequent bowl game. The trend of post-award failure has garnered the attention of the mainstream media. Talk of a curse in relation to bowl results was particularly prevalent from 2003 to 2008, when six Heisman Trophy winners compiled a cumulative 1–5 bowl game record, and five of those six led number one ranked teams into the Bowl Championship Series (BCS) National Championship Game as favorites (Heisman Trophy winners, including Reggie Bush, who gave back his Heisman Trophy, are 4–8 overall in the BCS National Championship Game and College Football Playoff National Championship, although prior to 2009 they were 1–6). Additionally, the Heisman curse asserts that in most cases a Heisman winner will have either a poor career in the National Football League (NFL), or in fact not even see such a football career at all. Although many Heisman winners have not enjoyed success at the professional level, including players like Matt Leinart, Andre Ware, Jason White, Rashaan Salaam, Eric Crouch, Ty Detmer, Troy Smith and Gino Torretta, proponents of the \"curse\" rarely cite highly successful players such as Barry Sanders, Charles Woodson, Eddie George, Tim Brown, Bo Jackson, Marcus Allen, Earl Campbell, and Tony Dorsett among the notables.",
+          "semantic_score": 0.470730185508728,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1031",
+          "text": "List of Green Bay Packers first-round draft picks\nThe Green Bay Packers joined the National Football League (NFL) in 1921, two years after their original founding by Curly Lambeau. They participated in the first ever NFL draft in 1936 and selected Russ Letlow, a guard from the University of San Francisco. The team's most recent first round selection was Kenny Clark, a defensive tackle from UCLA in the 2016 NFL Draft. The Packers have selected the number one overall pick in the draft twice, choosing future Hall of Fame halfback Paul Hornung in 1957 and quarterback Randy Duncan in 1959. They have also selected the second overall pick three times and the third overall pick once. The team's eight selections from the University of Minnesota are the most chosen by the Packers from one university.",
+          "semantic_score": 0.31519535183906555,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7597",
+          "text": "Jim Parker (American football)\nJames Thomas Parker (April 3, 1934 – July 18, 2005) was an American football player. He played college football at Ohio State University from 1954 to 1956 and in the National Football League (NFL) with the Baltimore Colts from 1957 to 1967. Parker was inducted into the Pro Football Hall of Fame in 1973 and the College Football Hall of Fame in 1974.",
+          "semantic_score": 0.48079049587249756,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Paul Hornung"
+    },
+    {
+      "step": 2,
+      "sub_question": "In what year was that player born?",
+      "retrieved": [
+        {
+          "id": "805",
+          "text": "Paul Hornung\nPaul Vernon Hornung (born December 23, 1935), nicknamed \"The Golden Boy\", is a former professional American football player, a Hall of Fame running back for the Green Bay Packers of the National Football League (NFL) from 1957 to 1966, winning four NFL titles and the first Super Bowl. He is the first in pro football history to win the Heisman Trophy, be selected as the first overall selection in the NFL Draft, win the NFL most valuable player award, and be inducted into both the professional and college football halls of fame.",
+          "semantic_score": 0.5097742080688477,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5772",
+          "text": "Shkëlzen Gashi\nShkëlzen Taib Gashi (born 15 July 1988) is an Albanian professional footballer who plays as a midfielder and forward for Major League Soccer club Colorado Rapids and the Albania national team.",
+          "semantic_score": 0.4617363512516022,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8656",
+          "text": "Paul Bravo\nPaul Bravo (born June 19, 1968 in Campbell, California) is a former American soccer midfielder and forward who played six seasons in Major League Soccer, two in the American Professional Soccer League and two in the USISL. He also earned four caps, scoring one goal, with the United States men's national soccer team. After his retirement from playing, Bravo served for several years as an assistant coach in both Major League Soccer and the NCAA and was most recently Technical Director for the Colorado Rapids.",
+          "semantic_score": 0.45467409491539,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2340",
+          "text": "Josep Raich\nJosep Raich Garriga (August 28, 1913 - 25 July 1988) is a former Spanish footballer of Catalan ethnicity who played for Joventut FC, CE Júpiter and FC Barcelona in Spain and FC Sète and Troyes AC in France. He played once for Spain in 1941.",
+          "semantic_score": 0.4446445405483246,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "609",
+          "text": "Christian Eriksen\nChristian Dannemann Eriksen (born 14 February 1992) is a Danish professional footballer who plays as an attacking midfielder for English club Tottenham Hotspur and the Denmark national team. He made his debut for the Denmark national team in March 2010, and was the youngest player of the 2010 FIFA World Cup in South Africa.",
+          "semantic_score": 0.442821741104126,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1031",
+          "text": "List of Green Bay Packers first-round draft picks\nThe Green Bay Packers joined the National Football League (NFL) in 1921, two years after their original founding by Curly Lambeau. They participated in the first ever NFL draft in 1936 and selected Russ Letlow, a guard from the University of San Francisco. The team's most recent first round selection was Kenny Clark, a defensive tackle from UCLA in the 2016 NFL Draft. The Packers have selected the number one overall pick in the draft twice, choosing future Hall of Fame halfback Paul Hornung in 1957 and quarterback Randy Duncan in 1959. They have also selected the second overall pick three times and the third overall pick once. The team's eight selections from the University of Minnesota are the most chosen by the Packers from one university.",
+          "semantic_score": 0.302255779504776,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3386",
+          "text": "José Daniel Valencia\nJosé Daniel Valencia (born 3 October 1955 in San Salvador, Jujuy Province) is a retired Argentine footballer, who played as an attacking midfielder. He is perhaps most famous for having been part of the 1978 World Cup winning squad.",
+          "semantic_score": 0.3784097135066986,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "607",
+          "text": "Martin Ødegaard\nMartin Ødegaard (] ; born 17 December 1998) is a Norwegian professional footballer who plays as an attacking midfielder for Dutch club SC Heerenveen, on loan from Real Madrid, and the Norway national team.",
+          "semantic_score": 0.32403668761253357,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "612",
+          "text": "Zymer Bytyqi\nZymer Bytyqi (born 11 September 1996) is a Norwegian footballer who plays as a winger for Viking. He previously played for Sandnes Ulf and Red Bull Salzburg, and became the youngest player that has ever played in the Norwegian top league when he made his first-team debut in 2012 (the record has since been broken by Martin Ødegaard). Bytyqi, who is of Albanian descent, has represented Norway at youth international level and Kosovo at a senior international level.",
+          "semantic_score": 0.40561071038246155,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3022",
+          "text": "Leobardo López\nLeobardo López García (September 4, 1983) is a Mexican football defender. He currently plays for Celaya in Mexico.",
+          "semantic_score": 0.3142108917236328,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1935"
+    }
+  ],
+  "links": [
+    {
+      "source": "813",
+      "target": "805",
+      "reason": "Paragraph 813 states Johnny Majors finished second to Paul Hornung in the 1956 Heisman voting, identifying Hornung as the winner; paragraph 805 gives Paul Hornung's birth year as 1935, directly answering the final sub-question."
+    }
+  ],
+  "questions_seen": 82,
+  "_id": "5ae6fee3554299572ea54670",
+  "correct_answer": "1935",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

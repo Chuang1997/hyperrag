@@ -1,0 +1,160 @@
+{
+  "question": "What is the name of the former MGM Grand Garden Special Events Center where the Mayweather-Ortiz fight took place?",
+  "answer": "MGM Grand Garden Arena",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What was the former name of the MGM Grand Garden Special Events Center?",
+      "retrieved": [
+        {
+          "id": "329",
+          "text": "MGM Grand Garden Arena\nThe MGM Grand Garden Arena (originally known as the MGM Grand Garden Special Events Center) is a multi-purpose arena located within the MGM Grand Las Vegas on the Las Vegas Strip.",
+          "semantic_score": 0.7920689582824707,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3925",
+          "text": "MGM Grand Las Vegas\nThe MGM Grand Las Vegas (formerly Marina and MGM-Marina) is a hotel and casino located on the Las Vegas Strip in Paradise, Nevada. The MGM Grand is the largest single hotel in the United States with 5,124 rooms. It is also the third-largest hotel complex in the world by number of rooms and second-largest hotel resort complex in the United States behind the combined The Venetian and The Palazzo. When it opened in 1993, the MGM Grand was the largest hotel complex in the world.",
+          "semantic_score": 0.5182371735572815,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3920",
+          "text": "Corey I. Sanders\nCorey Sanders has served as Chief Operating Officer of MGM Resorts International since June 2010. He oversees operations at the Company’s wholly owned properties, which in Nevada include Bellagio (resort), MGM Grand Las Vegas, Mandalay Bay, The Mirage, New York-New York Hotel and Casino, Monte Carlo Resort and Casino, Luxor Las Vegas, Excalibur Hotel and Casino, Circus Circus Las Vegas, Circus Circus Reno, Gold Strike Jean and Railroad Pass Casino. He also oversees Beau Rivage (Mississippi) in Biloxi and Gold Strike Tunica, both in Mississippi, as well as MGM Grand Detroit.",
+          "semantic_score": 0.4676470160484314,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3657",
+          "text": "245 Park Avenue\n245 Park Avenue (formerly American Tobacco Company Building, American Brands Building and Bear Stearns Building) is a 648-ft (198 m) tall skyscraper in New York City, New York. It was completed in 1967 and has 48 floors (1.7 million square feet). Shreve, Lamb and Harmon designed the building. The Building Owners and Managers Association awarded the 2000/2001 Pinnacle Award to 245 Park Avenue. The site used to be occupied by the second Grand Central Palace exhibition hall, which was demolished in 1964 to make way for 245 Park Avenue.",
+          "semantic_score": 0.4603833556175232,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4508",
+          "text": "Grand Boulevard (Detroit)\nGrand Boulevard is a thoroughfare in Detroit, Michigan, running east to west in some places and north to south in other places and is approximately 11 miles in length. It once constituted the city limits of Detroit. Grand Boulevard is named the \"Berry Gordy, Jr. Boulevard\" in the area where the Motown Historical Museum is located and the \"General Motors Boulevard\" in the area of Detroit's \"New Center\" where the Fisher Building and Cadillac Place (formerly the General Motors Building) are located. Grand Boulevard is commonly referred to by residents of the city simply as \"the Boulevard\".",
+          "semantic_score": 0.441236674785614,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3666",
+          "text": "432 Park Avenue\n432 Park Avenue is a residential skyscraper in New York City that overlooks Central Park. Originally proposed to be 1300 ft in 2011, the structure topped out at 1396 ft . It was developed by CIM Group and features 104 condominium apartments. Construction began in 2012 and was completed on December 23, 2015.",
+          "semantic_score": 0.38565340638160706,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5745",
+          "text": "277 Park Avenue\n277 Park Avenue is an office building in the Midtown Manhattan neighborhood of New York City. It stands on the east side of Park Avenue between East 47th and 48th Streets; it is 687 ft tall, with 50 floors.",
+          "semantic_score": 0.26644790172576904,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3658",
+          "text": "655 Park Avenue\n655 Park Avenue is a Georgian-style co-op residential building on Manhattan's Upper East Side, located on Park Avenue between 67th Street and 68th Street, adjacent to the Park Avenue Armory. It was developed in 1924 by Dwight P. Robinson & Company. The building at 655 Park Avenue was designed by architects James Edwin Ruthven Carpenter, Jr., often referred to by the initials \"J.E.R. Carpenter\", and Mott B. Schmidt. Carpenter is considered the leading architect for luxury residential high-rise buildings in New York City in the early 1900s, while Schmidt is known for his buildings in the American Georgian Classical style, including Sutton Place and houses for New York City's society figures and business elite.",
+          "semantic_score": 0.3205030560493469,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "MGM Grand Garden Arena"
+    },
+    {
+      "step": 2,
+      "sub_question": "Where did the Mayweather-Ortiz fight take place?",
+      "retrieved": [
+        {
+          "id": "325",
+          "text": "Floyd Mayweather Jr. vs. Canelo Álvarez\nFloyd Mayweather Jr. vs. Canelo Álvarez, billed as \"The One\", was a boxing light middleweight championship superfight. The bout was held on September 14, 2013, in the MGM Grand Garden Arena, at the MGM Grand Hotel & Casino in Las Vegas, Nevada, United States, on Showtime PPV. Mayweather received $41.5 million for this fight before taking into account pay-per-view sales.",
+          "semantic_score": 0.6717459559440613,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "332",
+          "text": "Floyd Mayweather Jr. vs. Manny Pacquiao\nFloyd Mayweather Jr. vs. Manny Pacquiao, billed as \"The Fight of the Century\", or the \"Battle for Greatness\", was a professional boxing match between undefeated five-division world champion Floyd Mayweather Jr. and eight-division world champion Manny Pacquiao. It took place on May 2, 2015, at the MGM Grand Garden Arena in Las Vegas, Nevada. Mayweather Jr. won the contest by unanimous decision, with two judges scoring it 116–112 and the other 118–110. Although the fight was considered to be one of the most anticipated sporting events in history, it was largely considered a letdown by critics and audiences alike upon its broadcast.",
+          "semantic_score": 0.6401246190071106,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "324",
+          "text": "Floyd Mayweather Jr. vs. Marcos Maidana\nFloyd Mayweather Jr. vs. Marcos Maidana, billed as \"The Moment\", was a boxing welterweight championship fight. The bout was held on May 3, 2014, in the MGM Grand Garden Arena, at the MGM Grand Hotel & Casino in Las Vegas, Nevada, United States, on Showtime PPV.",
+          "semantic_score": 0.6317259073257446,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "327",
+          "text": "Canelo Álvarez vs. Alfonso Gómez\nCanelo Álvarez vs. Alfonso Gómez was a Light Middleweight fight for the WBC World title. The fight took place in Staples Center, Los Angeles, California, United States on 17 September 2011 on the Floyd Mayweather Jr.-Victor Ortiz pay-per-view broadcast. The Mayweather-Ortiz fight took place at another location at the MGM Grand Garden Arena in Las Vegas, Nevada taking place on the Mexican Independence weekend. Fans at Staples Center will be able to see the live feed from Las Vegas and also see Canelo Alvarez fight live that night, and the people in Las Vegas can see the live feed from the Canelo fight in the Staples Center.",
+          "semantic_score": 0.6282746195793152,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "329",
+          "text": "MGM Grand Garden Arena\nThe MGM Grand Garden Arena (originally known as the MGM Grand Garden Special Events Center) is a multi-purpose arena located within the MGM Grand Las Vegas on the Las Vegas Strip.",
+          "semantic_score": 0.5924962162971497,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "326",
+          "text": "Floyd Mayweather Jr. vs. Robert Guerrero\nFloyd Mayweather Jr. vs. Robert Guerrero, billed as May Day, was a boxing welterweight championship superfight for Mayweather's World Boxing Council (WBC) Welterweight title and vacant \"Ring\" Welterweight title. The bout was held on May 4, 2013, in the MGM Grand Garden Arena at the MGM Grand Hotel & Casino in Las Vegas, Nevada, United States on Showtime PPV. The bout was the first major televised fight of Mayweather's career to not be aired on HBO PPV. The card featured some of the rising stars of Mayweather Promotions: J'Leon Love, Badou Jack, Luis Arias, Ronald Gavril and Lanell Bellows. Mayweather won via unanimous decision with Guerrero winning the first 3 rounds, then Mayweather adjusted and won from the 4th to 12th round.",
+          "semantic_score": 0.5921331644058228,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "MGM Grand Garden Arena"
+    }
+  ],
+  "links": [
+    {
+      "source": "329",
+      "target": "327",
+      "reason": "Paragraph 329 establishes that the MGM Grand Garden Arena was originally the MGM Grand Garden Special Events Center, while paragraph 327 confirms the Mayweather-Ortiz fight took place at the MGM Grand Garden Arena, bridging the former name to the fight venue."
+    }
+  ],
+  "questions_seen": 34,
+  "_id": "5a72f45a5542992359bc31e6",
+  "correct_answer": "MGM Grand Garden Arena",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "question": "\"Heartbreak Hurricane\" was recorded by which country artist, that also goes by the name Ricky Skaggs?",
+  "answer": "Rickie Lee Skaggs",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is the country artist that goes by the name Ricky Skaggs?",
+      "retrieved": [
+        {
+          "id": "217",
+          "text": "Ricky Skaggs\nRickie Lee Skaggs (born July 18, 1954), known professionally as Ricky Skaggs, is an American country and bluegrass singer, musician, producer, and composer. He primarily plays mandolin; however, he also plays fiddle, guitar, mandocaster and banjo.",
+          "semantic_score": 0.7633891701698303,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "218",
+          "text": "Cajun Moon\n\"Cajun Moon' is a song written by Jim Rushing, and recorded by American country artist Ricky Skaggs. It was released in January 1986 as the second single from the album \"Live in London\". \"Cajun Moon\" was Ricky Skaggs' tenth number one on the country chart. The single went to number one for one week and spent thirteen weeks on the country chart.",
+          "semantic_score": 0.5726373791694641,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "215",
+          "text": "Country Boy (Ricky Skaggs song)\n\"Country Boy\" is a song written by Tony Colton, Albert Lee, and Ray Smith of the British band Heads Hands & Feet, and recorded by American country music artist Ricky Skaggs. It was released in February 1985 as the second single and title track from the album \"Country Boy\". The song was Ricky Skaggs' ninth number-one country hit. The single went to number one for one week and spent a total of thirteen weeks on the country chart.",
+          "semantic_score": 0.5599607229232788,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "223",
+          "text": "Highway 40 Blues\n\"Highway 40 Blues\" is a song written by Larry Cordle, and recorded by American country music artist Ricky Skaggs. It was released in March 1983 as the third single from the album \"Highways & Heartaches\". \"Highway 40 Blues\" was Ricky Skaggs' fifth number one on the country chart and his fifth consecutive number one. The single stayed at number one for one week and spent a total of twelve weeks on the chart.",
+          "semantic_score": 0.5492327809333801,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "214",
+          "text": "Lovin' Only Me\n\"Lovin' Only Me\" is a song written by Hillary Kanter and Even Stevens, and recorded by American country music artist Ricky Skaggs. It was released in February 1989 as the first single from the album \"Kentucky Thunder\". \"Lovin' Only Me\" was Ricky Skaggs' twelfth and final number one on the country chart. The single went to number one for one week and spent a total of fifteen weeks on the country chart.",
+          "semantic_score": 0.46863099932670593,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "216",
+          "text": "Heartbreak Hurricane\n\"Heartbreak Hurricane\" is a song written by Larry Cordle and Jim Rushing, and recorded by American country music artist Ricky Skaggs. It was released in December 1989 as the third single from the album \"Kentucky Thunder\". The song reached No. 13 on the \"Billboard\" Hot Country Singles & Tracks chart.",
+          "semantic_score": 0.4677843749523163,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Rickie Lee Skaggs"
+    },
+    {
+      "step": 2,
+      "sub_question": "Did Ricky Skaggs record the song \"Heartbreak Hurricane\"?",
+      "retrieved": [
+        {
+          "id": "216",
+          "text": "Heartbreak Hurricane\n\"Heartbreak Hurricane\" is a song written by Larry Cordle and Jim Rushing, and recorded by American country music artist Ricky Skaggs. It was released in December 1989 as the third single from the album \"Kentucky Thunder\". The song reached No. 13 on the \"Billboard\" Hot Country Singles & Tracks chart.",
+          "semantic_score": 0.69880211353302,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "217",
+          "text": "Ricky Skaggs\nRickie Lee Skaggs (born July 18, 1954), known professionally as Ricky Skaggs, is an American country and bluegrass singer, musician, producer, and composer. He primarily plays mandolin; however, he also plays fiddle, guitar, mandocaster and banjo.",
+          "semantic_score": 0.6085836291313171,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "223",
+          "text": "Highway 40 Blues\n\"Highway 40 Blues\" is a song written by Larry Cordle, and recorded by American country music artist Ricky Skaggs. It was released in March 1983 as the third single from the album \"Highways & Heartaches\". \"Highway 40 Blues\" was Ricky Skaggs' fifth number one on the country chart and his fifth consecutive number one. The single stayed at number one for one week and spent a total of twelve weeks on the chart.",
+          "semantic_score": 0.5101373791694641,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "218",
+          "text": "Cajun Moon\n\"Cajun Moon' is a song written by Jim Rushing, and recorded by American country artist Ricky Skaggs. It was released in January 1986 as the second single from the album \"Live in London\". \"Cajun Moon\" was Ricky Skaggs' tenth number one on the country chart. The single went to number one for one week and spent thirteen weeks on the country chart.",
+          "semantic_score": 0.5034981369972229,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1673",
+          "text": "Liquifury\nLiquifury is the fourth studio album by the heavy metal band Hurricane. It was released in 2001 on Frontiers Records. The album arrived eleven years after the band's previous release, and it can be considered a \"reunion\" effort from the band, although two of the original four band members are absent.",
+          "semantic_score": 0.4155409038066864,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "links": [
+    {
+      "source": "217",
+      "target": "216",
+      "reason": "Paragraph 217 identifies Rickie Lee Skaggs as the country artist known professionally as Ricky Skaggs, while paragraph 216 states that Ricky Skaggs recorded 'Heartbreak Hurricane,' bridging the artist's identity to the song."
+    }
+  ],
+  "questions_seen": 23,
+  "_id": "5a72334755429971e9dc934c",
+  "correct_answer": "Rickie Lee Skaggs",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

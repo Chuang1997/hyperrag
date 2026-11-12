@@ -1,0 +1,160 @@
+{
+  "question": "What kind of material forms the wrapping for the chocolate candies that Hershey Kissables were shaped like?",
+  "answer": "Aluminum foil",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What shape were Hershey Kissables candies?",
+      "retrieved": [
+        {
+          "id": "1586",
+          "text": "Hershey's Kissables\nHershey Kissables were a chocolate candy sold by The Hershey Company from late 2005 to 2009. Comparable to M&M's, Hershey Kissables were shaped like miniature Hershey's Kisses and were coated in a thick sugar shell.",
+          "semantic_score": 0.6669631600379944,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1579",
+          "text": "Hershey's Kisses\nHershey's Kisses is a brand of chocolate manufactured by The Hershey Company. The bite-sized pieces of chocolate have a distinctive shape, commonly described as flat-bottomed teardrops. Hershey's Kisses chocolates are wrapped in squares of lightweight aluminum foil with a narrow strip of paper protruding from the top.",
+          "semantic_score": 0.6290530562400818,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1583",
+          "text": "Hershey's Drops\nHershey's Drops are circular-shaped chocolate candies produced by The Hershey Company, launched on December 1, 2010. There are two variants available: Hershey's Milk Chocolate Drops and Hershey's Cookies ‘n’ Cream Drops, the former based on the traditional Hershey’s Milk Chocolate bar and the latter based on the popular Cookies ‘n’ Creme-flavoured variant. While similarly shaped, Hershey’s Drops lack the hard candy shell found on M&M's and similar candies. They originated in the United States and have since become common internationally in countries such as Canada and China. In the United States, the candies are available in resealable containers, and in China the candies are available wrapped in plastic packets within cardboard containers sealed with a plastic lid.",
+          "semantic_score": 0.5359086990356445,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5338",
+          "text": "Crazy Cow\nCrazy Cow was a breakfast cereal produced by General Mills during the 1970s. The cereal was somewhat of a novelty item in that it had an unusual trait. The round, multi-grain cereal pellets were coated with an excipient of a drink mix. When milk was added, it would dissolve the powdered coating, and the resultant mixture would resemble in sight, smell, and taste, a flavored milk. Crazy Cow came in two flavors, chocolate and strawberry. As the box indicated, these were just flavors; no actual chocolate or strawberries were in the ingredients. The box always contained the disclaimer \"artificially flavored\" or \"chocolate flavored\".",
+          "semantic_score": 0.37851813435554504,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5339",
+          "text": "Mamba (candy)\nMamba Fruit Chews are a brand of fruit chew candies, made in Germany by August Storck KG. They are artificially flavored in strawberry, orange, lemon, and raspberry. They are vegan. Mamba was launched in 1953 in packs of six. They are most often sold in packages of 18 or 24 soft chews and the flavors within each package are selected at random.",
+          "semantic_score": 0.37401607632637024,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1580",
+          "text": "M-Azing\nM-Azing is a candy bar manufactured by Mars, Incorporated. M-Azing is a milk chocolate candy bar with M&M's Minis chocolate candies inside. It has been available in crunchy and peanut butter flavors, in singles and miniatures varieties.",
+          "semantic_score": 0.3105301558971405,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2676",
+          "text": "Still Crazy\nStill Crazy is a 1998 British comedy film about a fictional 1970s rock band named \"Strange Fruit\", who, after being split up for two decades, are persuaded to get back together to perform at a reunion of the same concert venue where they played their last gig. The film focuses on the personal lives of the band members and those closest to them, and their individual experiences with approaching middle-age and the success that eluded them.",
+          "semantic_score": 0.11557139456272125,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Miniature Hershey's Kisses"
+    },
+    {
+      "step": 2,
+      "sub_question": "What material is used for the wrapping of chocolate candies of that shape?",
+      "retrieved": [
+        {
+          "id": "1579",
+          "text": "Hershey's Kisses\nHershey's Kisses is a brand of chocolate manufactured by The Hershey Company. The bite-sized pieces of chocolate have a distinctive shape, commonly described as flat-bottomed teardrops. Hershey's Kisses chocolates are wrapped in squares of lightweight aluminum foil with a narrow strip of paper protruding from the top.",
+          "semantic_score": 0.6982331871986389,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1586",
+          "text": "Hershey's Kissables\nHershey Kissables were a chocolate candy sold by The Hershey Company from late 2005 to 2009. Comparable to M&M's, Hershey Kissables were shaped like miniature Hershey's Kisses and were coated in a thick sugar shell.",
+          "semantic_score": 0.5720199346542358,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1583",
+          "text": "Hershey's Drops\nHershey's Drops are circular-shaped chocolate candies produced by The Hershey Company, launched on December 1, 2010. There are two variants available: Hershey's Milk Chocolate Drops and Hershey's Cookies ‘n’ Cream Drops, the former based on the traditional Hershey’s Milk Chocolate bar and the latter based on the popular Cookies ‘n’ Creme-flavoured variant. While similarly shaped, Hershey’s Drops lack the hard candy shell found on M&M's and similar candies. They originated in the United States and have since become common internationally in countries such as Canada and China. In the United States, the candies are available in resealable containers, and in China the candies are available wrapped in plastic packets within cardboard containers sealed with a plastic lid.",
+          "semantic_score": 0.5626594424247742,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1581",
+          "text": "Chocolate sandwich\nA chocolate sandwich is a sandwich with a chocolate filling. Bading Si Jethro are a popular option — some people use cheese graters to make the chocolate sandwiches more convenient. Melted chocolate and grated chocolate sandwiches are an alternative. Rye bread, butter and chocolate shot or sprinkles (fine small chocolate candies, about 1x5 mm).",
+          "semantic_score": 0.4343934953212738,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4981",
+          "text": "Elizabeth Shaw (confectionery company)\nElizabeth Shaw is the trading name of a Bristol based company that markets chocolate-based confectionery, including the well-known brands Famous Names chocolate liqueurs and Elizabeth Shaw after dinner mints. The company has recently extended its range to include Flutes, and a Crisp Collection gift box, featuring products based on its unique honeycomb crisp inclusion. It also markets a range of 100g bars, featuring its best loved flavours.",
+          "semantic_score": 0.398447722196579,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1584",
+          "text": "Chocolaterie Robert\nChocolaterie Robert is the first commercial producer of chocolate in Madagascar. Bars of chocolate are the company's most widespread product and are sold under the name \"Chocolat Robert\". The company was established in 1940 by the French-Reunionais Robert family in Toamasina and changed hands several times before being sold to a Malagasy business group run by the Ramanandraibe family, among the major Malagasy leaders driving economic development of the island in the post-colonial period. From its headquarters and main factory in Antananarivo, the company uses all local cocoa to produce white, milk and dark chocolate bars that are widely sold across Madagascar. In addition, at several specialty boutiques in major Malagasy cities, the company sells various chocolate candies and cakes. It has recently invested in further improvements to its products in order to compete in the international chocolate market, exporting its products to France and the United Kingdom. This effort resulted in prizes across several categories at the 2014 International Chocolate Awards in London.",
+          "semantic_score": 0.3977600038051605,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1580",
+          "text": "M-Azing\nM-Azing is a candy bar manufactured by Mars, Incorporated. M-Azing is a milk chocolate candy bar with M&M's Minis chocolate candies inside. It has been available in crunchy and peanut butter flavors, in singles and miniatures varieties.",
+          "semantic_score": 0.3398178815841675,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Aluminum foil"
+    }
+  ],
+  "links": [
+    {
+      "source": "1586",
+      "target": "1579",
+      "reason": "Paragraph 1586 establishes that Hershey Kissables were shaped like miniature Hershey's Kisses, and paragraph 1579 identifies the wrapping material for Hershey's Kisses as lightweight aluminum foil, bridging the shape to the wrapping material."
+    }
+  ],
+  "questions_seen": 160,
+  "_id": "5ab613985542992aa134a418",
+  "correct_answer": "aluminum foil",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

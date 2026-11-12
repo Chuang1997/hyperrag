@@ -1,0 +1,188 @@
+{
+  "question": "Who is older, Tarryl Lynn Clark or Michele Marie Bachmann?",
+  "answer": "Michele Marie Bachmann",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is Tarryl Lynn Clark's date of birth?",
+      "retrieved": [
+        {
+          "id": "1189",
+          "text": "Tarryl Clark\nTarryl Lynn Clark (born July 31, 1961) is a Minnesota politician and a former member of the Minnesota Senate. A Democrat, she represented District 15, including portions of Benton, Sherburne, and Stearns counties, from 2006 to 2011. She was a Democratic-Farmer-Labor Party nominee for United States Congress in 2010, unsuccessfully challenging incumbent Republican Michele Bachmann.",
+          "semantic_score": 0.584527313709259,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1193",
+          "text": "Brandy Clark\nBrandy Lynn Clark (born October 9, 1975) is an American country music singer-songwriter. Her songs have been recorded by Sheryl Crow, Miranda Lambert, The Band Perry, Reba McEntire, LeAnn Rimes, Billy Currington, Darius Rucker, and Kacey Musgraves. She was nominated for Best New Artist at the 2015 Grammy Awards.",
+          "semantic_score": 0.4841928780078888,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3613",
+          "text": "Leah Ray\nLeah Ray Hubbard Werblin (February 16, 1915 – May 27, 1999) was an American singer born in Norfolk, Virginia who performed in the Big Band era and who sang and acted in more than a dozen motion pictures.",
+          "semantic_score": 0.42062368988990784,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6464",
+          "text": "Merlakia Jones\nMerlakia Jones (born June 21, 1974) is a former American college and professional basketball player who was a guard in the Women's National Basketball Association (WNBA) for eight seasons during the 1990s and 2000s. Jones played college basketball for the University of Florida, and then played professionally for the Cleveland Rockers and Detroit Shock of the WNBA.",
+          "semantic_score": 0.4122004210948944,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3610",
+          "text": "Laura Turner (singer)\nLaura Turner is an American singer born in Houston, Texas. She came to public notice following the release of her album \"Soul Deep\" on Curb Records in 2003.",
+          "semantic_score": 0.40660691261291504,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6472",
+          "text": "Jalen Jones\nJalen Jones (born May 27, 1993) is an American professional basketball player for the New Orleans Pelicans of the National Basketball Association (NBA). He was signed on a two-way contract with the NBA G League. He played college basketball for Southern Methodist and Texas A&M.",
+          "semantic_score": 0.1813516914844513,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1194",
+          "text": "Michele Bachmann\nMichele Marie Bachmann ( ; \"née\" Amble; born April 6, 1956) is an American politician. A Republican, she is a former member of the United States House of Representatives, who represented Minnesota's 6th congressional district, a post she held from 2007 to 2015. The district includes several of the northern suburbs of the Twin Cities, as well as St. Cloud.",
+          "semantic_score": 0.2682076692581177,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "818",
+          "text": "Norm Coleman\nNorman Bertram Coleman Jr., (born August 17, 1949) is an American lobbyist, lawyer and politician. He served as a U.S. Senator from Minnesota from 2003 until 2009. Before that, he was mayor of Saint Paul, Minnesota from 1994 to 2002. Previously a member of the Democratic–Farmer–Labor Party (DFL), Coleman became a Republican in 1996. Coleman was elected to the Senate in 2002 and served one term, losing his 2008 reelection bid by 312 votes (out of over 3 million cast).",
+          "semantic_score": 0.22092550992965698,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6469",
+          "text": "Mark Jones (basketball, born 1961)\nMark Anthony Jones (born April 10, 1961) is a retired American professional basketball player. He played point guard. Jones played college basketball at St. Bonaventure before being drafted by the New York Knicks as the 82nd overall pick in the 4th round of the 1983 NBA Draft. He never played for the Knicks, however, instead ultimately playing six games in the NBA for the New Jersey Nets during the season.",
+          "semantic_score": 0.16799050569534302,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "823",
+          "text": "United States Senate election in Minnesota, 2002\nThe 2002 United States Senate election in Minnesota took place on November 5, 2002. Incumbent Democratic U.S. Senator Paul Wellstone was running for re-election to a third term, but died in a plane crash eleven days before the election. The Democratic-Farmer-Labor Party (DFL) chose former Vice President and 1984 Presidential candidate Walter Mondale to replace Wellstone on the ballot. Mondale lost to Republican Mayor of Saint Paul Norm Coleman. The day before the election, Independence Governor Jesse Ventura had appointed Dean Barkley (IP) to serve the rest of Wellstone's term. As of 2017, this is the last Senate election in Minnesota won by a Republican.",
+          "semantic_score": 0.18484780192375183,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "July 31, 1961"
+    },
+    {
+      "step": 2,
+      "sub_question": "What is Michele Marie Bachmann's date of birth?",
+      "retrieved": [
+        {
+          "id": "1194",
+          "text": "Michele Bachmann\nMichele Marie Bachmann ( ; \"née\" Amble; born April 6, 1956) is an American politician. A Republican, she is a former member of the United States House of Representatives, who represented Minnesota's 6th congressional district, a post she held from 2007 to 2015. The district includes several of the northern suburbs of the Twin Cities, as well as St. Cloud.",
+          "semantic_score": 0.5989370346069336,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1198",
+          "text": "Michele Bachmann presidential campaign, 2012\nThe 2012 presidential campaign of Michele Bachmann, Congresswoman of Minnesota, began in June 2011. She ran for the 2012 Republican Party nomination for president of the United States. Bachmann announced she was running for president during the CNN Republican primary debate held June 13, 2011, and made her formal announcement two weeks later in her hometown of Waterloo, Iowa.",
+          "semantic_score": 0.5221815705299377,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1195",
+          "text": "Michele Serros\nMichele Marie Serros (February 10, 1966 – January 4, 2015) was an American author, poet and comedic social commentator. Hailed as “a Woman to Watch in the New Century” by \"Newsweek\", She wrote several books and regularly contributed original commentaries to National Public Radio.",
+          "semantic_score": 0.4404433071613312,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5748",
+          "text": "Anna Lewandowska\nAnna Lewandowska (born Anna Stachurska 7 September 1988) is a Polish athlete, a graduate of the Academy of Physical Education in Warsaw, a specialist on nutrition, karate and representative of the country in traditional karate. She is a multiple medalist of the World, European, and national Championships. She is married to footballer Robert Lewandowski.",
+          "semantic_score": 0.3992542624473572,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3538",
+          "text": "Pierre Chenal\nPierre Chenal (] ; December 5, 1904 – December 23, 1990) was a French director and screenwriter who flourished in the 1930s. He was married from 1937 – 1955 to Florence Marly (2 June 1919 – 9 November 1978), a Czech-born French film actress.",
+          "semantic_score": 0.3990537226200104,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1189",
+          "text": "Tarryl Clark\nTarryl Lynn Clark (born July 31, 1961) is a Minnesota politician and a former member of the Minnesota Senate. A Democrat, she represented District 15, including portions of Benton, Sherburne, and Stearns counties, from 2006 to 2011. She was a Democratic-Farmer-Labor Party nominee for United States Congress in 2010, unsuccessfully challenging incumbent Republican Michele Bachmann.",
+          "semantic_score": 0.2599240839481354,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5749",
+          "text": "Robert Lewandowski\nRobert Lewandowski (] ; born 21 August 1988) is a Polish professional footballer who plays as a striker for Bundesliga club Bayern Munich, and captains the Poland national team.",
+          "semantic_score": 0.15648752450942993,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2638",
+          "text": "Barbara Lee\nBarbara Jean Lee (born July 16, 1946) is the U.S. Representative for California 's 13th congressional district , serving East Bay voters from 1998 to 2013 during a time when the region was designated California 's 9 congressional district . She is a member of the Democratic Party. She was the first woman to represent the 9th district and is also the first woman to represent the 13th district. Lee was the Chair of the Congressional Black Caucus and was the Co-Chair of the Congressional Progressive Caucus. Lee is notable as the only member of either house of Congress to vote against the authorization of use of force following the September 11, 2001 attacks. This made her a hero among many in the anti-war movement. Lee has been a vocal critic of the war in Iraq and supports legislation creating a Department of Peace.",
+          "semantic_score": 0.2865653336048126,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "April 6, 1956"
+    }
+  ],
+  "links": [
+    {
+      "source": "1189",
+      "target": "1194",
+      "reason": "Paragraph 1189 gives Tarryl Lynn Clark's birth date (July 31, 1961), and paragraph 1194 gives Michele Marie Bachmann's birth date (April 6, 1956), enabling direct comparison to determine who is older."
+    }
+  ],
+  "questions_seen": 121,
+  "_id": "5a7cad635542996dd594b97f",
+  "correct_answer": "Michele Marie Bachmann",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "question": "The eastern coast of Ivan Zammit's birth city is located along what body of water? ",
+  "answer": "Grand Harbour",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is Ivan Zammit's birth city?",
+      "retrieved": [
+        {
+          "id": "995",
+          "text": "Ivan Zammit\nIvan Zammit (born 17 March 1972 in Valletta, Malta) is a former professional footballer, currently the head coach at Maltese First Division side Gżira United.",
+          "semantic_score": 0.5686656832695007,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4027",
+          "text": "Vadim Zakharov (artist)\nVadim Zakharov (born 1959 in Dushanbe, Tajikistan) is an internationally exhibited Russian conceptual artist living and working in Moscow and Cologne, Germany. He created the work for the Russian pavilion at the 2013 55th edition of the Venice Biennale. His instillation therein marked the first time an artist's work occupied both levels of the structure. Zahkarov is a graduate of the Moscow State Teachers Training Institute.",
+          "semantic_score": 0.43280577659606934,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5748",
+          "text": "Anna Lewandowska\nAnna Lewandowska (born Anna Stachurska 7 September 1988) is a Polish athlete, a graduate of the Academy of Physical Education in Warsaw, a specialist on nutrition, karate and representative of the country in traditional karate. She is a multiple medalist of the World, European, and national Championships. She is married to footballer Robert Lewandowski.",
+          "semantic_score": 0.390336275100708,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7404",
+          "text": "Arvydas Každailis\nArvydas Stanislavas Každailis (born 4 April 1939, in Baisogala) is a Lithuanian artist, best known as the creator of many coat of arms for cities and towns of Lithuania. For his achievements in Lithuanian art, he was awarded the Order of the Lithuanian Grand Duke Gediminas in 1999.",
+          "semantic_score": 0.3841184973716736,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3751",
+          "text": "Abraham Zapruder\nAbraham Zapruder (May 15, 1905 – August 30, 1970) was a Russian-born American clothing manufacturer who witnessed the assassination of President John F. Kennedy in Dallas, Texas, on November 22, 1963. Zapruder unexpectedly captured the event in a home movie while filming the presidential limousine and motorcade as it traveled through Dealey Plaza.",
+          "semantic_score": 0.38211485743522644,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3748",
+          "text": "Zapruder film\nThe Zapruder film is a silent, color motion picture sequence shot by private citizen Abraham Zapruder with a home-movie camera, as U.S. President John F. Kennedy's motorcade passed through Dealey Plaza in Dallas, Texas, on November 22, 1963, thereby unexpectedly capturing the President's assassination.",
+          "semantic_score": 0.3770221173763275,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3750",
+          "text": "Marilyn Sitzman\nMarilyn Sitzman (December 14, 1939 – August 11, 1993) was an American receptionist and a witness to the assassination of U.S. President John F. Kennedy in Dallas, Texas on November 22, 1963. She was with her boss, Abraham Zapruder, as he made the Zapruder film, the most studied record of the assassination.",
+          "semantic_score": 0.2720499336719513,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3753",
+          "text": "William Greer\nWilliam Robert Greer (September 22, 1909 – February 23, 1985) was an agent of the U.S. Secret Service, best known for having driven President John F. Kennedy's presidential limousine in the motorcade through Dealey Plaza in Dallas on November 22, 1963, when the president was assassinated.",
+          "semantic_score": 0.18323902785778046,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3754",
+          "text": "Assassination of John F. Kennedy\nJohn F. Kennedy, the 35th President of the United States, was assassinated on Friday, November 22, 1963 at 12:30 p.m. Central Standard Time in Dallas, Texas while riding in a motorcade in Dealey Plaza. Kennedy was fatally shot by a former U.S Marine, Lee Harvey Oswald, while he was riding with his wife, Jacqueline, Texas Governor John Connally, and Connally's wife, Nellie, in a presidential motorcade. A ten-month investigation by the Warren Commission from November 1963 to September 1964 concluded that Oswald acted alone in shooting Kennedy, and that Jack Ruby also acted alone when he killed Oswald before he could stand trial. Kennedy's death marked the fourth (following Lincoln, Garfield, and McKinley) and most recent assassination of an American President. Vice President Lyndon B. Johnson became President upon Kennedy's death.",
+          "semantic_score": 0.08181621134281158,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3752",
+          "text": "Lee Harvey Oswald\nLee Harvey Oswald (October 18, 1939 – November 24, 1963) was an American former U.S. Marine who assassinated United States President John F. Kennedy on November 22, 1963. According to four federal government investigations and one municipal investigation, Oswald shot and killed Kennedy as the President traveled by motorcade through Dealey Plaza in the city of Dallas, Texas.",
+          "semantic_score": 0.12162257730960846,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Valletta"
+    },
+    {
+      "step": 2,
+      "sub_question": "What body of water lies along the eastern coast of that city?",
+      "retrieved": [
+        {
+          "id": "998",
+          "text": "Valletta\nValletta ( ; ] ) is the capital city of Malta, colloquially known as Il-Belt (] ; lit. \"The City\") in Maltese. Geographically, it is located in the South Eastern Region, in the central-eastern portion of the main island of Malta having its western coast with access to the Marsamxett Harbour and its eastern coast in the Grand Harbour. The historical city has a population of 6,444 (as of March 2014), while the metropolitan area around it has a population of 393,938. Valletta is the southernmost capital of Europe and the second southernmost capital of the European Union after Nicosia.",
+          "semantic_score": 0.6651818156242371,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9756",
+          "text": "Marecchia\nThe Marecchia (pronounced ] ) is a river in eastern Italy. In ancient times it was known as the \"Ariminus\" which was from the Greek \"Ariminos\", \"Αρίμινος\" (which is also the ancient name of Rimini). The source of the river is near Monte dei Frati which is east of Pieve Santo Stefano and southwest of Badia Tedalda in the province of Arezzo in Tuscany. It flows northeast into the province of Pesaro and Urbino in the Marche and is the only river that runs through Montefeltro. While flowing through Montefeltro, the river flows through the exclave Santa Sofia Marecchia, which belongs to Badia Tedalda. The river then flows past Sant'Agata Feltria and Novafeltria before crossing into the province of Rimini in Emilia–Romagna. At Torello, part of the commune of San Leo, it flows 1 km west of the Sammarinese territory Acquaviva and the San Marino River flows into it, but the Marecchia does not touch the San Marino border. Finally, the river flows past Verucchio and Santarcangelo di Romagna before flowing into the Adriatic Sea near Rimini.",
+          "semantic_score": 0.4163512885570526,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "994",
+          "text": "Adriatic Sea\nThe Adriatic Sea is a body of water separating the Italian Peninsula from the Balkan peninsula and the Apennine Mountains from the Dinaric Alps and adjacent ranges. The Adriatic is the northernmost arm of the Mediterranean Sea, extending from the Strait of Otranto (where it connects to the Ionian Sea) to the northwest and the Po Valley. The countries with coasts on the Adriatic are Albania, Bosnia and Herzegovina, Croatia, Italy, Montenegro and Slovenia. The Adriatic contains over 1,300 islands, mostly located along its eastern, Croatian coast. It is divided into three basins, the northern being the shallowest and the southern being the deepest, with a maximum depth of 1233 m . The Otranto Sill, an underwater ridge, is located at the border between the Adriatic and Ionian Seas. The prevailing currents flow counterclockwise from the Strait of Otranto, along the eastern coast and back to the strait along the western (Italian) coast. Tidal movements in the Adriatic are slight, although larger amplitudes are known to occur occasionally. The Adriatic's salinity is lower than the Mediterranean's because the Adriatic collects a third of the fresh water flowing into the Mediterranean, acting as a dilution basin. The surface water temperatures generally range from 30 C in summer to 12 C in winter, significantly moderating the Adriatic Basin's climate.",
+          "semantic_score": 0.4141198694705963,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4413",
+          "text": "Geography of the Democratic Republic of the Congo\nThe Democratic Republic of the Congo is by the Congo River Basin, which covers an area of almost 1000000 km2 . The country's only outlet to the Atlantic Ocean is a narrow strip of land on the north bank of the Congo River.",
+          "semantic_score": 0.3906458020210266,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "127",
+          "text": "Trela nera\nOne thing that characterizes Euboea and especially Chalkida is the phenomenon of \"trela nera\". (i.e. Crazy Waters). This phenomenon is a rare phenomenon that occurs in the Strait of Euripus under the bridge opening, where the flow of ocean waters changes. That is, when the water flowing one direction and then in the exact opposite direction. This change happens approximately every 6 hours.This phenomenon reaches its climax under the old sliding bridge where the speed of the water takes the maximum speed of 9 miles per hour. It is said that this speed of the water, a shark will struggle to swim in the opposite direction. This phenomenon is as follows: the waters move in the one direction for 6 hours, then for 8 minutes waters are stable and then they flow in the opposite direction for other 6 hours, then other 8 minutes the water is stable, and so on. It is this strange phenomenon that has given the city of Xalkida the nickname of \"Crazy waters\".",
+          "semantic_score": 0.37175825238227844,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9752",
+          "text": "Agri (river)\nThe Agri is a river in the Basilicata region of southern Italy. In ancient times it was known as \"Aciris\" (Ancient greek: \"Akyris\", \"Ακυρης\"). The source of the river is in the Lucan Apennines north of Monte Volturino and west of Calvello in the province of Potenza. It is near the source of the Basento. The river flows south near Paterno before curving southeast. It flows near Tramutola, Viggiano, and Grumento Nova before entering a lake. After exiting the lake, the river flows eastward near Armento, Missanello, Aliano, and Sant'Arcangelo. A right tributary, the Racanello, enters the river in this area. The river forms the border between the province of Potenza and the province of Matera for part of this area of the river. It flows into a small lake before entering the province of Matera. The river flows for a short distance before entering Lago di Gannano. After exiting the lake, the river flows southeast near Tursi, Montalbano Jonico, and Scanzano Jonico before flowing into the Gulf of Taranto near Policoro.",
+          "semantic_score": 0.3461954593658447,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9759",
+          "text": "Bidente-Ronco\nThe Bidente-Ronco is a river in the Emilia-Romagna region of Italy. The first portion of the river is called the Bidente. Once the river passes under the Ponte dei Veneziani (Bridge of the Venetians) in Meldola, the river is called the Ronco. The source of the river is near the border between the province of Forlì-Cesena, the province of Arezzo, and the province of Florence in the Foreste Casentinesi, Monte Falterona, Campigna National Park. The river flows northeast through the mountains in the province of Forlì-Cesena and flows near Santa Sofia, Galeata, Civitella di Romagna and Meldola. Beyond Meldola, the river flows north near Bertinoro, Forlimpopoli, and Forlì before crossing the border into the province of Ravenna. The river flows northeast until it joins the Montone south of Ravenna, and the resulting river is known as the Uniti. The Battle of Ronco took place here.",
+          "semantic_score": 0.3435363471508026,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4408",
+          "text": "Congo–Ocean Railway\nThe Congo–Ocean Railway (COR; French: \"Chemin de fer Congo-Océan\" , CFCO ) links the Atlantic port of Pointe-Noire (now in the Republic of Congo) with Brazzaville, a distance of 502 km . It bypasses the rapids on the lower Congo River; from Brazzaville river boats are able to ascend the Congo River and its major tributaries, including the Oubangui River to Bangui.",
+          "semantic_score": 0.33857178688049316,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4414",
+          "text": "Angola\nAngola , officially the Republic of Angola (Portuguese: \"República de Angola\" ] ; Kikongo, Kimbundu and Umbundu: \"Repubilika ya Ngola\"), is a country in Southern Africa. It is the seventh-largest country in Africa and is bordered by Namibia to the south, the Democratic Republic of the Congo to the north, Zambia to the east, and the Atlantic Ocean to west. The exclave province of Cabinda has borders with the Republic of the Congo and the Democratic Republic of the Congo. The capital and largest city of Angola is Luanda.",
+          "semantic_score": 0.2086479812860489,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4409",
+          "text": "Kasai River\nThe Kasai River (called Cassai in Angola) is a tributary of the Congo River, located in central Africa. The river begins in Angola and then serves as the border between Angola and the Democratic Republic of the Congo (DRC), until it flows into the DRC. The Kasai joins the Congo at Kwamouth northeast of Kinshasa. The Kasai's tributaries include the Fimi, Kwango, and Sankuru rivers. The short stretch of the Kasai from the inflow of the Fimi to the Congo is known as the Kwah River. The Kasai basin consists mainly of equatorial rainforest areas, which provide an agricultural land in a region noted for its infertile, sandy soil. It is a tributary of Congo river and diamonds are found in this river. Around 60% of diamonds in Belgium go from Kasai river for cutting and shaping.",
+          "semantic_score": 0.20592303574085236,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Grand Harbour"
+    }
+  ],
+  "links": [
+    {
+      "source": "995",
+      "target": "998",
+      "reason": "Paragraph 995 identifies Ivan Zammit's birth city as Valletta, Malta; paragraph 998 describes Valletta's eastern coast as being in the Grand Harbour, bridging the birth city to the body of water on its eastern coast."
+    }
+  ],
+  "questions_seen": 101,
+  "_id": "5a8cac04554299240d9c21ce",
+  "correct_answer": "Grand Harbour",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

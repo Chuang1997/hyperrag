@@ -1,0 +1,188 @@
+{
+  "question": "In which county is the town in which Raymond Robertsen was born ?",
+  "answer": "Finnmark",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Where was Raymond Robertsen born?",
+      "retrieved": [
+        {
+          "id": "46",
+          "text": "Raymond Robertsen\nRaymond Robertsen (born 12 September 1974 in Hammerfest) is a Norwegian politician for the Conservative Party.",
+          "semantic_score": 0.6787121891975403,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "43",
+          "text": "Raymond, Washington\nRaymond is a city in Pacific County, Washington, United States. The population was 2,975 at the 2000 census and decreased 3.1% to 2,882 at the 2010 census. The town's economy has traditionally been based on logging and fishing, together with a limited amount of tourism. But recently the town of Raymond has seen an influx of marijuana manufacturing and agricultural jobs after the passing of Initiative 502 in November 2012, which legalized the recreational use of marijuana. Raymond has embraced all aspects of this lucrative, newly-emerging industry by welcoming many new start-up businesses including commercial marijuana grow operations, marijuana-infused goods manufacturing, as well as retail marijuana stores.",
+          "semantic_score": 0.48027682304382324,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8274",
+          "text": "Michèle Roberts\nMichèle Brigitte Roberts (born 20 May 1949) is a British writer, novelist and poet. She is the daughter of a French Catholic teacher mother (Monique Caulle) and English Protestant father (Reginald Roberts), and has dual UK–France nationality.",
+          "semantic_score": 0.47090181708335876,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "47",
+          "text": "Raymond, Alberta\nRaymond is a town in the County of Warner No. 5, Alberta, Canada. It is located in southern Alberta south of Lethbridge on Highway 52. Raymond is known for its annual rodeo and its large Mormon population. The sole high school in the town, Raymond High School, is known for its sports achievements in basketball and Canadian football.",
+          "semantic_score": 0.46791061758995056,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "41",
+          "text": "Raymond, Wisconsin\nRaymond is a town in Racine County, Wisconsin, United States. The population was 3,516 at the 2000 census. The unincorporated communities of Kneeland and Raymond are located in the town, as was the ghost town of Raymond Center. The unincorporated communities of North Cape and Union Church are also located partially in the town.",
+          "semantic_score": 0.4605754315853119,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "40",
+          "text": "Raymond (community), Wisconsin\nRaymond (also Raymond Center) is an unincorporated community in the town of Raymond, Racine County, Wisconsin, United States.",
+          "semantic_score": 0.44845518469810486,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "44",
+          "text": "Raymond Center, Wisconsin\nRaymond Center is a ghost town in the Town of Raymond in Racine County, Wisconsin, United States.",
+          "semantic_score": 0.42558830976486206,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "45",
+          "text": "Raymond, Maine\nRaymond is a town in Cumberland County, Maine, United States. The population was 4,436 at the 2010 census. It is a summer recreation area and is part of the Portland–South Portland–Biddeford, Maine metropolitan statistical area. Raymond Neck is the landing for the ferry to the town of Frye Island in Sebago Lake. The Raymond school system is currently affiliated with the Windham school system in a district known as RSU 14.",
+          "semantic_score": 0.44877374172210693,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Hammerfest"
+    },
+    {
+      "step": 2,
+      "sub_question": "In which county is that town located?",
+      "retrieved": [
+        {
+          "id": "49",
+          "text": "Hammerfest\n   () is a municipality in Finnmark county, Norway. The administrative centre of the municipality is the town of Hammerfest. Some of the main villages in the municipality include Rypefjord, Forsøl, Hønsebybotn, Akkarfjord, Akkarfjord, and Kårhamn.",
+          "semantic_score": 0.8322950005531311,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1830",
+          "text": "Hammerjack's\nHammerjacks Concert Hall and Nightclub was a large concert hall in downtown Baltimore through the 1980s and into the 1990s owned by Louis J. Principio III The club attracted many big-name national acts, but also showcased many rising stars in the music world. The bands ranged from punk, glam, and heavy metal acts most commonly associated with the venue (e.g., Guns n Roses, Kix, Ratt, Skid Row or Extreme) to pop (e.g., Badfinger) and alternative rock groups (e.g., Goo Goo Dolls). The club was often frequented by hard core patrons and musicians donning big hair, leather, lace, spandex, and heavy makeup, and was considered a \"hard rock shrine.\" Hamerjacks, however, attracted audiences with other attire as well. It was torn down on June 12, 1997 to make way for M&T Bank Stadium parking lot. Hammerjacks was billed as \"The largest nightclub on the east coast.\"",
+          "semantic_score": 0.47760266065597534,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3301",
+          "text": "Muddy Creek Forks Historic District\nMuddy Creek Forks Historic District is a national historic district located at the Village of Muddy Creek Forks in East Hopewell, Fawn, and Lower Chanceford Townships in York County, Pennsylvania. The district includes 12 contributing buildings, 1 contributing site, and 5 contributing structures. The buildings and structures were constructed between about 1800 and 1935. The buildings include the general store, six houses, a mill, grain elevator, warehouse, and Sweitzer barn. Most of the buildings incorporate Late Victorian style details. The structures are two bridges, a corn crib, a weigh station, and a mill race. The site is the site of a former mill and mill pond.",
+          "semantic_score": 0.3641650974750519,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2048",
+          "text": "Willow Mill Complex\nWillow Mill Complex is a complex of historic buildings located at Richboro, Northampton Township, Bucks County, Pennsylvania. The complex consists of the Shaw-Leedom House and spring house / smoke house and the Howard Sager House, wagon house, and grist mill. The Shaw-Leedom House was built about 1800, and is a 2 1/2-story, five bay, stone dwelling with a gable roof in the Federal style. It has a 1 1/2-story, two-bay stone wing believed to be the kitchen wing from an earlier house. The adjacent stone spring / smoke house was also built about 1800. The Willow Mill was built in the 1840s, and is a four-story stone building converted to residential use in 1938. The Sager House was built in 1847, and is a 2 1/2-story, three bay, ashlar stone building. It has a gable roof with dormers and shed roof \"Dutch Stoop\" kitchen wing. Associated with it is a two-story, frame wagon house dated to the 19th century.",
+          "semantic_score": 0.3601616621017456,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2766",
+          "text": "Rockford Airfest\nThe Rockford Airfest was a two-day air show that happened every year at Chicago Rockford International Airport located in Rockford, Illinois, USA. Approximately 130,000 people attended the 2012 event.",
+          "semantic_score": 0.35631516575813293,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2761",
+          "text": "Chicago Rockford International Airport\nChicago Rockford International Airport (IATA: RFD, ICAO: KRFD, FAA LID: RFD) , is an international airport located in Winnebago County, Illinois. It is located four miles (6 km) south of the city center of Rockford and 85 miles northwest of Chicago. Established in 1946, Chicago-Rockford International Airport is the busiest airport in Northern Illinois (with the exception of Chicago O'Hare and Chicago Midway). In 2016, the airport served nearly 102,000 passengers.",
+          "semantic_score": 0.2197616696357727,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1131",
+          "text": "Paradise Creek (Pennsylvania)\nParadise Creek is a 9.6 mi tributary of Brodhead Creek in the Poconos of eastern Pennsylvania in the United States.",
+          "semantic_score": 0.21424108743667603,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "99",
+          "text": "Goose Creek Historic District\nThe Goose Creek Historic District is a rural landscape in the Goose Creek valley of Loudoun County, Virginia. The district covers about 10000 acre south of Hamilton and Purcellville and includes the village of Lincoln. The majority of the district is farmland, with areas of forest along Hogback Mountain. The area was settled by Quakers in the mid-18th century, represented by simple houses and the Goose Creek Meetinghouse Complex in Lincoln, separately listed on the National Register of Historic Places. About 270 buildings lie within the district. The district includes 44 stone buildings, reflecting the popularity of this material in the 18th and 19th centuries in this area. Many houses have outbuildings and barns built in a manner complementary to the dwellings. By the mid-19th century, materials turned to brick, with the Glebe of Shelburne Parish an NRHP-listed example of a brick Federal style house, as well as the Israel Janney House.",
+          "semantic_score": 0.2785724401473999,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5868",
+          "text": "Ephraim Hawley House\nThe Ephraim Hawley House is a Colonial American wooden post-and-beam timber-frame saltbox farm house on the \"Farm Highway\", Route 108, on the south side of \"Mischa Hill\". It is the oldest house extant in the historic area of Nichols, a village located within Trumbull, Connecticut, in the New England region of the U.S. Construction of the house began between 1670 and 1690 and was expanded to its present size by three additions. The house is unique: Besides being one of the oldest houses in the surrounding area, it has been located in four different named townships in its history, but has never moved; Stratford (1670–1725), Unity (1725–1744), North Stratford (1744–1797) and Trumbull (1797–present).",
+          "semantic_score": 0.1960635632276535,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1136",
+          "text": "Brodhead Creek\nBrodhead Creek is a 21.9 mi tributary of the Delaware River in the Poconos of eastern Pennsylvania in the United States.",
+          "semantic_score": 0.24524736404418945,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Finnmark"
+    }
+  ],
+  "links": [
+    {
+      "source": "46",
+      "target": "49",
+      "reason": "Paragraph 46 establishes Raymond Robertsen was born in Hammerfest; paragraph 49 states Hammerfest is a municipality in Finnmark county, Norway, bridging the birth town to its county."
+    }
+  ],
+  "questions_seen": 5,
+  "_id": "5ab57fc4554299488d4d99c0",
+  "correct_answer": "Finnmark county,",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

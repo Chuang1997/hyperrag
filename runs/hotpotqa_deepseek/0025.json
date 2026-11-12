@@ -1,0 +1,247 @@
+{
+  "question": "In between  Polytechnic University of the Philippines and California Polytechnic State University which was founded as a vocational high school?",
+  "answer": "California Polytechnic State University",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "When was the Polytechnic University of the Philippines founded and what was its original status?",
+      "retrieved": [
+        {
+          "id": "249",
+          "text": "Polytechnic University of the Philippines\nPolytechnic University of the Philippines (Filipino: \"Politeknikong Unibersidad ng Pilipinas\"; abbreviated as PUP and commonly known as PUP Main, PUP Sta. Mesa, and PUP Manila) is a coeducational, research state university located in Santa Mesa, Manila, Philippines. It was founded on October 19, 1904 as the Manila Business School. The university is ruled by Republic Act Number 8292, or the Higher Education Modernization Act of 1997. PUP has a total of 71,963 students enrolled, and it has 25 branches and campuses located in Metro Manila, Northern and Central Luzon, and in Southern Luzon.",
+          "semantic_score": 0.6852402091026306,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "250",
+          "text": "University of Northern Philippines\nThe University of Northern Philippines (UNP) is a university in Barangay Tamag, in the City of Vigan in the province of Ilocos Sur, Philippines. It is the first and oldest state university in Northern Luzon which offers low tuition fee, tracing its roots to 1906, which is older than the University of the Philippines by two years. It is the only state university in the province aimed for less-fortunate people and one of three state-owned educational institutions of higher learning operating in Ilocos Sur (with the Ilocos Sur Polytechnic State College and the Northern Luzon Polytechnic State College, a former branch of the university).",
+          "semantic_score": 0.6661624908447266,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4371",
+          "text": "University of the Visayas\nThe University of the Visayas (UV) is an educational institution located at Cebu City, Philippines. It was the first school in the province of Cebu to gain university status.",
+          "semantic_score": 0.49142205715179443,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1979",
+          "text": "List of universities in Venezuela\nVenezuela has a wide array of universities, offering courses in a broad variety of subjects, spread between a total 23 public and 24 private universities located across several states. As a result of a Royal Decree signed by Philip V of Spain, the Central University of Venezuela—the country's oldest—was founded in 1721 as \"Universidad Real y Pontificia de Caracas\". The campus was originally at the now-known \"Palacio de las Academias\" but, in 1944, president Isaías Medina Angarita relocated it to the University City of Caracas.",
+          "semantic_score": 0.4738643765449524,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "251",
+          "text": "California Polytechnic State University\nCalifornia Polytechnic State University, also known as California Polytechnic State University, San Luis Obispo, Cal Poly San Luis Obispo, or Cal Poly, is a public university located in San Luis Obispo, California, United States. Founded in 1901 as a vocational high school, it is currently one of only two polytechnic universities in the 23-member California State University system. With six colleges, the university offers 64 bachelor's degrees, 32 master's degrees, and 7 teaching credentials. The university does not grant doctoral degrees.",
+          "semantic_score": 0.4727744460105896,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "247",
+          "text": "Julian A. McPhee\nJulian Aeneas McPhee (February 7, 1896 – November 10, 1967) was the sixth university president of California Polytechnic State University, San Luis Obispo (Cal Poly SLO) from 1933 to 1966 and the first president of California State Polytechnic University, Pomona (Cal Poly Pomona) from 1938 to 1966.",
+          "semantic_score": 0.42277225852012634,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "252",
+          "text": "Myron Angel House\nThe Myron Angel House is a historic house located at 714 Buchon St. in San Luis Obispo, California. Built circa 1880, the house has a vernacular design which does not follow a particular architectural style. The two-story wood frame house has redwood siding, a shingled gable roof, and some Eastlake details in the window surrounds and gable ends. The house was the home of Myron Angel, the main figure in the establishment of California Polytechnic State University. Angel, who lived in the house from 1889 to his 1911 death, proposed and lobbied for the creation of a polytechnic school in California; it was mainly due to his campaign that Cal Poly was founded in San Luis Obispo. In addition to his educational activism, Angel was also an influential journalist and historian.",
+          "semantic_score": 0.3077179789543152,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "244",
+          "text": "Cal Poly Mustangs men's soccer\nThe Cal Poly Mustangs men's soccer program represents California Polytechnic State University in men's soccer at the NCAA Division I level. Cal Poly is coached by former United States men's national team head coach Steve Sampson. Like most teams from Cal Poly, they play in the Big West Conference. The Big West Conference stopped sponsoring soccer in 1991, but resumed soccer in 2001. Over this period, Cal Poly competed in a regional conference called the MPSF. Since the return of soccer to the Big West, the Mustangs have appeared in 2 NCAA tournaments, most recently in 2015. Posting the program's best record in 2008 (11–6–6), Cal Poly placed 3rd in the Big West and qualified for the NCAA Division I Tournament for the first time in the school's history. Cal Poly managed to upset #11 UCLA 1–0 to advance to second round before losing 0–3 to #14 UC Irvine. The Mustangs play in Alex G. Spanos Stadium (capacity of 11,075) on the campus of the California Polytechnic State University. In 2011, collegesoccernews.com chose the Cal Poly vs UCSB soccer game as the #1 rivalry in college soccer.",
+          "semantic_score": 0.22967322170734406,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "October 19, 1904 as the Manila Business School"
+    },
+    {
+      "step": 2,
+      "sub_question": "When was California Polytechnic State University founded and what was its original status?",
+      "retrieved": [
+        {
+          "id": "249",
+          "text": "Polytechnic University of the Philippines\nPolytechnic University of the Philippines (Filipino: \"Politeknikong Unibersidad ng Pilipinas\"; abbreviated as PUP and commonly known as PUP Main, PUP Sta. Mesa, and PUP Manila) is a coeducational, research state university located in Santa Mesa, Manila, Philippines. It was founded on October 19, 1904 as the Manila Business School. The university is ruled by Republic Act Number 8292, or the Higher Education Modernization Act of 1997. PUP has a total of 71,963 students enrolled, and it has 25 branches and campuses located in Metro Manila, Northern and Central Luzon, and in Southern Luzon.",
+          "semantic_score": 0.6490064263343811,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "251",
+          "text": "California Polytechnic State University\nCalifornia Polytechnic State University, also known as California Polytechnic State University, San Luis Obispo, Cal Poly San Luis Obispo, or Cal Poly, is a public university located in San Luis Obispo, California, United States. Founded in 1901 as a vocational high school, it is currently one of only two polytechnic universities in the 23-member California State University system. With six colleges, the university offers 64 bachelor's degrees, 32 master's degrees, and 7 teaching credentials. The university does not grant doctoral degrees.",
+          "semantic_score": 0.5766894817352295,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "247",
+          "text": "Julian A. McPhee\nJulian Aeneas McPhee (February 7, 1896 – November 10, 1967) was the sixth university president of California Polytechnic State University, San Luis Obispo (Cal Poly SLO) from 1933 to 1966 and the first president of California State Polytechnic University, Pomona (Cal Poly Pomona) from 1938 to 1966.",
+          "semantic_score": 0.5583610534667969,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "250",
+          "text": "University of Northern Philippines\nThe University of Northern Philippines (UNP) is a university in Barangay Tamag, in the City of Vigan in the province of Ilocos Sur, Philippines. It is the first and oldest state university in Northern Luzon which offers low tuition fee, tracing its roots to 1906, which is older than the University of the Philippines by two years. It is the only state university in the province aimed for less-fortunate people and one of three state-owned educational institutions of higher learning operating in Ilocos Sur (with the Ilocos Sur Polytechnic State College and the Northern Luzon Polytechnic State College, a former branch of the university).",
+          "semantic_score": 0.5217486619949341,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2262",
+          "text": "Azusa Pacific University\nAzusa Pacific University (APU) is a private, evangelical Christian university located near Los Angeles in suburban Azusa, California, United States. The university was founded in 1899, with classes opening on March 3, 1900, in Whittier, California, and began offering degrees in 1939. The university's seminary, the Graduate School of Theology, holds to a Wesleyan-Arminian doctrinal theology. APU offers more than 100 associate, bachelor's, master's, and doctoral programs on campus, online, and at seven regional locations across Southern California.",
+          "semantic_score": 0.46926259994506836,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "252",
+          "text": "Myron Angel House\nThe Myron Angel House is a historic house located at 714 Buchon St. in San Luis Obispo, California. Built circa 1880, the house has a vernacular design which does not follow a particular architectural style. The two-story wood frame house has redwood siding, a shingled gable roof, and some Eastlake details in the window surrounds and gable ends. The house was the home of Myron Angel, the main figure in the establishment of California Polytechnic State University. Angel, who lived in the house from 1889 to his 1911 death, proposed and lobbied for the creation of a polytechnic school in California; it was mainly due to his campaign that Cal Poly was founded in San Luis Obispo. In addition to his educational activism, Angel was also an influential journalist and historian.",
+          "semantic_score": 0.45707210898399353,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Founded in 1901 as a vocational high school."
+    },
+    {
+      "step": 3,
+      "sub_question": "Which of the two was founded as a vocational high school?",
+      "retrieved": [
+        {
+          "id": "248",
+          "text": "Grant Vocational High School\nGrant Vocational High School, also known as the Board of Education and the Cedar Rapids School District Central Office, is a historic building located in Cedar Rapids, Iowa, United States. Completed in 1915, this is a rare example of a vocational high school in Iowa as only a handful were ever built. While it offered various student activities in athletics and the arts, its curriculum was based on the manual arts instead of humanities or college preparatory courses. A Progressive Era idea, vocational education began in Cedar Rapids in 1904. Within a year there was a call for a dedicated vocational high school. There was much debate as the local school district's regular high school was beyond capacity and there was a need for new elementary schools. Efforts to build the school began with the passage of a bond referendum in 1911. Cedar Rapids architect William J. Brown designed the three-story, brick Prairie School structure and it was built by the F.P. Gould Company of Omaha.",
+          "semantic_score": 0.4760115444660187,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "245",
+          "text": "Chicago Vocational High School\nChicago Vocational High School (commonly known as CVCA, Chicago Vocational Career Academy or CVS) is a public 4–year vocational high school located in the Avalon Park neighborhood on the south side of Chicago, Illinois, United States. Operated by Chicago Public Schools, Chicago Vocational High School opened in 1941. The school was barely opened when the outbreak of World War II caused a change in plan. The school would be a vocational school, but one under the control of the United States Navy, where many mechanics who would build and repair aircraft, among others, were trained. After the war, the school was instrumental in helping returning veterans who went off to war prior to graduation to earn their diploma. The school is also closely associated with a few of its notable alumni, none more so than Dick Butkus, who played football at CVS and at the University of Illinois before his Hall of Fame career for the Chicago Bears.",
+          "semantic_score": 0.4307704269886017,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4372",
+          "text": "Newcastle University\nNewcastle University (officially, the University of Newcastle upon Tyne) is a public research university in Newcastle upon Tyne in the North-East of England. The university can trace its origins to a School of Medicine and Surgery (later the College of Medicine), established in 1834, and to the College of Physical Science (later renamed Armstrong College), founded in 1871. These two colleges came to form one division of the federal University of Durham, with the Durham Colleges forming the other. The Newcastle colleges merged to form King's College in 1937. In 1963, following an Act of Parliament, King's College became the University of Newcastle upon Tyne.",
+          "semantic_score": 0.42919039726257324,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1978",
+          "text": "Massachusetts International Academy\nMassachusetts International Academy (Simplified Chinese: 美国麻省国际学院, Traditional Chinese: 美國麻省國際學院, Pinyin: \"Měiguó Máshěng Guójì Xuéyuàn\") is a college preparatory school positioning high school and university graduates from China for success in United States’ colleges and universities located in Marlborough, Massachusetts. It was the first boarding school designed for Chinese students who intend to attend U.S. universities.",
+          "semantic_score": 0.41794171929359436,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2110",
+          "text": "Mountain Valley High School\nMountain Valley High School is a public high school in Rumford, Maine, serving the towns of Rumford and nearby Mexico. It was formed in 1989 as a result of the merger of the towns' high schools. During the 2007–08 school year, MVHS had 589 enrolled students, 64 faculty and 147 students in the graduating class. The school is accredited through the New England Association of Schools and Colleges.",
+          "semantic_score": 0.38960835337638855,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2115",
+          "text": "Panther Valley High School\nPanther Valley High School is a small public high school providing grades 7 to 12. It is the only high school for the Panther Valley School District. Panther Valley High School is located in the borough of Summit Hill with a mailing address of 912 Coal Region Way, Lansford, PA 18232. It serves students in both Carbon County and Schuylkill County. According to the National Center for Education Statistics, in 2010, the school reported an enrollment of 488 pupils in grades 9th through 12th, with 219 pupils eligible for a federal free lunch. Panther Valley High School is a federal Title I school. The school employed 33 teachers yielding a student teacher ratio of 14:1. According to a report by the Pennsylvania Department of Education, 10 teachers were rated \"Non‐Highly Qualified\" under No Child Left Behind.",
+          "semantic_score": 0.35431069135665894,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2183",
+          "text": "Massachusetts Institute of Technology\nThe Massachusetts Institute of Technology (MIT) is a private research university in Cambridge, Massachusetts. It is often ranked as one of the world's most prestigious universities.",
+          "semantic_score": 0.2621910572052002,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2560",
+          "text": "Harvard College\nHarvard College is the undergraduate liberal arts college of Harvard University. Founded in 1636 in Cambridge, Massachusetts, it is the oldest institution of higher learning in the United States and one of the most prestigious in the world.",
+          "semantic_score": 0.3270951807498932,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2114",
+          "text": "Paloma Valley High School\nPaloma Valley High School is a public four-year high school located in Menifee, California. The school is part of the Perris Union High School District. It opened its first school year on September 7, 1995. The mascot is the Wildcat. Paloma Valley High School was ranked by \"Newsweek\" magazine as the 374th best high school in California. Students have the opportunity to take Advanced Placement course work and exams. The AP participation rate at Paloma Valley High School is 35 percent. The student body makeup is 51 percent male and 50 percent female, and the total minority enrollment is 65 percent. Paloma Valley High School is 1 of 7 high schools in the Perris Union High.",
+          "semantic_score": 0.3202058970928192,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1792",
+          "text": "Halifax County High School\nHalifax County High School is a public high school located in South Boston, Virginia, United States. It is located less than 2 mi from Halifax County Middle School. Having 1,793 students currently enrolled in the 2012–13 school year, there are 118 faculty members with a 15.1 student/teacher ratio. At Halifax County High, students have the opportunity to take Advanced Placement course work and testing. Halifax county high school is equipped with two football fields, one soccer field, one field for baseball, and a basketball arena. Halifax County high school currently runs on the semester system. The student body makeup is 49 percent male and 51 percent female, and the total minority enrollment is 51 percent. Halifax County High is the only high school in the Halifax County Public Schools. Halifax County High School has an 82.2 percent on-time graduation rate and a 2.1 percent drop out rate.",
+          "semantic_score": 0.3139161467552185,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Chicago Vocational High School"
+    }
+  ],
+  "links": [
+    {
+      "source": "249",
+      "target": "251",
+      "reason": "Paragraph 249 states PUP was founded in 1904 as the Manila Business School, while paragraph 251 states Cal Poly was founded in 1901 as a vocational high school; together they directly compare the two institutions' founding statuses to answer which was founded as a vocational high school."
+    }
+  ],
+  "questions_seen": 26,
+  "_id": "5ae40b2b55429970de88d8b3",
+  "correct_answer": "California Polytechnic State University",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "question": "What is the name of the actor who wrote the memoir Without you: A memoir of love, loss, and the Musical Rent and also stared as Mark Cohen in the Broadway production of \"Rent\"?",
+  "answer": "Anthony Rapp",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who wrote the memoir *Without You: A Memoir of Love, Loss, and the Musical Rent*?",
+      "retrieved": [
+        {
+          "id": "165",
+          "text": "Without You (book)\nWithout You: A Memoir of Love, Loss, and the Musical Rent is a 2006 memoir by a musical theater actor, Anthony Rapp. Later it was turned into a staged musical adaptation by the same name.",
+          "semantic_score": 0.8152023553848267,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "173",
+          "text": "Rent (albums)\nRent (Original Broadway Cast Recording) is an album of music from the Tony Award- and Pulitzer Prize-winning musical \"Rent\". It is produced by DreamWorks with music and lyrics by Jonathan Larson. The album is a 2-disc (in its CD format) collection of every song from the musical; some small segments of narration and spoken dialogue from the play are not included in the recording. The collection ends with a studio-recorded rearrangement of the song \"Seasons of Love\" featuring Stevie Wonder. The album was recorded by the original Broadway cast of \"RENT\" and was released on August 27, 1996. A second one-disc album was released in 1999 containing highlights from the original cast album.",
+          "semantic_score": 0.43930307030677795,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "275",
+          "text": "We Are All Completely Beside Ourselves\nWe Are All Completely Beside Ourselves is a 2013 novel by the American writer Karen Joy Fowler. The novel won the 2014 PEN/Faulkner Award for Fiction<ref name=\"The Guardian - 3 April 2014 - Karen Joy Fowler wins PEN/Faulkner award for fiction\"> </ref> and was also short-listed for the 2014 Man Booker Prize.",
+          "semantic_score": 0.39271974563598633,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7884",
+          "text": "Not Without Love\nNot Without Love is the second studio album from CCM musician Jimmy Needham. It was released on August 19, 2008 through Inpop Records in the United States. The album's lead single \"A Breath or Two\" was released prior to the album, and reached No. 11 on Christian contemporary hit radio.",
+          "semantic_score": 0.38214996457099915,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4036",
+          "text": "Roberta Allen\nRoberta Allen is a short story writer, novelist, memoirist, conceptual artist, sculptor, photographer, and creative writing instructor. Language has been the inspiration for both her writing and her art. In her conceptual works - which include drawings, collages, artist books, photo/text works, installations and digital prints - she explores how text informs or changes our perception of images, often with more than a hint of humor and a philosophical bent. With dark humor, her books present characters at odds with themselves and others, sometimes in exotic locales.",
+          "semantic_score": 0.3814210891723633,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "169",
+          "text": "Rent: Filmed Live on Broadway\nRent: Filmed Live on Broadway is a 2008 film of the final performance of the original Broadway production of the musical \"Rent\" on September 7, 2008, with some footage of the closing night celebration. The film had a limited theatrical release between September 24 and 28, 2008, in more than 500 theaters with high definition digital projection systems in the US and Canada. According to Sony Pictures Releasing President Rory Bruer, it was the first live Broadway show to be available in major North American movie theaters. The film was released on DVD and Blu-ray on February 3, 2009.",
+          "semantic_score": 0.25422346591949463,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "170",
+          "text": "Rent (film)\nRent is a 2005 American musical drama film directed by Chris Columbus. It is an adaptation of the Broadway musical of the same name, in turn based on Giacomo Puccini's opera \"La bohème\". The film depicts the lives of several Bohemians and their struggles with sexuality, drugs, paying their rent, and life under the shadow of AIDS. It takes place in the East Village of New York City from 1989 to 1990. The film features six of the original Broadway cast members reprising their roles.",
+          "semantic_score": 0.2834586203098297,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "676",
+          "text": "With or Without You\n\"With or Without You\" is a song by Irish rock band U2. It is the third track from their fifth studio album, \"The Joshua Tree\" (1987), and was released as the album's lead single on 16 March 1987. The song was the group's most successful single at the time, becoming their first number-one hit in both the United States and Canada by topping the \"Billboard\" Hot 100 for three weeks and the \"RPM\" national singles chart for one week, with a further three weeks at number two.",
+          "semantic_score": 0.3075536787509918,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Anthony Rapp"
+    },
+    {
+      "step": 2,
+      "sub_question": "Who starred as Mark Cohen in the Broadway production of *Rent*?",
+      "retrieved": [
+        {
+          "id": "164",
+          "text": "Anthony Rapp\nAnthony Deane Rapp (born October 26, 1971) is an American stage and film actor and singer best known for originating the role of Mark Cohen in the Broadway production of \"Rent\" in 1996 and later for reprising the role in the film version and the Broadway Tour of \"Rent\" in 2009. He also performed the role of Charlie Brown in the 1999 Broadway revival of \"You're a Good Man, Charlie Brown\" and originated the role of Lucas in the musical \"If/Then\" in 2014.",
+          "semantic_score": 0.6769526600837708,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "172",
+          "text": "Look Around (Anthony Rapp album)\nLook Around is the first full-length album by American actor/singer Anthony Rapp, known as a singer for his performance as Mark Cohen in the musical Rent and the film adaptation of the musical. It was released on October 1, 2000.",
+          "semantic_score": 0.6243171095848083,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "171",
+          "text": "Adam Pascal\nAdam Pascal (born October 25, 1970) is an American actor, singer, and musician, known for his performance as Roger Davis in the original cast of Jonathan Larson's musical \"Rent\" on Broadway 1996, the 2005 movie version of the musical, and the Broadway Tour of \"Rent\" in 2009. He is also known for originating the role of Radames in Elton John and Tim Rice's \"Aida\", for playing the Emcee from the 1998 revival of \"Cabaret\", and for playing Huey Calhoun in the Broadway Company of \"Memphis\". Most recently, he played William Shakespeare in the Tony Award-winning musical \"Something Rotten!\"",
+          "semantic_score": 0.5187482833862305,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "170",
+          "text": "Rent (film)\nRent is a 2005 American musical drama film directed by Chris Columbus. It is an adaptation of the Broadway musical of the same name, in turn based on Giacomo Puccini's opera \"La bohème\". The film depicts the lives of several Bohemians and their struggles with sexuality, drugs, paying their rent, and life under the shadow of AIDS. It takes place in the East Village of New York City from 1989 to 1990. The film features six of the original Broadway cast members reprising their roles.",
+          "semantic_score": 0.4754157066345215,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "169",
+          "text": "Rent: Filmed Live on Broadway\nRent: Filmed Live on Broadway is a 2008 film of the final performance of the original Broadway production of the musical \"Rent\" on September 7, 2008, with some footage of the closing night celebration. The film had a limited theatrical release between September 24 and 28, 2008, in more than 500 theaters with high definition digital projection systems in the US and Canada. According to Sony Pictures Releasing President Rory Bruer, it was the first live Broadway show to be available in major North American movie theaters. The film was released on DVD and Blu-ray on February 3, 2009.",
+          "semantic_score": 0.47480741143226624,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "173",
+          "text": "Rent (albums)\nRent (Original Broadway Cast Recording) is an album of music from the Tony Award- and Pulitzer Prize-winning musical \"Rent\". It is produced by DreamWorks with music and lyrics by Jonathan Larson. The album is a 2-disc (in its CD format) collection of every song from the musical; some small segments of narration and spoken dialogue from the play are not included in the recording. The collection ends with a studio-recorded rearrangement of the song \"Seasons of Love\" featuring Stevie Wonder. The album was recorded by the original Broadway cast of \"RENT\" and was released on August 27, 1996. A second one-disc album was released in 1999 containing highlights from the original cast album.",
+          "semantic_score": 0.42528873682022095,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7030",
+          "text": "Tosca\nTosca (] ) is an opera in three acts by Giacomo Puccini to an Italian libretto by Luigi Illica and Giuseppe Giacosa. It premiered at the Teatro Costanzi in Rome on 14 January 1900. The work, based on Victorien Sardou's 1887 French-language dramatic play, \"La Tosca\", is a melodramatic piece set in Rome in June 1800, with the Kingdom of Naples's control of Rome threatened by Napoleon's invasion of Italy. It contains depictions of torture, murder and suicide, as well as some of Puccini's best-known lyrical arias.",
+          "semantic_score": 0.1093834862112999,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Anthony Rapp"
+    },
+    {
+      "step": 3,
+      "sub_question": "What is the name of the actor who matches both criteria?",
+      "retrieved": [
+        {
+          "id": "4492",
+          "text": "Philip Quast\nPhilip Mark Quast (born 30 July 1957) is an Australian actor and singer. He has won the Laurence Olivier Award for Best Actor in a Musical three times, the most of any actor to date.",
+          "semantic_score": 0.46560680866241455,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "172",
+          "text": "Look Around (Anthony Rapp album)\nLook Around is the first full-length album by American actor/singer Anthony Rapp, known as a singer for his performance as Mark Cohen in the musical Rent and the film adaptation of the musical. It was released on October 1, 2000.",
+          "semantic_score": 0.4498809278011322,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1601",
+          "text": "Akim Tamiroff\nAkim Mikhailovich Tamiroff (Armenian: Ակիմ Թամիրով , Russian: Аким Михайлович Тамиров ; birth name` Hovakim, Armenian: Հովակիմ ; 29 October 1899 – 17 September 1972) was an ethnic Armenian actor. He won the first Golden Globe Award for Best Supporting Actor, was nominated twice for the Academy Award for Best Supporting Actor, and appeared in at least 80 American motion pictures in a career spanning thirty-seven years.",
+          "semantic_score": 0.4395650029182434,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1606",
+          "text": "Academy Award for Best Supporting Actor\nThe Academy Award for Best Supporting Actor (often referred to as the Oscar for Best Supporting Actor) is an award presented annually by the Academy of Motion Picture Arts and Sciences (AMPAS). It is given in honor of an actor who has delivered an outstanding performance in a supporting role while working within the film industry.",
+          "semantic_score": 0.4162845015525818,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3858",
+          "text": "Bill McCutcheon\nJames William McCutcheon (May 23, 1924 – January 9, 2002) was an American character actor known for his roles in film, television, and theatre, several of which won him Emmy and Tony awards.",
+          "semantic_score": 0.4078674614429474,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1602",
+          "text": "List of Best Supporting Actor winners by age\nThis is a list of winners of the Academy Award of Merit for Performance by an Actor in a Supporting Role, presented annually by the Academy of Motion Picture Arts and Sciences (AMPAS) to an actor who has delivered an outstanding performance while working within the film industry. More popularly known as the Academy Award (or the Oscar) for Best Supporting Actor, this award was initially presented at the 9th Academy Awards ceremony for 1936 and was most recently presented at the 88th Academy Awards ceremony for 2015. Throughout the past 80 years, accounting for ties and repeat winners, AMPAS has presented a total of 81 Best Supporting Actor awards to 73 different actors. This list is current as of the 89th Academy Awards ceremony held on February 26, 2017.",
+          "semantic_score": 0.3926098346710205,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4191",
+          "text": "Academy Honorary Award\nThe Academy Honorary Award – instituted in 1948 for the 21st Academy Awards (previously called the Special Award, which was first presented in early 1929) – is given annually by the Board of Governors of the Academy of Motion Picture Arts and Sciences (AMPAS) to celebrate motion picture achievements that are not covered by existing Academy Awards, although prior winners of competitive Academy Awards are not excluded from receiving the Honorary Award. Unless otherwise specified, Honorary Award recipients receive the same gold Oscar statuettes received by winners of the competitive Academy Awards. Unlike the Special Achievement Award instituted in 1972 (and discontinued in 1995), those on whom the Academy confers its Honorary Award do not have to meet \"the Academy's eligibility year and deadline requirements.\" Like the Special Achievement Award, the Special Award and Honorary Award have been used to reward significant achievements of the year that did not fit in existing categories, subsequently leading the Academy to establish several new categories, and to honor exceptional career achievements, contributions to the motion picture industry, and service to the Academy. The Academy Honorary Award is often awarded in preference to those with noted achievements in motion pictures who have nevertheless never won an Academy Award. Thus, many of its recipients are Classic Hollywood stars, such as Lillian Gish, Barbara Stanwyck, Kirk Douglas, and Lauren Bacall.",
+          "semantic_score": 0.1939217746257782,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5993",
+          "text": "National Film Award for Best Supporting Actress\nThe National Film Award for Best Supporting Actress (also known as the Rajat Kamal Award for the Best Supporting Actress) (] ), is an honour presented annually at the National Film Awards of India since 1984 to an actress for the best performance in a supporting role within Indian cinema. The National Film Awards were established in 1954 and are presented by the Directorate of Film Festivals, the organization set up by Ministry of Information and Broadcasting, India. The National Film Awards instituted the \"Best Supporting Actress\" category in 1984 as the \"Rajat Kamal Award for the Best Supporting Actress\".",
+          "semantic_score": 0.2517349123954773,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2685",
+          "text": "National Film Award for Best Actor\nThe National Film Award for Best Actor, officially known as the Rajat Kamal Award for the Best Actor (] ), is an honour presented annually at the National Film Awards of India instituted only since 1967 to actors who have delivered the best performance in a leading role within the Indian film industry. Called the \"State Awards for Films\" when established in 1954, the National Film Awards ceremony is older than the Directorate of Film Festivals. The State Awards instituted the individual award in 1968 as the \"Bharat Award for the Best Actor\"; in 1975, it was renamed as the \"Rajat Kamal Award for the Best Actor\". Throughout the past 45 years, accounting for ties and repeat winners, the Government of India has presented a total of 52 \"Best Actor\" awards to 40 actors. Until 1974, winners of the National Film Award received a figurine and certificate; since 1975, they have been awarded with a \"Rajat Kamal\" (silver lotus), certificate and a cash prize.",
+          "semantic_score": 0.29007816314697266,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9608",
+          "text": "59th Academy Awards\nThe 59th Academy Awards ceremony, organized by the Academy of Motion Picture Arts and Sciences (AMPAS), took place on March 30, 1987, at the Dorothy Chandler Pavilion in Los Angeles beginning at 6:00 p.m. PST / 9:00 p.m. EST. During the ceremony, AMPAS presented Academy Awards (commonly referred to as Oscars) in 23 categories honoring films released in 1986. The ceremony, televised in the United States by ABC, was produced by Samuel Goldwyn Jr. and directed by Marty Pasetta. Actors Chevy Chase, Paul Hogan, and Goldie Hawn co-hosted the show. Hawn hosted the gala for the second time, having previously been a co-host of the 48th ceremony held in 1976. Meanwhile, this was Chase and Hogan's first Oscars hosting stint. Eight days earlier, in a ceremony held at The Beverly Hilton in Beverly Hills, California on March 22, the Academy Awards for Technical Achievement were presented by host Catherine Hicks.",
+          "semantic_score": 0.17326046526432037,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Akim Tamiroff"
+    }
+  ],
+  "links": [
+    {
+      "source": "165",
+      "target": "164",
+      "reason": "Paragraph 165 identifies Anthony Rapp as the author of the memoir Without You, while paragraph 164 identifies Anthony Rapp as the actor who originated Mark Cohen in Broadway's Rent, bridging the two criteria to the same person."
+    }
+  ],
+  "questions_seen": 18,
+  "_id": "5a72b2dc5542992359bc3173",
+  "correct_answer": "Anthony Rapp",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

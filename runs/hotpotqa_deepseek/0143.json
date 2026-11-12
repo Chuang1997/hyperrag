@@ -1,0 +1,247 @@
+{
+  "question": "Has Stefan Edberg won more events than  Édouard Roger-Vasselin?",
+  "answer": "Yes",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "How many events has Stefan Edberg won?",
+      "retrieved": [
+        {
+          "id": "1421",
+          "text": "Edberg–Lendl rivalry\nThe tennis players Stefan Edberg (Sweden) and Ivan Lendl (Czechoslovakia, 1978–92/United States, 1992–94) met 27 times during their careers. Edberg leads the series 14–13. In an interview with the ATP in 2008 Edberg reflected on his classic rivalries.",
+          "semantic_score": 0.562295138835907,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1426",
+          "text": "Stefan Edberg\nStefan Bengt Edberg (] ; born 19 January 1966) is a Swedish former world no. 1 professional tennis player (in both singles and doubles). A major proponent of the serve-and-volley style of tennis, he won six Grand Slam singles titles and three Grand Slam men's doubles titles between 1985 and 1996. He also won the Masters Grand Prix and was a part of the Swedish Davis Cup-winning-team four times. In addition he won four Masters Series titles, four Championship Series titles and the unofficial Olympic tournament 1984, was ranked in the singles top 10 for ten successive years, 9 years in the top 5, and is considered one of the greatest players of his era. Edberg began coaching Roger Federer in January 2014, with this partnership ending in December 2015.",
+          "semantic_score": 0.543677568435669,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1419",
+          "text": "Becker–Edberg rivalry\nThe tennis players Boris Becker (Germany) and Stefan Edberg (Sweden) met 35 times between 1984 and 1996. Although Becker led their overall head-to-head series 25–10 and won all three of their Davis Cup matches, Edberg won three of their four meetings in Grand Slams. Edberg and Becker also reached the world Tour Finals in 1989 which Edberg won in Four sets.",
+          "semantic_score": 0.523749589920044,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1424",
+          "text": "1992 US Open – Men's Singles\nStefan Edberg was the defending champion and retained his title, defeating Pete Sampras 3–6, 6–4, 7–6, 6–2 in the final to win the men's singles title at the 1992 US Open. The semifinal between Edberg and Michael Chang was a battle wherein Edberg won in five sets after 5 hours and 26 minutes, then the longest match in the Open Era. This is also where John McEnroe and Jimmy Connors played their last Grand Slams.",
+          "semantic_score": 0.4981379508972168,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8916",
+          "text": "Thomaz Koch\nThomaz Koch (born May 11, 1945 in Porto Alegre), is a left-handed former tennis player from Brazil, who was a quarter-finalist at the French Open, Wimbledon and the U.S. National Championships.",
+          "semantic_score": 0.42032742500305176,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7009",
+          "text": "2010 US Open – Men's Singles\nJuan Martín del Potro was the defending champion, but chose not to participate this year, after undergoing a wrist operation in May and only starting to practice again in August. Del Potro was the third man in the Open Era not to defend his US Open title, after Ken Rosewall in 1971 (due to conflicts between the World Championship Tennis (WCT) and the International Lawn Tennis Federation (ILTF)), and Pete Sampras in 2003 (who unofficially retired after the 2002 final). For the first time in U.S. Open history, no American player was seeded in the top 8, this was reflected in the result.",
+          "semantic_score": 0.32332733273506165,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7016",
+          "text": "Michaël Llodra\nMichaël Llodra (] ; born 18 May 1980) is a French former professional tennis player. He is a successful doubles player with three Grand Slam championships and an Olympic silver medal, and has also had success in singles, winning five career titles and gaining victories over Novak Djokovic, Juan Martín del Potro, Tomáš Berdych, Robin Söderling, Jo-Wilfried Tsonga, Nikolay Davydenko, Janko Tipsarević and John Isner. Llodra has been called \"the best volleyer on tour\".",
+          "semantic_score": 0.2511518597602844,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "6 Grand Slam singles titles and 3 Grand Slam men's doubles titles"
+    },
+    {
+      "step": 2,
+      "sub_question": "How many events has Édouard Roger-Vasselin won?",
+      "retrieved": [
+        {
+          "id": "1425",
+          "text": "Édouard Roger-Vasselin\nÉdouard Roger-Vasselin (] ; born 28 November 1983) is a male tennis player from France. He won the men's doubles title at Roland Garros in 2014, partnering Julien Benneteau. He is the son of 1983 French Open semifinalist Christophe Roger-Vasselin.",
+          "semantic_score": 0.6507148742675781,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1426",
+          "text": "Stefan Edberg\nStefan Bengt Edberg (] ; born 19 January 1966) is a Swedish former world no. 1 professional tennis player (in both singles and doubles). A major proponent of the serve-and-volley style of tennis, he won six Grand Slam singles titles and three Grand Slam men's doubles titles between 1985 and 1996. He also won the Masters Grand Prix and was a part of the Swedish Davis Cup-winning-team four times. In addition he won four Masters Series titles, four Championship Series titles and the unofficial Olympic tournament 1984, was ranked in the singles top 10 for ten successive years, 9 years in the top 5, and is considered one of the greatest players of his era. Edberg began coaching Roger Federer in January 2014, with this partnership ending in December 2015.",
+          "semantic_score": 0.5837507247924805,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1420",
+          "text": "2012 Trophée des Alpilles – Doubles\nPierre-Hugues Herbert and Édouard Roger-Vasselin were the defending champions but Roger-Vasselin decided not to participate.<br>",
+          "semantic_score": 0.5680254101753235,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8113",
+          "text": "Gustavo Kuerten career statistics\nThis is a list of the main career statistics of Brazilian tennis player, Gustavo Kuerten. Kuerten won a total of 28 ATP titles — 20 in singles and 8 in doubles. He won 3 Grand Slam titles, 5 ATP Masters Series tournaments and a Tennis Masters Cup.",
+          "semantic_score": 0.5637832283973694,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5557",
+          "text": "Ernests Gulbis\nErnests Gulbis (] , born 30 August 1988, and nicknamed \"The Gull\" or \"Ernie\") is a Latvian professional tennis player. In 2008, Gulbis won his first ATP Tour doubles title at the U.S. Men's Clay Court Championships, teaming with Rainer Schüttler, and in 2010 won his first ATP Tour singles title in the Delray Beach, defeating Ivo Karlović in the final. In total, Gulbis has 6 ATP titles to his name and has never lost a final. His best performance at a Grand Slam is reaching the semifinals of the 2014 French Open. He had previously reached the quarterfinals of the 2008 French Open. Gulbis' career-high singles ranking is world No. 10, making him the only Latvian tennis player ever to be ranked inside the top 10 in ATP Singles Ranking. He achieved this in June 2014.",
+          "semantic_score": 0.5579500198364258,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8114",
+          "text": "Gustavo Kuerten\nGustavo Kuerten (] ; born 10 September 1976), nicknamed Guga, is a retired former World No. 1 tennis player from Brazil. He won the French Open singles title three times (1997, 2000, and 2001), and was the Tennis Masters Cup champion in 2000. Kuerten suffered many problems with injuries which led him to miss a number of tournaments between 2002 and 2005. After a few failed attempted comebacks, he retired from top-level tennis in May 2008. During his career he won 20 singles and 8 doubles titles.",
+          "semantic_score": 0.4562089145183563,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1422",
+          "text": "2011 BNP Paribas Primrose Bordeaux – Doubles\nNicolas Mahut and Édouard Roger-Vasselin were the defending champions; however, Roger-Vasselin chose not to compete this year.",
+          "semantic_score": 0.5422413349151611,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1419",
+          "text": "Becker–Edberg rivalry\nThe tennis players Boris Becker (Germany) and Stefan Edberg (Sweden) met 35 times between 1984 and 1996. Although Becker led their overall head-to-head series 25–10 and won all three of their Davis Cup matches, Edberg won three of their four meetings in Grand Slams. Edberg and Becker also reached the world Tour Finals in 1989 which Edberg won in Four sets.",
+          "semantic_score": 0.4805150032043457,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1421",
+          "text": "Edberg–Lendl rivalry\nThe tennis players Stefan Edberg (Sweden) and Ivan Lendl (Czechoslovakia, 1978–92/United States, 1992–94) met 27 times during their careers. Edberg leads the series 14–13. In an interview with the ATP in 2008 Edberg reflected on his classic rivalries.",
+          "semantic_score": 0.40320828557014465,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1423",
+          "text": "2010 Challenger DCNS de Cherbourg – Doubles\nArnaud Clément and Édouard Roger-Vasselin were the defending champions, but they elected to defend their title with different partners.Clément partnered up with David Guez, but they withdrew before their quarterfinal match against Harsh Mankad and Adil Shamasdin.Roger-Vasselin partnered up with Nicolas Mahut and they won in the final 6–2, 6–4, over Mankad and Shamasdin.",
+          "semantic_score": 0.4496445655822754,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1"
+    },
+    {
+      "step": 3,
+      "sub_question": "Is the number of events won by Stefan Edberg greater than the number won by Édouard Roger-Vasselin?",
+      "retrieved": [
+        {
+          "id": "1421",
+          "text": "Edberg–Lendl rivalry\nThe tennis players Stefan Edberg (Sweden) and Ivan Lendl (Czechoslovakia, 1978–92/United States, 1992–94) met 27 times during their careers. Edberg leads the series 14–13. In an interview with the ATP in 2008 Edberg reflected on his classic rivalries.",
+          "semantic_score": 0.4676252007484436,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1419",
+          "text": "Becker–Edberg rivalry\nThe tennis players Boris Becker (Germany) and Stefan Edberg (Sweden) met 35 times between 1984 and 1996. Although Becker led their overall head-to-head series 25–10 and won all three of their Davis Cup matches, Edberg won three of their four meetings in Grand Slams. Edberg and Becker also reached the world Tour Finals in 1989 which Edberg won in Four sets.",
+          "semantic_score": 0.44837427139282227,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1420",
+          "text": "2012 Trophée des Alpilles – Doubles\nPierre-Hugues Herbert and Édouard Roger-Vasselin were the defending champions but Roger-Vasselin decided not to participate.<br>",
+          "semantic_score": 0.4303446114063263,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1426",
+          "text": "Stefan Edberg\nStefan Bengt Edberg (] ; born 19 January 1966) is a Swedish former world no. 1 professional tennis player (in both singles and doubles). A major proponent of the serve-and-volley style of tennis, he won six Grand Slam singles titles and three Grand Slam men's doubles titles between 1985 and 1996. He also won the Masters Grand Prix and was a part of the Swedish Davis Cup-winning-team four times. In addition he won four Masters Series titles, four Championship Series titles and the unofficial Olympic tournament 1984, was ranked in the singles top 10 for ten successive years, 9 years in the top 5, and is considered one of the greatest players of his era. Edberg began coaching Roger Federer in January 2014, with this partnership ending in December 2015.",
+          "semantic_score": 0.4065825641155243,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1425",
+          "text": "Édouard Roger-Vasselin\nÉdouard Roger-Vasselin (] ; born 28 November 1983) is a male tennis player from France. He won the men's doubles title at Roland Garros in 2014, partnering Julien Benneteau. He is the son of 1983 French Open semifinalist Christophe Roger-Vasselin.",
+          "semantic_score": 0.38198548555374146,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1422",
+          "text": "2011 BNP Paribas Primrose Bordeaux – Doubles\nNicolas Mahut and Édouard Roger-Vasselin were the defending champions; however, Roger-Vasselin chose not to compete this year.",
+          "semantic_score": 0.34689950942993164,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1423",
+          "text": "2010 Challenger DCNS de Cherbourg – Doubles\nArnaud Clément and Édouard Roger-Vasselin were the defending champions, but they elected to defend their title with different partners.Clément partnered up with David Guez, but they withdrew before their quarterfinal match against Harsh Mankad and Adil Shamasdin.Roger-Vasselin partnered up with Nicolas Mahut and they won in the final 6–2, 6–4, over Mankad and Shamasdin.",
+          "semantic_score": 0.35648441314697266,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "links": [
+    {
+      "source": "1426",
+      "target": "1425",
+      "reason": "Paragraph 1426 quantifies Stefan Edberg's major titles (six Grand Slam singles and three Grand Slam doubles), while paragraph 1425 identifies Édouard Roger-Vasselin's one Grand Slam doubles title, providing the concrete counts needed to compare their event wins."
+    }
+  ],
+  "questions_seen": 144,
+  "_id": "5a8778d25542994846c1cd89",
+  "correct_answer": "yes",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "question": "In which election did Norm Coleman won to become the last republican elected as of 2017?",
+  "answer": "2002 United States Senate election in Minnesota",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Norm Coleman?",
+      "retrieved": [
+        {
+          "id": "821",
+          "text": "Political positions of Norm Coleman\nThe political positions of Norm Coleman have changed dramatically over his career. Originally a Democrat and an anti-war activist as a university student during the Vietnam War, Coleman has since switched parties and is now generally considered a moderate Republican.",
+          "semantic_score": 0.5439779758453369,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "818",
+          "text": "Norm Coleman\nNorman Bertram Coleman Jr., (born August 17, 1949) is an American lobbyist, lawyer and politician. He served as a U.S. Senator from Minnesota from 2003 until 2009. Before that, he was mayor of Saint Paul, Minnesota from 1994 to 2002. Previously a member of the Democratic–Farmer–Labor Party (DFL), Coleman became a Republican in 1996. Coleman was elected to the Senate in 2002 and served one term, losing his 2008 reelection bid by 312 votes (out of over 3 million cast).",
+          "semantic_score": 0.5155930519104004,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5245",
+          "text": "Barry Werth\nBarry Werth is an American author and journalist. His work has appeared in \"The New York Times\", \"The New Yorker\", \"GQ\", the \"Smithsonian\", and the \"MIT Technology Review\". He has also served as an instructor in journalism at Smith College, Mount Holyoke College, and Boston University.",
+          "semantic_score": 0.38734084367752075,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3626",
+          "text": "Albert Luce\nAlbert Laurence Luce (26 June 1888-16 October 1962) was an American industrialist, entrepreneur, bus designer, and business owner. He is best known for founding the Blue Bird Body Company, a bus and recreational vehicle manufacturer now known as Blue Bird Corporation.",
+          "semantic_score": 0.3860066831111908,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7829",
+          "text": "Mike Katz\nMichael Katz (born November 14, 1944) is a former American IFBB professional bodybuilder and former professional football player with the New York Jets, most famous for his appearance with Arnold Schwarzenegger in the 1977 bodybuilding documentary film \"Pumping Iron\".",
+          "semantic_score": 0.38266339898109436,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7835",
+          "text": "Ken Waller\nKenny \"Ken\" Waller (born March 20, 1942) is an American former bodybuilder featured in the 1977 movie \"Pumping Iron\", which starred Arnold Schwarzenegger. Waller also won the 1975 International Federation of Bodybuilders (IFBB) Mr. Universe contest in Pretoria, South Africa. He was known for his curly red hair and freckles — to this day, one of the very rare redheaded professional bodybuilders in the sport — and his graceful, confident posing style.",
+          "semantic_score": 0.24907644093036652,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "823",
+          "text": "United States Senate election in Minnesota, 2002\nThe 2002 United States Senate election in Minnesota took place on November 5, 2002. Incumbent Democratic U.S. Senator Paul Wellstone was running for re-election to a third term, but died in a plane crash eleven days before the election. The Democratic-Farmer-Labor Party (DFL) chose former Vice President and 1984 Presidential candidate Walter Mondale to replace Wellstone on the ballot. Mondale lost to Republican Mayor of Saint Paul Norm Coleman. The day before the election, Independence Governor Jesse Ventura had appointed Dean Barkley (IP) to serve the rest of Wellstone's term. As of 2017, this is the last Senate election in Minnesota won by a Republican.",
+          "semantic_score": 0.21176542341709137,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3622",
+          "text": "Blue Bird Corporation\nThe Blue Bird Corporation (originally known as the Blue Bird Body Company) is an American bus manufacturer headquartered in Fort Valley, Georgia. Best known for as a manufacturer of school buses, the company has also manufactured a wide variety of other bus types, including transit buses, motorhomes, and specialty vehicles such as mobile libraries and mobile police command centers. Currently, Blue Bird concentrates its product lineup on school and activity buses and specialty vehicle derivatives.",
+          "semantic_score": 0.19675889611244202,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "820",
+          "text": "Andy Dawkins\nAndrew \"Andy\" J. Dawkins (born July 29, 1950) is an American politician and attorney from Minnesota. Dawkins is a former member of the Minnesota House of Representatives from Saint Paul. Running as a Democrat, Dawkins was first elected in 1986 to represent District 65A, and was reelected every two years until opting not to seek reelection in 2002. In 1993, he ran an unsuccessful campaign for mayor of Saint Paul against Norm Coleman. He married Ellen Anderson, a Minnesota state senator from St. Paul, in 1995. He was the Green Party of Minnesota nominee for Minnesota Attorney General in the 2014 election, earning 1.5% of the vote and restoring the party's minor-party status.",
+          "semantic_score": 0.22998419404029846,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7832",
+          "text": "Pumping Iron\nPumping Iron is a 1977 docudrama about the world of professional bodybuilding, with a focus on the 1975 IFBB Mr. Universe and 1975 Mr. Olympia competitions. Directed by George Butler and Robert Fiore, it is inspired by a book of the same name by Butler and Charles Gaines, and nominally centers on the competition between Arnold Schwarzenegger and one of his primary competitors for the title of Mr. Olympia, Lou Ferrigno. The film also features segments on bodybuilders Franco Columbu and Mike Katz, in addition to appearances by Ken Waller, Ed Corney, Serge Nubret, and other famous bodybuilders of the era.",
+          "semantic_score": 0.20238356292247772,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Norm Coleman is an American lobbyist, lawyer, and politician who served as a U.S. Senator from Minnesota from 2003 to 2009 and as mayor of Saint Paul, Minnesota from 1994 to 2002."
+    },
+    {
+      "step": 2,
+      "sub_question": "Which elections did Norm Coleman win?",
+      "retrieved": [
+        {
+          "id": "818",
+          "text": "Norm Coleman\nNorman Bertram Coleman Jr., (born August 17, 1949) is an American lobbyist, lawyer and politician. He served as a U.S. Senator from Minnesota from 2003 until 2009. Before that, he was mayor of Saint Paul, Minnesota from 1994 to 2002. Previously a member of the Democratic–Farmer–Labor Party (DFL), Coleman became a Republican in 1996. Coleman was elected to the Senate in 2002 and served one term, losing his 2008 reelection bid by 312 votes (out of over 3 million cast).",
+          "semantic_score": 0.8082467317581177,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "823",
+          "text": "United States Senate election in Minnesota, 2002\nThe 2002 United States Senate election in Minnesota took place on November 5, 2002. Incumbent Democratic U.S. Senator Paul Wellstone was running for re-election to a third term, but died in a plane crash eleven days before the election. The Democratic-Farmer-Labor Party (DFL) chose former Vice President and 1984 Presidential candidate Walter Mondale to replace Wellstone on the ballot. Mondale lost to Republican Mayor of Saint Paul Norm Coleman. The day before the election, Independence Governor Jesse Ventura had appointed Dean Barkley (IP) to serve the rest of Wellstone's term. As of 2017, this is the last Senate election in Minnesota won by a Republican.",
+          "semantic_score": 0.6540584564208984,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "820",
+          "text": "Andy Dawkins\nAndrew \"Andy\" J. Dawkins (born July 29, 1950) is an American politician and attorney from Minnesota. Dawkins is a former member of the Minnesota House of Representatives from Saint Paul. Running as a Democrat, Dawkins was first elected in 1986 to represent District 65A, and was reelected every two years until opting not to seek reelection in 2002. In 1993, he ran an unsuccessful campaign for mayor of Saint Paul against Norm Coleman. He married Ellen Anderson, a Minnesota state senator from St. Paul, in 1995. He was the Green Party of Minnesota nominee for Minnesota Attorney General in the 2014 election, earning 1.5% of the vote and restoring the party's minor-party status.",
+          "semantic_score": 0.6188488602638245,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "821",
+          "text": "Political positions of Norm Coleman\nThe political positions of Norm Coleman have changed dramatically over his career. Originally a Democrat and an anti-war activist as a university student during the Vietnam War, Coleman has since switched parties and is now generally considered a moderate Republican.",
+          "semantic_score": 0.5220317840576172,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1189",
+          "text": "Tarryl Clark\nTarryl Lynn Clark (born July 31, 1961) is a Minnesota politician and a former member of the Minnesota Senate. A Democrat, she represented District 15, including portions of Benton, Sherburne, and Stearns counties, from 2006 to 2011. She was a Democratic-Farmer-Labor Party nominee for United States Congress in 2010, unsuccessfully challenging incumbent Republican Michele Bachmann.",
+          "semantic_score": 0.499083936214447,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1194",
+          "text": "Michele Bachmann\nMichele Marie Bachmann ( ; \"née\" Amble; born April 6, 1956) is an American politician. A Republican, she is a former member of the United States House of Representatives, who represented Minnesota's 6th congressional district, a post she held from 2007 to 2015. The district includes several of the northern suburbs of the Twin Cities, as well as St. Cloud.",
+          "semantic_score": 0.381553053855896,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Norm Coleman won the 2002 United States Senate election in Minnesota and was elected mayor of Saint Paul, Minnesota (serving 1994–2002)."
+    },
+    {
+      "step": 3,
+      "sub_question": "Which of those wins made him the last Republican elected to that office as of 2017?",
+      "retrieved": [
+        {
+          "id": "818",
+          "text": "Norm Coleman\nNorman Bertram Coleman Jr., (born August 17, 1949) is an American lobbyist, lawyer and politician. He served as a U.S. Senator from Minnesota from 2003 until 2009. Before that, he was mayor of Saint Paul, Minnesota from 1994 to 2002. Previously a member of the Democratic–Farmer–Labor Party (DFL), Coleman became a Republican in 1996. Coleman was elected to the Senate in 2002 and served one term, losing his 2008 reelection bid by 312 votes (out of over 3 million cast).",
+          "semantic_score": 0.7942150831222534,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "823",
+          "text": "United States Senate election in Minnesota, 2002\nThe 2002 United States Senate election in Minnesota took place on November 5, 2002. Incumbent Democratic U.S. Senator Paul Wellstone was running for re-election to a third term, but died in a plane crash eleven days before the election. The Democratic-Farmer-Labor Party (DFL) chose former Vice President and 1984 Presidential candidate Walter Mondale to replace Wellstone on the ballot. Mondale lost to Republican Mayor of Saint Paul Norm Coleman. The day before the election, Independence Governor Jesse Ventura had appointed Dean Barkley (IP) to serve the rest of Wellstone's term. As of 2017, this is the last Senate election in Minnesota won by a Republican.",
+          "semantic_score": 0.7075363397598267,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "820",
+          "text": "Andy Dawkins\nAndrew \"Andy\" J. Dawkins (born July 29, 1950) is an American politician and attorney from Minnesota. Dawkins is a former member of the Minnesota House of Representatives from Saint Paul. Running as a Democrat, Dawkins was first elected in 1986 to represent District 65A, and was reelected every two years until opting not to seek reelection in 2002. In 1993, he ran an unsuccessful campaign for mayor of Saint Paul against Norm Coleman. He married Ellen Anderson, a Minnesota state senator from St. Paul, in 1995. He was the Green Party of Minnesota nominee for Minnesota Attorney General in the 2014 election, earning 1.5% of the vote and restoring the party's minor-party status.",
+          "semantic_score": 0.5842829346656799,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "821",
+          "text": "Political positions of Norm Coleman\nThe political positions of Norm Coleman have changed dramatically over his career. Originally a Democrat and an anti-war activist as a university student during the Vietnam War, Coleman has since switched parties and is now generally considered a moderate Republican.",
+          "semantic_score": 0.5076255798339844,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1189",
+          "text": "Tarryl Clark\nTarryl Lynn Clark (born July 31, 1961) is a Minnesota politician and a former member of the Minnesota Senate. A Democrat, she represented District 15, including portions of Benton, Sherburne, and Stearns counties, from 2006 to 2011. She was a Democratic-Farmer-Labor Party nominee for United States Congress in 2010, unsuccessfully challenging incumbent Republican Michele Bachmann.",
+          "semantic_score": 0.48455026745796204,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1194",
+          "text": "Michele Bachmann\nMichele Marie Bachmann ( ; \"née\" Amble; born April 6, 1956) is an American politician. A Republican, she is a former member of the United States House of Representatives, who represented Minnesota's 6th congressional district, a post she held from 2007 to 2015. The district includes several of the northern suburbs of the Twin Cities, as well as St. Cloud.",
+          "semantic_score": 0.3549697697162628,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The 2002 United States Senate election in Minnesota."
+    }
+  ],
+  "links": [
+    {
+      "source": "818",
+      "target": "823",
+      "reason": "Paragraph 818 establishes Coleman was elected to the Senate in 2002; paragraph 823 identifies that election as the 2002 Minnesota Senate election and states it was the last Minnesota Senate election won by a Republican as of 2017, directly answering the question."
+    }
+  ],
+  "questions_seen": 83,
+  "_id": "5ab3bcc55542992ade7c6e66",
+  "correct_answer": "2002",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

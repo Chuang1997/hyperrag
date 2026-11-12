@@ -1,0 +1,205 @@
+{
+  "question": "Bytham Castle is a castle in the civil parish of how many houses?",
+  "answer": "300",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is Bytham Castle (e.g., its location, type, etc.)?",
+      "retrieved": [
+        {
+          "id": "101",
+          "text": "Bytham Castle\nBytham Castle was a castle in the village of Castle Bytham in Lincolnshire (grid reference [ SK992186] .)",
+          "semantic_score": 0.8053802251815796,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "95",
+          "text": "Castle Bytham\nCastle Bytham is a village and civil parish of around 300 houses in South Kesteven, Lincolnshire, England. The population was measured at 768 in 317 households at the 2011 census.",
+          "semantic_score": 0.7290117740631104,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "94",
+          "text": "Little Bytham\nLittle Bytham is a village and civil parish in the South Kesteven district of Lincolnshire, England. The population of the civil parish at the 2011 census was 384. It lies on the B1176 road, 4 mi south from Corby Glen and 6 mi north from Stamford .",
+          "semantic_score": 0.5121742486953735,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3224",
+          "text": "Castle Hill, Queensland\nCastle Hill is a suburb in the City of Townsville, Queensland, Australia. Most of the suburb is taken up with the Castle Hill reserve with only a small area in the north-east of the suburb being available for housing. In the 2011 census, Castle Hill had a population of 1,009 people. The Indigenous name for Castle Hill is Cootharinga, sometimes written as Cooderinga.",
+          "semantic_score": 0.4716927707195282,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "96",
+          "text": "Castle Ashby\nCastle Ashby is the name of a civil parish, an estate village and an English country house in rural Northamptonshire. Historically the village was set up to service the needs of Castle Ashby House, the seat of the Marquess of Northampton. The village has one small pub-hotel, The Falcon. At the time of the 2011 census, the parish's population (including Chadstone) was 111 people. The village contains many houses rebuilt from the 1860s onwards. These include work by the architect E.F. Law of Northampton, whose work can also be seen nearby at Horton Church. The castle is the result of a licence obtained in 1306, for Walter Langton, Bishop of Coventry, to castellate his mansion in the village of Ashby.",
+          "semantic_score": 0.43712159991264343,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3222",
+          "text": "Castle Hill High School\nCastle Hill High School, located in Castle Street, Castle Hill, New South Wales, Australia, is a co-educational and comprehensive school with students ranging from year 7 to year 12. Castle Hill High School has performed well during the 2016 HSC, students achieving 170 Band 6's as well as having 5 students that have received an all-rounders award. According to Better Education HSC rankings regarding Mathematics and English marks Castle Hill High School is ranked 103rd in New South Wales.",
+          "semantic_score": 0.2748161256313324,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Bytham Castle was a castle in the village of Castle Bytham in Lincolnshire, England."
+    },
+    {
+      "step": 2,
+      "sub_question": "What civil parish is Bytham Castle in?",
+      "retrieved": [
+        {
+          "id": "101",
+          "text": "Bytham Castle\nBytham Castle was a castle in the village of Castle Bytham in Lincolnshire (grid reference [ SK992186] .)",
+          "semantic_score": 0.9595653414726257,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "95",
+          "text": "Castle Bytham\nCastle Bytham is a village and civil parish of around 300 houses in South Kesteven, Lincolnshire, England. The population was measured at 768 in 317 households at the 2011 census.",
+          "semantic_score": 0.9044864177703857,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "94",
+          "text": "Little Bytham\nLittle Bytham is a village and civil parish in the South Kesteven district of Lincolnshire, England. The population of the civil parish at the 2011 census was 384. It lies on the B1176 road, 4 mi south from Corby Glen and 6 mi north from Stamford .",
+          "semantic_score": 0.7186729907989502,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "96",
+          "text": "Castle Ashby\nCastle Ashby is the name of a civil parish, an estate village and an English country house in rural Northamptonshire. Historically the village was set up to service the needs of Castle Ashby House, the seat of the Marquess of Northampton. The village has one small pub-hotel, The Falcon. At the time of the 2011 census, the parish's population (including Chadstone) was 111 people. The village contains many houses rebuilt from the 1860s onwards. These include work by the architect E.F. Law of Northampton, whose work can also be seen nearby at Horton Church. The castle is the result of a licence obtained in 1306, for Walter Langton, Bishop of Coventry, to castellate his mansion in the village of Ashby.",
+          "semantic_score": 0.5184934735298157,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3224",
+          "text": "Castle Hill, Queensland\nCastle Hill is a suburb in the City of Townsville, Queensland, Australia. Most of the suburb is taken up with the Castle Hill reserve with only a small area in the north-east of the suburb being available for housing. In the 2011 census, Castle Hill had a population of 1,009 people. The Indigenous name for Castle Hill is Cootharinga, sometimes written as Cooderinga.",
+          "semantic_score": 0.4621754288673401,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3222",
+          "text": "Castle Hill High School\nCastle Hill High School, located in Castle Street, Castle Hill, New South Wales, Australia, is a co-educational and comprehensive school with students ranging from year 7 to year 12. Castle Hill High School has performed well during the 2016 HSC, students achieving 170 Band 6's as well as having 5 students that have received an all-rounders award. According to Better Education HSC rankings regarding Mathematics and English marks Castle Hill High School is ranked 103rd in New South Wales.",
+          "semantic_score": 0.2968469262123108,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Castle Bytham"
+    },
+    {
+      "step": 3,
+      "sub_question": "How many houses are in that civil parish?",
+      "retrieved": [
+        {
+          "id": "95",
+          "text": "Castle Bytham\nCastle Bytham is a village and civil parish of around 300 houses in South Kesteven, Lincolnshire, England. The population was measured at 768 in 317 households at the 2011 census.",
+          "semantic_score": 0.8070647716522217,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "101",
+          "text": "Bytham Castle\nBytham Castle was a castle in the village of Castle Bytham in Lincolnshire (grid reference [ SK992186] .)",
+          "semantic_score": 0.7348588109016418,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "96",
+          "text": "Castle Ashby\nCastle Ashby is the name of a civil parish, an estate village and an English country house in rural Northamptonshire. Historically the village was set up to service the needs of Castle Ashby House, the seat of the Marquess of Northampton. The village has one small pub-hotel, The Falcon. At the time of the 2011 census, the parish's population (including Chadstone) was 111 people. The village contains many houses rebuilt from the 1860s onwards. These include work by the architect E.F. Law of Northampton, whose work can also be seen nearby at Horton Church. The castle is the result of a licence obtained in 1306, for Walter Langton, Bishop of Coventry, to castellate his mansion in the village of Ashby.",
+          "semantic_score": 0.6025839447975159,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "94",
+          "text": "Little Bytham\nLittle Bytham is a village and civil parish in the South Kesteven district of Lincolnshire, England. The population of the civil parish at the 2011 census was 384. It lies on the B1176 road, 4 mi south from Corby Glen and 6 mi north from Stamford .",
+          "semantic_score": 0.5710334777832031,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3224",
+          "text": "Castle Hill, Queensland\nCastle Hill is a suburb in the City of Townsville, Queensland, Australia. Most of the suburb is taken up with the Castle Hill reserve with only a small area in the north-east of the suburb being available for housing. In the 2011 census, Castle Hill had a population of 1,009 people. The Indigenous name for Castle Hill is Cootharinga, sometimes written as Cooderinga.",
+          "semantic_score": 0.4685066044330597,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3222",
+          "text": "Castle Hill High School\nCastle Hill High School, located in Castle Street, Castle Hill, New South Wales, Australia, is a co-educational and comprehensive school with students ranging from year 7 to year 12. Castle Hill High School has performed well during the 2016 HSC, students achieving 170 Band 6's as well as having 5 students that have received an all-rounders award. According to Better Education HSC rankings regarding Mathematics and English marks Castle Hill High School is ranked 103rd in New South Wales.",
+          "semantic_score": 0.3065422773361206,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "300"
+    }
+  ],
+  "links": [
+    {
+      "source": "101",
+      "target": "95",
+      "reason": "Paragraph 101 identifies Bytham Castle as being in Castle Bytham, and paragraph 95 states that Castle Bytham is a civil parish of around 300 houses, directly bridging the castle's location to the requested house count."
+    }
+  ],
+  "questions_seen": 11,
+  "_id": "5ab94bc2554299743d22eacf",
+  "correct_answer": "300",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "question": "When was the multinational group headquartered in the Netherlands adjacent to the Junction 27 Retail Park near Birstall, Batley, West Yorkshite, England, founded?",
+  "answer": "1943",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What multinational group is headquartered in the Netherlands adjacent to Junction 27 Retail Park near Birstall, Batley, West Yorkshire, England?",
+      "retrieved": [
+        {
+          "id": "1510",
+          "text": "Birstall Shopping Park\nBirstall Shopping Park is a shopping park located in Birstall, Batley, West Yorkshire, England. It contains a wide variety of retailers and includes the region's only IKEA store. Adjacent is another retail park, Junction 27 Retail Park, specialising in bulky goods and electronics. The section of the park containing retailers Pets at Home and Homesense is known as Spring Ram Retail Park, and was built slightly later than the rest of the complex, however it is considered as a part of Birstall Shopping Park and is under common ownership.",
+          "semantic_score": 0.607431173324585,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1512",
+          "text": "Birstall, West Yorkshire\nBirstall is a village and part of the town of Batley in the metropolitan borough of Kirklees, West Yorkshire, England. It is part of Birstall and Birkenshaw ward which had a population of 16,298 at the 2011 census. Historically in the West Riding of Yorkshire, it is situated close to the M62 motorway, approximately 6 mi south-west of Leeds. The village is situated between Leeds, Bradford, Huddersfield and Wakefield.",
+          "semantic_score": 0.523429274559021,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1511",
+          "text": "Albion Mills Retail Park\nAlbion Mills Retail Park is a retail park in central Wakefield, West Yorkshire, England. The park, which contains a branch of PC World, was built in 2000. It was acquired by CB Richard Ellis Realty Trust in July 2008 at a cost of £10.5 million (US$20,805,750). The shopping complex covers an area of 55,294 square feet.",
+          "semantic_score": 0.5057718753814697,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1518",
+          "text": "Batley\nBatley is a town in the Metropolitan Borough of Kirklees, West Yorkshire, England. It lies 7 mi south-east of Bradford, 7 mi south-west of Leeds and 1 mi north of Dewsbury, near the M62 motorway. Historically in the West Riding of Yorkshire, in 2011 its two wards (Batley East and Batley West) had a combined population of 38,573. Other nearby towns include: Morley to the north-east, Ossett to the south-east and Brighouse west-south-west. Batley is part of a special EU transformation zone.",
+          "semantic_score": 0.46353939175605774,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1509",
+          "text": "Hindpool Retail Parks\nThe Hindpool Retail Parks are a set of four conjoined retail parks in the Hindpool area of Barrow-in-Furness, England, United Kingdom (with the exception of one which straddles the border with Central Barrow). Some thirty stores and leisure facilities contain a total of 43,000 m2 of retail space (around one quarter of the borough's 199000 m2 of retail floorspace). The four retail parks are Cornerhouse Retail Park, Cornmill Crossing, Hindpool Retail Park and Hollywood Park. The largest and only other retail park in Barrow is Walney Road Retail Park - Pound Stretcher, Argos Extra, Asda, Home Bargains, Matalan and Stollers.",
+          "semantic_score": 0.43797677755355835,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1515",
+          "text": "Kirklees\nKirklees is a local government district of West Yorkshire, England, governed by Kirklees Council with the status of a metropolitan borough. The largest town and administrative centre of Kirklees is Huddersfield, and the district also includes Batley, Birstall, Cleckheaton, Denby Dale, Dewsbury, Heckmondwike, Holmfirth, Kirkburton, Marsden, Meltham, Mirfield and Slaithwaite. Kirklees had a population of 422,500 in 2011 and is therefore the most populous borough in England that is not a city; it is also the third largest metropolitan district by area behind Doncaster and Leeds.",
+          "semantic_score": 0.34242919087409973,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1516",
+          "text": "List of people from Kirklees\nThis is a list of people from Kirklees, a metropolitan district in West Yorkshire, England. This list includes people from Batley, Birstall, Cleckheaton, Denby Dale, Dewsbury, Heckmondwike, Holmfirth, Huddersfield, Kirkburton, Marsden, Meltham, Mirfield and Slaithwaite. The list is arranged alphabetically by surname:",
+          "semantic_score": 0.40552031993865967,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "IKEA"
+    },
+    {
+      "step": 2,
+      "sub_question": "When was that multinational group founded?",
+      "retrieved": [
+        {
+          "id": "1513",
+          "text": "IKEA\nIKEA ( or ; ] ) is a multinational group, headquartered in the Netherlands, that designs and sells \",\" kitchen appliances and home accessories. It has been the world's largest furniture retailer since at least 2008. It was founded in Sweden in 1943 by then-17-year-old Ingvar Kamprad, who was listed by \"Forbes\" Magazine in 2015 as one of the ten richest people in the world, worth more than 40 billion dollars. The company's name is an acronym that consists of the initials of Ingvar Kamprad (name of founder), Elmtaryd (the farm where he grew up), and Agunnaryd (his hometown in Småland, southern Sweden). The company is known for its modernist designs for various types of appliances and furniture, and its interior design work is often associated with an eco-friendly simplicity. In addition, the firm is known for its attention to cost control, operational details, and continuous product development, corporate attributes that allowed IKEA to lower its prices by an average of two to three percent over the decade to 2010 during a period of global expansion. The IKEA group has a complex corporate structure, which the European Union has alleged was designed to avoid over 1 billion Euros in tax payments over the 2009-2014 period. It is controlled by several foundations based in the Netherlands, Luxembourg and Liechtenstein.",
+          "semantic_score": 0.6823571920394897,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2963",
+          "text": "Northwestern Knitting Company Factory building\nThe Northwestern Knitting Company Factory, also known as Munsingwear Corporation and later as International Market Square, is a former factory building in the Sumner-Glenwood neighborhood of Minneapolis, Minnesota, United States. The company was founded in 1888 by George D. Munsing, who invented a method of plating wool fibers with silk and cotton to make the union suit more comfortable. The company received financial backing from Clinton Morrison and Charles Alfred Pillsbury, who were prominent businessmen in the Minneapolis flour milling industry. This style of underwear, patented in 1891, proved to be very popular, and the company eventually became the world's largest manufacturer of underwear. The company changed its name in 1919 to Munsingwear.",
+          "semantic_score": 0.3917131721973419,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7358",
+          "text": "Cora (hypermarket)\nCora is a retail group of hypermarkets located in France and elsewhere in Europe. Cora was founded in 1974 by the supermarket holding Louis Delhaize Group after taking over three Carrefour hypermarkets located in Belgium. These three were originally established around 1969 as a joint venture franchise between two other companies: the Carrefour Group and the Delhaize Group.",
+          "semantic_score": 0.3848310708999634,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7366",
+          "text": "Albert Heijn\nAlbert Heijn B.V. is the largest Dutch supermarket chain, founded in 1887 in Oostzaan, Netherlands. It is named after Albert Heijn, Sr., the founder of the first store in Oostzaan.",
+          "semantic_score": 0.3830976188182831,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2972",
+          "text": "ISS A/S\nISS A/S (Integrated Service Solutions) is a Facility Services company founded in Copenhagen, Denmark in 1901. ISS services include: cleaning services, support services, property services, catering services, security services and facility management services. The ISS Group’s revenue amounted to DKK 79.1 billion in 2016 and ISS has nearly 500,000 employees and activities in approximately 75 countries across Europe, Asia, North America, Latin America and Pacific. More than half of ISS' employees are based in emerging markets.",
+          "semantic_score": 0.38155147433280945,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7360",
+          "text": "Albert Heijn (born 1865)\nAlbert Heijn (October 15, 1865, Oostzaan, North Holland – November 13, 1945, Amsterdam) was the original founder of what is now the largest food retailer in the Netherlands. On his wedding day in 1887, he took over the grocery store of his father, Jan Simonsz Heijn, and the supermarket chain founded by his grandson still carries the name Albert Heijn to this day.",
+          "semantic_score": 0.34467607736587524,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7357",
+          "text": "Albert Heijn (born 1927)\nAlbert Heijn (Zaandam, 25 January 1927 – Hereford, 13 January 2011) was a Dutch entrepreneur, major stock holder and founder and chairman of the board of Ahold.",
+          "semantic_score": 0.32807111740112305,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3304",
+          "text": "Bolton\nBolton ( or locally ] ) is a town in Greater Manchester in North West England. A former mill town, Bolton has been a production centre for textiles since Flemish weavers settled in the area in the 14th century, introducing a wool and cotton-weaving tradition. The urbanisation and development of the town largely coincided with the introduction of textile manufacture during the Industrial Revolution. Bolton was a 19th-century boomtown, and at its zenith in 1929 its 216 cotton mills and 26 bleaching and dyeing works made it one of the largest and most productive centres of cotton spinning in the world. The British cotton industry declined sharply after the First World War, and by the 1980s cotton manufacture had virtually ceased in Bolton.",
+          "semantic_score": 0.1502673625946045,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2695",
+          "text": "Berenberg Bank\nJoh. Berenberg, Gossler & Co. KG, commonly known as Berenberg Bank, is a Hamburg-based multinational investment banking and private banking company, founded by the Belgian-origined Berenberg family in 1590. Having operated continuously since its founding with the same legal identity and the same owning family, it is the world's oldest merchant bank and the world's second oldest bank overall. Its owners, the Berenberg/Gossler family, belonged to the ruling elite of Hanseatic merchants of the city-republic of Hamburg and several family members served in the city-state's government from 1735. Like many other merchant bankers, the Berenbergs were originally cloth merchants. The bank's name refers to Johann Berenberg and his son-in-law Johann Hinrich Gossler, and has remained unchanged since 1791.",
+          "semantic_score": 0.23985791206359863,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2696",
+          "text": "Berenberg family\nThe Berenberg family (Dutch for \"bear mountain\") was a Flemish-origined Hanseatic family of merchants, bankers and senators in Hamburg, with branches in London, Livorno and other European cities. The family was descended from the brothers Hans and Paul Berenberg from Antwerp, who came as Protestant refugees to the city-republic of Hamburg following the Fall of Antwerp in 1585 and who established what is now Berenberg Bank in Hamburg in 1590. The Berenbergs were originally cloth merchants and became involved in merchant banking in the 16th century. Having existed continuously since 1590, Berenberg Bank is the world's oldest surviving merchant bank.",
+          "semantic_score": 0.19580678641796112,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1943"
+    }
+  ],
+  "links": [
+    {
+      "source": "1510",
+      "target": "1513",
+      "reason": "Paragraph 1510 identifies the IKEA store adjacent to Junction 27 Retail Park, and paragraph 1513 identifies IKEA as the Netherlands-headquartered multinational group and states it was founded in 1943, bridging the location clue to the founding date."
+    }
+  ],
+  "questions_seen": 153,
+  "_id": "5abd882f55429924427fd045",
+  "correct_answer": "1943",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

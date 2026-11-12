@@ -1,0 +1,266 @@
+{
+  "question": "What WikiLeaks using whistleblower is notable for having a hacking organization with a user base of over 1,800,000?",
+  "answer": "Jeremy Hammond",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is WikiLeaks known for regarding whistleblowers?",
+      "retrieved": [
+        {
+          "id": "288",
+          "text": "Sigurdur Thordarson\nSigurdur Thordarson (Sigurður Ingi Þórðarson) was born in 1992 in Reykjavík. He is known for his involvement with the whistleblowing organization WikiLeaks, as well as his interactions with the Federal Bureau of Investigation (FBI). In 2010 he was arrested for stealing and leaking classified information about the bank structure in Iceland. He obtained the information from a lawyer that aided wealthy people in tax evasion, whose name was Gunnar Gunnarsson. Gunnar worked for an investment firm called Milestone ehf. Gunnar obtained Sigurdur's services to set up computer systems and delete data. After Sigurdur was arrested he was introduced to Julian Assange, the editor and founder of WikiLeaks. Sigurdur started his time there in early 2010, and participated in preparing many of WikiLeaks's biggest leaks. After a year in WikiLeaks service Sigurdur was suspected of embezzling funds from the WikiLeaks online store. WikiLeaks filed criminal charges against Sigurdur with the Metropolitan Police of Iceland, who investigated the case and later dropped it due to lack of evidence. Sigurdur later plead guilty to the embezzlement along with other economic crimes, in 2013. Sigurdur was ordered to pay the victims 15 million ISK (roughly $115,000)",
+          "semantic_score": 0.5145549178123474,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "285",
+          "text": "Friends of WikiLeaks\nFriends of WikiLeaks, sometimes reduced and stylized as FoWL, was a surveillance-resistant social network site created in support of WikiLeaks. Founded in May 2012, the site was intended for those who support WikiLeaks and its activities to perform advocacy. In contrast to more traditional forms of social networking, FoWL aimed at bringing together like-minded people who do not yet know each other. To achieve this goal, the site would ask about the language the user speaks as well as any preferences in the ways of hobbies or other activities. The site would then find six friends who share the user's views within your country, and another six from other parts of the world who speak your language. If one of those friends cancelled their account or became inactive, a new friend would be matched to the user's circle and would replace the previous inactive one.",
+          "semantic_score": 0.41702497005462646,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9194",
+          "text": "Wikisource\nWikisource is an online digital library of free content textual sources on a wiki, operated by the Wikimedia Foundation. Wikisource is the name of the project as a whole and the name for each instance of that project (each instance usually representing a different language); multiple Wikisources make up the overall project of Wikisource. The project's aims are to host all forms of free text, in many languages, and translations. Originally conceived as an archive to store useful or important historical texts (its first text was the \"Déclaration universelle des Droits de l'Homme\"), it has expanded to become a general-content library. The project officially began in November 24, 2003 under the name Project Sourceberg, a play on the famous Project Gutenberg. The name Wikisource was adopted later that year and it received its own domain name seven months later. The project has come under criticism for lack of reliability but it is also cited by organisations such as the National Archives and Records Administration.",
+          "semantic_score": 0.40327686071395874,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3841",
+          "text": "Katie Moussouris\nKatie Moussouris is an American computer security researcher and writer who is best known for her ongoing work advocating responsible security research. She created the bug bounty program at Microsoft. Formerly the Chief Policy Officer at HackerOne, a vulnerability disclosure company based in San Francisco, California, she is the founder and CEO of Luta Security . Moussouris was directly involved in creating the Department of Defense's first bug bounty program for hackers. In 2014, SC Magazine named Moussouris to its Women in IT Security list. She was also named as one of \"10 Women in Information Security That Everyone Should Know,\" and the \"One To Watch\" among the 2011 Women of Influence awards.",
+          "semantic_score": 0.3758193254470825,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "292",
+          "text": "Jeremy Hammond\nJeremy Hammond (born January 8, 1985) is a political hacktivist and computer hacker from Chicago. He was convicted and sentenced in November 2013 to 10 years in US Federal Prison for hacking the private intelligence firm Stratfor and releasing the leaks through the whistle-blowing website WikiLeaks. He founded the computer security training website HackThisSite in 2003.",
+          "semantic_score": 0.3731449544429779,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "291",
+          "text": "HackThisSite\nHackThisSite.org, commonly referred to as HTS, is an online hacking and security website founded by Jeremy Hammond, with the site being maintained by a members of the community after his departure. It aims to provide users with a way to learn and practice basic and advanced \"hacking\" skills through a series of challenges in a safe and legal environment. The organization has a user base of over 1,800,000. The actual number of active members is believed to be much lower. The most users online at the same time was 1,995 on February 5, 2012 at 2:46:10 AM CST.",
+          "semantic_score": 0.31650620698928833,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5923",
+          "text": "Social network (sociolinguistics)\nIn the field of sociolinguistics, social network describes the structure of a particular speech community. Social networks are composed of a \"web of ties\" (Lesley Milroy) between individuals, and the structure of a network will vary depending on the types of connections it is composed of. Social network theory (as used by sociolinguists) posits that social networks, and the interactions between members within the networks, are a driving force behind language change.",
+          "semantic_score": 0.1093730479478836,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "293",
+          "text": "Owen Walker\nOwen Thor Walker (online pseudonym AKILL) is a computer hacker living in New Zealand, who was discharged without conviction despite pleading guilty to several charges of 'cybercrime'. In 2008 he admitted to being the ringleader of an international hacking organization estimated to have caused $26 million worth of damage.",
+          "semantic_score": 0.26753851771354675,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "WikiLeaks is known for publishing classified and sensitive information from anonymous whistleblowers."
+    },
+    {
+      "step": 2,
+      "sub_question": "Which whistleblower associated with WikiLeaks is notable for having a hacking organization?",
+      "retrieved": [
+        {
+          "id": "288",
+          "text": "Sigurdur Thordarson\nSigurdur Thordarson (Sigurður Ingi Þórðarson) was born in 1992 in Reykjavík. He is known for his involvement with the whistleblowing organization WikiLeaks, as well as his interactions with the Federal Bureau of Investigation (FBI). In 2010 he was arrested for stealing and leaking classified information about the bank structure in Iceland. He obtained the information from a lawyer that aided wealthy people in tax evasion, whose name was Gunnar Gunnarsson. Gunnar worked for an investment firm called Milestone ehf. Gunnar obtained Sigurdur's services to set up computer systems and delete data. After Sigurdur was arrested he was introduced to Julian Assange, the editor and founder of WikiLeaks. Sigurdur started his time there in early 2010, and participated in preparing many of WikiLeaks's biggest leaks. After a year in WikiLeaks service Sigurdur was suspected of embezzling funds from the WikiLeaks online store. WikiLeaks filed criminal charges against Sigurdur with the Metropolitan Police of Iceland, who investigated the case and later dropped it due to lack of evidence. Sigurdur later plead guilty to the embezzlement along with other economic crimes, in 2013. Sigurdur was ordered to pay the victims 15 million ISK (roughly $115,000)",
+          "semantic_score": 0.5128830671310425,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3841",
+          "text": "Katie Moussouris\nKatie Moussouris is an American computer security researcher and writer who is best known for her ongoing work advocating responsible security research. She created the bug bounty program at Microsoft. Formerly the Chief Policy Officer at HackerOne, a vulnerability disclosure company based in San Francisco, California, she is the founder and CEO of Luta Security . Moussouris was directly involved in creating the Department of Defense's first bug bounty program for hackers. In 2014, SC Magazine named Moussouris to its Women in IT Security list. She was also named as one of \"10 Women in Information Security That Everyone Should Know,\" and the \"One To Watch\" among the 2011 Women of Influence awards.",
+          "semantic_score": 0.4454967975616455,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "291",
+          "text": "HackThisSite\nHackThisSite.org, commonly referred to as HTS, is an online hacking and security website founded by Jeremy Hammond, with the site being maintained by a members of the community after his departure. It aims to provide users with a way to learn and practice basic and advanced \"hacking\" skills through a series of challenges in a safe and legal environment. The organization has a user base of over 1,800,000. The actual number of active members is believed to be much lower. The most users online at the same time was 1,995 on February 5, 2012 at 2:46:10 AM CST.",
+          "semantic_score": 0.4120903015136719,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "292",
+          "text": "Jeremy Hammond\nJeremy Hammond (born January 8, 1985) is a political hacktivist and computer hacker from Chicago. He was convicted and sentenced in November 2013 to 10 years in US Federal Prison for hacking the private intelligence firm Stratfor and releasing the leaks through the whistle-blowing website WikiLeaks. He founded the computer security training website HackThisSite in 2003.",
+          "semantic_score": 0.4066900610923767,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "285",
+          "text": "Friends of WikiLeaks\nFriends of WikiLeaks, sometimes reduced and stylized as FoWL, was a surveillance-resistant social network site created in support of WikiLeaks. Founded in May 2012, the site was intended for those who support WikiLeaks and its activities to perform advocacy. In contrast to more traditional forms of social networking, FoWL aimed at bringing together like-minded people who do not yet know each other. To achieve this goal, the site would ask about the language the user speaks as well as any preferences in the ways of hobbies or other activities. The site would then find six friends who share the user's views within your country, and another six from other parts of the world who speak your language. If one of those friends cancelled their account or became inactive, a new friend would be matched to the user's circle and would replace the previous inactive one.",
+          "semantic_score": 0.4046775996685028,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "287",
+          "text": "Growth hacking\nGrowth hacking is a process of rapid experimentation across marketing channels and product development to identify the most efficient ways to grow a business. Growth hacking refers to a set of both conventional and unconventional marketing experiments that lead to growth of a business. Growth hackers are marketers, engineers and product managers that specifically focus on building and engaging the user base of a business. Growth hackers often focus on low-cost alternatives to traditional marketing, e.g. using social media, viral marketing or targeted advertising instead of buying advertising through more traditional media such as radio, newspaper, and television.",
+          "semantic_score": 0.3150288164615631,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5923",
+          "text": "Social network (sociolinguistics)\nIn the field of sociolinguistics, social network describes the structure of a particular speech community. Social networks are composed of a \"web of ties\" (Lesley Milroy) between individuals, and the structure of a network will vary depending on the types of connections it is composed of. Social network theory (as used by sociolinguists) posits that social networks, and the interactions between members within the networks, are a driving force behind language change.",
+          "semantic_score": 0.13786955177783966,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "293",
+          "text": "Owen Walker\nOwen Thor Walker (online pseudonym AKILL) is a computer hacker living in New Zealand, who was discharged without conviction despite pleading guilty to several charges of 'cybercrime'. In 2008 he admitted to being the ringleader of an international hacking organization estimated to have caused $26 million worth of damage.",
+          "semantic_score": 0.28848710656166077,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Owen Walker"
+    },
+    {
+      "step": 3,
+      "sub_question": "What is that hacking organization’s user base size?",
+      "retrieved": [
+        {
+          "id": "291",
+          "text": "HackThisSite\nHackThisSite.org, commonly referred to as HTS, is an online hacking and security website founded by Jeremy Hammond, with the site being maintained by a members of the community after his departure. It aims to provide users with a way to learn and practice basic and advanced \"hacking\" skills through a series of challenges in a safe and legal environment. The organization has a user base of over 1,800,000. The actual number of active members is believed to be much lower. The most users online at the same time was 1,995 on February 5, 2012 at 2:46:10 AM CST.",
+          "semantic_score": 0.5779042840003967,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "287",
+          "text": "Growth hacking\nGrowth hacking is a process of rapid experimentation across marketing channels and product development to identify the most efficient ways to grow a business. Growth hacking refers to a set of both conventional and unconventional marketing experiments that lead to growth of a business. Growth hackers are marketers, engineers and product managers that specifically focus on building and engaging the user base of a business. Growth hackers often focus on low-cost alternatives to traditional marketing, e.g. using social media, viral marketing or targeted advertising instead of buying advertising through more traditional media such as radio, newspaper, and television.",
+          "semantic_score": 0.5279319882392883,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "293",
+          "text": "Owen Walker\nOwen Thor Walker (online pseudonym AKILL) is a computer hacker living in New Zealand, who was discharged without conviction despite pleading guilty to several charges of 'cybercrime'. In 2008 he admitted to being the ringleader of an international hacking organization estimated to have caused $26 million worth of damage.",
+          "semantic_score": 0.4946206510066986,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6411",
+          "text": "Hacker (card game)\nHacker is a card game (not a trading card game) made by Steve Jackson Games (SJG). Published in 1992, the players impersonate hackers fighting for the control of computer networks. It is based primarily on interlocking access to different computer systems in the web. Players are not set directly towards each other, and several players can share access to a system. It is superficially similar (modulo terminology) to the game \"Illuminati\". \"Hacker\" is currently out of print.",
+          "semantic_score": 0.42924708127975464,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "286",
+          "text": "Ashley Madison data breach\nIn July 2015, a group calling itself \"The Impact Team\" stole the user data of Ashley Madison, a commercial website billed as enabling extramarital affairs. The group copied personal information about the site's user base and threatened to release users' names and personally identifying information if Ashley Madison was not immediately shut down. On 18 and 20 August, the group leaked more than 25 gigabytes of company data, including user details.",
+          "semantic_score": 0.4008718430995941,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6407",
+          "text": "Frag (game)\nFrag is a first-person shooter-themed board game published by Steve Jackson Games in the summer of 2001. It was developed by Steve Jackson and Philip Reed, and illustrated by Alex Fernandez.",
+          "semantic_score": 0.15982651710510254,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "292",
+          "text": "Jeremy Hammond\nJeremy Hammond (born January 8, 1985) is a political hacktivist and computer hacker from Chicago. He was convicted and sentenced in November 2013 to 10 years in US Federal Prison for hacking the private intelligence firm Stratfor and releasing the leaks through the whistle-blowing website WikiLeaks. He founded the computer security training website HackThisSite in 2003.",
+          "semantic_score": 0.3726690709590912,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6409",
+          "text": "Car Wars The Card Game\nCar Wars: The Card Game is a card game version of Steve Jackson Games' Car Wars miniatures game. Players have a card in front of them to represent the car that they're using to battle other players. In turn, each player plays attack cards to try to do damage to the other players' cars, and the other players respond with armor and maneuver cards to avoid the damage. The object of the game is to make sure your car is the last one functional.",
+          "semantic_score": 0.10291233658790588,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8951",
+          "text": "Paranoia (role-playing game)\nParanoia is a dystopian science-fiction tabletop role-playing game originally designed and written by Greg Costikyan, Dan Gelber, and Eric Goldberg, and first published in 1984 by West End Games. Since 2004 the game has been published under license by Mongoose Publishing. The game won the Origins Award for Best Roleplaying Rules of 1984 and was inducted into the Origins Awards Hall of Fame in 2007. \"Paranoia\" is notable among tabletop games for being more competitive than co-operative, with players encouraged to betray one another for their own interests, as well as for keeping a light-hearted, tongue in cheek tone despite its dystopian setting.",
+          "semantic_score": 0.22185328602790833,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6413",
+          "text": "Munchkin (card game)\nMunchkin is a dedicated deck card game by Steve Jackson Games, written by Steve Jackson and illustrated by John Kovalic. It is a humorous take on role-playing games, based on the concept of munchkins (immature role-players, playing only to \"win\" by having the most powerful character possible).",
+          "semantic_score": 0.1098560020327568,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Over 1,800,000"
+    }
+  ],
+  "links": [
+    {
+      "source": "292",
+      "target": "291",
+      "reason": "Paragraph 292 identifies Jeremy Hammond as the WikiLeaks-associated whistleblower/hacker who founded HackThisSite, while paragraph 291 supplies the user-base figure of over 1,800,000 for that same organization."
+    },
+    {
+      "source": "292",
+      "target": "288",
+      "reason": "Paragraph 288 establishes the WikiLeaks whistleblowing context, and paragraph 292 connects a specific WikiLeaks-linked hacker (Jeremy Hammond) to the hacking organization, bridging the whistleblower and hacking-organization sub-questions."
+    }
+  ],
+  "questions_seen": 30,
+  "_id": "5adecc7755429975fa854f9d",
+  "correct_answer": "Jeremy Hammond",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "question": "The ghetto that George Kadish documented held how many people at its peak?",
+  "answer": "29,000",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What ghetto did George Kadish document?",
+      "retrieved": [
+        {
+          "id": "856",
+          "text": "George Kadish\nGeorge Kadish, born Zvi (Hirsh) Kadushin (died September 1997), was a Lithuanian Jewish photographer who documented life in the Kovno Ghetto during the Holocaust, the period of the Nazi German genocide against Jews.",
+          "semantic_score": 0.5875483155250549,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "859",
+          "text": "Kovno Ghetto\nThe Kovno ghetto was a ghetto established by Nazi Germany to hold the Lithuanian Jews of Kaunas during the Holocaust. At its peak, the Ghetto held 29,000 people, most of whom were later sent to concentration and extermination camps, or were shot at the Ninth Fort. About 500 Jews escaped from work details and directly from the Ghetto, and joined Soviet partisan forces in the distant forests of southeast Lithuania and Belarus.",
+          "semantic_score": 0.4026462733745575,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "863",
+          "text": "Częstochowa Ghetto\nThe Częstochowa Ghetto was a World War II ghetto set up by Nazi Germany for the purpose of persecution and exploitation of local Jews in the city of Częstochowa during the German occupation of Poland. The approximate number of people confined to the ghetto was around 40,000 at the beginning and in late 1942 at its peak – right before mass deportations – 48,000. Most ghetto inmates were delivered by the Holocaust trains to their deaths at the Treblinka extermination camp. In June 1943, the remaining ghetto inhabitants launched the Częstochowa Ghetto uprising, which was extinguished by the \"SS\" after a few days of fighting.",
+          "semantic_score": 0.3703506290912628,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4951",
+          "text": "Black Book (World War II)\nThe Black Book: The Ruthless Murder of Jews by German-Fascist Invaders Throughout the Temporarily-Occupied Regions of the Soviet Union and in the German Nazi Death Camps established on occupied Polish soil during the War 1941–1945 alternatively The Black Book of the Holocaust, or simply The Black Book (Russian: Чёрная Книга , \"Chornaya Kniga\"; Yiddish: דאָס שוואַרצע בוך‎ , \"Dos shvartse bukh\"), was a result of the collaborative effort by the Jewish Anti-Fascist Committee (JAC) and members of the American Jewish community to document the anti-Jewish crimes of the Holocaust and the participation of Jews in the fighting and the resistance movement against the Nazis during World War II.",
+          "semantic_score": 0.3426060080528259,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2874",
+          "text": "Hussein Ali Mahfouz\nHussein Ali Mahfouz (3 May 1926 - 19 January 2009) was an Iraqi scholar in the field of Semitic languages.",
+          "semantic_score": 0.32264816761016846,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4953",
+          "text": "Black Book (novel)\nBlack Book (Dutch: Zwartboek ) is a Dutch-language 2006 thriller novel by Laurens Abbink Spaink. It is the novelization of the Dutch film \"Black Book\" (2006). It tells the story of a young Jewish woman, Rachel Stein, and her struggle for survival during and after the Second World War. The book has a photo section, and an afterword by Paul Verhoeven and Gerard Soeteman.",
+          "semantic_score": 0.19239790737628937,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2875",
+          "text": "Hussein Ali (judoka)\nHussein Ali Hussein Al-Aameri (born November 24, 1990) is an Iraqi judoka. He competed at the 2016 Summer Olympics in the men's 81 kg event, in which he was eliminated by Paul Kibikai in the second round.",
+          "semantic_score": 0.1689952313899994,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Kovno Ghetto"
+    },
+    {
+      "step": 2,
+      "sub_question": "How many people were held in that ghetto at its peak?",
+      "retrieved": [
+        {
+          "id": "859",
+          "text": "Kovno Ghetto\nThe Kovno ghetto was a ghetto established by Nazi Germany to hold the Lithuanian Jews of Kaunas during the Holocaust. At its peak, the Ghetto held 29,000 people, most of whom were later sent to concentration and extermination camps, or were shot at the Ninth Fort. About 500 Jews escaped from work details and directly from the Ghetto, and joined Soviet partisan forces in the distant forests of southeast Lithuania and Belarus.",
+          "semantic_score": 0.7317340970039368,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "863",
+          "text": "Częstochowa Ghetto\nThe Częstochowa Ghetto was a World War II ghetto set up by Nazi Germany for the purpose of persecution and exploitation of local Jews in the city of Częstochowa during the German occupation of Poland. The approximate number of people confined to the ghetto was around 40,000 at the beginning and in late 1942 at its peak – right before mass deportations – 48,000. Most ghetto inmates were delivered by the Holocaust trains to their deaths at the Treblinka extermination camp. In June 1943, the remaining ghetto inhabitants launched the Częstochowa Ghetto uprising, which was extinguished by the \"SS\" after a few days of fighting.",
+          "semantic_score": 0.594700813293457,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "861",
+          "text": "Außenarbeitslager Gerdauen\nAußenarbeitslager Gerdauen was a subcamp of the Stutthof concentration camp in nowaday's Zheleznodorozhny, Kaliningrad Oblast. Most of the prisoners in the subcamps of the Stutthoff camp contained Jewish women from Hungary and from the Łódź Ghetto, and there were also some Jewish men from Lithuania. While a labor camp rather than a death camp, many people died - of 100 Jewish girls at the camp only three survived the war.",
+          "semantic_score": 0.3998691737651825,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "856",
+          "text": "George Kadish\nGeorge Kadish, born Zvi (Hirsh) Kadushin (died September 1997), was a Lithuanian Jewish photographer who documented life in the Kovno Ghetto during the Holocaust, the period of the Nazi German genocide against Jews.",
+          "semantic_score": 0.3460173010826111,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6694",
+          "text": "Old Bazaar, Gjakova\nThe Old Bazaar (Albanian: \"Pazari i vjetër\" ; Serbian: Стари базар / \"Stari bazar\" ) in Gjakova is the oldest bazaar in Kosovo (also known as \"Çarshia e Madhe\" (Grand Bazaar) or \"Dakovica\". Mëhalla e Hadumit, the historical neighborhood where it is located also houses the city's oldest mosque, the Hadum Mosque (\"), which dates from the 15th century.",
+          "semantic_score": 0.32411623001098633,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6702",
+          "text": "Bazaar of Pristina\nThe Bazaar of Pristina (Albanian: \"Çarshia e Prishtinës\" ; Serbian: Базар у Приштини / \"Bazar u Prištini\" ), Kosovo , was the core merchandising center of the Old Pristina since the 15th century, when it was built. It played a significant role in the physical, economic, and social development of Pristina. The Old Bazaar was destroyed during the 1950s and 1960s, following the modernization slogan of \"Destroy the old, build the new\". In its place, buildings of Kosovo Assembly, Municipality of Prishtina, PTT, and Brotherhood and Unity socialist square were built. Nowadays, instead of PTT building resides the Government of Kosovo building. Only few historical buildings, such as the Bazaar Mosque and ruins of the Bazaar Hammam have remained from the Bazaar complex. Since then, Pristina has lost part of its identity, and its cultural heritage has been scattered.",
+          "semantic_score": 0.30591386556625366,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6701",
+          "text": "Bazaar of Peć\nBazaar of Peć (Albanian: \"Çarshia e Pejës\" ; Serbian: Базар у Пећи / \"Bazar u Peći\" ) or Peć market is a market place in the center of the city of Peć, in Kosovo . It was established during Ottoman rule and is located near the Pećka Bistrica river, between parallel residence zones. The market historically housed blacksmiths and carpenters but also facilitated the agricultural market. The market place was completely destroyed at least twice, once during the Italian occupation in 1943, and once during the Kosovo War (1998–99). The market was fully rebuilt after the Kosovo War, according to the historical Ottoman architecture, and serves as the main market in the city of Peć, and is one of the many monuments which are under protection by the Republic of Kosovo. The main street of the market is known in Albanian as Çarshia e Gjatë (English: Long Bazaar ).",
+          "semantic_score": 0.31550872325897217,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6693",
+          "text": "Grand Bazaar, Isfahan\nThe Grand Bazaar (in Persian: Bazar Bozorg, بازار بزرگ) is a historical market located in Isfahan, Iran, also known as \"Qeysarriyeh Bazaar\" (in Persian: بازار قيصريه).",
+          "semantic_score": 0.25525376200675964,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "29,000"
+    }
+  ],
+  "links": [
+    {
+      "source": "856",
+      "target": "859",
+      "reason": "Paragraph 856 identifies the ghetto George Kadish documented as the Kovno Ghetto; paragraph 859 provides the peak population of the Kovno Ghetto (29,000), directly bridging the two sub-questions."
+    }
+  ],
+  "questions_seen": 87,
+  "_id": "5ae12aa6554299422ee99617",
+  "correct_answer": "29,000",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

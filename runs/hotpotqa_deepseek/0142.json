@@ -1,0 +1,151 @@
+{
+  "question": "Which American anthology horror series created and produced by Ryan Murphy and Brad Falchuk did  Denis O'Hare filmography performance in the first season of ",
+  "answer": "American Horror Story",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What American anthology horror series was created and produced by Ryan Murphy and Brad Falchuk?",
+      "retrieved": [
+        {
+          "id": "1411",
+          "text": "List of American Horror Story episodes\n\"American Horror Story\" (often abbreviated \"AHS\") is an American anthology horror television series created and produced by Ryan Murphy and Brad Falchuk which premiered on October 5, 2011 on FX. Described as an anthology series, each season is conceived as a mostly self-contained miniseries, following a disparate set of characters and settings, and a storyline with its own \"beginning, middle, and end.\"",
+          "semantic_score": 0.8011693358421326,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1418",
+          "text": "American Horror Story\nAmerican Horror Story is an American anthology horror series created and produced by Ryan Murphy and Brad Falchuk. Described as an anthology series, each season is conceived as a self-contained miniseries, following a different set of characters and settings, and a storyline with its own \"beginning, middle, and end.\" Some plot elements of each season are loosely inspired by true events. The only actors to appear in all iterations of the",
+          "semantic_score": 0.7877643704414368,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1414",
+          "text": "List of American Horror Story cast members\n\"American Horror Story\" is an American horror television series created and produced by Ryan Murphy and Brad Falchuk. Described as an anthology series, each season is conceived as a self-contained miniseries, following a disparate set of characters, settings, and a storyline with its own beginning, middle, and end. However, Murphy has stated that all of the seasons are and will be connected by the end of the series.",
+          "semantic_score": 0.7519217133522034,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1416",
+          "text": "American Crime Story\nAmerican Crime Story is an American true crime anthology television series developed by Scott Alexander and Larry Karaszewski, who are executive producers with Brad Falchuk, Nina Jacobson, Ryan Murphy, and Brad Simpson. It premiered on the cable network FX in the United States on February 2, 2016. Similar to \"American Horror Story\", also from Murphy and Falchuk, each season is presented as a self-contained miniseries, following separate unrelated true events.",
+          "semantic_score": 0.5862909555435181,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9367",
+          "text": "Horror Stories (magazine)\nHorror Stories was an American pulp magazine that published tales of the supernatural, horror, and macabre. The first issue was published in January 1935, three years after the weird menace genre had begun with \"Dime Mystery Magazine\". \"Horror Stories\" was a sister magazine to \"Terror Tales\", whose first issue came out a year earlier. The title went on to become one of the major pulp magazines of the 1930s.",
+          "semantic_score": 0.5380314588546753,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5239",
+          "text": "Terror Australis\nTerror Australis: the Australian Horror and Fantasy Magazine (1988-1992) was Australia's first mass market horror magazine. It succeeded the \"Australian Horror and Fantasy Magazine\" (1984–87) edited by Barry Radburn and Stephen Studach and was the first semi-professional magazine of its kind in Australia to pay authors. After working on the production crew of AH&FM, when Radburn eventually suspended publication, Leigh Blackmore took over the subscription base and with co-editors Chris G.C. Sequeira and Bryce J. Stevens founded \"Terror Australis\". Kevin Dillon, a longtime Australian sf fan who had belonged to the Australian Futurians had the role of 'Special Consultant' for financial support and proofreading work on the magazine.",
+          "semantic_score": 0.4055650532245636,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "American Horror Story"
+    },
+    {
+      "step": 2,
+      "sub_question": "Did Denis O'Hare appear in the first season of that series?",
+      "retrieved": [
+        {
+          "id": "1409",
+          "text": "Denis O'Hare filmography\nThe filmography of Denis O'Hare comprises both film and television roles. In a career spanning over three decades, he has appeared in overall thirty-four feature films, seven television movies and eighteen television series. For his performance in the first season of \"American Horror Story\", he was nominated for the Primetime Emmy Award for Outstanding Supporting Actor in a Miniseries or a Movie in 2012. As part of the ensemble cast in the films \"Milk\" and \"Dallas Buyers Club\", he was nominated for the Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture.",
+          "semantic_score": 0.7044655084609985,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1414",
+          "text": "List of American Horror Story cast members\n\"American Horror Story\" is an American horror television series created and produced by Ryan Murphy and Brad Falchuk. Described as an anthology series, each season is conceived as a self-contained miniseries, following a disparate set of characters, settings, and a storyline with its own beginning, middle, and end. However, Murphy has stated that all of the seasons are and will be connected by the end of the series.",
+          "semantic_score": 0.5099857449531555,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1411",
+          "text": "List of American Horror Story episodes\n\"American Horror Story\" (often abbreviated \"AHS\") is an American anthology horror television series created and produced by Ryan Murphy and Brad Falchuk which premiered on October 5, 2011 on FX. Described as an anthology series, each season is conceived as a mostly self-contained miniseries, following a disparate set of characters and settings, and a storyline with its own \"beginning, middle, and end.\"",
+          "semantic_score": 0.502540647983551,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1418",
+          "text": "American Horror Story\nAmerican Horror Story is an American anthology horror series created and produced by Ryan Murphy and Brad Falchuk. Described as an anthology series, each season is conceived as a self-contained miniseries, following a different set of characters and settings, and a storyline with its own \"beginning, middle, and end.\" Some plot elements of each season are loosely inspired by true events. The only actors to appear in all iterations of the",
+          "semantic_score": 0.4983339011669159,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1416",
+          "text": "American Crime Story\nAmerican Crime Story is an American true crime anthology television series developed by Scott Alexander and Larry Karaszewski, who are executive producers with Brad Falchuk, Nina Jacobson, Ryan Murphy, and Brad Simpson. It premiered on the cable network FX in the United States on February 2, 2016. Similar to \"American Horror Story\", also from Murphy and Falchuk, each season is presented as a self-contained miniseries, following separate unrelated true events.",
+          "semantic_score": 0.38642653822898865,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1413",
+          "text": "List of Scream Queens (2015 TV series) episodes\n\"Scream Queens\" is an American comedy horror television series created for Fox by Ryan Murphy, Brad Falchuk and Ian Brennan and produced by Murphy, Falchuk, Brennan and Alexis Martin Woodall. The series is produced by 20th Century Fox Television, Ryan Murphy Productions, Brad Falchuck Teley-vision and Prospect Films. The series premiered on September 22, 2015. The second season premiered on September 20, 2016.",
+          "semantic_score": 0.31829383969306946,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "links": [
+    {
+      "source": "1409",
+      "target": "1411",
+      "reason": "1409 states Denis O'Hare was nominated for his performance in the first season of 'American Horror Story'; 1411 identifies 'American Horror Story' as the Ryan Murphy/Brad Falchuk anthology horror series, bridging the series identity to O'Hare's first-season performance."
+    },
+    {
+      "source": "1409",
+      "target": "1418",
+      "reason": "1409 ties O'Hare's first-season performance to 'American Horror Story'; 1418 confirms that same title is the American anthology horror series created and produced by Ryan Murphy and Brad Falchuk."
+    }
+  ],
+  "questions_seen": 143,
+  "_id": "5ae1a7c8554299234fd042b0",
+  "correct_answer": "American Horror Story",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

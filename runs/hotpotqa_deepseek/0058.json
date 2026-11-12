@@ -1,0 +1,174 @@
+{
+  "question": "In what year was the composer of \"Anthem\" born?",
+  "answer": "1946",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who composed \"Anthem\"?",
+      "retrieved": [
+        {
+          "id": "580",
+          "text": "Ala Khallidi\n\"’Alā Khallidī\" (Arabic: ألا خلّدي‎ ‎ ) is the former national anthem of Tunisia. It was sung during the Presidency of Habib Bourguiba until his downfall in 1987. \"Humat al-Hima\" was temporarily used as a national anthem between the end of the monarchy on 25 July 1957 and the adoption of \"Ala Khallidi\" as the official national anthem. In 1958, the Ministry of Education organized a competition, in which 53 poets and 23 musicians took part. The results were examined first by a commission of the Board of Education, which selected the submissions of the hymn poet Jalaleddine Naccache (1910–1989) and the composer and director of the Conservatoire of Tunis Salah El Mahdi (1925-2014). The works were presented to the president without announcing the selection that already been made. He selected the same version as the commission had. In order to be completely sure, another larger popular assembly was held in Monastir, the birth city of the president, and all 23 melodies were played. But then, the song by Naccache and El Mahdi won and was formally adopted during Independence Day, 20 March that same year.",
+          "semantic_score": 0.5865621566772461,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "577",
+          "text": "Francisco José Debali\nFrancisco José Debali (26 July 1791 – 13 January 1859), born Debály Ferenc József, was a Hungarian-born composer who emigrated to Uruguay in 1838. He authored the national anthem of Uruguay and, possibly, the tune to \"Paraguayos, República o Muerte\", which became the Paraguayan anthem. (See National Anthem of Uruguay#Music.)",
+          "semantic_score": 0.5824123620986938,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "582",
+          "text": "Helmut Christoferus Calabrese\nHelmut Christoferus Calabrese (born 1957) is a German-born composer who immigrated to the U.S. in 1962. He trained at the Philadelphia College of Performing Arts and at New York University and is one of the founders of the music publishers Calabrese Brothers Music, LLC. His song, \"The Most Beautiful Lady in the World: Statue of Liberty Anthem\", was the subject of two bills in the New Jersey Legislature and the The United States House of Representatives calling on the United States Congress to designate it as the official anthem of the Statue of Liberty. It was described by the \"Philadelphia Inquirer\" as, \"The music sounds like a love ballad, but the lyrics are a flag waving salute to America\", and was performed at Liberty State Park in July 1986 as part of the Statue of Liberty centennial celebration.",
+          "semantic_score": 0.5656615495681763,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1696",
+          "text": "Anthem (Chess song)\n\"Anthem\" is a song from the concept album and subsequent musical \"Chess\" by Tim Rice, Benny Andersson and Björn Ulvaeus. The song describes the feelings of Soviet Russian challenger, Anatoly Sergievsky, when he defects. The song was originally sung by Tommy Körberg on the original concept album and as Anatoly in the original West End cast. It was later covered by various artists including Josh Groban on his album \"Stages\" and Kerry Ellis.",
+          "semantic_score": 0.5648141503334045,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9739",
+          "text": "National anthem of Paraguay\nParaguayos, República o Muerte is the national anthem of Paraguay. The lyrics were written by Francisco Acuña de Figueroa (who also wrote Orientales, la Patria o la tumba, the national anthem of Uruguay) under the presidency of Carlos Antonio López, who at the time delegated Bernardo Jovellanos and Anastasio González to ask Figueroa to write the anthem (Jovellanos and González were commissioners of the Paraguayan government in Uruguay). The anthem was officially finished by Figueroa on May 20, 1846.",
+          "semantic_score": 0.5519781708717346,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1690",
+          "text": "Chess (musical)\nChess is a musical with music by Benny Andersson and Björn Ulvaeus of the pop group ABBA, and with lyrics by Tim Rice. The story involves a politically driven, Cold War-era chess tournament between two men—an American grandmaster and a Soviet grandmaster—and their fight over a woman who manages one and falls in love with the other. Although the protagonists were not intended to represent any real individuals, the character of the American grandmaster (named Freddie Trumper in the stage version) was loosely based on Bobby Fischer, while elements of the story may have been inspired by the chess careers of Russian grandmasters Viktor Korchnoi and Anatoly Karpov.",
+          "semantic_score": 0.2543955445289612,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "581",
+          "text": "Mohammed Flayfel\nMohammed Flayfel (Arabic: محمد فليفل) was a Lebanese composer and musician. Born in 1899 in the Ashrafiyeh neighborhood of Beirut, some of his notable compositions include \"Mawtini\" (the national anthem of Iraq), \"Homat el Diyar\" (the national anthem of Syria), the national anthem of the Palestinian National Authority and several other patriotic anthems, occasionally in collaboration with his brother, Ahmad Salim Flayfel. Mohammed Flayfel is also credited for discovering the talents of a young Fairuz when she participated in radio talent show and advising her to enroll in the Lebanese Conservatory. He died in 1986.",
+          "semantic_score": 0.5150138735771179,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9740",
+          "text": "Francisco Acuña de Figueroa\nFrancisco Esteban Acuña de Figueroa (September 3, 1791 – October 6, 1862) was an Uruguayan poet and writer. He was born in Montevideo, on September 3, 1791 and died on October 6, 1862. He was the son of the Treasurer of the Royal Treasury, Jacinto Acuña de Figueroa.",
+          "semantic_score": 0.2284725159406662,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Benny Andersson and Björn Ulvaeus"
+    },
+    {
+      "step": 2,
+      "sub_question": "In what year was that composer born?",
+      "retrieved": [
+        {
+          "id": "1925",
+          "text": "Karl-Birger Blomdahl\nKarl-Birger Blomdahl (19 October 1916 – 14 June 1968) was a Swedish composer and conductor born in Växjö. He was educated in biochemistry, but was primarily active in music and by his experimental compositions he became one of the big names in Swedish modernism. His teachers included Hilding Rosenberg. He died in Kungsängen, Stockholm.",
+          "semantic_score": 0.5436788201332092,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3004",
+          "text": "Jenny Bae\nJenny Bae (; born 1980) is a South Korean crossover violinist. She has been performing internationally for over a decade. She has guest-performed for musicians such as Luciano Pavarotti, Eric Clapton, Lionel Richie, Andrea Bocelli, Plácido Domingo and Zucchero.",
+          "semantic_score": 0.4683603048324585,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7454",
+          "text": "Nikolai Sidelnikov\nNikolai Nikolayevich Sidelnikov (Russian: Никола́й Никола́евич Сиде́льников ; June 5, 1930, Tver – June 20, 1992) was a Russian Soviet composer.",
+          "semantic_score": 0.4601580500602722,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "451",
+          "text": "Alfio\nAlfio (born Alfio Bonanno, 24 October 1976) is an Australian-Italian tenor, songwriter, musician, and composer. He began singing at a very early age and started singing professionally at the age of 17, concentrating on recorded music and concerts so far. Alfio has performed in Australia, the United States, Europe, and Asia.",
+          "semantic_score": 0.4490222632884979,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1693",
+          "text": "Gemini (Gemini album)\nGemini is an album by Gemini released in 1985. The album features songwriting contributions from artists such as Benny Andersson and Björn Ulvaeus, formerly of ABBA, and Anders Glenmark and Ingela Forsman. Two songs were of particular interest: \"Slowly\", a song written by Benny Andersson and Björn Ulvaeus, was previously recorded by ABBA's Anni-Frid \"Frida\" Lyngstad and the unreleased ABBA song \"Just Like That\" was re-written and included on this LP. Benny Andersson and Björn Ulvaeus contend that the inclusion of this new version of \"Just Like That\" means that the ABBA version cannot be released, saying that there can't be two official versions of a song with the same title that are so similar and yet so different.",
+          "semantic_score": 0.4488455355167389,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1694",
+          "text": "Just Like That (Gemini song)\n\"Just Like That\" is a 1982 song by Benny Andersson and Björn Ulvaeus, which is an unreleased song recorded by ABBA. The song was recorded by Swedish brother and sister duo, Karin Glenmark and Anders Glenmark as Gemini on Polydor, for the album \"Gemini\" (1986) produced by Benny Andersson and Björn Ulvaeus with Anders Glenmark, and released as a 1986 single.",
+          "semantic_score": 0.3086450695991516,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7450",
+          "text": "Nikolai Lugansky\nNikolai Lugansky (Russian: Никола́й Льво́вич Луга́нский ; born 26 April 1972) is a Russian pianist from Moscow. At the age of five, before he had learned to read music, he played a Beethoven piano sonata learned completely by ear. He studied piano at the Moscow Central Music School and the Moscow Conservatory. His teachers included Tatiana Kestner, Tatiana Nikolayeva and Sergei Dorensky.",
+          "semantic_score": 0.32940539717674255,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4082",
+          "text": "Alexander Serov\nAlexander Nikolayevich Serov (Russian: Алекса́ндр Никола́евич Серо́в , Saint Petersburg, 23 January [O.S. 11 January] 1820 – Saint Petersburg, 1 February [O.S. 20 January] 1871 ) was a Russian composer and music critic. He is notable as one of the most important music critics in Russia during the 1850s and 1860s and as the most significant Russian composer in the period between Dargomyzhsky's \"Rusalka\" and the works of Rimsky-Korsakov, Mussorgsky, and Tchaikovsky.",
+          "semantic_score": 0.3052211105823517,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1946"
+    }
+  ],
+  "links": [
+    {
+      "source": "1696",
+      "target": "1690",
+      "reason": "Paragraph 1696 identifies 'Anthem' as a song from the musical Chess and names its composers (Tim Rice, Benny Andersson, Björn Ulvaeus); paragraph 1690 confirms Chess is by Benny Andersson and Björn Ulvaeus, bridging the song to the composers whose birth years are sought."
+    }
+  ],
+  "questions_seen": 59,
+  "_id": "5adc46665542994650320cc8",
+  "correct_answer": "1943",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

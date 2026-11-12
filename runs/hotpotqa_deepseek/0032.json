@@ -1,0 +1,224 @@
+{
+  "question": "What subsidiary of the largest airline of the Republic of China (Taiwan) has a main hub at Taichung Airport?",
+  "answer": "Mandarin Airlines",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is the largest airline of the Republic of China (Taiwan)?",
+      "retrieved": [
+        {
+          "id": "319",
+          "text": "China Airlines\nChina Airlines (CAL) () () is the flag carrier and largest airline of the Republic of China (Taiwan). It is headquartered in Taoyuan International Airport and has 12,607 regular employees. China Airlines operates over 1,400 flights weekly to 118 airports in 115 cities (including codeshare) across Asia, Europe, North America and Oceania. The cargo division operates 91 pure freighter flights weekly. The carrier was, in 2013, the 29th and 10th largest airline in the world in terms of passenger revenue per kilometer (RPK) and freight RPK, respectively. China Airlines has three airline subsidiaries: Mandarin Airlines operates flights to domestic and low-demand regional destinations; China Airlines Cargo, a member of Skyteam Cargo, operates a fleet of freighter aircraft and manages its parent airline's cargo-hold capacity; Tigerair Taiwan is a low-cost carrier established by China Airlines and Singaporean airline group Tigerair Holdings and is wholly owned by China Airlines Group.",
+          "semantic_score": 0.7528677582740784,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "321",
+          "text": "Mandarin Airlines\nMandarin Airlines () is an airline based in Taipei, Taiwan, whose parent company is China Airlines. The Taiwanese carrier operates domestic and regional international flights, while its parent company focuses on international operations. Charter services are also operated by the company. Its other main hub is the Taichung Airport.",
+          "semantic_score": 0.7177205681800842,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7351",
+          "text": "Kunming Changshui International Airport\nKunming Changshui International Airport (IATA: KMG, ICAO: ZPPP) is the primary airport serving Kunming, the capital of Yunnan Province, China. The airport is located 24.5 km northeast of the city center in a graded mountainous area about 2100 m above sea level. The airport opened at 08:00 (UTC+8) on June 28, 2012, replacing the old Kunming Wujiaba International Airport, which will be demolished. As a gateway to Southeast and South Asia, Changshui Airport is a hub for China Eastern Airlines, Kunming Airlines, Lucky Air, Sichuan Airlines and Ruili Airlines.",
+          "semantic_score": 0.52569180727005,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "322",
+          "text": "AirAsia\nAirAsia Berhad () is a Malaysian low-cost airline headquartered near Kuala Lumpur, Malaysia. It is the largest airline in Malaysia by fleet size and destinations. AirAsia Group operates scheduled domestic and international flights to more than 165 destinations spanning 25 countries. Its main hub is klia2, the low-cost carrier terminal at Kuala Lumpur International Airport (KLIA) in Sepang, Selangor, Malaysia. Its affiliate airlines Thai AirAsia, Indonesia AirAsia, Philippines AirAsia, and AirAsia India have hubs in Don Mueang International Airport, Soekarno–Hatta International Airport, Ninoy Aquino International Airport, and Kempegowda International Airport respectively, while its sister airline, AirAsia X, focuses on long-haul routes. AirAsia's registered office is in Petaling Jaya, Selangor while its head office is at Kuala Lumpur International Airport.",
+          "semantic_score": 0.5244319438934326,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "318",
+          "text": "Taichung International Airport\nTaichung International Airport () (IATA: RMQ, ICAO: RCMQ) , previously known as Ching Chuan Kang Airport (), is an international airport located in Taichung City, Taiwan (ROC) for both commercial and military purposes. It is also the third international airport in Taiwan, with scheduled services to Mainland China, Japan, South Korea and Vietnam.",
+          "semantic_score": 0.5160041451454163,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7521",
+          "text": "Mandarin Oriental, New York\nMandarin Oriental, New York, is a five-star hotel located in Manhattan's Time Warner Center at Columbus Circle in New York City, managed by Mandarin Oriental Hotel Group. A part of the multi-use Time Warner Center development, the hotel opened its doors in December 2003. In addition to the 248 guestrooms and suites, the hotel provides services for 64 residences. The hotel has received many national and international awards, and operates one of only two Forbes Five-Star spas in Manhattan.",
+          "semantic_score": 0.4149738550186157,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "China Airlines"
+    },
+    {
+      "step": 2,
+      "sub_question": "What are the subsidiaries of that airline?",
+      "retrieved": [
+        {
+          "id": "321",
+          "text": "Mandarin Airlines\nMandarin Airlines () is an airline based in Taipei, Taiwan, whose parent company is China Airlines. The Taiwanese carrier operates domestic and regional international flights, while its parent company focuses on international operations. Charter services are also operated by the company. Its other main hub is the Taichung Airport.",
+          "semantic_score": 0.7289758920669556,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "319",
+          "text": "China Airlines\nChina Airlines (CAL) () () is the flag carrier and largest airline of the Republic of China (Taiwan). It is headquartered in Taoyuan International Airport and has 12,607 regular employees. China Airlines operates over 1,400 flights weekly to 118 airports in 115 cities (including codeshare) across Asia, Europe, North America and Oceania. The cargo division operates 91 pure freighter flights weekly. The carrier was, in 2013, the 29th and 10th largest airline in the world in terms of passenger revenue per kilometer (RPK) and freight RPK, respectively. China Airlines has three airline subsidiaries: Mandarin Airlines operates flights to domestic and low-demand regional destinations; China Airlines Cargo, a member of Skyteam Cargo, operates a fleet of freighter aircraft and manages its parent airline's cargo-hold capacity; Tigerair Taiwan is a low-cost carrier established by China Airlines and Singaporean airline group Tigerair Holdings and is wholly owned by China Airlines Group.",
+          "semantic_score": 0.7267442941665649,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3893",
+          "text": "China's Wings\nChina's Wings: War, Intrigue, Romance and Adventure in the Middle Kingdom during the Golden Age of Flight is a 2012 book by Gregory Crouch, published by Bantam Books. The book discusses the history of the China National Aviation Corporation (CNAC) and is focused on William Langhorne Bond as the central character. Harry Eagar of the \"Maui News\" stated that \"is largely a biography of Bond.\" The book also describes Moon Fun Chin, a Chinese-American who rose from peasant roots, to become a lead CNAC pilot and finally to owning his own airline. Among other events, the book discusses the establishment of the first airline in China, the Second Sino-Japanese War, \"The Hump\" airlift, and the 1938 Kweilin incident. The book ends after the 1949 Communist takeover.",
+          "semantic_score": 0.545133113861084,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3793",
+          "text": "China Water Affairs Group\nChina Water Affairs Group Limited () () is water supply company headquartered in Hong Kong. It offers raw water supply, tap water supply, sewage treatment, hydroelectric power supply, water piping construction and water meters installation services in China.",
+          "semantic_score": 0.48367246985435486,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1571",
+          "text": "Chongqing Dangdai Lifan F.C.\nChongqing Dangdai Lifan () is a professional Chinese football club that currently participates in the Chinese Super League under licence from the Chinese Football Association (CFA). The team is based in Chongqing and their home stadium is the Chongqing Olympic Sports Center that has a seating capacity of 58,680. They are owned by Dangdai International Group.",
+          "semantic_score": 0.47781649231910706,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7351",
+          "text": "Kunming Changshui International Airport\nKunming Changshui International Airport (IATA: KMG, ICAO: ZPPP) is the primary airport serving Kunming, the capital of Yunnan Province, China. The airport is located 24.5 km northeast of the city center in a graded mountainous area about 2100 m above sea level. The airport opened at 08:00 (UTC+8) on June 28, 2012, replacing the old Kunming Wujiaba International Airport, which will be demolished. As a gateway to Southeast and South Asia, Changshui Airport is a hub for China Eastern Airlines, Kunming Airlines, Lucky Air, Sichuan Airlines and Ruili Airlines.",
+          "semantic_score": 0.4679998755455017,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7521",
+          "text": "Mandarin Oriental, New York\nMandarin Oriental, New York, is a five-star hotel located in Manhattan's Time Warner Center at Columbus Circle in New York City, managed by Mandarin Oriental Hotel Group. A part of the multi-use Time Warner Center development, the hotel opened its doors in December 2003. In addition to the 248 guestrooms and suites, the hotel provides services for 64 residences. The hotel has received many national and international awards, and operates one of only two Forbes Five-Star spas in Manhattan.",
+          "semantic_score": 0.4001598656177521,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8837",
+          "text": "China Arena Football League\nThe China Arena Football League (CAFL) is a professional arena football league that plays its games in China. It features players from the Arena Football League (AFL) and other indoor football leagues' rosters while also using players from China or who are of Chinese descent, The six team, eight-on-eight football league consists of four Chinese players and four \"foreign\" players on the field at a time. The league began play in the fall of 2016. It is the first professional American football league to play in China. The CAFL is not directly affiliated with the AFL and is instead owned by AFL Global, LLC, a company that was created by Martin E. Judge, Jr.",
+          "semantic_score": 0.4024301767349243,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Mandarin Airlines, China Airlines Cargo, and Tigerair Taiwan"
+    },
+    {
+      "step": 3,
+      "sub_question": "Which of those subsidiaries has a main hub at Taichung Airport?",
+      "retrieved": [
+        {
+          "id": "321",
+          "text": "Mandarin Airlines\nMandarin Airlines () is an airline based in Taipei, Taiwan, whose parent company is China Airlines. The Taiwanese carrier operates domestic and regional international flights, while its parent company focuses on international operations. Charter services are also operated by the company. Its other main hub is the Taichung Airport.",
+          "semantic_score": 0.7804204225540161,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "319",
+          "text": "China Airlines\nChina Airlines (CAL) () () is the flag carrier and largest airline of the Republic of China (Taiwan). It is headquartered in Taoyuan International Airport and has 12,607 regular employees. China Airlines operates over 1,400 flights weekly to 118 airports in 115 cities (including codeshare) across Asia, Europe, North America and Oceania. The cargo division operates 91 pure freighter flights weekly. The carrier was, in 2013, the 29th and 10th largest airline in the world in terms of passenger revenue per kilometer (RPK) and freight RPK, respectively. China Airlines has three airline subsidiaries: Mandarin Airlines operates flights to domestic and low-demand regional destinations; China Airlines Cargo, a member of Skyteam Cargo, operates a fleet of freighter aircraft and manages its parent airline's cargo-hold capacity; Tigerair Taiwan is a low-cost carrier established by China Airlines and Singaporean airline group Tigerair Holdings and is wholly owned by China Airlines Group.",
+          "semantic_score": 0.7564284801483154,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "318",
+          "text": "Taichung International Airport\nTaichung International Airport () (IATA: RMQ, ICAO: RCMQ) , previously known as Ching Chuan Kang Airport (), is an international airport located in Taichung City, Taiwan (ROC) for both commercial and military purposes. It is also the third international airport in Taiwan, with scheduled services to Mainland China, Japan, South Korea and Vietnam.",
+          "semantic_score": 0.6822879314422607,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7351",
+          "text": "Kunming Changshui International Airport\nKunming Changshui International Airport (IATA: KMG, ICAO: ZPPP) is the primary airport serving Kunming, the capital of Yunnan Province, China. The airport is located 24.5 km northeast of the city center in a graded mountainous area about 2100 m above sea level. The airport opened at 08:00 (UTC+8) on June 28, 2012, replacing the old Kunming Wujiaba International Airport, which will be demolished. As a gateway to Southeast and South Asia, Changshui Airport is a hub for China Eastern Airlines, Kunming Airlines, Lucky Air, Sichuan Airlines and Ruili Airlines.",
+          "semantic_score": 0.6448484659194946,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "320",
+          "text": "Blue Line (Taichung Metro)\nThe Taichung BRT Blue Line (Chinese: 臺中快捷巴士) was a Bus Rapid Transit (BRT) system located in Taichung which stretched from Taichung Station to Providence University on the main road, Taiwan Boulevard. The line was 17.1 km in length with 21 stations. It was the first BRT line in Taiwan. The line was converted to dedicated bus lane for conventional buses on July 8, 2015 and the BRT is no longer in operation.",
+          "semantic_score": 0.5425955653190613,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7521",
+          "text": "Mandarin Oriental, New York\nMandarin Oriental, New York, is a five-star hotel located in Manhattan's Time Warner Center at Columbus Circle in New York City, managed by Mandarin Oriental Hotel Group. A part of the multi-use Time Warner Center development, the hotel opened its doors in December 2003. In addition to the 248 guestrooms and suites, the hotel provides services for 64 residences. The hotel has received many national and international awards, and operates one of only two Forbes Five-Star spas in Manhattan.",
+          "semantic_score": 0.43140068650245667,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Mandarin Airlines"
+    }
+  ],
+  "links": [
+    {
+      "source": "319",
+      "target": "321",
+      "reason": "Paragraph 319 identifies China Airlines as the largest airline of Taiwan and lists Mandarin Airlines as one of its subsidiaries; paragraph 321 confirms Mandarin Airlines' parent company is China Airlines and states its main hub is Taichung Airport, bridging the subsidiary to the hub."
+    },
+    {
+      "source": "321",
+      "target": "318",
+      "reason": "Paragraph 321 says Mandarin Airlines has a main hub at Taichung Airport; paragraph 318 identifies Taichung International Airport in Taichung City, Taiwan, confirming the airport location referenced in the answer."
+    }
+  ],
+  "questions_seen": 33,
+  "_id": "5a7558425542992db9473647",
+  "correct_answer": "Mandarin Airlines",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

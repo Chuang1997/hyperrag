@@ -1,0 +1,275 @@
+{
+  "question": "The View from the Bottom is the fifth studio album by an American rock band best known for what hit song?",
+  "answer": "My Own Worst Enemy",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is the fifth studio album by the American rock band referred to as *The View from the Bottom*?",
+      "retrieved": [
+        {
+          "id": "225",
+          "text": "The View from the Bottom\nThe View from the Bottom is the fifth studio album by the American rock band Lit, released on June 19, 2012 through Megaforce Records. It is the band's first new album in eight years, since the release of their self-titled album in 2004. It also marks the first album with Nathan Walker on drums, succeeding the late Allen Shellenberger, who died in 2009, and rhythm guitarist Ryan Gillmor, making it the only time the band has recorded as a five-piece.",
+          "semantic_score": 0.7233867645263672,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1164",
+          "text": "List of R5 concert tours\nAmerican pop rock band R5 has embarked on five concert tours, two of which have been worldwide, and two promotional tours. In March 2010, they self-released an EP, \"Ready Set Rock\", and in September released their debut studio album with Hollywood Records. The second EP, \"Loud\", was released on February 19, 2013, which featured the lead single and title track \"Loud\", the debut single from upcoming album. The band's first full-length album, \"Louder\", was released on September 24, 2013 and the album not only includes the four songs from \"Loud\" and also seven new songs. The second single from the album, \"Pass Me By\", premiered on Radio Disney on August 16. The music video premiered on 29 August on Disney Channel and is available for public viewing on the band's Vevo channel. The third single, \"(I Can't) Forget About You\", was released on December 25, 2013 and reached number 47 on \"Billboard\" Digital Pop Songs, and the fourth single \"One Last Dance\" on May 29, 2014.",
+          "semantic_score": 0.4608019292354584,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4495",
+          "text": "Midnight to Midnight\nMidnight to Midnight is the fifth studio album by the English rock band The Psychedelic Furs. It was originally released in early 1987, on the label Columbia. Richard Butler later claimed that the success of \"Pretty in Pink\" caused the band to be pressured into entering the recording studio to record a follow-up release before they were ready. The result was \"Midnight to Midnight\", their greatest commercial success, yet an album Richard Butler later characterized as \"hollow, vapid and weak\". A more overtly commercial effort than the Furs had ever recorded before, the album also featured the single \"Heartbreak Beat\", which proved to be the Furs' biggest Top 40 entry in the US at that time. The album also featured drummer Paul Garisto and saxophonist Mars Williams, both of whom continue to tour with the band.",
+          "semantic_score": 0.44973161816596985,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3",
+          "text": "The Awakening (P.O.D. album)\nDoug Van Pelt, giving the album four stars for \"HM Magazine\", writes, \"When looking back at P.O.D.’s amazing career, there’s probably going to be some landmark albums that stand out in most fan’s minds... This one is not far behind.\" Awarding the album four out of five stars from \"CCM Magazine\", Matt Conner states, they will \"remain at the top\", with Howard Benson's production, where it has the theme of a \"central character coming to terms with his own mistakes...[giving the album] meaningful depth.\" Mary Nikkel, rating the album four and a half stars at New Release Today, says, \"\"The Awakening\" easily one of the strongest rock releases of the year, a must-have for longtime fans and newcomers thirsty for some heavy music with substance.\" Indicating in a ten out of ten review at Cross Rhythms, replies, \"An album likely to be eventually acknowledged as P.O.D.'s finest ever release.\" Chad Bowar, rating the album three stars from About.com, says, \"P.O.D. fans will be intrigued by the wide variety of styles and the memorable songs on \"The Awakening\".\"",
+          "semantic_score": 0.4433969259262085,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "624",
+          "text": "The 4onthefloor\nThe 4onthefloor is an American rock and roll band from Minneapolis, MN, formed in 2009. The group is known for each member playing a bass drum and for writing all their songs in 4/4 time, evoking their namesake. Their music has been featured in such television shows as ABC’s Nashville and A&E’s Duck Dynasty, including a feature as the main theme on the Season 1 DVD. The group has produced five original albums and has been featured on a number of compilation albums, including American Buffalo. The 4onthefloor’s debut record, 4×4, has been called “one of the best rock and roll records of 2011,” by Indie Media Magazine. Their live show is known for keeping “packed crowd[s] intensely involved for an entire show”, with “call-and-response choruses” and “meaty guitar riffs.” Their sound has been reviewed as “heavy-stomping blues-rock.”",
+          "semantic_score": 0.43461132049560547,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5566",
+          "text": "Midnight Oil (album)\nMidnight Oil is the debut album by Australian hard rock band Midnight Oil which was recorded in 1977 and released in November 1978 on the band's independent Powderworks label. It reached the top 50 on the Australian Kent Music Report Albums Chart. The album was later distributed by CBS Records and issued as a CD. The LP has a blue cover, however, the CD has a black cover. Because of the blue cover, the former version is often referred to, by fans, as the \"blue album\" or \"the Blue Meanie\". The lead single, \"Run By Night\", became the band's first minor hit in Australia and appeared on the Kent Music Report Singles Chart Top 100. It also had a video clip.",
+          "semantic_score": 0.37164828181266785,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3370",
+          "text": "Midnight Madness and Beyond\nMidnight Madness and Beyond is the third album by UK82 Hardcore punk band GBH from Birmingham UK. It was released in August 1986 on the Rough Justice label (the band's first release for their new label, following the departure from Clay Records) with catalogue number Just 2. Recorded once again at Strawberry Studios in Stockport UK. It was later Re-released with additional tracks (the \"Oh No It's GBH Again\" EP)in 2002 by leading Punk reissue label Captain Oi! (Ahoy CD 193)",
+          "semantic_score": 0.36957836151123047,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "224",
+          "text": "Lit (band)\nLit is an American rock band, formed in 1995 in Fullerton, California. They are best known for their hit song \"My Own Worst Enemy\".",
+          "semantic_score": 0.3319043517112732,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5572",
+          "text": "Species Deceases\nSpecies Deceases is an extended play by Australian rock music group, Midnight Oil, which was released on 26 November 1985 under the CBS record label. \"Species Deceases\" debuted at No. 1 on the Australian Kent Music Report Singles Chart for six weeks from December 1985 to January 1986. It was the first Australian single and/or EP to reach the number-one spot on its chart appearance and remains Midnight Oil's only No. 1 on the national singles chart.",
+          "semantic_score": 0.32861971855163574,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3377",
+          "text": "Midnight Madness (album)\nMidnight Madness is the second studio album from rock band Night Ranger released in 1983. Their second album produced three charting singles and contains the band's best known hit, \"Sister Christian.\" It remains their highest selling album at over a million copies sold in the US. The first single/video, \"(You Can Still) Rock in America\" peaked at #51 in early 1984 on Billboard's Hot 100 chart and also reached #15 on Billboard's Mainstream Rock Tracks chart. \"Sister Christian\" peaked at #5 on Billboard's Hot 100 and was one of the most played videos of 1984. The song also has been featured in several films including \"Boogie Nights\" and \"Rock of Ages\" among others. \"When You Close Your Eyes\" was the third single/video and reached #14 on Billboard's Hot 100 chart and #7 on Billboard's Mainstream Rock Tracks Chart. The 1984 CD release contains a slightly different recording of the track. \"Rumours In The Air\" also charted on the Billboard Mainstream Rock chart peaking at #26 in the spring of 1984.",
+          "semantic_score": 0.36969810724258423,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The View from the Bottom"
+    },
+    {
+      "step": 2,
+      "sub_question": "Which American rock band released *The View from the Bottom* as their fifth studio album?",
+      "retrieved": [
+        {
+          "id": "225",
+          "text": "The View from the Bottom\nThe View from the Bottom is the fifth studio album by the American rock band Lit, released on June 19, 2012 through Megaforce Records. It is the band's first new album in eight years, since the release of their self-titled album in 2004. It also marks the first album with Nathan Walker on drums, succeeding the late Allen Shellenberger, who died in 2009, and rhythm guitarist Ryan Gillmor, making it the only time the band has recorded as a five-piece.",
+          "semantic_score": 0.7582663297653198,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4495",
+          "text": "Midnight to Midnight\nMidnight to Midnight is the fifth studio album by the English rock band The Psychedelic Furs. It was originally released in early 1987, on the label Columbia. Richard Butler later claimed that the success of \"Pretty in Pink\" caused the band to be pressured into entering the recording studio to record a follow-up release before they were ready. The result was \"Midnight to Midnight\", their greatest commercial success, yet an album Richard Butler later characterized as \"hollow, vapid and weak\". A more overtly commercial effort than the Furs had ever recorded before, the album also featured the single \"Heartbreak Beat\", which proved to be the Furs' biggest Top 40 entry in the US at that time. The album also featured drummer Paul Garisto and saxophonist Mars Williams, both of whom continue to tour with the band.",
+          "semantic_score": 0.4500843584537506,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5818",
+          "text": "The Darkness (band)\nThe Darkness are an English rock band from Lowestoft, Suffolk, formed in 2000. The band consists of Justin Hawkins (lead vocals, guitar), his brother Dan Hawkins (guitar, backing vocals), Frankie Poullain (bass, backing vocals) and Rufus Tiger Taylor (drums).",
+          "semantic_score": 0.4459003508090973,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3",
+          "text": "The Awakening (P.O.D. album)\nDoug Van Pelt, giving the album four stars for \"HM Magazine\", writes, \"When looking back at P.O.D.’s amazing career, there’s probably going to be some landmark albums that stand out in most fan’s minds... This one is not far behind.\" Awarding the album four out of five stars from \"CCM Magazine\", Matt Conner states, they will \"remain at the top\", with Howard Benson's production, where it has the theme of a \"central character coming to terms with his own mistakes...[giving the album] meaningful depth.\" Mary Nikkel, rating the album four and a half stars at New Release Today, says, \"\"The Awakening\" easily one of the strongest rock releases of the year, a must-have for longtime fans and newcomers thirsty for some heavy music with substance.\" Indicating in a ten out of ten review at Cross Rhythms, replies, \"An album likely to be eventually acknowledged as P.O.D.'s finest ever release.\" Chad Bowar, rating the album three stars from About.com, says, \"P.O.D. fans will be intrigued by the wide variety of styles and the memorable songs on \"The Awakening\".\"",
+          "semantic_score": 0.44132891297340393,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1164",
+          "text": "List of R5 concert tours\nAmerican pop rock band R5 has embarked on five concert tours, two of which have been worldwide, and two promotional tours. In March 2010, they self-released an EP, \"Ready Set Rock\", and in September released their debut studio album with Hollywood Records. The second EP, \"Loud\", was released on February 19, 2013, which featured the lead single and title track \"Loud\", the debut single from upcoming album. The band's first full-length album, \"Louder\", was released on September 24, 2013 and the album not only includes the four songs from \"Loud\" and also seven new songs. The second single from the album, \"Pass Me By\", premiered on Radio Disney on August 16. The music video premiered on 29 August on Disney Channel and is available for public viewing on the band's Vevo channel. The third single, \"(I Can't) Forget About You\", was released on December 25, 2013 and reached number 47 on \"Billboard\" Digital Pop Songs, and the fourth single \"One Last Dance\" on May 29, 2014.",
+          "semantic_score": 0.4394588768482208,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5566",
+          "text": "Midnight Oil (album)\nMidnight Oil is the debut album by Australian hard rock band Midnight Oil which was recorded in 1977 and released in November 1978 on the band's independent Powderworks label. It reached the top 50 on the Australian Kent Music Report Albums Chart. The album was later distributed by CBS Records and issued as a CD. The LP has a blue cover, however, the CD has a black cover. Because of the blue cover, the former version is often referred to, by fans, as the \"blue album\" or \"the Blue Meanie\". The lead single, \"Run By Night\", became the band's first minor hit in Australia and appeared on the Kent Music Report Singles Chart Top 100. It also had a video clip.",
+          "semantic_score": 0.3868608772754669,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3370",
+          "text": "Midnight Madness and Beyond\nMidnight Madness and Beyond is the third album by UK82 Hardcore punk band GBH from Birmingham UK. It was released in August 1986 on the Rough Justice label (the band's first release for their new label, following the departure from Clay Records) with catalogue number Just 2. Recorded once again at Strawberry Studios in Stockport UK. It was later Re-released with additional tracks (the \"Oh No It's GBH Again\" EP)in 2002 by leading Punk reissue label Captain Oi! (Ahoy CD 193)",
+          "semantic_score": 0.3939278721809387,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2937",
+          "text": "Darkthrone\nDarkthrone is a Norwegian heavy metal band. It formed in 1986 as a death metal band under the name Black Death. In 1991, the band embraced a black metal style influenced by Bathory and Celtic Frost and became one of the leading bands in the Norwegian black metal scene. Their first three black metal albums—\"A Blaze in the Northern Sky\", \"Under a Funeral Moon\" and \"Transilvanian Hunger\" (sometimes dubbed the \"Unholy Trinity\") — are considered the peak of the band's career and to be among the most influential albums in the genre. For most of this time, Darkthrone has been a duo of Nocturno Culto and Fenriz, who have sought to remain outside the music mainstream. Since 2006, their work has strayed from the traditional black metal style and incorporated more elements of traditional heavy metal, speed metal and punk rock, being likened to Motörhead.",
+          "semantic_score": 0.33507418632507324,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "224",
+          "text": "Lit (band)\nLit is an American rock band, formed in 1995 in Fullerton, California. They are best known for their hit song \"My Own Worst Enemy\".",
+          "semantic_score": 0.31291934847831726,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5634",
+          "text": "Timothy Deaux\nTimothy Deaux is a multi-instrumentalist songwriter and musician. He currently plays bass for the American rock band The Whigs. He was born in Mississippi, but spent his childhood traveling the world. After graduating from the University of Florida, he moved to Athens, Georgia, in 2007, where he began touring full-time with band mates Julian Dorio and Parker Gispert. In the summer of 2009, they recorded \"In The Dark\" at Chase Park Transduction Studios in Athens, Georgia.",
+          "semantic_score": 0.33767423033714294,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Lit"
+    },
+    {
+      "step": 3,
+      "sub_question": "What hit song is that band best known for?",
+      "retrieved": [
+        {
+          "id": "224",
+          "text": "Lit (band)\nLit is an American rock band, formed in 1995 in Fullerton, California. They are best known for their hit song \"My Own Worst Enemy\".",
+          "semantic_score": 0.6452954411506653,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1670",
+          "text": "List of songs recorded by Tool\nTool is an American progressive metal band from Los Angeles, California. Formed in 1990, the band originally featured vocalist Maynard James Keenan, guitarist Adam Jones, bassist Paul D'Amour and drummer Danny Carey, although D'Amour was replaced by Justin Chancellor in 1995. The group released its first demo \"72826\" in 1991, which credited all four band members for songwriting. \"Opiate\" was issued the following year, which featured re-recorded versions of \"72826\" tracks \"Cold and Ugly\", \"Hush\" and \"Part of Me\", as well as a live version of \"Jerk-Off\". The band released its debut full-length album \"Undertow\" in 1993, which once again credited all four band members for songwriting. The album also featured a contribution by former Black Flag and then-Rollins Band frontman Henry Rollins, who performed additional vocals on \"Bottom\".",
+          "semantic_score": 0.501681923866272,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8021",
+          "text": "Sleeping with the Light On\n\"Sleeping with the Light On\" is a song by English pop rock band Busted. It was the first song which band members James Bourne and Matt Willis wrote together. It was recorded in 2002 for their debut album \"Busted\", and later released on 11 August 2003 as the album's fourth British single. It reached number three on the UK Singles Chart. In 2014, McBusted performed this song in an acoustic live session.",
+          "semantic_score": 0.47950607538223267,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2937",
+          "text": "Darkthrone\nDarkthrone is a Norwegian heavy metal band. It formed in 1986 as a death metal band under the name Black Death. In 1991, the band embraced a black metal style influenced by Bathory and Celtic Frost and became one of the leading bands in the Norwegian black metal scene. Their first three black metal albums—\"A Blaze in the Northern Sky\", \"Under a Funeral Moon\" and \"Transilvanian Hunger\" (sometimes dubbed the \"Unholy Trinity\") — are considered the peak of the band's career and to be among the most influential albums in the genre. For most of this time, Darkthrone has been a duo of Nocturno Culto and Fenriz, who have sought to remain outside the music mainstream. Since 2006, their work has strayed from the traditional black metal style and incorporated more elements of traditional heavy metal, speed metal and punk rock, being likened to Motörhead.",
+          "semantic_score": 0.4619345963001251,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "225",
+          "text": "The View from the Bottom\nThe View from the Bottom is the fifth studio album by the American rock band Lit, released on June 19, 2012 through Megaforce Records. It is the band's first new album in eight years, since the release of their self-titled album in 2004. It also marks the first album with Nathan Walker on drums, succeeding the late Allen Shellenberger, who died in 2009, and rhythm guitarist Ryan Gillmor, making it the only time the band has recorded as a five-piece.",
+          "semantic_score": 0.4590562880039215,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9262",
+          "text": "Tool (band)\nTool is an American rock band from Los Angeles, California. Formed in 1990, the group's line-up includes drummer Danny Carey, guitarist Adam Jones, and vocalist Maynard James Keenan. Justin Chancellor has been the band's bassist since 1995, replacing their original bassist Paul D'Amour. Tool has won three Grammy Awards, performed worldwide tours, and produced albums topping the charts in several countries.",
+          "semantic_score": 0.34239712357521057,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2931",
+          "text": "Hate Them\nHate Them is the ninth album by Norwegian black metal band, Darkthrone. It was released by Moonfog Productions in 2003. Like their subsequent release, \"Sardonic Wrath\", the album had an electronic intro and outro created by Lars Sørensen (aka LRZ) from Red Harvest. The cover image was the work of Eric Syre from Thesyre, and incorporated images of the Sagrada Família Catholic church in Barcelona. In 2012, the album was reissued by Peaceville Records, including a bonus CD with audio commentary by the band.",
+          "semantic_score": 0.3184158205986023,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5818",
+          "text": "The Darkness (band)\nThe Darkness are an English rock band from Lowestoft, Suffolk, formed in 2000. The band consists of Justin Hawkins (lead vocals, guitar), his brother Dan Hawkins (guitar, backing vocals), Frankie Poullain (bass, backing vocals) and Rufus Tiger Taylor (drums).",
+          "semantic_score": 0.40947455167770386,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "My Own Worst Enemy"
+    }
+  ],
+  "links": [
+    {
+      "source": "225",
+      "target": "224",
+      "reason": "Paragraph 225 identifies The View from the Bottom as the fifth studio album by the American rock band Lit, and paragraph 224 identifies Lit as the band best known for the hit song \"My Own Worst Enemy,\" directly bridging the album to the band and its hit."
+    }
+  ],
+  "questions_seen": 24,
+  "_id": "5ab8829d55429934fafe6e08",
+  "correct_answer": "My Own Worst Enemy",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+API preflight successful
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 5786.18it/s]
+{"completed": 1, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.0, "LLMAccuracy": 1.0}
+{"completed": 2, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.0, "LLMAccuracy": 0.5}
+{"completed": 3, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.3333333333333333, "LLMAccuracy": 0.6666666666666666}
+{"completed": 4, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.25, "LLMAccuracy": 0.5}
+{"completed": 5, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.2, "LLMAccuracy": 0.6}
+{"completed": 6, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.3333333333333333, "LLMAccuracy": 0.6666666666666666}
+{"completed": 7, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.42857142857142855, "LLMAccuracy": 0.7142857142857143}
+{"completed": 8, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.5, "LLMAccuracy": 0.75}
+{"completed": 9, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.5555555555555556, "LLMAccuracy": 0.7777777777777778}
+{"completed": 10, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.5, "LLMAccuracy": 0.7}
+{"completed": 11, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.5454545454545454, "LLMAccuracy": 0.7272727272727273}
+{"completed": 12, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.5, "LLMAccuracy": 0.75}
+{"completed": 13, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.46153846153846156, "LLMAccuracy": 0.6923076923076923}
+{"completed": 14, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.5, "LLMAccuracy": 0.7142857142857143}
+{"completed": 15, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.5333333333333333, "LLMAccuracy": 0.7333333333333333}
+{"completed": 16, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.5625, "LLMAccuracy": 0.75}
+{"completed": 17, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.5882352941176471, "LLMAccuracy": 0.7647058823529411}
+{"completed": 18, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6111111111111112, "LLMAccuracy": 0.7777777777777778}
+{"completed": 19, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.631578947368421, "LLMAccuracy": 0.7894736842105263}
+{"completed": 20, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.65, "LLMAccuracy": 0.8}
+{"completed": 21, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6666666666666666, "LLMAccuracy": 0.8095238095238095}
+{"completed": 22, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6818181818181818, "LLMAccuracy": 0.8181818181818182}
+{"completed": 23, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6956521739130435, "LLMAccuracy": 0.8260869565217391}
+{"completed": 24, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7083333333333334, "LLMAccuracy": 0.8333333333333334}
+{"completed": 25, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.68, "LLMAccuracy": 0.84}
+{"completed": 26, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6923076923076923, "LLMAccuracy": 0.8461538461538461}
+{"completed": 27, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7037037037037037, "LLMAccuracy": 0.8518518518518519}
+{"completed": 28, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7142857142857143, "LLMAccuracy": 0.8571428571428571}
+{"completed": 29, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7241379310344828, "LLMAccuracy": 0.8620689655172413}
+{"completed": 30, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7333333333333333, "LLMAccuracy": 0.8666666666666667}
+{"completed": 31, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7419354838709677, "LLMAccuracy": 0.8387096774193549}
+{"completed": 32, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.71875, "LLMAccuracy": 0.84375}
+{"completed": 33, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7272727272727273, "LLMAccuracy": 0.8484848484848485}
+{"completed": 34, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7352941176470589, "LLMAccuracy": 0.8529411764705882}
+{"completed": 35, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7428571428571429, "LLMAccuracy": 0.8571428571428571}
+{"completed": 36, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.75, "LLMAccuracy": 0.8611111111111112}
+{"completed": 37, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7567567567567568, "LLMAccuracy": 0.8648648648648649}
+{"completed": 38, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7368421052631579, "LLMAccuracy": 0.868421052631579}
+{"completed": 39, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7435897435897436, "LLMAccuracy": 0.8717948717948718}
+{"completed": 40, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.725, "LLMAccuracy": 0.875}
+{"completed": 41, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7317073170731707, "LLMAccuracy": 0.8780487804878049}
+{"completed": 42, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7142857142857143, "LLMAccuracy": 0.8571428571428571}
+{"completed": 43, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7209302325581395, "LLMAccuracy": 0.8604651162790697}
+{"completed": 44, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7272727272727273, "LLMAccuracy": 0.8636363636363636}
+{"completed": 45, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7333333333333333, "LLMAccuracy": 0.8666666666666667}
+{"completed": 46, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.717391304347826, "LLMAccuracy": 0.8695652173913043}
+{"completed": 47, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.723404255319149, "LLMAccuracy": 0.8723404255319149}
+{"completed": 48, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7083333333333334, "LLMAccuracy": 0.8541666666666666}
+{"completed": 49, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7142857142857143, "LLMAccuracy": 0.8571428571428571}
+{"completed": 50, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.72, "LLMAccuracy": 0.86}
+{"completed": 51, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7058823529411765, "LLMAccuracy": 0.8431372549019608}
+{"completed": 52, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7115384615384616, "LLMAccuracy": 0.8461538461538461}
+{"completed": 53, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7169811320754716, "LLMAccuracy": 0.8490566037735849}
+{"completed": 54, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7222222222222222, "LLMAccuracy": 0.8518518518518519}
+{"completed": 55, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7272727272727273, "LLMAccuracy": 0.8545454545454545}
+{"completed": 56, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7142857142857143, "LLMAccuracy": 0.8571428571428571}
+{"completed": 57, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7017543859649122, "LLMAccuracy": 0.8596491228070176}
+{"completed": 58, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7068965517241379, "LLMAccuracy": 0.8620689655172413}
+{"completed": 59, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6949152542372882, "LLMAccuracy": 0.847457627118644}
+{"completed": 60, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7, "LLMAccuracy": 0.85}
+{"completed": 61, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7049180327868853, "LLMAccuracy": 0.8524590163934426}
+{"completed": 62, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7096774193548387, "LLMAccuracy": 0.8548387096774194}
+{"completed": 63, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7142857142857143, "LLMAccuracy": 0.8571428571428571}
+{"completed": 64, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.703125, "LLMAccuracy": 0.84375}
+{"completed": 65, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7076923076923077, "LLMAccuracy": 0.8461538461538461}
+{"completed": 66, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.696969696969697, "LLMAccuracy": 0.8333333333333334}
+{"completed": 67, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7014925373134329, "LLMAccuracy": 0.835820895522388}
+{"completed": 68, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7058823529411765, "LLMAccuracy": 0.8382352941176471}
+{"completed": 69, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6956521739130435, "LLMAccuracy": 0.8260869565217391}
+{"completed": 70, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7, "LLMAccuracy": 0.8285714285714286}
+{"completed": 71, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.704225352112676, "LLMAccuracy": 0.8309859154929577}
+{"completed": 72, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7083333333333334, "LLMAccuracy": 0.8333333333333334}
+{"completed": 73, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7123287671232876, "LLMAccuracy": 0.8356164383561644}
+{"completed": 74, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7027027027027027, "LLMAccuracy": 0.8378378378378378}
+{"completed": 75, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7066666666666667, "LLMAccuracy": 0.84}
+{"completed": 76, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7105263157894737, "LLMAccuracy": 0.8421052631578947}
+{"completed": 77, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7142857142857143, "LLMAccuracy": 0.8441558441558441}
+{"completed": 78, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7051282051282052, "LLMAccuracy": 0.8461538461538461}
+{"completed": 79, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6962025316455697, "LLMAccuracy": 0.8354430379746836}
+{"completed": 80, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7, "LLMAccuracy": 0.8375}
+{"completed": 81, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7037037037037037, "LLMAccuracy": 0.8395061728395061}
+{"completed": 82, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7073170731707317, "LLMAccuracy": 0.8414634146341463}
+{"completed": 83, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7108433734939759, "LLMAccuracy": 0.8433734939759037}
+{"completed": 84, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7142857142857143, "LLMAccuracy": 0.8452380952380952}
+{"completed": 85, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7058823529411765, "LLMAccuracy": 0.8352941176470589}
+{"completed": 86, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6976744186046512, "LLMAccuracy": 0.8255813953488372}
+{"completed": 87, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7011494252873564, "LLMAccuracy": 0.8275862068965517}
+{"completed": 88, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6931818181818182, "LLMAccuracy": 0.8295454545454546}
+{"completed": 89, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6966292134831461, "LLMAccuracy": 0.8314606741573034}
+{"completed": 90, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7, "LLMAccuracy": 0.8333333333333334}
+{"completed": 91, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6923076923076923, "LLMAccuracy": 0.8351648351648352}
+{"completed": 92, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6847826086956522, "LLMAccuracy": 0.8260869565217391}
+{"completed": 93, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6881720430107527, "LLMAccuracy": 0.8279569892473119}
+{"completed": 94, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6914893617021277, "LLMAccuracy": 0.8297872340425532}
+{"completed": 95, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6947368421052632, "LLMAccuracy": 0.8315789473684211}
+{"completed": 96, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6875, "LLMAccuracy": 0.8333333333333334}
+{"completed": 97, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6804123711340206, "LLMAccuracy": 0.8350515463917526}
+{"completed": 98, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6836734693877551, "LLMAccuracy": 0.8367346938775511}
+{"completed": 99, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6868686868686869, "LLMAccuracy": 0.8383838383838383}
+{"completed": 100, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.68, "LLMAccuracy": 0.83}
+{"completed": 101, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6831683168316832, "LLMAccuracy": 0.8316831683168316}
+{"completed": 102, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6764705882352942, "LLMAccuracy": 0.8333333333333334}
+{"completed": 103, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6699029126213593, "LLMAccuracy": 0.8252427184466019}
+{"completed": 104, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6730769230769231, "LLMAccuracy": 0.8269230769230769}
+{"completed": 105, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6666666666666666, "LLMAccuracy": 0.8285714285714286}
+{"completed": 106, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6698113207547169, "LLMAccuracy": 0.8301886792452831}
+{"completed": 107, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6728971962616822, "LLMAccuracy": 0.8317757009345794}
+{"completed": 108, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6759259259259259, "LLMAccuracy": 0.8333333333333334}
+{"completed": 109, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6788990825688074, "LLMAccuracy": 0.8348623853211009}
+{"completed": 110, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6818181818181818, "LLMAccuracy": 0.8363636363636363}
+{"completed": 111, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6846846846846847, "LLMAccuracy": 0.8378378378378378}
+{"completed": 112, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6875, "LLMAccuracy": 0.8392857142857143}
+{"completed": 113, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6814159292035398, "LLMAccuracy": 0.831858407079646}
+{"completed": 114, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6754385964912281, "LLMAccuracy": 0.8245614035087719}
+{"completed": 115, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6782608695652174, "LLMAccuracy": 0.8260869565217391}
+{"completed": 116, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6724137931034483, "LLMAccuracy": 0.8275862068965517}
+{"completed": 117, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6752136752136753, "LLMAccuracy": 0.8290598290598291}
+{"completed": 118, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6779661016949152, "LLMAccuracy": 0.8305084745762712}
+{"completed": 119, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6722689075630253, "LLMAccuracy": 0.8319327731092437}
+{"completed": 120, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.675, "LLMAccuracy": 0.8333333333333334}
+{"completed": 121, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6776859504132231, "LLMAccuracy": 0.8347107438016529}
+{"completed": 122, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.680327868852459, "LLMAccuracy": 0.8360655737704918}
+{"completed": 123, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6829268292682927, "LLMAccuracy": 0.8373983739837398}
+{"completed": 124, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6774193548387096, "LLMAccuracy": 0.8387096774193549}
+{"completed": 125, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.672, "LLMAccuracy": 0.84}
+{"completed": 126, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6666666666666666, "LLMAccuracy": 0.8333333333333334}
+{"completed": 127, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6692913385826772, "LLMAccuracy": 0.8346456692913385}
+{"completed": 128, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.671875, "LLMAccuracy": 0.8359375}
+{"completed": 129, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6666666666666666, "LLMAccuracy": 0.8294573643410853}
+{"completed": 130, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6615384615384615, "LLMAccuracy": 0.823076923076923}
+{"completed": 131, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6564885496183206, "LLMAccuracy": 0.816793893129771}
+{"completed": 132, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6590909090909091, "LLMAccuracy": 0.8181818181818182}
+{"completed": 133, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6616541353383458, "LLMAccuracy": 0.8195488721804511}
+{"completed": 134, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.664179104477612, "LLMAccuracy": 0.8208955223880597}
+{"completed": 135, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6666666666666666, "LLMAccuracy": 0.8222222222222222}
+{"completed": 136, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6617647058823529, "LLMAccuracy": 0.8235294117647058}
+{"completed": 137, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6642335766423357, "LLMAccuracy": 0.8248175182481752}
+{"completed": 138, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6666666666666666, "LLMAccuracy": 0.8260869565217391}
+{"completed": 139, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6690647482014388, "LLMAccuracy": 0.8273381294964028}
+{"completed": 140, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6714285714285714, "LLMAccuracy": 0.8285714285714286}
+{"completed": 141, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6737588652482269, "LLMAccuracy": 0.8297872340425532}
+{"completed": 142, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.676056338028169, "LLMAccuracy": 0.8309859154929577}
+{"completed": 143, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6783216783216783, "LLMAccuracy": 0.8321678321678322}
+{"completed": 144, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6805555555555556, "LLMAccuracy": 0.8333333333333334}
+{"completed": 145, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6827586206896552, "LLMAccuracy": 0.8344827586206897}
+{"completed": 146, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.678082191780822, "LLMAccuracy": 0.8287671232876712}
+{"completed": 147, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6802721088435374, "LLMAccuracy": 0.8299319727891157}
+{"completed": 148, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6824324324324325, "LLMAccuracy": 0.831081081081081}
+{"completed": 149, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6845637583892618, "LLMAccuracy": 0.8322147651006712}
+{"completed": 150, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6866666666666666, "LLMAccuracy": 0.8333333333333334}
+{"completed": 151, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6887417218543046, "LLMAccuracy": 0.8344370860927153}
+{"completed": 152, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6907894736842105, "LLMAccuracy": 0.8355263157894737}
+{"completed": 153, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6928104575163399, "LLMAccuracy": 0.8366013071895425}
+{"completed": 154, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6948051948051948, "LLMAccuracy": 0.8376623376623377}
+{"completed": 155, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6967741935483871, "LLMAccuracy": 0.8387096774193549}
+{"completed": 156, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6987179487179487, "LLMAccuracy": 0.8397435897435898}
+{"completed": 157, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7006369426751592, "LLMAccuracy": 0.8407643312101911}
+{"completed": 158, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6962025316455697, "LLMAccuracy": 0.8354430379746836}
+{"completed": 159, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6981132075471698, "LLMAccuracy": 0.8301886792452831}
+{"completed": 160, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7, "LLMAccuracy": 0.83125}
+{"completed": 161, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7018633540372671, "LLMAccuracy": 0.8322981366459627}
+{"completed": 162, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6975308641975309, "LLMAccuracy": 0.8333333333333334}
+{"completed": 163, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6993865030674846, "LLMAccuracy": 0.8343558282208589}
+{"completed": 164, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7012195121951219, "LLMAccuracy": 0.8353658536585366}
+{"completed": 165, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.703030303030303, "LLMAccuracy": 0.8363636363636363}
+{"completed": 166, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7048192771084337, "LLMAccuracy": 0.8373493975903614}
+{"completed": 167, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7065868263473054, "LLMAccuracy": 0.8383233532934131}
+{"completed": 168, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7023809523809523, "LLMAccuracy": 0.8392857142857143}
+{"completed": 169, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7041420118343196, "LLMAccuracy": 0.8402366863905325}
+{"completed": 170, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7, "LLMAccuracy": 0.8411764705882353}
+{"completed": 171, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7017543859649122, "LLMAccuracy": 0.8421052631578947}
+{"completed": 172, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7034883720930233, "LLMAccuracy": 0.8430232558139535}
+{"completed": 173, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7052023121387283, "LLMAccuracy": 0.8439306358381503}
+{"completed": 174, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7011494252873564, "LLMAccuracy": 0.8448275862068966}
+{"completed": 175, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7028571428571428, "LLMAccuracy": 0.8457142857142858}
+{"completed": 176, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6988636363636364, "LLMAccuracy": 0.8409090909090909}
+{"completed": 177, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.7005649717514124, "LLMAccuracy": 0.8418079096045198}
+{"completed": 178, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6966292134831461, "LLMAccuracy": 0.8370786516853933}
+{"completed": 179, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6927374301675978, "LLMAccuracy": 0.8379888268156425}
+{"completed": 180, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6888888888888889, "LLMAccuracy": 0.8333333333333334}
+{"completed": 181, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6906077348066298, "LLMAccuracy": 0.8342541436464088}
+{"completed": 182, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6868131868131868, "LLMAccuracy": 0.8351648351648352}
+{"completed": 183, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6830601092896175, "LLMAccuracy": 0.8360655737704918}
+{"completed": 184, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6847826086956522, "LLMAccuracy": 0.8369565217391305}
+{"completed": 185, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6864864864864865, "LLMAccuracy": 0.8378378378378378}
+{"completed": 186, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6827956989247311, "LLMAccuracy": 0.8387096774193549}
+{"completed": 187, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.679144385026738, "LLMAccuracy": 0.839572192513369}
+{"completed": 188, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.675531914893617, "LLMAccuracy": 0.8351063829787234}
+{"completed": 189, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6772486772486772, "LLMAccuracy": 0.8359788359788359}
+{"completed": 190, "total": 1000, "model": "deepseek-flash", "ContainsMatch": 0.6736842105263158, "LLMAccuracy": 0.8315789473684211}
+Traceback (most recent call last):
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpx2/_transports/default.py", line 98, in map_httpcore_exceptions
+    yield
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpx2/_transports/default.py", line 245, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpcore2/_sync/connection_pool.py", line 242, in handle_request
+    raise exc from None
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpcore2/_sync/connection_pool.py", line 224, in handle_request
+    response = connection.handle_request(pool_request.request)
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpcore2/_sync/connection.py", line 96, in handle_request
+    return self._connection.handle_request(request)
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpcore2/_sync/http11.py", line 125, in handle_request
+    raise exc
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpcore2/_sync/http11.py", line 97, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpcore2/_sync/http11.py", line 167, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpcore2/_sync/http11.py", line 200, in _receive_event
+    data = self._network_stream.read(self.READ_NUM_BYTES, timeout=timeout)
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpcore2/_backends/sync.py", line 125, in read
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpcore2/_exceptions.py", line 17, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore2.ReadTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/openai/_base_client.py", line 1182, in request
+    response = self._send_request(
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/openai/_client.py", line 630, in _send_request
+    response = self._send_with_auth_retry(request, stream=stream, **kwargs)
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/openai/_client.py", line 609, in _send_with_auth_retry
+    response = super()._send_request(request, stream=stream, **kwargs)
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/openai/_base_client.py", line 1103, in _send_request
+    return self._client.send(request, stream=stream, **kwargs)
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpx2/_client.py", line 980, in send
+    response = self._send_handling_auth(
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpx2/_client.py", line 1008, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpx2/_client.py", line 1043, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpx2/_client.py", line 1076, in _send_single_request
+    response = transport.handle_request(request)
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpx2/_transports/default.py", line 244, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/httpx2/_transports/default.py", line 115, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx2.ReadTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/zhouchuang/chuang/hyperrag/run_hotpotqa.py", line 70, in <module>
+    if __name__=='__main__':main()
+  File "/home/zhouchuang/chuang/hyperrag/run_hotpotqa.py", line 53, in main
+    result=answer_question(row['question'],retriever,llm,top_k=args.top_k)
+  File "/home/zhouchuang/chuang/hyperrag/main.py", line 106, in answer_question
+    steps,prompt = chain_reasoning_with_retrieval(question,subqs,retriever,llm,top_k)
+  File "/home/zhouchuang/chuang/hyperrag/main.py", line 67, in chain_reasoning_with_retrieval
+    answer = llm(f'{CHAIN_REASONING_HEAD}\nContext: {context}\n'
+  File "/home/zhouchuang/chuang/hyperrag/main.py", line 29, in __call__
+    result = self.client.chat.completions.create(
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/openai/_utils/_utils.py", line 298, in wrapper
+    return func(*args, **kwargs)
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/openai/resources/chat/completions/completions.py", line 1318, in create
+    return self._post(
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/openai/_base_client.py", line 1474, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/home/zhouchuang/chuang/chemical/lib/python3.10/site-packages/openai/_base_client.py", line 1200, in request
+    raise APITimeoutError(request=request) from err
+openai.APITimeoutError: Request timed out.

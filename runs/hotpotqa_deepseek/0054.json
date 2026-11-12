@@ -1,0 +1,202 @@
+{
+  "question": "Sam Mendes and Ruby Yang share what profession?",
+  "answer": "Filmmaker",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is Sam Mendes's profession?",
+      "retrieved": [
+        {
+          "id": "543",
+          "text": "Sam Mendes\nSamuel Alexander Mendes, {'1': \", '2': \", '3': \", '4': \"} (born 1 August 1965) is an English stage and film director. He is best known for directing the drama film \"American Beauty\" (1999), which earned him the Academy Award and Golden Globe Award for Best Director, the crime film \"Road to Perdition\" (2002), and the \"James Bond\" films \"Skyfall\" (2012) and \"Spectre\" (2015).",
+          "semantic_score": 0.47874772548675537,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8101",
+          "text": "Jorge Eduardo Costilla Sánchez\nJorge Eduardo Costilla Sánchez (born 1 August 1971), is a former Mexican drug lord and top leader of the criminal drug trafficking organization known as the Gulf Cartel. He was among Mexico's most-wanted drug lords.",
+          "semantic_score": 0.39457136392593384,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8214",
+          "text": "Anthony Shriver\nAnthony Paul Kennedy Shriver (born July 20, 1965) is an American activist for people with intellectual disabilities. In 1989, he founded Best Buddies International, an international organization that helps people with intellectual disabilities to find employment and social opportunities. Through his mother, he is a nephew of World War II casualty Joseph P. Kennedy, Jr., President John F. Kennedy, Senator Robert F. Kennedy, and Senator Ted Kennedy.",
+          "semantic_score": 0.3903544843196869,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1081",
+          "text": "William Scott Wilson\nWilliam Scott Wilson (born 1944 in Nashville, Tennessee) is known for translating several works of Japanese literature, mostly those relating to the martial tradition of that country. He is recognized by The American Literary Translator's Association (ALTA) as \"today’s foremost translator of classic Samurai texts.\" Mr. Wilson is also described as the world's foremost expert on the warrior's philosophy of Bushido. He served as a Consular Specialist for the Consulate General of Japan in Seattle (1980)--Heading the trade section and advising the Consul on political and economic matters.",
+          "semantic_score": 0.3742971122264862,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2578",
+          "text": "Curtis Carlson\nCurtis Raymond Carlson (born May 22, 1945) was president and CEO of SRI International from 1998 to 2014 and is a prominent technologist and pioneer in developing and using innovation best practices. While CEO of SRI International, revenue tripled to $550 million per year and tens of billions of dollars of new marketplace value was created, such as through Siri, an SRI spin-off company that was bought by Steve Jobs at Apple. While Carlson was CEO Mayfield Ventures partner, David Ladd, said, “SRI is now the best enterprise at turning its technology into economic value.”",
+          "semantic_score": 0.36904409527778625,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8108",
+          "text": "Samuel Flores Borrego\nSamuel Flores Borrego (a.k.a. Metro 3) (6 August 1972 – 2 September 2011) was a Mexican drug lord and high-ranking lieutenant of the Gulf Cartel. He was a former state judicial policeman who protected the ex-leader of the Gulf cartel, Osiel Cárdenas Guillén. Upon his arrest, Flores Borrego became the right-hand man of Jorge Eduardo Costilla Sánchez, the former leader of the criminal organization.",
+          "semantic_score": 0.3014344573020935,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "537",
+          "text": "List of accolades received by American Beauty\n\"American Beauty\" is a 1999 American drama film directed by Sam Mendes and written by Alan Ball. The film stars Kevin Spacey as Lester Burnham, a middle-aged office worker who has a midlife crisis when he becomes infatuated with his teenage daughter's best friend. Released in North America on September 15, 1999, \"American Beauty\" was positively received by critics and audiences alike; it was the best-reviewed American film of the year and grossed over $350 million worldwide. Reviewers praised all aspects of the production, with particular emphasis on Mendes, Spacey and Ball; criticism tended to focus on the familiarity of the characters and setting. At the 1999 Academy Awards, the film won Best Picture, Best Director, Best Actor (for Spacey), Best Original Screenplay and Best Cinematography (for Conrad Hall). The film was nominated for and won numerous other awards and honors, mainly for the direction, writing, and acting.",
+          "semantic_score": 0.18792100250720978,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5960",
+          "text": "Eunice Kennedy Shriver\nDame Eunice Mary Kennedy Shriver, DSG (July 10, 1921 – August 11, 2009) was a member of the Kennedy family; she was the sister of President John F. Kennedy and senators Robert F. Kennedy and Ted Kennedy. Her husband, Sargent Shriver, was the United States Ambassador to France during the Lyndon Johnson presidency and the Democratic vice presidential candidate in the 1972 U.S. presidential election.",
+          "semantic_score": 0.2291111797094345,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5958",
+          "text": "Sargent Shriver\nRobert Sargent Shriver Jr. ( ; November 9, 1915 – January 18, 2011) was an American politician and activist. As the husband of Eunice Kennedy Shriver, he was part of the Kennedy family. Shriver was the driving force behind the creation of the Peace Corps, and founded the Job Corps, Head Start, and other programs as the \"architect\" of the 1960s \"War on Poverty.\" He was the Democratic Party's nominee for Vice President in the 1972 presidential election.",
+          "semantic_score": 0.291144460439682,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3022",
+          "text": "Leobardo López\nLeobardo López García (September 4, 1983) is a Mexican football defender. He currently plays for Celaya in Mexico.",
+          "semantic_score": 0.2747284770011902,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Stage and film director"
+    },
+    {
+      "step": 2,
+      "sub_question": "What is Ruby Yang's profession?",
+      "retrieved": [
+        {
+          "id": "539",
+          "text": "Ruby Yang\nRuby Yang (楊紫燁; Simplified Chinese: 杨紫烨), is a Chinese American filmmaker.",
+          "semantic_score": 0.7930511236190796,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9274",
+          "text": "Yuen Woo-ping\nYuen Woo-ping (; born 1945) is a Chinese martial arts choreographer and film director, renowned as one of the most successful and influential figures in the world of Hong Kong action cinema. He is one of the inductees on the Avenue of Stars in Hong Kong. Yuen is also a son of Yuen Siu-tien, a renowned martial arts film actor.",
+          "semantic_score": 0.48954227566719055,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7271",
+          "text": "Maya Gallus\nMaya Gallus is a Canadian documentary filmmaker, and co-founder of Red Queen Productions with Justine Pimlott. Her films have screened at international film festivals, including Toronto International Film Festival, Montreal World Film Festival, Hot Docs Canadian International Documentary Festival, Sheffield Doc/Fest, SEOUL International Women’s Film Festival, Singapore International Film Festival, This Human World Film Festival (Vienna) and Women Make Waves (Taiwan), among others. Her work has also screened at the Museum of Fine Arts (Boston), Donostia Kultura, San Sebastián and Canada House UK, as well as theatrically in Tokyo, San Francisco, Key West and Toronto, and been broadcast around the world. She has won numerous awards, including a Gemini Award for Best Direction for Girl Inside, and has been featured in The Guardian, UK; Ms. (Magazine), Curve (Magazine), Bust (Magazine), Salon (Magazine), POV (Magazine) and The Walrus, among others. She is a Director/Writer alumna of the Canadian Film Centre and a participant in Women in the Director’s Chair. She will be honoured with a \"Focus On\" retrospective at the 2017 Hot Docs festival.",
+          "semantic_score": 0.4158954918384552,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "529",
+          "text": "Meghan Strange\nMeghan Strange is an American actress and voice actress. She is best known for her roles as Ruby from \"The Land Before Time\" television series and Robin from \"Sofia the First\". She also voiced the character Harley Quinn on \"\" and has appeared in a number of short films and children's TV shows.",
+          "semantic_score": 0.4157124161720276,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3852",
+          "text": "Tenma Shibuya\nTenma Shibuya (Japanese: 渋谷天馬 ,traditional Chinese: 澀谷天馬,simplified Chinese: 涩谷天马,other names: Shibuya Tenma,Segu Tianma; born January 13，1969) is a Japanese actor, Japanese classical dancer, and cultural exchange activist. He began his career as an actor in 1993 after returning from US, where he attended college. He made appearances in a number of films, stages, and TV dramas in his early acting career in Japan. In 2006, Shibuya, aged 36, visited China for the first time, leading his jump into Chinese show business. In 2008, Shibuya played Colonel Sato, an impressive villain in Yip Man(Ip Man), a Hong Kong kung-fu movie that won the best film award of 28th Hong Kong Film Awards. He starred in the top-rated Chinese TV drama in 2011, Borrow Gun, in which Shibuya successfully portrayed Kato, a character that won him an overnight fame in all of China.　He has often been cast in the role of a villainous Japanese soldier in Chinese anti-Japanese war films. Up until 2015, Shibuya has appeared in over 100 productions including movies, TV dramas and stage works in Japan, China, Hong Kong, Taiwan and the U.S, gaining a great popularity in Asian areas especially in Chinese-speaking areas In addition to acting, he has been a Japanese classical dancer and songwriter for over 20 years.",
+          "semantic_score": 0.40630096197128296,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9276",
+          "text": "Yuen Cheung-yan\nYuen Cheung-yan is an actor, director, stuntman, and fight choreographer who has worked for many years in the Hong Kong film industry. During the 1970s and early 1980s, he worked with his elder brother, Yuen Woo-ping, and other members of the Yuen family on several films, some of them kung fu comedies such as \"Shaolin Drunkard\" (1982) and \"The Miracle Fighters\" (1983).",
+          "semantic_score": 0.39969509840011597,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5088",
+          "text": "Man from Guangdong\nMan from Guangdong is a 1991 Hong Kong martial arts television series produced by TVB and tells the story of Leung Kan, portrayed by Aaron Kwok, the fictitious son of famed martial artist Leung Foon, whom was a favored disciple of folk hero Wong Fei-hung, portrayed by Shih Kien. Shih, who portrayed Wong in the series, was known for portraying antagonists in a series of Wong Fei-hung-related films during the 1940s to 1970s, while the series also features Sai Gwa-Pau reprising his role as \"Buckteeth So\" from the aforementioned series of films.",
+          "semantic_score": 0.33908382058143616,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9273",
+          "text": "Dance of the Drunk Mantis\nDance of the Drunk Mantis () is a 1979 Hong Kong kung fu comedy film directed by Yuen Siu-tien's real life son Yuen Woo-ping, starring Yuen Siu-tien, Hwang Jang Lee, Linda Lin, Yuen Shun-yee, Charlie Shek and Yuen Kwai. This was Yuen Siu-tien's final film appearance before his death on 8 January 1979 from a heart attack.",
+          "semantic_score": 0.2251187562942505,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9272",
+          "text": "Shaolin Drunkard\nShaolin Drunkard (; Orig. Tian shi zhuang xie, a.k.a. \"Wu Tang Master\", a.k.a. \"Miracle Fighters 2\") is a 1983 Kung Fu comedy directed by Yuen Woo-ping, written by Yuen Woo-ping and Chung Hing Chiu, and starring Cheung-Yan Yuen, Eddy Ko, and Shun-Yee Yuen.",
+          "semantic_score": 0.3245958089828491,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7766",
+          "text": "Byron Mann\nByron Mann () is a Chinese American actor who has made films in Hollywood, Hong Kong and Mainland China. He is perhaps best known for his performances as Mr. Chau in \"The Big Short\", Chang in \"Hell on Wheels\", Ryu in \"Street Fighter\", Silver Lion in \"The Man with the Iron Fists\" and Yao Fei in the first season of \"Arrow\".",
+          "semantic_score": 0.31884634494781494,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Filmmaker"
+    }
+  ],
+  "links": [
+    {
+      "source": "543",
+      "target": "539",
+      "reason": "Paragraph 543 identifies Sam Mendes as a stage and film director; paragraph 539 identifies Ruby Yang as a filmmaker, establishing the shared profession of film directing/filmmaking."
+    }
+  ],
+  "questions_seen": 55,
+  "_id": "5ac3bd0c554299204fd21e21",
+  "correct_answer": "filmmaker.",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

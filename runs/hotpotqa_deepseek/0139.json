@@ -1,0 +1,261 @@
+{
+  "question": "What state was the dissenter in Kessler v. Treat from?",
+  "answer": "Kentucky",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is Kessler v. Treat (e.g., a court case, and what is its subject)?",
+      "retrieved": [
+        {
+          "id": "1383",
+          "text": "Kessler v. Treat\nKessler v. Treat, 205 U.S. 33 (1907), was a decision in which the Supreme Court of the United States adjudicated allegations that prisoners were unlawfully imprisoned by Morgan treat, the United States Marshall for the Eastern District of Virginia. In a one-sentence opinion written by Chief Justice Melville Fuller, the Court identified ten cases for which the Court entered the same decree as the one issued in \"Tinsley v. Treat\". Justice John Marshall Harlan dissented without writing a separate opinion.",
+          "semantic_score": 0.7282735705375671,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1386",
+          "text": "Kessler v. Eldred\nKessler v. Eldred, 206 U.S. 285 (1907) 27 S.Ct. 611, was a United States Supreme Court case in which the Court defined some effects of a court decision that an inventor had not infringed on a patent.",
+          "semantic_score": 0.6907188296318054,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3951",
+          "text": "Monroe v. Pape\nMonroe v. Pape, 365 U.S. 167 (1961) , was a United States Supreme Court case that considered the application of federal civil rights law to constitutional violations by city employees. The case was significant because it held that 42 U.S.C. § 1983, a statutory provision from 1871, could be used to sue state officers who violated a plaintiff's constitutional rights. § 1983 had previously been a relatively obscure and little-used statute, but since Monroe it has become a central part of United States civil rights law.",
+          "semantic_score": 0.4524214267730713,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3949",
+          "text": "United States v. Kirby Lumber Co.\nUnited States v. Kirby Lumber Co., 284 U.S. 1 (1931), was a case in which the United States Supreme Court held that when a corporation settles its debts for less than the face amount, a taxable gain has occurred.",
+          "semantic_score": 0.4474126696586609,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1379",
+          "text": "Lynn Kessler\nLynn Kessler is dedicated public servant. Kessler is best known for serving eighth terms in the Washington State House of RepresentativesDemocratic Party representative, and serving as the House Majority Leader. Kessler represented Washington State's 24th District from 1992-2010.",
+          "semantic_score": 0.4113200902938843,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3950",
+          "text": "United States v. Darby Lumber Co.\nUnited States v. Darby Lumber Co., 312 U.S. 100 (1941) , was a case in which the United States Supreme Court upheld the Fair Labor Standards Act of 1938, holding that the U.S. Congress had the power under the Commerce Clause to regulate employment conditions. The unanimous decision of the Court in this case overturned \"Hammer v. Dagenhart\" 247 U.S. 251 (1918) , limited the application of \"Carter v. Carter Coal Company\" 298 U.S. 238 (1936) , and confirmed the underlying legality of minimum wages held in \"West Coast Hotel Co. v. Parrish\" 300 U.S. 379 (1937) .",
+          "semantic_score": 0.3110729455947876,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4743",
+          "text": "Marie Louise v. Marot\nMarie Louise v. Marot (1836) was a freedom suit heard by the Louisiana state district court and appealed to the Louisiana Supreme Court. The Court held that a slave who is taken to a territory prohibitive of slavery cannot be again reduced to slavery on returning to a territory allowing of slavery. The ruling was cited as precedent to the 1856 landmark \"Dred Scott v. Sandford\" case heard by the U.S. Supreme Court. Supreme Court Justice John McLean cited the precedent in his dissent of the majority ruling. Six of eight justices did not abide by the precedent in what has been considered the worst decision ever made by the Supreme Court.",
+          "semantic_score": 0.35122984647750854,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7495",
+          "text": "United States v. Masonite Corp.\nUnited States v. Masonite Corp., 316 U.S. 265 (1942), is a United States Supreme Court decision that limited the scope of the 1926 Supreme Court decision in the \"General Electric\" case that had exempted patent licensing agreements from antitrust law's prohibition of price fixing. The Court did so by applying the doctrine of the Court's recent \"Interstate Circuit\" hub-and-spoke conspiracy decision.",
+          "semantic_score": 0.36115145683288574,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Kessler v. Treat is a United States Supreme Court case adjudicating allegations that prisoners were unlawfully imprisoned by the U.S. Marshal for the Eastern District of Virginia."
+    },
+    {
+      "step": 2,
+      "sub_question": "Who was the dissenter in Kessler v. Treat?",
+      "retrieved": [
+        {
+          "id": "1383",
+          "text": "Kessler v. Treat\nKessler v. Treat, 205 U.S. 33 (1907), was a decision in which the Supreme Court of the United States adjudicated allegations that prisoners were unlawfully imprisoned by Morgan treat, the United States Marshall for the Eastern District of Virginia. In a one-sentence opinion written by Chief Justice Melville Fuller, the Court identified ten cases for which the Court entered the same decree as the one issued in \"Tinsley v. Treat\". Justice John Marshall Harlan dissented without writing a separate opinion.",
+          "semantic_score": 0.8948785662651062,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1386",
+          "text": "Kessler v. Eldred\nKessler v. Eldred, 206 U.S. 285 (1907) 27 S.Ct. 611, was a United States Supreme Court case in which the Court defined some effects of a court decision that an inventor had not infringed on a patent.",
+          "semantic_score": 0.6234902143478394,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1379",
+          "text": "Lynn Kessler\nLynn Kessler is dedicated public servant. Kessler is best known for serving eighth terms in the Washington State House of RepresentativesDemocratic Party representative, and serving as the House Majority Leader. Kessler represented Washington State's 24th District from 1992-2010.",
+          "semantic_score": 0.5251633524894714,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3947",
+          "text": "Criminal law in the Waite Court\nDuring the tenure of Morrison Waite as Chief Justice of the Supreme Court of the United States (March 4, 1874 through March 23, 1888), the Supreme Court heard an unprecedented volume and frequency of criminal cases. In just fourteen years, the Court heard 106 criminal cases, almost as many cases as the Supreme Court had heard in the period from its creation to the appointment of Waite as Chief Justice. Notable cases include \"United States v. Cruikshank\" (1875), \"United States v. Reese\" (1875), \"Reynolds v. United States\" (1878), \"Wilkerson v. Utah\" (1879), the \"Trade-Mark Cases\" (1879), \"Strauder v. West Virginia\" (1880), \"Pace v. Alabama\" (1883), \"United States v. Harris\" (1883), \"Ex parte Crow Dog\" (1883), \"Hurtado v. California\" (1884), \"Clawson v. United States\" (1885), \"Yick Wo v. Hopkins\" (1886), \"United States v. Kagama\" (1886), \"Ker v. Illinois\" (1886), and \"Mugler v. Kansas\" (1887).",
+          "semantic_score": 0.5017130970954895,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3951",
+          "text": "Monroe v. Pape\nMonroe v. Pape, 365 U.S. 167 (1961) , was a United States Supreme Court case that considered the application of federal civil rights law to constitutional violations by city employees. The case was significant because it held that 42 U.S.C. § 1983, a statutory provision from 1871, could be used to sue state officers who violated a plaintiff's constitutional rights. § 1983 had previously been a relatively obscure and little-used statute, but since Monroe it has become a central part of United States civil rights law.",
+          "semantic_score": 0.44817203283309937,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3955",
+          "text": "Criminal law in the Marshall Court\nThe Marshall Court (1801–1835) heard forty-one criminal law cases, slightly more than one per year. Among such cases are \"United States v. Simms\" (1803), \"United States v. More\" (1805), \"Ex parte Bollman\" (1807), \"United States v. Hudson\" (1812), \"Cohens v. Virginia\" (1821), \"United States v. Perez\" (1824), \"Worcester v. Georgia\" (1832), and \"United States v. Wilson\" (1833).",
+          "semantic_score": 0.3981281518936157,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4743",
+          "text": "Marie Louise v. Marot\nMarie Louise v. Marot (1836) was a freedom suit heard by the Louisiana state district court and appealed to the Louisiana Supreme Court. The Court held that a slave who is taken to a territory prohibitive of slavery cannot be again reduced to slavery on returning to a territory allowing of slavery. The ruling was cited as precedent to the 1856 landmark \"Dred Scott v. Sandford\" case heard by the U.S. Supreme Court. Supreme Court Justice John McLean cited the precedent in his dissent of the majority ruling. Six of eight justices did not abide by the precedent in what has been considered the worst decision ever made by the Supreme Court.",
+          "semantic_score": 0.4143364727497101,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "919",
+          "text": "Rehnquist Court\nThe Rehnquist Court refers to the Supreme Court of the United States from 1986 to 2005, when William Rehnquist served as Chief Justice of the United States. Rehnquist succeeded Warren Burger as Chief Justice after the latter's retirement, and Rehnquist served as Chief Justice until his death in 2005, at which point John Roberts was nominated and confirmed as Rehnquist's replacement. The Rehnquist Court is generally considered to be more conservative than the preceding Burger Court and Warren Court. According to Jeffrey Rosen, Rehnquist combined an amiable nature with great organizational skill, and he \"led a Court that put the brakes on some of the excesses of the Earl Warren era while keeping pace with the sentiments of a majority of the country.\" Biographer John Jenkins argued that Rehnquist politicized the Supreme Court and moved the court and the country to the right. Through its rulings, the Rehnquist Court often promoted a policy of New Federalism in which more power was given to the states at the expense of the federal government. The Rehnquist Court was also notable for its stability, as the same nine justices served together from 1994 to 2005, the longest such stretch in Supreme Court history.",
+          "semantic_score": 0.3695051670074463,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "John Marshall Harlan"
+    },
+    {
+      "step": 3,
+      "sub_question": "What state was that dissenter from?",
+      "retrieved": [
+        {
+          "id": "1387",
+          "text": "John Marshall Harlan\nJohn Marshall Harlan (June 1, 1833October 14, 1911) was an American lawyer and politician from Kentucky who served as an associate justice on the U.S. Supreme Court.",
+          "semantic_score": 0.7198140621185303,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1383",
+          "text": "Kessler v. Treat\nKessler v. Treat, 205 U.S. 33 (1907), was a decision in which the Supreme Court of the United States adjudicated allegations that prisoners were unlawfully imprisoned by Morgan treat, the United States Marshall for the Eastern District of Virginia. In a one-sentence opinion written by Chief Justice Melville Fuller, the Court identified ten cases for which the Court entered the same decree as the one issued in \"Tinsley v. Treat\". Justice John Marshall Harlan dissented without writing a separate opinion.",
+          "semantic_score": 0.40910348296165466,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1380",
+          "text": "Rule of reason\nUpon its development some critics of \"Standard Oil\", including the lone dissenter Justice John Marshall Harlan, argued that \"Standard Oil\" and its rule of reason were a departure from previous Sherman Act case law, which purportedly had interpreted the language of the Sherman Act to hold that all contracts restraining trade were prohibited, regardless of whether the restraint actually produced ill effects. These critics emphasized in particular the Court's decision in \"United States v. Trans-Missouri Freight Association\", 166 U.S. 290 (1897), which contains some language suggesting that a mere restriction on the autonomy of traders would suffice to establish that an agreement restrained trade within the meaning of the Act.",
+          "semantic_score": 0.3935050666332245,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4743",
+          "text": "Marie Louise v. Marot\nMarie Louise v. Marot (1836) was a freedom suit heard by the Louisiana state district court and appealed to the Louisiana Supreme Court. The Court held that a slave who is taken to a territory prohibitive of slavery cannot be again reduced to slavery on returning to a territory allowing of slavery. The ruling was cited as precedent to the 1856 landmark \"Dred Scott v. Sandford\" case heard by the U.S. Supreme Court. Supreme Court Justice John McLean cited the precedent in his dissent of the majority ruling. Six of eight justices did not abide by the precedent in what has been considered the worst decision ever made by the Supreme Court.",
+          "semantic_score": 0.3786172568798065,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3585",
+          "text": "Wendell Ford\nWendell Hampton Ford (September 8, 1924 – January 22, 2015) was an American politician from the Commonwealth of Kentucky. He served for twenty-four years in the U.S. Senate and was the 53rd Governor of Kentucky. He was the first person to be successively elected lieutenant governor, governor and United States senator in Kentucky history. The Senate Democratic whip from 1991 to 1999, he was considered the leader of the state's Democratic Party from his election to governor in 1971 until his retirement from the Senate in 1999. At the time of his retirement, he was the longest-serving senator in Kentucky's history, a mark which was then surpassed by Mitch McConnell in 2009.",
+          "semantic_score": 0.3765183985233307,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3951",
+          "text": "Monroe v. Pape\nMonroe v. Pape, 365 U.S. 167 (1961) , was a United States Supreme Court case that considered the application of federal civil rights law to constitutional violations by city employees. The case was significant because it held that 42 U.S.C. § 1983, a statutory provision from 1871, could be used to sue state officers who violated a plaintiff's constitutional rights. § 1983 had previously been a relatively obscure and little-used statute, but since Monroe it has become a central part of United States civil rights law.",
+          "semantic_score": 0.27038079500198364,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1386",
+          "text": "Kessler v. Eldred\nKessler v. Eldred, 206 U.S. 285 (1907) 27 S.Ct. 611, was a United States Supreme Court case in which the Court defined some effects of a court decision that an inventor had not infringed on a patent.",
+          "semantic_score": 0.23145060241222382,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3947",
+          "text": "Criminal law in the Waite Court\nDuring the tenure of Morrison Waite as Chief Justice of the Supreme Court of the United States (March 4, 1874 through March 23, 1888), the Supreme Court heard an unprecedented volume and frequency of criminal cases. In just fourteen years, the Court heard 106 criminal cases, almost as many cases as the Supreme Court had heard in the period from its creation to the appointment of Waite as Chief Justice. Notable cases include \"United States v. Cruikshank\" (1875), \"United States v. Reese\" (1875), \"Reynolds v. United States\" (1878), \"Wilkerson v. Utah\" (1879), the \"Trade-Mark Cases\" (1879), \"Strauder v. West Virginia\" (1880), \"Pace v. Alabama\" (1883), \"United States v. Harris\" (1883), \"Ex parte Crow Dog\" (1883), \"Hurtado v. California\" (1884), \"Clawson v. United States\" (1885), \"Yick Wo v. Hopkins\" (1886), \"United States v. Kagama\" (1886), \"Ker v. Illinois\" (1886), and \"Mugler v. Kansas\" (1887).",
+          "semantic_score": 0.3187815248966217,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "919",
+          "text": "Rehnquist Court\nThe Rehnquist Court refers to the Supreme Court of the United States from 1986 to 2005, when William Rehnquist served as Chief Justice of the United States. Rehnquist succeeded Warren Burger as Chief Justice after the latter's retirement, and Rehnquist served as Chief Justice until his death in 2005, at which point John Roberts was nominated and confirmed as Rehnquist's replacement. The Rehnquist Court is generally considered to be more conservative than the preceding Burger Court and Warren Court. According to Jeffrey Rosen, Rehnquist combined an amiable nature with great organizational skill, and he \"led a Court that put the brakes on some of the excesses of the Earl Warren era while keeping pace with the sentiments of a majority of the country.\" Biographer John Jenkins argued that Rehnquist politicized the Supreme Court and moved the court and the country to the right. Through its rulings, the Rehnquist Court often promoted a policy of New Federalism in which more power was given to the states at the expense of the federal government. The Rehnquist Court was also notable for its stability, as the same nine justices served together from 1994 to 2005, the longest such stretch in Supreme Court history.",
+          "semantic_score": 0.3609998822212219,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4750",
+          "text": "Sonia Sotomayor\nSonia Maria Sotomayor ( , ] ; born June 25, 1954) is an Associate Justice of the Supreme Court of the United States, serving since August 2009. She has the distinction of being its first justice of Hispanic heritage, the first Latina, its third female justice, and its twelfth Roman Catholic justice.",
+          "semantic_score": 0.22053596377372742,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Kentucky"
+    }
+  ],
+  "links": [
+    {
+      "source": "1383",
+      "target": "1387",
+      "reason": "Paragraph 1383 identifies Justice John Marshall Harlan as the dissenter in Kessler v. Treat; paragraph 1387 identifies Harlan as being from Kentucky, directly bridging the dissenter to his state."
+    }
+  ],
+  "questions_seen": 140,
+  "_id": "5ab2e84855429929539468a6",
+  "correct_answer": "Kentucky",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,863 @@
+{
+  "question": "Who was known for playing a fictionalized version of the wild politician who was the face of communist scare tact's in the early 1950's?",
+  "answer": "Conrad Veidt",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is \"the wild politician who was the face of communist scare tactics in the early 1950's\"?",
+      "retrieved": [
+        {
+          "id": "1442",
+          "text": "Joseph McCarthy\nJoseph Raymond McCarthy (November 14, 1908 – May 2, 1957) was an American politician who served as U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. Beginning in 1950, McCarthy became the most visible public face of a period in the United States in which Cold War tensions fueled fears of widespread Communist subversion. He is known for alleging that numerous Communists and Soviet spies and sympathizers had infiltrated the United States federal government, universities, film industry, and elsewhere. Ultimately, the smear tactics he used led him to be censured by the U.S. Senate. The term \"McCarthyism\", coined in 1950 in reference to McCarthy's practices, was soon applied to similar anti-communist activities. Today, the term is used in reference to what are considered demagogic, reckless, and unsubstantiated accusations, as well as public attacks on the character or patriotism of political opponents.",
+          "semantic_score": 0.523440420627594,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1443",
+          "text": "Lavender scare\nThe lavender scare refers to a witch hunt and the mass firings of gay people in the 1950s from the United States government. It paralleled the anti-communist campaign known as McCarthyism and the Second Red Scare. Gay men and lesbians were said to be security risks and communist sympathizers, which led to the call to remove them from state employment.",
+          "semantic_score": 0.4530763328075409,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8235",
+          "text": "Nikolai Uglanov\nNikolai Aleksandrovich Uglanov (1886 – 1937) was a Russian Bolshevik politician who played an important role in the government of the Soviet Union as a Communist Party leader in the city of Moscow during the 1920s. Uglanov was closely associated with the so-called \"Right Deviation\" associated with Soviet party leader Nikolai Bukharin and he fell from his leadership position during the mass collectivization campaign of 1929. Uglanov was arrested in the summer of 1936 and was executed the following spring during the secret police terror of 1937-38.",
+          "semantic_score": 0.41245442628860474,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3389",
+          "text": "Joseph Stalin\nJoseph Vissarionovich Stalin (18 December 1878 – 5 March 1953) was a Georgian-born Soviet revolutionary and political leader. Governing the Soviet Union as its dictator from the mid-1920s until his death in 1953, he served as General Secretary of the Central Committee of the Communist Party of the Soviet Union from 1922 to 1952 and as Premier of the Soviet Union from 1941 to 1953. Ideologically a Marxist and a Leninist, Stalin helped to formalise these ideas as Marxism–Leninism while his own policies became known as Stalinism.",
+          "semantic_score": 0.40278729796409607,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "821",
+          "text": "Political positions of Norm Coleman\nThe political positions of Norm Coleman have changed dramatically over his career. Originally a Democrat and an anti-war activist as a university student during the Vietnam War, Coleman has since switched parties and is now generally considered a moderate Republican.",
+          "semantic_score": 0.3996696472167969,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3398",
+          "text": "Mir Jafar Baghirov\nMir Jafar Baghirov Abbas oglu (Azerbaijani: \"Mir Cəfər Bağırov Abbas oğlu\" ; 17 September 1896 – 7 May 1956) was the communist leader of the Azerbaijan SSR from 1932 to 1953, under the Soviet leadership of Joseph Stalin.",
+          "semantic_score": 0.3923929035663605,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7456",
+          "text": "Nikolai Krylenko\nNikolai Vasilyevich Krylenko (Russian: Никола́й Васи́льевич Крыле́нко ; May 2, 1885 – July 29, 1938) was a Russian Bolshevik revolutionary and a Soviet politician. Krylenko served in a variety of posts in the Soviet legal system, rising to become People's Commissar for Justice and Prosecutor General of the Russian Soviet Federated Socialist Republic.",
+          "semantic_score": 0.34147992730140686,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "818",
+          "text": "Norm Coleman\nNorman Bertram Coleman Jr., (born August 17, 1949) is an American lobbyist, lawyer and politician. He served as a U.S. Senator from Minnesota from 2003 until 2009. Before that, he was mayor of Saint Paul, Minnesota from 1994 to 2002. Previously a member of the Democratic–Farmer–Labor Party (DFL), Coleman became a Republican in 1996. Coleman was elected to the Senate in 2002 and served one term, losing his 2008 reelection bid by 312 votes (out of over 3 million cast).",
+          "semantic_score": 0.2752905488014221,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Joseph McCarthy"
+    },
+    {
+      "step": 2,
+      "sub_question": "That politician was fictionalized in some work (film, play, etc.).",
+      "retrieved": [
+        {
+          "id": "1442",
+          "text": "Joseph McCarthy\nJoseph Raymond McCarthy (November 14, 1908 – May 2, 1957) was an American politician who served as U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. Beginning in 1950, McCarthy became the most visible public face of a period in the United States in which Cold War tensions fueled fears of widespread Communist subversion. He is known for alleging that numerous Communists and Soviet spies and sympathizers had infiltrated the United States federal government, universities, film industry, and elsewhere. Ultimately, the smear tactics he used led him to be censured by the U.S. Senate. The term \"McCarthyism\", coined in 1950 in reference to McCarthy's practices, was soon applied to similar anti-communist activities. Today, the term is used in reference to what are considered demagogic, reckless, and unsubstantiated accusations, as well as public attacks on the character or patriotism of political opponents.",
+          "semantic_score": 0.6311169266700745,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5936",
+          "text": "List of fictional actors\nFictional stories sometimes feature a fictional movie or play. In these cases, occasionally, a fictional actor appears. In movies, it is not infrequent that a real, famous actor plays the role of a fictional person who is also an actor.",
+          "semantic_score": 0.48966076970100403,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "733",
+          "text": "Christine McCarthy\nChristine M. McCarthy is an American businesswoman and the chief financial officer (CFO) of The Walt Disney Company. McCarthy reports to chief executive officer (CEO) Robert A. Iger.",
+          "semantic_score": 0.4800914227962494,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5679",
+          "text": "Joe Peacott\nJoe Peacott is an individualist anarchist writer based in the United States. He is a leading figure at BAD Press, a publishing outlet for individualist anarchist philosophy. His work on economics and sociology has been published by the Libertarian Alliance and referenced favourably by leading anarchist scholars such as Kevin A. Carson.",
+          "semantic_score": 0.4396515488624573,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2202",
+          "text": "Francis Ford Coppola\nFrancis Ford Coppola ( ; born April 7, 1939), also credited as Francis Coppola, is a semi-retired American film director, producer, screenwriter and film composer. He was a central figure in the New Hollywood wave of filmmaking.",
+          "semantic_score": 0.4126081168651581,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2205",
+          "text": "Francis Ford Coppola Presents\nFrancis Ford Coppola Presents is a lifestyle brand created by Francis Ford Coppola, under which he markets goods from companies he owns or controls. It includes films and videos, resorts, cafes, a literary magazine and a winery.",
+          "semantic_score": 0.2478896975517273,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2197",
+          "text": "Eleanor Coppola\nEleanor Coppola (born May 4, 1936) is an American documentary filmmaker, artist, and writer. She is married to director Francis Ford Coppola. She is most known for her 1991 documentary film \"\" as well as other documentaries chronicling the films of her husband and children. Coppola currently lives on her family's winery in Napa Valley, California.",
+          "semantic_score": 0.25329917669296265,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2198",
+          "text": "Anton Coppola\nAntonio Coppola (born March 21, 1917) is an American opera conductor and composer. He is the uncle of film director Francis Ford Coppola and actress Talia Shire, as well as the grand-uncle of Nicolas Cage, Sofia Coppola, Gian-Carlo Coppola, Jason Schwartzman and Robert Schwartzman, and is the younger brother of American composer and musician Carmine Coppola.",
+          "semantic_score": 0.20812809467315674,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2200",
+          "text": "Gia Coppola\nGian-Carla \"Gia\" Coppola (born January 1, 1987) is an American film director, screenwriter, and actress. She is a granddaughter of Francis Ford Coppola, the daughter of Gian-Carlo Coppola and the niece of Roman Coppola and Sofia Coppola.",
+          "semantic_score": 0.24830317497253418,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "728",
+          "text": "Bob Iger\nRobert Allen Iger ( ; born February 10, 1951) is an American businessman who is chairman and chief executive officer (CEO) of The Walt Disney Company. Before Disney, Iger served as the president of ABC Television from 1994 to 1995 and the president and chief operating officer (COO) of Capital Cities/ABC, Inc. from 1995 until Disney's acquisition of the company in 1996. He was named president and COO of Disney in 2000, and later succeeded Michael Eisner as CEO in 2005, after a successful effort by Roy E. Disney to shake up the management of the company. As part of his yearly compensation, Iger earned $44.9 million in 2015.",
+          "semantic_score": 0.13915656507015228,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Joseph McCarthy"
+    },
+    {
+      "step": 3,
+      "sub_question": "An actor played that fictionalized version.",
+      "retrieved": [
+        {
+          "id": "1442",
+          "text": "Joseph McCarthy\nJoseph Raymond McCarthy (November 14, 1908 – May 2, 1957) was an American politician who served as U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. Beginning in 1950, McCarthy became the most visible public face of a period in the United States in which Cold War tensions fueled fears of widespread Communist subversion. He is known for alleging that numerous Communists and Soviet spies and sympathizers had infiltrated the United States federal government, universities, film industry, and elsewhere. Ultimately, the smear tactics he used led him to be censured by the U.S. Senate. The term \"McCarthyism\", coined in 1950 in reference to McCarthy's practices, was soon applied to similar anti-communist activities. Today, the term is used in reference to what are considered demagogic, reckless, and unsubstantiated accusations, as well as public attacks on the character or patriotism of political opponents.",
+          "semantic_score": 0.5630857348442078,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "733",
+          "text": "Christine McCarthy\nChristine M. McCarthy is an American businesswoman and the chief financial officer (CFO) of The Walt Disney Company. McCarthy reports to chief executive officer (CEO) Robert A. Iger.",
+          "semantic_score": 0.4703308045864105,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5936",
+          "text": "List of fictional actors\nFictional stories sometimes feature a fictional movie or play. In these cases, occasionally, a fictional actor appears. In movies, it is not infrequent that a real, famous actor plays the role of a fictional person who is also an actor.",
+          "semantic_score": 0.4625760614871979,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3853",
+          "text": "Victor Beaumont\nAs Peter Wolff, he appeared in a number of German films (\"Revolt in the Reform School, Der brave Suender\" etc.) and at least one play (\"Die erste Mrs Selby\"). After emigrating to the United Kingdom in the 1930s, he appeared in British films and television dramas from the 1940s and Hollywood films from the 1960s. He is perhaps best known for his portrayals of Nazi German characters in films such as \"Where Eagles Dare\" (1968) in which he played Colonel Weissner, \"Carve Her Name with Pride\" (1958), \"The Guns of Navarone\" (1961) and \"The Heroes of Telemark\" (1965).",
+          "semantic_score": 0.4281916916370392,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6420",
+          "text": "Fearless Frank\nFearless Frank is a 1967 film directed by Philip Kaufman. It is notable as the film debut of Jon Voight. Voight plays a murdered drifter who gets reanimated and turned into a superhero by a scientist (Severn Darden). Other notable cast members include \"The Man With the Golden Arm\" author Nelson Algren as a mobster named Needles, and \"Word Jazz\" vocal artist Ken Nordine as the narrator, credited as \"The Stranger.\"",
+          "semantic_score": 0.4271904528141022,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "728",
+          "text": "Bob Iger\nRobert Allen Iger ( ; born February 10, 1951) is an American businessman who is chairman and chief executive officer (CEO) of The Walt Disney Company. Before Disney, Iger served as the president of ABC Television from 1994 to 1995 and the president and chief operating officer (COO) of Capital Cities/ABC, Inc. from 1995 until Disney's acquisition of the company in 1996. He was named president and COO of Disney in 2000, and later succeeded Michael Eisner as CEO in 2005, after a successful effort by Roy E. Disney to shake up the management of the company. As part of his yearly compensation, Iger earned $44.9 million in 2015.",
+          "semantic_score": 0.11603111028671265,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "730",
+          "text": "Jay Rasulo\nJames A. \"Jay\" Rasulo was the Senior Executive VP and CFO of The Walt Disney Company. On June 30, 2015, Christine McCarthy was announced as his successor. Prior to being appointed CFO, he was chairman of Walt Disney Parks and Resorts from October 2005 until December 2009 when he switched positions with Thomas O. Staggs. He was made the president of the theme park division in September 2002, replacing Paul Pressler.",
+          "semantic_score": 0.1567797213792801,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1440",
+          "text": "Red-baiting\nRed-baiting, also reductio ad Stalinum, is an informal logical fallacy that intends to discredit the validity of an opponent's logical argument by accusing, denouncing, attacking or persecuting an individual or group as communist, socialist, or anarchist, or sympathetic toward communism, socialism, or anarchism. In the United States the term \"red-baiting\" dates from at least 1927. In 1928, black-listing by the Daughters of the American Revolution was characterized as a \"red-baiting relic\". It is a term commonly used in the United States, and in United States history, red-baiting is most often associated with McCarthyism, which originated in the two historic Red Scare periods of the 1920s (First Red Scare) and 1950s (Second Red Scare). In the 21st century, red-baiting does not have quite the same effect it previously did due to the fall of Soviet-style Communism, but some pundits have argued that notable events in current American politics indicate a resurgence of red-baiting consistent with the 1950s.",
+          "semantic_score": 0.2560114562511444,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7760",
+          "text": "Mike Leeder\nMichael William \"Mike\" Leeder is a British actor, casting director, producer and writer born and raised in the UK, who has been based in Hong Kong since 1990. Leeder is considered an authority on Asian Cinema and International Cult and Action Cinema, as well as for his work in front and behind the camera, with his work on such projects as \"Fearless\" (2006), \"The Raid 2\" (2014), \"The Man with the Iron Fists\" (2012), \"Man of Tai Chi\" (2013), \"Ultimate Justice\" (2016) and \"Rogue One\" (2016).",
+          "semantic_score": 0.34049615263938904,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6417",
+          "text": "The Man with the Golden Arm\nThe Man with the Golden Arm is a 1955 American drama film with elements of film noir, based on the novel of the same name by Nelson Algren, which tells the story of a drug addict who gets clean while in prison, but struggles to stay that way in the outside world. Although the addictive drug is never identified in the film, according to the American Film Institute \"most contemporary and modern sources assume that it is heroin\", in contrast to Algren's book which named the drug as morphine. The film stars Frank Sinatra, Eleanor Parker, Kim Novak, Arnold Stang and Darren McGavin. It was adapted for the screen by Walter Newman, Lewis Meltzer and Ben Hecht (uncredited), and directed by Otto Preminger. The film's initial release sparked controversy due to its serious, in-depth treatment of the then-taboo subject of drug addiction.",
+          "semantic_score": 0.32035407423973083,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Jon Voight"
+    },
+    {
+      "step": 4,
+      "sub_question": "We need the name of that actor.",
+      "retrieved": [
+        {
+          "id": "6420",
+          "text": "Fearless Frank\nFearless Frank is a 1967 film directed by Philip Kaufman. It is notable as the film debut of Jon Voight. Voight plays a murdered drifter who gets reanimated and turned into a superhero by a scientist (Severn Darden). Other notable cast members include \"The Man With the Golden Arm\" author Nelson Algren as a mobster named Needles, and \"Word Jazz\" vocal artist Ken Nordine as the narrator, credited as \"The Stranger.\"",
+          "semantic_score": 0.4467410445213318,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2439",
+          "text": "John Erwin\nJohn Lee Erwin (born December 5, 1936) is an American voice actor known for voicing Morris the Cat and He-Man.",
+          "semantic_score": 0.4399403929710388,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5641",
+          "text": "View Askew Productions\nView Askew Productions is an American film and television production company founded by Kevin Smith and Scott Mosier in 1994. Actors Ben Affleck, Jeff Anderson, Matt Damon, Chris Rock, Walter Flanagan, Bryan Johnson, Jason Lee, Jason Mewes, Brian O'Halloran, Ethan Suplee, and Smith himself are just some of the stars that frequently appear in projects under the View Askew banner.",
+          "semantic_score": 0.43218910694122314,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8932",
+          "text": "Brandon Keener\nBrandon James Keener (born October 1, 1974) is an American actor living in Los Angeles, California. He was born and raised in Fort Smith, Arkansas and graduated from University of Arkansas at Fayetteville, where he won an Irene Ryan scholarship for collegiate actors and performed at the Kennedy Center.",
+          "semantic_score": 0.41178029775619507,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2734",
+          "text": "Daniel Kaluuya\nDaniel Kaluuya (born 8 May 1989) is an English actor and writer. Kaluuya is best known for playing Chris Washington in the 2017 horror film \"Get Out\", Posh Kenneth in the E4 teen-drama \"Skins\", and Bing in the \"Black Mirror\" episode \"Fifteen Million Merits\".",
+          "semantic_score": 0.39538106322288513,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5646",
+          "text": "Movies Askew\nMovies Askew is a short film festival run by Kevin Smith and View Askew Productions. \"We've shown you ours. Now show us yours,\" submitters were encouraged. The 12 finalists of 2005 were screened at a gala event in Hollywood, California on September 6, 2006. The audience included a panel of celebrity judges with the likes of Jason Mewes, Scott Mosier and \"Donnie Darko\" director Richard Kelly.",
+          "semantic_score": 0.2527181804180145,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5644",
+          "text": "View Askewniverse\nThe View Askewniverse is a fictional universe created by writer/director Kevin Smith, featured in several films, comics and a television series; it is named for Smith's production company, View Askew Productions. The characters Jay and Silent Bob appear in almost all the View Askewniverse media, and characters from one story often reappear or are referred to in others. Smith often casts the same actors for multiple characters in the universe, sometimes even in the same film; Smith himself portrays the character of Silent Bob.",
+          "semantic_score": 0.2666761577129364,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2442",
+          "text": "Morris the Cat\nMorris the Cat (voiced by John Erwin) is the advertising mascot for 9Lives brand cat food, appearing on its packaging and in many of its television commercials.",
+          "semantic_score": 0.21802836656570435,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9111",
+          "text": "Bryan Johnson (comic book writer)\nBryan Lee Johnson (born December 7, 1967) is an American comic book writer, podcaster, actor and television personality associated with filmmaker Kevin Smith and the View Askewniverse. He is best known by his local fame in New Jersey and appearances in Smith's New Jersey films as comic book fan Steve-Dave Pulasti. He was also the basis for the \"Clerks\" character Randal Graves. Through his friendship with Smith, he was often involved in his productions until Smith moved to Los Angeles. He wrote and directed one film, \"Vulgar\" (2000), for View Askew. He worked briefly at the Los Angeles branch of Smith's comic book store, Jay and Silent Bob's Secret Stash. He became co-host of the \"Tell 'Em Steve-Dave!\" podcast with friend Walt Flanagan and Brian Quinn. He also has co-starred on the AMC reality series \"Comic Book Men\" since 2012.",
+          "semantic_score": 0.29482215642929077,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4255",
+          "text": "Mehrdad Raissi Ardali\nMehrdad Raissi Ardali (Persian: مهرداد رئیسی اردلی‎ ‎ ), born (1978--)20 1978 in Iran, is a prolific Iranian voice actor, dubbing director, founder, director, CEO and Quality Control Manager of Glory Entertainment (The Association of Tehran Young Voice Actors). He has also provided Persian voices for several animation characters, including famous characters such as Donkey in \"Shrek\", Marty in \"Madagascar\", \"\" and \"\", Buck in \"\", Bolt in \"Bolt\", Carl Fredricksen in \"Up\", Flynn Rider in \"Tangled\", The Once-ler in \"The Lorax\", RJ in \"Over the Hedge\", Francesco Bernoulli in \"Cars 2\", Mr. Ping in \"Kung fu Panda\", Ramon in \"Happy Feet 2\", The Man in the Yellow Hat in \"Curious George\", Raoul in \"A Monster in Paris\", Kevin in \"\", Barry in \"Bee Movie\", Bunnymund in \"Rise of the Guardians\", Guy in \"The Croods\" and Kristoff in \"Frozen (2013 film)\".",
+          "semantic_score": 0.3805812895298004,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Jon Voight"
+    },
+    {
+      "step": 5,
+      "sub_question": "Identify the politician known for communist scare tactics in the early 1950s.",
+      "retrieved": [
+        {
+          "id": "1442",
+          "text": "Joseph McCarthy\nJoseph Raymond McCarthy (November 14, 1908 – May 2, 1957) was an American politician who served as U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. Beginning in 1950, McCarthy became the most visible public face of a period in the United States in which Cold War tensions fueled fears of widespread Communist subversion. He is known for alleging that numerous Communists and Soviet spies and sympathizers had infiltrated the United States federal government, universities, film industry, and elsewhere. Ultimately, the smear tactics he used led him to be censured by the U.S. Senate. The term \"McCarthyism\", coined in 1950 in reference to McCarthy's practices, was soon applied to similar anti-communist activities. Today, the term is used in reference to what are considered demagogic, reckless, and unsubstantiated accusations, as well as public attacks on the character or patriotism of political opponents.",
+          "semantic_score": 0.49763303995132446,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1443",
+          "text": "Lavender scare\nThe lavender scare refers to a witch hunt and the mass firings of gay people in the 1950s from the United States government. It paralleled the anti-communist campaign known as McCarthyism and the Second Red Scare. Gay men and lesbians were said to be security risks and communist sympathizers, which led to the call to remove them from state employment.",
+          "semantic_score": 0.42474398016929626,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "821",
+          "text": "Political positions of Norm Coleman\nThe political positions of Norm Coleman have changed dramatically over his career. Originally a Democrat and an anti-war activist as a university student during the Vietnam War, Coleman has since switched parties and is now generally considered a moderate Republican.",
+          "semantic_score": 0.3710455298423767,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5951",
+          "text": "Hubert Humphrey presidential campaign, 1968\nThe Hubert Humphrey presidential campaign of 1968 began when Vice President of the United States Hubert Humphrey of Minnesota decided to seek the Democratic Party nomination for President of the United States following the announcement by President Lyndon B. Johnson that he would not seek the party's nomination. Johnson had been stalled by the anti-Vietnam War candidacy of Senator Eugene McCarthy of Minnesota, who along with Senator Robert F. Kennedy of New York, became the main opponents for Humphrey. The contest between the men featured a battle for control of the Democratic Party, and cast Humphrey's \"old politics\", against the \"new politics\" of McCarthy and Kennedy. The main cause of the division was the Vietnam War, which intensified during Humphrey's tenure as Vice President and grew increasingly unpopular.",
+          "semantic_score": 0.3655712604522705,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3389",
+          "text": "Joseph Stalin\nJoseph Vissarionovich Stalin (18 December 1878 – 5 March 1953) was a Georgian-born Soviet revolutionary and political leader. Governing the Soviet Union as its dictator from the mid-1920s until his death in 1953, he served as General Secretary of the Central Committee of the Communist Party of the Soviet Union from 1922 to 1952 and as Premier of the Soviet Union from 1941 to 1953. Ideologically a Marxist and a Leninist, Stalin helped to formalise these ideas as Marxism–Leninism while his own policies became known as Stalinism.",
+          "semantic_score": 0.365079402923584,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3398",
+          "text": "Mir Jafar Baghirov\nMir Jafar Baghirov Abbas oglu (Azerbaijani: \"Mir Cəfər Bağırov Abbas oğlu\" ; 17 September 1896 – 7 May 1956) was the communist leader of the Azerbaijan SSR from 1932 to 1953, under the Soviet leadership of Joseph Stalin.",
+          "semantic_score": 0.33625635504722595,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "818",
+          "text": "Norm Coleman\nNorman Bertram Coleman Jr., (born August 17, 1949) is an American lobbyist, lawyer and politician. He served as a U.S. Senator from Minnesota from 2003 until 2009. Before that, he was mayor of Saint Paul, Minnesota from 1994 to 2002. Previously a member of the Democratic–Farmer–Labor Party (DFL), Coleman became a Republican in 1996. Coleman was elected to the Senate in 2002 and served one term, losing his 2008 reelection bid by 312 votes (out of over 3 million cast).",
+          "semantic_score": 0.20995301008224487,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8235",
+          "text": "Nikolai Uglanov\nNikolai Aleksandrovich Uglanov (1886 – 1937) was a Russian Bolshevik politician who played an important role in the government of the Soviet Union as a Communist Party leader in the city of Moscow during the 1920s. Uglanov was closely associated with the so-called \"Right Deviation\" associated with Soviet party leader Nikolai Bukharin and he fell from his leadership position during the mass collectivization campaign of 1929. Uglanov was arrested in the summer of 1936 and was executed the following spring during the secret police terror of 1937-38.",
+          "semantic_score": 0.32005178928375244,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6850",
+          "text": "Electoral history of George McGovern\nGeorge McGovern, a Democratic Party politician from South Dakota, was first elected to the United States House of Representatives to represent South Dakota's 1st congressional district in 1956. He was re-elected in 1958, before making an unsuccessful run for the United States Senate in 1960 against Republican incumbent Karl Earl Mundt. After serving in the John F. Kennedy administration as director of the Food for Peace program, McGovern ran again for the Senate and narrowly prevailed over appointed Senator Joseph H. Bottum. In 1968, McGovern unsuccessfully sought the Democratic Party's presidential nomination at the Democratic National Convention and was re-elected to the Senate over former Governor of South Dakota Archie M. Gubbrud. In 1972, McGovern was successful in his campaign for the Democratic presidential nomination, but lost the election in a landslide to incumbent President Richard Nixon. McGovern was re-elected to the Senate in 1974 over Vietnam War veteran Leo K. Thorsness, but lost re-election in 1980 to then-U.S. Representative James Abdnor. McGovern made a final unsuccessful run for president in United States presidential election, 1984.",
+          "semantic_score": 0.2802463173866272,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1440",
+          "text": "Red-baiting\nRed-baiting, also reductio ad Stalinum, is an informal logical fallacy that intends to discredit the validity of an opponent's logical argument by accusing, denouncing, attacking or persecuting an individual or group as communist, socialist, or anarchist, or sympathetic toward communism, socialism, or anarchism. In the United States the term \"red-baiting\" dates from at least 1927. In 1928, black-listing by the Daughters of the American Revolution was characterized as a \"red-baiting relic\". It is a term commonly used in the United States, and in United States history, red-baiting is most often associated with McCarthyism, which originated in the two historic Red Scare periods of the 1920s (First Red Scare) and 1950s (Second Red Scare). In the 21st century, red-baiting does not have quite the same effect it previously did due to the fall of Soviet-style Communism, but some pundits have argued that notable events in current American politics indicate a resurgence of red-baiting consistent with the 1950s.",
+          "semantic_score": 0.3372077941894531,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Joseph McCarthy"
+    },
+    {
+      "step": 6,
+      "sub_question": "Determine in what work (film, play, etc.) a fictionalized version of this politician appeared.",
+      "retrieved": [
+        {
+          "id": "1442",
+          "text": "Joseph McCarthy\nJoseph Raymond McCarthy (November 14, 1908 – May 2, 1957) was an American politician who served as U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. Beginning in 1950, McCarthy became the most visible public face of a period in the United States in which Cold War tensions fueled fears of widespread Communist subversion. He is known for alleging that numerous Communists and Soviet spies and sympathizers had infiltrated the United States federal government, universities, film industry, and elsewhere. Ultimately, the smear tactics he used led him to be censured by the U.S. Senate. The term \"McCarthyism\", coined in 1950 in reference to McCarthy's practices, was soon applied to similar anti-communist activities. Today, the term is used in reference to what are considered demagogic, reckless, and unsubstantiated accusations, as well as public attacks on the character or patriotism of political opponents.",
+          "semantic_score": 0.60935378074646,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "733",
+          "text": "Christine McCarthy\nChristine M. McCarthy is an American businesswoman and the chief financial officer (CFO) of The Walt Disney Company. McCarthy reports to chief executive officer (CEO) Robert A. Iger.",
+          "semantic_score": 0.456133097410202,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5003",
+          "text": "Weekend at Bernie's\nWeekend at Bernie's is a 1989 American comedy film written by Robert Klane and directed by Ted Kotcheff. The film stars Andrew McCarthy and Jonathan Silverman as young insurance corporation employees who discover their boss, Bernie, dead. While attempting to convince people that Bernie is still alive, they discover that Bernie had ordered their deaths to cover up his embezzlement.",
+          "semantic_score": 0.43350541591644287,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5936",
+          "text": "List of fictional actors\nFictional stories sometimes feature a fictional movie or play. In these cases, occasionally, a fictional actor appears. In movies, it is not infrequent that a real, famous actor plays the role of a fictional person who is also an actor.",
+          "semantic_score": 0.41642147302627563,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5002",
+          "text": "Night of the Running Man\nNight of the Running Man is a 1995 American crime thriller directed by Mark L. Lester and written by Lee Wells, who adapted it from his novel of the same name. It stars Andrew McCarthy and Scott Glenn. The film debuted on HBO before being released direct-to-video. McCarthy plays a cab driver who stumbles upon a large sum of money stolen from the mob. When mob hit men target him, he flees.",
+          "semantic_score": 0.3982755243778229,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "728",
+          "text": "Bob Iger\nRobert Allen Iger ( ; born February 10, 1951) is an American businessman who is chairman and chief executive officer (CEO) of The Walt Disney Company. Before Disney, Iger served as the president of ABC Television from 1994 to 1995 and the president and chief operating officer (COO) of Capital Cities/ABC, Inc. from 1995 until Disney's acquisition of the company in 1996. He was named president and COO of Disney in 2000, and later succeeded Michael Eisner as CEO in 2005, after a successful effort by Roy E. Disney to shake up the management of the company. As part of his yearly compensation, Iger earned $44.9 million in 2015.",
+          "semantic_score": 0.07723862677812576,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "730",
+          "text": "Jay Rasulo\nJames A. \"Jay\" Rasulo was the Senior Executive VP and CFO of The Walt Disney Company. On June 30, 2015, Christine McCarthy was announced as his successor. Prior to being appointed CFO, he was chairman of Walt Disney Parks and Resorts from October 2005 until December 2009 when he switched positions with Thomas O. Staggs. He was made the president of the theme park division in September 2002, replacing Paul Pressler.",
+          "semantic_score": 0.11311294138431549,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1440",
+          "text": "Red-baiting\nRed-baiting, also reductio ad Stalinum, is an informal logical fallacy that intends to discredit the validity of an opponent's logical argument by accusing, denouncing, attacking or persecuting an individual or group as communist, socialist, or anarchist, or sympathetic toward communism, socialism, or anarchism. In the United States the term \"red-baiting\" dates from at least 1927. In 1928, black-listing by the Daughters of the American Revolution was characterized as a \"red-baiting relic\". It is a term commonly used in the United States, and in United States history, red-baiting is most often associated with McCarthyism, which originated in the two historic Red Scare periods of the 1920s (First Red Scare) and 1950s (Second Red Scare). In the 21st century, red-baiting does not have quite the same effect it previously did due to the fall of Soviet-style Communism, but some pundits have argued that notable events in current American politics indicate a resurgence of red-baiting consistent with the 1950s.",
+          "semantic_score": 0.2914681136608124,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3938",
+          "text": "The Night Manager (miniseries)\nThe Night Manager is a British television serial directed by Susanne Bier and starring Tom Hiddleston, Hugh Laurie, Olivia Colman, David Harewood, Tom Hollander, and Elizabeth Debicki. It is based on the 1993 novel of the same name by John le Carré and adapted by David Farr to the present day. The six-part series began broadcasting on BBC One on 21 February 2016. In the United States, it began on 19 April 2016 on AMC. IMG sold the series internationally to over 180 countries. A second series has been commissioned by the BBC and AMC.",
+          "semantic_score": 0.14643554389476776,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8094",
+          "text": "The Flight in the Night\nThe Flight in the Night (German:Die Flucht in die Nacht) is a 1926 German silent film directed by Amleto Palermi and starring Conrad Veidt, Robert Scholz and Angelo Ferrari. It was based on the play \"Henry IV\" by Luigi Pirandello. The art direction was by Hermann Warm. It was shot on location in Italy.",
+          "semantic_score": 0.31301283836364746,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The Flight in the Night"
+    },
+    {
+      "step": 7,
+      "sub_question": "Identify the actor who played that fictionalized version.",
+      "retrieved": [
+        {
+          "id": "8094",
+          "text": "The Flight in the Night\nThe Flight in the Night (German:Die Flucht in die Nacht) is a 1926 German silent film directed by Amleto Palermi and starring Conrad Veidt, Robert Scholz and Angelo Ferrari. It was based on the play \"Henry IV\" by Luigi Pirandello. The art direction was by Hermann Warm. It was shot on location in Italy.",
+          "semantic_score": 0.647595226764679,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8391",
+          "text": "Great Moments in Aviation\nGreat Moments in Aviation is a 1994 British romantic drama film set on a 1950s passenger liner. The film follows Gabriel Angel (Rakie Ayola), a young Caribbean aviator who falls in love with the forger Duncan Stewart (Jonathan Pryce) on her journey to England. Stewart is pursued by his nemesis Rex Goodyear (John Hurt), and the group are supported by Dr Angela Bead (Vanessa Redgrave) and Miss Gwendolyn Quim (Dorothy Tutin), retired missionaries who become lovers during the voyage.",
+          "semantic_score": 0.463566392660141,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5936",
+          "text": "List of fictional actors\nFictional stories sometimes feature a fictional movie or play. In these cases, occasionally, a fictional actor appears. In movies, it is not infrequent that a real, famous actor plays the role of a fictional person who is also an actor.",
+          "semantic_score": 0.4558798670768738,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5002",
+          "text": "Night of the Running Man\nNight of the Running Man is a 1995 American crime thriller directed by Mark L. Lester and written by Lee Wells, who adapted it from his novel of the same name. It stars Andrew McCarthy and Scott Glenn. The film debuted on HBO before being released direct-to-video. McCarthy plays a cab driver who stumbles upon a large sum of money stolen from the mob. When mob hit men target him, he flees.",
+          "semantic_score": 0.45411980152130127,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "883",
+          "text": "Unidentified Flying Oddball\nUnidentified Flying Oddball (also known as The Spaceman and King Arthur and A Spaceman in King Arthur's Court) is a 1979 film adaptation of Mark Twain's \"A Connecticut Yankee in King Arthur's Court\", directed by Russ Mayberry and produced by Walt Disney Productions. Subsequently re-released in the United States under the titles \"The Spaceman and King Arthur\" and \"A Spaceman in King Arthur’s Court\", the film starred Dennis Dugan as NASA employee Tom Trimble who unintentionally travels back in time with his look-alike android Hermes. Trimble’s NASA spacecraft travels faster than the speed of light, landing him and the android near King Arthur’s Camelot, where – with the aid of their 20th-century technology – they must defeat a plot by the evil Sir Mordred and Merlin to oust King Arthur from the throne.",
+          "semantic_score": 0.4443329870700836,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "882",
+          "text": "A Kid in King Arthur's Court\nA Kid in King Arthur's Court is a 1995 Disney family film directed by Michael Gottlieb. It is based on the famous Mark Twain novel \"A Connecticut Yankee in King Arthur's Court\" (previously filmed by Disney as \"Unidentified Flying Oddball\" in 1978 in which Ron Moody also played Merlin), transplanted into the twentieth century. Trimark later released a sequel, \"A Kid in Aladdin's Palace\", in 1998, but without Disney's involvement. Since Trimark's dissolution, the sequel is now distributed by Lions Gate Entertainment.",
+          "semantic_score": 0.284915953874588,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3938",
+          "text": "The Night Manager (miniseries)\nThe Night Manager is a British television serial directed by Susanne Bier and starring Tom Hiddleston, Hugh Laurie, Olivia Colman, David Harewood, Tom Hollander, and Elizabeth Debicki. It is based on the 1993 novel of the same name by John le Carré and adapted by David Farr to the present day. The six-part series began broadcasting on BBC One on 21 February 2016. In the United States, it began on 19 April 2016 on AMC. IMG sold the series internationally to over 180 countries. A second series has been commissioned by the BBC and AMC.",
+          "semantic_score": 0.3931337296962738,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3903",
+          "text": "The House of Lies (1926 film)\nThe House of Lies (German:Das Haus der Lüge) is a 1926 German silent drama film directed by Lupu Pick and starring Werner Krauss, Mary Johnson and Lucie Höflich. It is an adaptation of Ibsen's 1884 play \"The Wild Duck\". The film's art direction was by Albin Grau.",
+          "semantic_score": 0.34360265731811523,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Conrad Veidt"
+    },
+    {
+      "step": 8,
+      "sub_question": "Who was the politician known as the face of communist scare tactics in the early 1950s?",
+      "retrieved": [
+        {
+          "id": "1442",
+          "text": "Joseph McCarthy\nJoseph Raymond McCarthy (November 14, 1908 – May 2, 1957) was an American politician who served as U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. Beginning in 1950, McCarthy became the most visible public face of a period in the United States in which Cold War tensions fueled fears of widespread Communist subversion. He is known for alleging that numerous Communists and Soviet spies and sympathizers had infiltrated the United States federal government, universities, film industry, and elsewhere. Ultimately, the smear tactics he used led him to be censured by the U.S. Senate. The term \"McCarthyism\", coined in 1950 in reference to McCarthy's practices, was soon applied to similar anti-communist activities. Today, the term is used in reference to what are considered demagogic, reckless, and unsubstantiated accusations, as well as public attacks on the character or patriotism of political opponents.",
+          "semantic_score": 0.5043438076972961,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1443",
+          "text": "Lavender scare\nThe lavender scare refers to a witch hunt and the mass firings of gay people in the 1950s from the United States government. It paralleled the anti-communist campaign known as McCarthyism and the Second Red Scare. Gay men and lesbians were said to be security risks and communist sympathizers, which led to the call to remove them from state employment.",
+          "semantic_score": 0.41445231437683105,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8235",
+          "text": "Nikolai Uglanov\nNikolai Aleksandrovich Uglanov (1886 – 1937) was a Russian Bolshevik politician who played an important role in the government of the Soviet Union as a Communist Party leader in the city of Moscow during the 1920s. Uglanov was closely associated with the so-called \"Right Deviation\" associated with Soviet party leader Nikolai Bukharin and he fell from his leadership position during the mass collectivization campaign of 1929. Uglanov was arrested in the summer of 1936 and was executed the following spring during the secret police terror of 1937-38.",
+          "semantic_score": 0.39529964327812195,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1078",
+          "text": "Conrad IV of Bussnang\nConrad IV of Bussnang or of Bußlingen (died 12 March 1471, Rufach) was a 15th-century Roman Catholic clergyman. He was prince-bishop of Strasbourg from 1439, under emperor Albert II of Germany, pope Eugene IV and his metropolitan bishop Dietrich Schenk von Erbach, bishop of Mainz.",
+          "semantic_score": 0.39438268542289734,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5713",
+          "text": "Alfred Jodl\nAlfred Josef Ferdinand Jodl (   ; 10 May 1890 – 16 October 1946) was a German general and war criminal during World War II, who served as the Chief of the Operations Staff of the Armed Forces High Command (Oberkommando der Wehrmacht).",
+          "semantic_score": 0.37849879264831543,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1071",
+          "text": "Conrad IV of Germany\nConrad (25 April 1228 – 21 May 1254), a member of the Hohenstaufen dynasty, was the only son of Emperor Frederick II from his second marriage with Queen Isabella II of Jerusalem. He inherited the title of a King of Jerusalem (as Conrad II) upon the death of his mother in childbed. Appointed Duke of Swabia in 1235, his father had him elected King of Germany (King of the Romans) and crowned King of Italy (as Conrad IV) in 1237. After the emperor was deposed and died in 1250, he ruled as King of Sicily (Conrad I) until his death.",
+          "semantic_score": 0.325639933347702,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7456",
+          "text": "Nikolai Krylenko\nNikolai Vasilyevich Krylenko (Russian: Никола́й Васи́льевич Крыле́нко ; May 2, 1885 – July 29, 1938) was a Russian Bolshevik revolutionary and a Soviet politician. Krylenko served in a variety of posts in the Soviet legal system, rising to become People's Commissar for Justice and Prosecutor General of the Russian Soviet Federated Socialist Republic.",
+          "semantic_score": 0.2736910879611969,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7145",
+          "text": "Franz Halder\nFranz Halder (30 June 1884 – 2 April 1972) was a German general and the chief of the \"Oberkommando des Heeres\" staff (OKH, Army High Command) from 1938 until September 1942, when he was dismissed after frequent disagreements with Adolf Hitler. Until December 1941 Halder's military position corresponded to the old Chief of the General Staff position, which during World War I had been the highest military office in the German Imperial Army. Halder's diary during his time as chief of OKH General Staff has been a source for authors that have written about such subjects as Hitler, World War II and the Nazi Party. In William Shirer's \"The Rise and Fall of the Third Reich\", Halder's diary is cited hundreds of times.",
+          "semantic_score": 0.2076517790555954,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1070",
+          "text": "Conradin\nConrad (25 March 1252 – 29 October 1268), called \"the Younger\" or \"the Boy\", but usually known by the diminutive Conradin (German: \"Konradin\" , Italian: \"Corradino\" ), was the Duke of Swabia (1254–1268, as Conrad IV), King of Jerusalem (1254–1268, as Conrad III), and King of Sicily (1254–1258, \"de jure\" until 1268, as Conrad II).",
+          "semantic_score": 0.3761056959629059,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3389",
+          "text": "Joseph Stalin\nJoseph Vissarionovich Stalin (18 December 1878 – 5 March 1953) was a Georgian-born Soviet revolutionary and political leader. Governing the Soviet Union as its dictator from the mid-1920s until his death in 1953, he served as General Secretary of the Central Committee of the Communist Party of the Soviet Union from 1922 to 1952 and as Premier of the Soviet Union from 1941 to 1953. Ideologically a Marxist and a Leninist, Stalin helped to formalise these ideas as Marxism–Leninism while his own policies became known as Stalinism.",
+          "semantic_score": 0.31976640224456787,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Joseph McCarthy"
+    },
+    {
+      "step": 9,
+      "sub_question": "In what production was a fictionalized version of this politician portrayed?",
+      "retrieved": [
+        {
+          "id": "1442",
+          "text": "Joseph McCarthy\nJoseph Raymond McCarthy (November 14, 1908 – May 2, 1957) was an American politician who served as U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. Beginning in 1950, McCarthy became the most visible public face of a period in the United States in which Cold War tensions fueled fears of widespread Communist subversion. He is known for alleging that numerous Communists and Soviet spies and sympathizers had infiltrated the United States federal government, universities, film industry, and elsewhere. Ultimately, the smear tactics he used led him to be censured by the U.S. Senate. The term \"McCarthyism\", coined in 1950 in reference to McCarthy's practices, was soon applied to similar anti-communist activities. Today, the term is used in reference to what are considered demagogic, reckless, and unsubstantiated accusations, as well as public attacks on the character or patriotism of political opponents.",
+          "semantic_score": 0.7186444401741028,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "733",
+          "text": "Christine McCarthy\nChristine M. McCarthy is an American businesswoman and the chief financial officer (CFO) of The Walt Disney Company. McCarthy reports to chief executive officer (CEO) Robert A. Iger.",
+          "semantic_score": 0.4708622097969055,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5003",
+          "text": "Weekend at Bernie's\nWeekend at Bernie's is a 1989 American comedy film written by Robert Klane and directed by Ted Kotcheff. The film stars Andrew McCarthy and Jonathan Silverman as young insurance corporation employees who discover their boss, Bernie, dead. While attempting to convince people that Bernie is still alive, they discover that Bernie had ordered their deaths to cover up his embezzlement.",
+          "semantic_score": 0.4392698407173157,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "819",
+          "text": "Jim Cohen\nJim Cohen (born August 2, 1942) is an American human rights activist, attorney, environmentalist, and former candidate for the United States Senate seat from Minnesota then held by Republican Norm Coleman. Cohen sought the endorsement of the Minnesota Democratic-Farmer-Labor Party, but withdrew his candidacy after trailing far behind Al Franken, who subsequently was elected U.S. Senator.",
+          "semantic_score": 0.4087318181991577,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5679",
+          "text": "Joe Peacott\nJoe Peacott is an individualist anarchist writer based in the United States. He is a leading figure at BAD Press, a publishing outlet for individualist anarchist philosophy. His work on economics and sociology has been published by the Libertarian Alliance and referenced favourably by leading anarchist scholars such as Kevin A. Carson.",
+          "semantic_score": 0.4028693437576294,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "728",
+          "text": "Bob Iger\nRobert Allen Iger ( ; born February 10, 1951) is an American businessman who is chairman and chief executive officer (CEO) of The Walt Disney Company. Before Disney, Iger served as the president of ABC Television from 1994 to 1995 and the president and chief operating officer (COO) of Capital Cities/ABC, Inc. from 1995 until Disney's acquisition of the company in 1996. He was named president and COO of Disney in 2000, and later succeeded Michael Eisner as CEO in 2005, after a successful effort by Roy E. Disney to shake up the management of the company. As part of his yearly compensation, Iger earned $44.9 million in 2015.",
+          "semantic_score": 0.11204729229211807,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "822",
+          "text": "Al Franken\nAlan Stuart \"Al\" Franken (born May 21, 1951) is an American writer, comedian, and politician. Since 2009, he has been the junior United States Senator from Minnesota. He became well known in the 1970s and 1980s as a writer and performer on the television comedy show \"Saturday Night Live\". After decades as a comedic actor and writer, he became a prominent liberal political activist. Franken was first elected to the United States Senate in 2008 in a razor-thin victory over incumbent Republican Senator Norm Coleman, and then won re-election in 2014 over Republican challenger Mike McFadden. Franken is a member of the Minnesota Democratic–Farmer–Labor Party (DFL), an affiliate of the Democratic Party.",
+          "semantic_score": 0.29735004901885986,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "730",
+          "text": "Jay Rasulo\nJames A. \"Jay\" Rasulo was the Senior Executive VP and CFO of The Walt Disney Company. On June 30, 2015, Christine McCarthy was announced as his successor. Prior to being appointed CFO, he was chairman of Walt Disney Parks and Resorts from October 2005 until December 2009 when he switched positions with Thomas O. Staggs. He was made the president of the theme park division in September 2002, replacing Paul Pressler.",
+          "semantic_score": 0.15061132609844208,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "818",
+          "text": "Norm Coleman\nNorman Bertram Coleman Jr., (born August 17, 1949) is an American lobbyist, lawyer and politician. He served as a U.S. Senator from Minnesota from 2003 until 2009. Before that, he was mayor of Saint Paul, Minnesota from 1994 to 2002. Previously a member of the Democratic–Farmer–Labor Party (DFL), Coleman became a Republican in 1996. Coleman was elected to the Senate in 2002 and served one term, losing his 2008 reelection bid by 312 votes (out of over 3 million cast).",
+          "semantic_score": 0.1716022789478302,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1440",
+          "text": "Red-baiting\nRed-baiting, also reductio ad Stalinum, is an informal logical fallacy that intends to discredit the validity of an opponent's logical argument by accusing, denouncing, attacking or persecuting an individual or group as communist, socialist, or anarchist, or sympathetic toward communism, socialism, or anarchism. In the United States the term \"red-baiting\" dates from at least 1927. In 1928, black-listing by the Daughters of the American Revolution was characterized as a \"red-baiting relic\". It is a term commonly used in the United States, and in United States history, red-baiting is most often associated with McCarthyism, which originated in the two historic Red Scare periods of the 1920s (First Red Scare) and 1950s (Second Red Scare). In the 21st century, red-baiting does not have quite the same effect it previously did due to the fall of Soviet-style Communism, but some pundits have argued that notable events in current American politics indicate a resurgence of red-baiting consistent with the 1950s.",
+          "semantic_score": 0.34498846530914307,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The Flight in the Night"
+    },
+    {
+      "step": 10,
+      "sub_question": "Who played that fictionalized version?",
+      "retrieved": [
+        {
+          "id": "8094",
+          "text": "The Flight in the Night\nThe Flight in the Night (German:Die Flucht in die Nacht) is a 1926 German silent film directed by Amleto Palermi and starring Conrad Veidt, Robert Scholz and Angelo Ferrari. It was based on the play \"Henry IV\" by Luigi Pirandello. The art direction was by Hermann Warm. It was shot on location in Italy.",
+          "semantic_score": 0.6918695569038391,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8391",
+          "text": "Great Moments in Aviation\nGreat Moments in Aviation is a 1994 British romantic drama film set on a 1950s passenger liner. The film follows Gabriel Angel (Rakie Ayola), a young Caribbean aviator who falls in love with the forger Duncan Stewart (Jonathan Pryce) on her journey to England. Stewart is pursued by his nemesis Rex Goodyear (John Hurt), and the group are supported by Dr Angela Bead (Vanessa Redgrave) and Miss Gwendolyn Quim (Dorothy Tutin), retired missionaries who become lovers during the voyage.",
+          "semantic_score": 0.470332533121109,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5002",
+          "text": "Night of the Running Man\nNight of the Running Man is a 1995 American crime thriller directed by Mark L. Lester and written by Lee Wells, who adapted it from his novel of the same name. It stars Andrew McCarthy and Scott Glenn. The film debuted on HBO before being released direct-to-video. McCarthy plays a cab driver who stumbles upon a large sum of money stolen from the mob. When mob hit men target him, he flees.",
+          "semantic_score": 0.46779271960258484,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4099",
+          "text": "Karutha Rathrikal\nKarutha Rathrikal (\"Dark Nights\") is a 1967 Indian Malayalam-language science fiction film. An adaptation of the novel \"Strange Case of Dr Jekyll and Mr Hyde\" by Robert Louis Stevenson, it was the first science fiction film in the history of Malayalam cinema.",
+          "semantic_score": 0.4618818163871765,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6507",
+          "text": "Innerspace\nInnerspace is a 1987 American science fiction comedy film directed by Joe Dante and produced by Michael Finnell. Steven Spielberg served as executive producer. The film was inspired by the 1966 science fiction film \"Fantastic Voyage\". It stars Dennis Quaid, Martin Short and Meg Ryan, with Robert Picardo and Kevin McCarthy, with music composed by Jerry Goldsmith. It earned well over $25 million in its domestic gross revenue and won an Oscar, the only film directed by Dante to do so.",
+          "semantic_score": 0.43122708797454834,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8524",
+          "text": "Sathish Kalathil\nSathish Kalathil (മലയാളം: ) is an Indian film and documentary Director and Producer in malayalam. He is also Story Writer, and Lyricist. His experimental works are well known and appropriately discussed in Malayalam Cinema industry and his debut movie Jalachhayam (2010) was well discussed according to its experimental approach. Actually, his first venture was in 2008 named Veena Vaadanam, a documentary film about Art (Painting) and that was his first experimental entry in movie. In 2012, he directed Laloorinu Parayanullathu, a social committed documentary film about Municipal solid waste.",
+          "semantic_score": 0.17901960015296936,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3938",
+          "text": "The Night Manager (miniseries)\nThe Night Manager is a British television serial directed by Susanne Bier and starring Tom Hiddleston, Hugh Laurie, Olivia Colman, David Harewood, Tom Hollander, and Elizabeth Debicki. It is based on the 1993 novel of the same name by John le Carré and adapted by David Farr to the present day. The six-part series began broadcasting on BBC One on 21 February 2016. In the United States, it began on 19 April 2016 on AMC. IMG sold the series internationally to over 180 countries. A second series has been commissioned by the BBC and AMC.",
+          "semantic_score": 0.40159833431243896,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3903",
+          "text": "The House of Lies (1926 film)\nThe House of Lies (German:Das Haus der Lüge) is a 1926 German silent drama film directed by Lupu Pick and starring Werner Krauss, Mary Johnson and Lucie Höflich. It is an adaptation of Ibsen's 1884 play \"The Wild Duck\". The film's art direction was by Albin Grau.",
+          "semantic_score": 0.39624321460723877,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4101",
+          "text": "Science fiction films in India\nThe genre of science fiction has been prevalent in the Indian film industry since the second half of the 20th century. Beginning in 1952, the film \"Kaadu\" was made, which was a Tamil-American co-production. \"The Alien\" was a science fiction film under production in the late 1960s which was eventually cancelled. The film was being directed by Bengali Indian director Satyajit Ray and produced by Hollywood studio Columbia Pictures. The script was written by Ray in 1967, based on \"Bankubabur Bandhu\", a Bengali story he had written in 1962 for \"Sandesh\", the Ray family magazine. In 1987, the superhero film \"Mr. India\" was a huge success which strengthened the hold of sci-fi films in India, especially Bollywood. \"Indiatimes Movies\" ranks the movie amongst the \"Top 25 Must See Bollywood Films\". \"Mr. India\" brought the idea of science fiction to the general people in India. In 2003, the blockbuster film \"Koi... Mil Gaya\" marked the beginning of the successful Krrish film series, which is the first sci-fi/superhero film series in Indian cinema. The 2010 Tamil film \"Enthiran\" starring Rajinikanth and Aishwarya Rai is the most expensive and most successful sci/fi film ever produced in India.",
+          "semantic_score": 0.2698722779750824,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Conrad Veidt"
+    }
+  ],
+  "links": [
+    {
+      "source": "1442",
+      "target": "8094",
+      "reason": "Paragraph 1442 identifies Joseph McCarthy as the face of early-1950s communist scare tactics; paragraph 8094 identifies The Flight in the Night as a film based on Pirandello's Henry IV, providing the work in which a fictionalized version was portrayed."
+    }
+  ],
+  "questions_seen": 146,
+  "_id": "5ab298fb554299449642c922",
+  "correct_answer": "James Gregory",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

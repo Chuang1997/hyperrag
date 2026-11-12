@@ -1,0 +1,195 @@
+{
+  "question": "Which breed, Chinese Chongqing Dog or Kanni, is used for hunting?",
+  "answer": "Both the Chinese Chongqing Dog and the Kanni are used for hunting.",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is the Chinese Chongqing Dog breed used for?",
+      "retrieved": [
+        {
+          "id": "1573",
+          "text": "Chinese Chongqing Dog\nThe Chinese Chongqing Dog is a rare breed of dog native to the Chongqing city of China. In its early years, it was used for hunting wild boar and rabbits, but it's now used in China to protect families and belongings. They are an ancient, natural breed said to have existed for 2,000 years since the time of the Han Dynasty in Ancient China. After the establishment of the People's Republic of China in 1949, the breed's numbers were greatly reduced, and only people in rural communities still kept it; the breed is still rare, even in China.",
+          "semantic_score": 0.8053524494171143,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1575",
+          "text": "Tugou\nTugou (土狗, pinyin: \"tǔ gǒu\"), literally means Native Dog in Mandarin Chinese, is the general name for several dog breeds originated from China and still abundantly exists across the country today. Tugou includes the most popular Chinese dog breed - the Chinese Field Dog (, pinyin: \"zhōng huá tián yuán quǎn\"), Chinese Chongqing Dog, Xiasi Dog, and several other native dog breeds distributed across China. They are roughly 45–50 cm tall at the shoulder.",
+          "semantic_score": 0.5863896012306213,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1571",
+          "text": "Chongqing Dangdai Lifan F.C.\nChongqing Dangdai Lifan () is a professional Chinese football club that currently participates in the Chinese Super League under licence from the Chinese Football Association (CFA). The team is based in Chongqing and their home stadium is the Chongqing Olympic Sports Center that has a seating capacity of 58,680. They are owned by Dangdai International Group.",
+          "semantic_score": 0.5568971037864685,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7189",
+          "text": "Sanxiang noodle\nSanxiang noodle ( ) is one of the famous local food of Zhongshan city, Guangdong province, China. It has a history of more than 200 years. Because of the special recipe and techniques, the noodle is round and stretchy, which is similar to Guiling noodle, another well-known noodle of China. There are many different types of sanxiang noodle according to people’s favor. People usually eat it with the company of meat, chicken, vegetables, roast pork, pork liver and so on. Everyone can make their favorite Sanxiang noodle. They can boil it as well as fry it.",
+          "semantic_score": 0.5023654103279114,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7921",
+          "text": "Chien Français Blanc et Orange\nThe Chien Français Blanc et Orange (FCI No.316) is a breed of dog of the scenthound type, originating in France. The breed is used for hunting in packs and descends from the old Hound of Saintonge type of large hunting dog.",
+          "semantic_score": 0.46799683570861816,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7924",
+          "text": "Chien Français Blanc et Noir\nThe Chien Français Blanc et Noir (FCI No.220) translated into English as the French White and Black Hound, is a breed of dog of the scenthound type, originating in France. The breed is used for hunting in packs and descends from the old Hound of Saintonge type of large hunting dog.",
+          "semantic_score": 0.4623401463031769,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7922",
+          "text": "Grand Anglo-Français Blanc et Orange\nThe Grand Anglo-Français Blanc et Orange (FCI No.324) translated into English as the Great Anglo-French White and Orange Hound, is a breed of dog used in hunting as a scenthound, usually in packs. It is one of the Anglo-French hound breeds which were created by crossing French scenthounds with English (Anglo) foxhounds.",
+          "semantic_score": 0.42637312412261963,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7920",
+          "text": "Chien Français Tricolore\nThe Chien Français Tricolore (FCI No.219) translated into English as the French Tricolour Hound, is a breed of dog of the scenthound type, originating in France. The breed is used for hunting in packs.",
+          "semantic_score": 0.4644518494606018,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7919",
+          "text": "Grand Anglo-Français Blanc et Noir\nThe Grand Anglo-Français Blanc et Noir (FCI No.323) translated into English as the Great Anglo-French White and Black Hound, is a breed of dog used in hunting as a scenthound, usually in packs. It is one of the Anglo-French hound breeds which were created by crossing French scenthounds with English (Anglo) Foxhounds.",
+          "semantic_score": 0.42852723598480225,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Hunting wild boar and rabbits, and protecting families and belongings."
+    },
+    {
+      "step": 2,
+      "sub_question": "What is the Kanni breed used for?",
+      "retrieved": [
+        {
+          "id": "1574",
+          "text": "Kanni\nThe Kanni, which means maiden, is a rare indigenous South Indian sighthound breed of dog found in the state of Tamil Nadu. The breed is used mainly for coursing game.",
+          "semantic_score": 0.6248551607131958,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3672",
+          "text": "Foxhound\nA foxhound is a type of large hunting hound bred for strong hunting instincts, great energy, and, like all scent hounds, a keen sense of smell. In fox hunting, the foxhound's namesake, packs of foxhounds track quarry, followed—usually on horseback—by the hunters, sometimes for several miles at a stretch; moreover, foxhounds also sometimes guard sheep and houses.",
+          "semantic_score": 0.4475833475589752,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3981",
+          "text": "Villano de las Encartaciones\nThe Villano de Las Encartaciones (Basque: \"Enkarterriko billano\" , Cantabrian: \"Villanu\", English: Villein of las Encartaciones ) is a Spanish working dog originated in Las Encartaciones, a comarca of the province of Biscay, in the Basque country, eastern Cantabria and northern Burgos. There are less than 100 of them in existence. The Villano derived from the Spanish Bulldog, of which it represents a lighter, faster and more agile version. The dog is used to catch Monchina cattle, which are raised in a feral state in northern Spain. The Villano is also used for boar hunting given its qualities as a catch dog. Males stand 60 to 65 cm at the shoulder and weigh up to 35 kg.",
+          "semantic_score": 0.4455573558807373,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4225",
+          "text": "Snipe hunt\nA snipe hunt is a type of practical joke, in existence in North America as early as the 1840s, in which an unsuspecting newcomer is duped into trying to catch a non-existent animal called a \"snipe\". While snipe are an actual family of birds, the \"snipe hunt\" is a quest for an imaginary creature whose description varies.",
+          "semantic_score": 0.43188199400901794,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1576",
+          "text": "Finnish Spitz\nA Finnish Spitz (Finnish language: \"Suomenpystykorva\") is a breed of dog originating in Finland. The breed was originally bred to hunt all types of game from squirrels and other rodents to bears. It is a \"bark pointer\", indicating the position of game by barking, and drawing the game animal's attention to itself, allowing an easier approach for the hunter. Its original game hunting purpose was to point to game that fled into trees, such as grouse, and capercaillies, but it also serves well for hunting elk. Some individuals have even been known to go after a bear. In its native country, the breed is still mostly used as a hunting dog. The breed is friendly and in general loves children, so it is suitable for domestic life. The Finnish Spitz has been the national dog of Finland since 1979.",
+          "semantic_score": 0.41975805163383484,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3668",
+          "text": "American Foxhound\nThe American Foxhound is a breed of dog that is a cousin of the English Foxhound. They are scent hounds, bred to hunt foxes by scent.",
+          "semantic_score": 0.2738570272922516,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3670",
+          "text": "English Foxhound\nThe English Foxhound is one of the four foxhound breeds of dog. It is a cousin of the American Foxhound. They are scent hounds, bred to hunt foxes by scent.",
+          "semantic_score": 0.2723267078399658,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3674",
+          "text": "Black and Tan Virginia Foxhound\nThe Black and Tan Virginia Foxhound is an American foxhound breed. It resulted of a cross breed with Bloodhounds in the 1700s. The breed was developed by the landed gentry in order to get a dog suitable for fox hunting. Besides the Black and Tan there are the Walker, Calhoun, Penn-Marydel, Goodman, July and Trigg, which all developed from similar crosses. The Black and Tan is believed to descend form hunting dogs imported to America by Robert Brooke in 1650. These hunting dogs were the ancestors of several varieties of American hounds and stayed with the Brooke family for more than 300 years. Afterwards French Foxhounds were bred in after George Washington received them as gifts from the Marquis de Lafayette. Much later, the breed's speed and stamina were improved introducing Irish Foxhounds.",
+          "semantic_score": 0.3594874441623688,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1859",
+          "text": "Estonian Hound\nThe Estonian Hound (Estonian: \"eesti hagijas\") is a scent hound-like breed which is the only dog breed developed in Estonia. It was bred in 1947 when the Soviet Union's national economy ministry decided that every country in the Union must have its own dog breed.",
+          "semantic_score": 0.3537103533744812,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1158",
+          "text": "German Spitz\nGerman Spitz is used to refer to both a breed of dog and category or type of dog. Several modern breeds have been developed from the German Spitz, and are either registered as separate breeds or as varieties of German Spitz. All the \"German Spitz type\" dogs are dogs of the Spitz type of German origin. The Großspitz, Mittelspitz, and Kleinspitz breeds of \"German Spitz type\" are also called the German Spitz in English.",
+          "semantic_score": 0.16201990842819214,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Coursing game."
+    }
+  ],
+  "links": [
+    {
+      "source": "1573",
+      "target": "1574",
+      "reason": "Directly compares the two breeds' uses: Chongqing Dog was used for hunting wild boar/rabbits, while Kanni is used for coursing game, jointly answering which is used for hunting."
+    }
+  ],
+  "questions_seen": 159,
+  "_id": "5a8c5b635542996e8ac88a75",
+  "correct_answer": "Kanni",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

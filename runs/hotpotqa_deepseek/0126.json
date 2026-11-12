@@ -1,0 +1,174 @@
+{
+  "question": "What term is the current chairman of Prince William County serving?",
+  "answer": "Fourth term",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is the current chairman of Prince William County?",
+      "retrieved": [
+        {
+          "id": "1257",
+          "text": "Prince William Board of County Supervisors\nPrince William County, Virginia is divided into seven magisterial districts: Brentsville, Coles, Gainesville, Neabsco, Occoquan, Potomac, and Woodbridge. The magisterial districts each elect one supervisor to the Board of Supervisors which governs Prince William County. There is also a Chairman elected by the county at-large, bringing total Board membership to 8. A Vice-Chairman and a Chairman Pro-Tem are selected by the Board from amongst its membership. The current Chairman is Corey A. Stewart, who previously served as the Occoquan District Supervisor. The current Vice-Chairman is Supervisor Peter Candland, the Gainesville District Supervisor.",
+          "semantic_score": 0.6960328817367554,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1255",
+          "text": "Corey Stewart (politician)\nCorey Stewart (born August 1, 1968) is an American lawyer and politician from Minnesota currently serving his fourth term as At-Large Chairman of the Board of Supervisors of Prince William County, Virginia.",
+          "semantic_score": 0.520444393157959,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4972",
+          "text": "Prince Philip, Duke of Edinburgh\nPrince Philip, Duke of Edinburgh (born Prince Philip of Greece and Denmark, 10 June 1921) is the husband and consort of Queen Elizabeth II of the United Kingdom and the other Commonwealth realms.",
+          "semantic_score": 0.46451541781425476,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1254",
+          "text": "Prince William County Courthouse\nPrince William County Courthouse is a historic courthouse located at Manassas, Prince William County, Virginia. It was built in 1892-1893, and is a two-story, Romanesque style polychromatic brick building. It measures 52 feet by 60 feet and has a hipped roof. The front facade is symmetrical and features a projecting central bay forming a three-story clock tower topped with a cupola. The building was restored in 2000-2001. The county government moved to the building from the Brentsville Courthouse and Jail, and the building continued to be actively used as a county courthouse until 1984.",
+          "semantic_score": 0.4503365755081177,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1252",
+          "text": "Prince William County Sheriff's Office\nThe Prince William County, Virginia Sheriff's Office was established in 1731 to provide law enforcement and jailers for the County. In 1970, the Board of County Supervisors established the Prince William County Police Department which assumed the primary responsibility for law enforcement. In 1982, the Prince William County Adult Detention Center opened and assumed the duties of jailers. The Sheriff is a constitutional office elected by the Prince William County, City of Manassas and City of Manassas Park to provide certain public safety services.",
+          "semantic_score": 0.4394013285636902,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "833",
+          "text": "Crown prince\nA crown prince or crown princess is the heir apparent to the throne in a royal or imperial monarchy. The wife of a crown prince is also styled crown princess.",
+          "semantic_score": 0.36024364829063416,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Corey A. Stewart"
+    },
+    {
+      "step": 2,
+      "sub_question": "What term is that chairman currently serving?",
+      "retrieved": [
+        {
+          "id": "1255",
+          "text": "Corey Stewart (politician)\nCorey Stewart (born August 1, 1968) is an American lawyer and politician from Minnesota currently serving his fourth term as At-Large Chairman of the Board of Supervisors of Prince William County, Virginia.",
+          "semantic_score": 0.7701980471611023,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7591",
+          "text": "Joseph Mondello\nJoseph Nestor Mondello (born 1938) is an American politician who served as Chairman of the New York Republican State Committee until September 2009. Mondello continues to serve as the head of the Nassau County Republican Committee, a post he has held since 1983. He is a lawyer with the firm of Berkman, Henoch, Peterson and Peddy of Garden City, New York, and holds the rank of Major General in the New York Guard. Prior to being elected state chairman, he served as the head of the Nassau County Republican Committee for twenty three years. He is a former Town supervisor of Hempstead, New York, as well as an attorney, college professor, high school teacher and probation officer. He served as deputy commander of the New York Guard, and also served in the United States Army, Navy, and Air Force.",
+          "semantic_score": 0.43781089782714844,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9648",
+          "text": "Boyd Gaming\nBoyd Gaming Corporation is an American gaming and hospitality company based in Paradise, Nevada. The company continues to be run by founder Sam Boyd's family under the management of Sam's son, Bill Boyd (born 1931), who currently serves as the company's executive chairman after retiring as CEO in January 2008.",
+          "semantic_score": 0.3995320200920105,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "523",
+          "text": "RTÉ Executive Board\nThe RTÉ Executive Board, despite its name, is not a board of directors, but rather is a committee composed of the senior management of the Irish public service broadcaster, Raidió Teilifís Éireann, responsible for the day-to-day running of the broadcaster.",
+          "semantic_score": 0.3957965672016144,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8055",
+          "text": "Matt E. Baker\nMatthew E. \"Matt\" Baker (born January 24, 1957) is a Republican member of the Pennsylvania House of Representatives for the 68th District and was elected in 1992. For the 2009-10 legislative session, Baker has been appointed Republican Chairman of the House Health and Human Services Committee.",
+          "semantic_score": 0.3915148973464966,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1257",
+          "text": "Prince William Board of County Supervisors\nPrince William County, Virginia is divided into seven magisterial districts: Brentsville, Coles, Gainesville, Neabsco, Occoquan, Potomac, and Woodbridge. The magisterial districts each elect one supervisor to the Board of Supervisors which governs Prince William County. There is also a Chairman elected by the county at-large, bringing total Board membership to 8. A Vice-Chairman and a Chairman Pro-Tem are selected by the Board from amongst its membership. The current Chairman is Corey A. Stewart, who previously served as the Occoquan District Supervisor. The current Vice-Chairman is Supervisor Peter Candland, the Gainesville District Supervisor.",
+          "semantic_score": 0.3627670705318451,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8054",
+          "text": "Nicholas Micozzie\nNicholas Anthony \"Nick\" Micozzie (born November 2, 1928) is an American politician from Pennsylvania who served as a member of the Pennsylvania House of Representatives. He was Republican Chairman of the House Insurance Committee and was also a member of the House Health and Human Services Committee.",
+          "semantic_score": 0.31820544600486755,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6030",
+          "text": "Tom Coburn\nThomas Allen \"Tom\" Coburn (born March 14, 1948) is an American politician and medical doctor. A member of the Republican Party, he was the junior United States Senator from Oklahoma.",
+          "semantic_score": 0.3313620090484619,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "815",
+          "text": "George Pataki\nGeorge Elmer Pataki ( ; born June 24, 1945) is an American lawyer and politician who served as the 53rd Governor of New York (1995–2006). A member of the Republican Party, Pataki was a lawyer who was elected mayor of his home town of Peekskill, later going on to be elected to State Assembly, then State Senate. In 1994, Pataki ran for governor against three-term incumbent Mario Cuomo, defeating him by over a three-point margin as part of the Republican Revolution of 1994. Pataki, succeeding a three-term governor, would himself be elected to three consecutive terms, and was the third Republican Governor of New York elected since 1923, the other two being Thomas Dewey and Nelson Rockefeller. Pataki, as of January 2017 is the last Republican to serve as Governor of New York.",
+          "semantic_score": 0.24766358733177185,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "514",
+          "text": "Gerald Barry (Irish journalist)\nGerald Barry (18 June 1947 – 14 March 2011) was an Irish political journalist and broadcaster. He worked for public service broadcaster Raidió Teilifís Éireann (RTÉ) and the \"Sunday Tribune\" newspaper, during which time he became known for his \"highly probing\", \"highly intelligent\", \"quite rigorous\", \"clinical, even forensic but never discourteous\" interviewing style.",
+          "semantic_score": 0.17944732308387756,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Fourth term"
+    }
+  ],
+  "links": [
+    {
+      "source": "1257",
+      "target": "1255",
+      "reason": "1257 identifies Corey A. Stewart as the current Chairman of the Prince William Board of County Supervisors; 1255 then states he is serving his fourth term in that office, bridging the chairman's identity to the term being served."
+    }
+  ],
+  "questions_seen": 127,
+  "_id": "5ab504865542991779162d52",
+  "correct_answer": "fourth term",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

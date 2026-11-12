@@ -1,0 +1,233 @@
+{
+  "question": "Which Walt Disney film was produced first, The Apple Dumpling Gang or Something Wicked This Way Comes?",
+  "answer": "The Apple Dumpling Gang",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "When was The Apple Dumpling Gang produced?",
+      "retrieved": [
+        {
+          "id": "64",
+          "text": "The Apple Dumpling Gang (film)\nThe Apple Dumpling Gang is a 1975 American comedy-western film produced by Walt Disney Productions about a slick gambler named Russell Donovan (Bill Bixby) who is duped into taking care of a group of orphans who eventually strike gold during the California Gold Rush.",
+          "semantic_score": 0.6968640089035034,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "62",
+          "text": "The Apple Dumpling Gang Rides Again\nThe Apple Dumpling Gang Rides Again is a 1979 American comedy-western film produced by Walt Disney Productions and a sequel to \"The Apple Dumpling Gang\" (1975), starring the comedy duo of Tim Conway and Don Knotts reprising their respective roles as Amos and Theodore. The film also stars Tim Matheson, Harry Morgan, and Kenneth Mars. Ruth Buzzi appears in a small cameo as a wild farsighted woman. Robert Totten, who directed installments of \"Gunsmoke\", also had a small part in the film.",
+          "semantic_score": 0.5852777361869812,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "69",
+          "text": "Buddy Baker (composer)\nNorman Dale \"Buddy\" Baker (January 4, 1918 – July 26, 2002) was an American composer who, together with Paul J. Smith, scored many Disney films, such as \"The Apple Dumpling Gang\" in 1975, \"The Apple Dumpling Gang Rides Again\" in 1979, \"The Shaggy D.A.\" in 1976, \"The Many Adventures of Winnie the Pooh\" in 1977, and \"The Fox and the Hound\" in 1981.",
+          "semantic_score": 0.4764048159122467,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2290",
+          "text": "Ruthless Rap Assassins\nThe Ruthless Rap Assassins were a British hip hop group from Hulme, Manchester, England. The group was formed by MC Kermit La Freak (later simply Kermit - real name Paul Leveridge) and brothers Dangerous Hinds (real name Anderson Hinds) and Dangerous C (real name Carson Hinds).",
+          "semantic_score": 0.3589478135108948,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "60",
+          "text": "Gun Shy (TV series)\nGun Shy is an American sitcom that was shown on CBS from March 15 to April 19, 1983. The series, produced by Walt Disney Productions, was based on its popular comedy-western films: \"The Apple Dumpling Gang\" and \"The Apple Dumpling Gang Rides Again\".",
+          "semantic_score": 0.34860536456108093,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3460",
+          "text": "Guns &amp; Talks\nGuns & Talks is a 2001 South Korean film written and directed by Jang Jin. Starring Shin Hyun-joon, Won Bin, Shin Ha-kyun, Jung Jae-young and Jung Jin-young, the black comedy is about a group of four assassins-for-hire, with a dogged prosecutor on their trail.",
+          "semantic_score": 0.16674385964870453,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6709",
+          "text": "Lord Infamous\nRicky T Dunigan (November 17, 1973 – December 20, 2013), better known by his stage name Lord Infamous, was an American rapper from Memphis, Tennessee. He was best known as co-founder of the Memphis rap group Three 6 Mafia. He was also the half-brother of Three 6 Mafia member DJ Paul. His lyrics touched on subjects such as horror, Luciferianism, mass murder, and torture; along with more common hip-hop themes such as crime and drugs.",
+          "semantic_score": 0.19450753927230835,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1975"
+    },
+    {
+      "step": 2,
+      "sub_question": "When was Something Wicked This Way Comes produced?",
+      "retrieved": [
+        {
+          "id": "63",
+          "text": "Something Wicked This Way Comes (film)\nSomething Wicked This Way Comes is a 1983 American horror fantasy film directed by Jack Clayton and produced by Walt Disney Productions from a screenplay written by Ray Bradbury, based on his novel of the same name. The novel's title was taken directly from a line in Act IV of William Shakespeare's \"Macbeth\": \"By the pricking of my thumbs / Something wicked this way comes.\" The film stars Jason Robards, Jonathan Pryce, Diane Ladd, and Pam Grier. It was shot in Vermont and at the Walt Disney Studios in Burbank, California. The film had a troubled production – Clayton fell out with Bradbury over an uncredited script rewrite, and after test screenings of the director's cut failed to meet the studio's expectations, Disney sidelined Clayton, fired the original editor, and scrapped the original score, spending some $5 million and many months re-shooting, re-editing and re-scoring the film, before its eventual release.",
+          "semantic_score": 0.6735114455223083,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "66",
+          "text": "Something Wicked This Way Comes (Ugly Betty)\n\"Something Wicked This Way Comes\" is the sixth episode in season two of the dramedy series \"Ugly Betty\", and the 29th episode in the series, which aired on November 1, 2007. The episode was written by Henry Alonso Myers and directed by Wendey Stanzler. The episode takes its title from the phrase \"something wicked this way comes\", as well as the fact that this episode features the popular Broadway musical \"Wicked\" as a date venue.",
+          "semantic_score": 0.6333398222923279,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "65",
+          "text": "Overture of the Wicked\nOverture of the Wicked is an EP by Iced Earth, which was released on June 4, 2007 in Europe and June 5, 2007 in the US. The EP features the band's new single \"Ten Thousand Strong\" which was recorded for the new album released later that same year \"\", as well as a rerecording of the original \"Something Wicked\" song cycle (from the album \"Something Wicked This Way Comes\"). The re-recorded tracks are also slightly rearranged, with the piano intro to \"The Coming Curse\" notably absent in the new version. This EP was reissued as part of Iced Earth's Box of the Wicked collection.",
+          "semantic_score": 0.5308021306991577,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "61",
+          "text": "Framing Armageddon: Something Wicked Part 1\nFraming Armageddon: Something Wicked Part 1 is the eighth studio album from Iced Earth, released on September 11, 2007. It is part one of two concept albums based on a trilogy of songs from Iced Earth's fifth studio album, \"Something Wicked This Way Comes\". The saga, aptly titled the Something Wicked Saga, tells the fictional history of mankind, from its creation to its destruction. It is the second and final album with vocalist Tim \"Ripper\" Owens.",
+          "semantic_score": 0.5155702233314514,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "67",
+          "text": "Something Wicked This Way Comes (novel)\nSomething Wicked This Way Comes is a 1962 dark fantasy novel by Ray Bradbury. It is about 13-year-old best friends, Jim Nightshade and William Halloway, and their nightmarish experience with a traveling carnival that comes to their Midwestern town one October, and how the boys learn about combatting fear. The carnival's leader is the mysterious \"Mr. Dark\" who seemingly wields the power to grant the citizenry's secret desires. In reality, Dark is a malevolent being who, like the carnival, live off the life force of those they enslave. Mr. Dark's presence is countered by that of Will's father, Charles Halloway, who harbors his own secret fear of growing older because he feels he is too old to be Will's dad.",
+          "semantic_score": 0.5044141411781311,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1983"
+    },
+    {
+      "step": 3,
+      "sub_question": "Which of these two films was produced first?",
+      "retrieved": [
+        {
+          "id": "9316",
+          "text": "Dui Purush (1978 film)\nDui Purush is a 1978 Bengali film directed by Sushil Mukhopadhyay.The film has bean music composed by Kalipada Sen.",
+          "semantic_score": 0.3781931400299072,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6906",
+          "text": "List of Walt Disney Pictures films\nThis is a list of films released theatrically under the Walt Disney Pictures banner (known as that since 1983, with \"Never Cry Wolf\" as its first release) and films released before that under the former name of the parent company, Walt Disney Productions (1929–1983). Most films listed here were distributed in the United States by the company's distribution division, Walt Disney Studios Motion Pictures (formerly known as Buena Vista Distribution Company [1953–1987] and Buena Vista Pictures Distribution [1987–2007]). The Disney features produced before \"Peter Pan\" (1953) were originally distributed by RKO Radio Pictures, and are now distributed by Walt Disney Studios Motion Pictures.",
+          "semantic_score": 0.37012192606925964,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9519",
+          "text": "Independence Day (1983 film)\nIndependence Day is a 1983 film directed by Robert Mandel from a script by the novelist Alice Hoffman. It was designed by Stewart Campbell and shot by Charles Rosher. It stars Kathleen Quinlan, David Keith, Cliff DeYoung, Frances Sternhagen and Dianne Wiest.",
+          "semantic_score": 0.367870032787323,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3878",
+          "text": "Midnite Movies\nMidnite Movies is a line of B movies released first on VHS and later on DVD by MGM Home Entertainment. The line was begun by MGM in March 2001 following its acquisition of Orion Pictures, which bought out Filmways, the owner of American International Pictures. AIP had a library of B movies from the 1950s and 1960s that were science fiction, horror, and exploitation films. The \"Midnite Movies\" collection is primarily derived from the AIP library (including most of Roger Corman's and Vincent Price's horror movies) but also included Hammer Film Productions, Amicus Productions, United Artists, and Empire International Pictures movies as well. The DVDs were first released as single films but most later releases would be double features on single double-sided discs. Sony Pictures Home Entertainment later became owners of the MGM library and continued the \"Midnite Movies\" line with distributor 20th Century Fox Home Entertainment. All double feature titles released on the 20th Century Fox label were two-disc packages. By 2011, no new titles were forthcoming; the previous catalog titles slowly went out of print and the \"Midnite Movies\" website was taken down.",
+          "semantic_score": 0.3663494288921356,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7479",
+          "text": "Albert Capellani\nAlbert Capellani (23 August 1874 – 26 September 1931) was a French film director and screenwriter of the silent era. He directed films between 1905 and 1922. One of his brother was the actor-sculptor Paul Capellani. and another the film director Roger Capellani.",
+          "semantic_score": 0.3612041175365448,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7478",
+          "text": "Paul Capellani\nPaul Capellani (September 9, 1877 – November 7, 1960) was a noted French silent film actor. His brother was the director Albert Capellani and his uncle the film director Roger Capellani who died May 1940 at the Battle of Dunkirk.",
+          "semantic_score": 0.21412277221679688,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7483",
+          "text": "Roger Capellani\nRoger Capellani (31 January 1905 – 30 May 1940) was a French film director, the son of film director and screenwriter Albert Capellani and the nephew of the actor Paul Capellani.",
+          "semantic_score": 0.27021655440330505,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9320",
+          "text": "Dui Purush (1945 film)\nDui Purush (Two Generations) is a 1945 Bengali language epic family drama film directed by Subodh Mitra. Produced by New Theatres and adapted from Tarashankar Banerji's novel and popular stage play, it had screenplay by Binoy Chatterjee. The editing was done by Mitra, who was popularly known as Kachi Babu, and cited as one of the best editors in the film industry. Music director was Pankaj Mullick with lyrics by Sailen Roy. The cinematographers were Sudhin Majumdar and Yusuf Mulji. The cast included Chhabi Biswas, Chandravati, Sunanda Banerjee, Ahindra Choudhury, Tulsi Chakraborty, Jahar Ganguly, Naresh Mitra.",
+          "semantic_score": 0.30915606021881104,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3874",
+          "text": "Walt Disney Classics\nWalt Disney Classics was a brand name used by Walt Disney Home Video on their American, Japanese, European, and Australian home video releases of List of Walt Disney Animation Studios features. The last title in the Classics line from 1984–1994 was \"The Fox and the Hound\". With the release of \"Snow White and the Seven Dwarfs\", all the existing titles in the Classics line were replaced with the Masterpiece Collection line and the Classics line was canceled in the United States and Canada. Cassette copies of the original Classics series became much sought-after, and are very popular with collectors, since most retailers had the first home video release for Disney animated features in their stores up to the time when the label was discontinued. Animated features and other films containing animation (such as \"Mary Poppins\" and \"Pete's Dragon\") continued to be released under the \"Walt Disney Classics\" label and its foreign language equivalents until around 2007 throughout Europe, and \"Walt Disney Meisterwerke\", the German equivalent series, is still in operation as of 2010 through its broader \"Special Collection\" range.",
+          "semantic_score": 0.18452303111553192,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2202",
+          "text": "Francis Ford Coppola\nFrancis Ford Coppola ( ; born April 7, 1939), also credited as Francis Coppola, is a semi-retired American film director, producer, screenwriter and film composer. He was a central figure in the New Hollywood wave of filmmaking.",
+          "semantic_score": 0.3133431375026703,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1975"
+    }
+  ],
+  "links": [
+    {
+      "source": "64",
+      "target": "63",
+      "reason": "Paragraph 64 gives The Apple Dumpling Gang's production year (1975) and paragraph 63 gives Something Wicked This Way Comes's production year (1983), directly enabling the comparison of which was produced first."
+    }
+  ],
+  "questions_seen": 7,
+  "_id": "5a749af055429979e28829b7",
+  "correct_answer": "The Apple Dumpling Gang",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "question": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
+  "answer": "Yes",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Is Giuseppe Verdi an opera composer?",
+      "retrieved": [
+        {
+          "id": "257",
+          "text": "Giuseppe Verdi\nGiuseppe Fortunino Francesco Verdi (] ; 9 or 10 October 1813 – 27 January 1901) was an Italian opera composer.",
+          "semantic_score": 0.7930067777633667,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "263",
+          "text": "Verdi, the King of Melody\nGiuseppe Verdi, released theatrically in the USA as The Life and Music of Giuseppe Verdi and on video as Verdi, the King of Melody, is a 1953 Italian biographical film starring Pierre Cressoy and directed by Raffaello Matarazzo. It is based on adult life events of the composer Giuseppe Verdi. The film was a commercial success, grossing over 957 million lire at the Italian box office.",
+          "semantic_score": 0.6368175148963928,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "255",
+          "text": "Giuseppe Verdi (film)\nGiuseppe Verdi is a 1938 Italian biographical film directed by Carmine Gallone and starring Fosco Giachetti, Gaby Morlay and Germana Paolieri. The film portrays the life of the composer Giuseppe Verdi (1813-1901). The casting of Giachetti as Verdi was intended to emphasise the composer's patriotism, as he had recently played patriotic roles in films such as \"The White Squadron\". The film was made at the Cinecittà Studios in Rome. The film is also known by the alternative title The Life of Giuseppe Verdi.",
+          "semantic_score": 0.6102863550186157,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "261",
+          "text": "Ferdinando Provesi\nFerdinando Angelo Maria Provesi (1770 – 1833) was a native of Parma, Italy. He was regarded as one of the greatest Italian opera composers of the era . Provesi is best known as being an early tutor of Giuseppe Verdi when he was the \"Maestro di cappella\" (master of music) at the St. Bartolomeo cathedral in Busseto (the town very close to Le Roncole, the village where Verdi was born.) Provesi was also director of the municipal music school and local Philharmonic Society. He began teaching Verdi in 1824 when the future composer was 11 years old.",
+          "semantic_score": 0.5980026125907898,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "258",
+          "text": "Teatro Giuseppe Verdi\nTeatro Giuseppe Verdi (the Giuseppe Verdi Theatre) is a small opera house located in a wing of the Rocca dei Marchesi Pallavicino on the Piazza Giuseppe Verdi in Busseto, Italy, a town closely associated with the life of the opera composer, Giuseppe Verdi. From the 13th century, the “rocca” or “fortress” was the family’s palace; it is now the city hall after being acquired by the municipality in 1856. The theatre opened on 15 August 1868 and seats 300.",
+          "semantic_score": 0.5892409086227417,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "step": 2,
+      "sub_question": "Is Ambroise Thomas an opera composer?",
+      "retrieved": [
+        {
+          "id": "259",
+          "text": "Ambroise Thomas\nCharles Louis Ambroise Thomas (5 August 1811 – 12 February 1896) was a French composer, best known for his operas \"Mignon\" (1866) and \"Hamlet\" (1868, after Shakespeare) and as Director of the Conservatoire de Paris from 1871 till his death.",
+          "semantic_score": 0.6628816723823547,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "262",
+          "text": "List of major opera composers\nThis list provides a guide to opera composers, as determined by their presence on a majority of compiled lists of significant opera composers. (See the \"Lists Consulted\" section for full details.) The composers run from Jacopo Peri, who wrote the first ever opera in late 16th century Italy, to John Adams, one of the leading figures in the contemporary operatic world. The brief accompanying notes offer an explanation as to why each composer has been considered major. Also included is a section about major women opera composers, compiled from the same lists. For an introduction to operatic history, see opera. The organisation of the list is by birthdate.",
+          "semantic_score": 0.4917636215686798,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6226",
+          "text": "Recital I (for Cathy)\nRecital I (for Cathy) is a stage work by the Italian composer Luciano Berio. It was written for Cathy Berberian, with whom Berio was married from 1950 to 1964, and is scored for mezzo-soprano and 17 instruments. It was first performed on 27 April 1972 in Lisbon in the Calouste Gulbenkian Foundation Grand Auditórium by Cathy Berberian with Orquesta Gulbenkian, conducted by the composer.",
+          "semantic_score": 0.4638878405094147,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6220",
+          "text": "Nowth upon Nacht\nNowth upon Nacht is a song for voice and piano by John Cage. It was composed in 1984 in memoriam for Cathy Berberian, the celebrated soprano singer, wife of composer Luciano Berio.",
+          "semantic_score": 0.4568071663379669,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9454",
+          "text": "List of compositions by Jacques Offenbach\nThis is a list of musical compositions by Jacques Offenbach (1819–1880). Offenbach is principally known for his operettas, of which he composed 98 between 1847 and 1880. He also wrote two opéras, \"Die Rheinnixen\" and his unfinished masterpiece \"Les contes d'Hoffmann\".",
+          "semantic_score": 0.4292496144771576,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9453",
+          "text": "The Tales of Hoffmann\nThe Tales of Hoffmann (French: Les contes d'Hoffmann ) is an \"opéra fantastique \" by Jacques Offenbach. The French libretto was written by Jules Barbier, based on three short stories by E. T. A. Hoffmann, who is the protagonist of the story. It was Offenbach's final work, as he died a year before the premiere.",
+          "semantic_score": 0.2707504332065582,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6217",
+          "text": "Folk Songs (Berio)\nFolk Songs is a song cycle by the Italian composer Luciano Berio composed in 1964. It consists of arrangements of folk music from various countries and other songs, forming \"a tribute to the extraordinary artistry\" of the American singer Cathy Berberian, a specialist in Berio's music. It is scored for voice, flute (doubling on piccolo), clarinet, harp, viola, cello, and percussion (two players). The composer arranged it for a large orchestra in 1973.",
+          "semantic_score": 0.41752150654792786,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9455",
+          "text": "The Tales of Hoffmann (film)\nThe Tales of Hoffmann is a 1951 British Technicolor film adaptation of Jacques Offenbach's opera \"The Tales of Hoffmann\", written, produced and directed by the team of Michael Powell and Emeric Pressburger working under the umbrella of their production company, The Archers.",
+          "semantic_score": 0.2298039197921753,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9449",
+          "text": "La Périchole\nLa Périchole (] ) is an opéra bouffe in three acts by Jacques Offenbach. Henri Meilhac and Ludovic Halévy wrote the French-language libretto based on the 1829 one act play \"Le carrosse du Saint-Sacrement\" by Prosper Mérimée, which was revived on 13 March 1850 at the Théâtre-Français. Offenbach was probably aware of this production, as he conducted the orchestra of the Comédie-Française from around this time. Another theatrical creation that pre-dates Offenbach's opéra bouffe and may have influenced the piece is a farce by Desforges and Théaulon given on 21 October 1835 at the Théâtre du Palais-Royal.",
+          "semantic_score": 0.37122899293899536,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9456",
+          "text": "Mesdames de la Halle\nMesdames de la Halle is an opérette bouffe in one act by Jacques Offenbach, with a libretto by Armand Lapointe. It was first performed at the Théâtre des Bouffes Parisiens, Paris on 3 March 1858. and was the first work of Offenbach's at the Bouffes with a chorus and a large cast. Gänzl describes the piece as “a delicious piece of Parisian bouffonerie”",
+          "semantic_score": 0.36148688197135925,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "links": [
+    {
+      "source": "257",
+      "target": "259",
+      "reason": "Paragraph 257 explicitly identifies Giuseppe Verdi as an Italian opera composer, while paragraph 259 identifies Ambroise Thomas as a French composer best known for his operas, together directly establishing that both are opera composers."
+    }
+  ],
+  "questions_seen": 27,
+  "_id": "5ab29c24554299449642c932",
+  "correct_answer": "yes",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

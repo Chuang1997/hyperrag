@@ -1,0 +1,167 @@
+{
+  "question": "The 53rd National Hockey League All-Star Game took place at the indoor arena that was completed in what year?",
+  "answer": "1998",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Where was the 53rd National Hockey League All-Star Game held?",
+      "retrieved": [
+        {
+          "id": "789",
+          "text": "53rd National Hockey League All-Star Game\nThe 53rd National Hockey League All-Star Game was held during the 2002–03 NHL season, and took place at the Office Depot Center in Sunrise, Florida, the home of the Florida Panthers, on February 2, 2003. It was the first All-Star Game since the 1997 All-Star Game to use the Eastern Conference–Western Conference format.",
+          "semantic_score": 0.7764043211936951,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "790",
+          "text": "52nd National Hockey League All-Star Game\nThe 52nd National Hockey League All-Star Game took place on February 2, 2002, at the Staples Center in Los Angeles, California. The final score was World 8, North America 5. This was the last National Hockey League All-Star Game to have the North America vs. World All-Star format. It was also the last All-Star Game that was held in the same year as the Winter Olympics until the 2018 edition.",
+          "semantic_score": 0.74229496717453,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "792",
+          "text": "47th National Hockey League All-Star Game\nThe 47th National Hockey League All-Star Game took place on January 18, 1997, at the San Jose Arena, home of the San Jose Sharks. The final score was Eastern Conference 11, Western Conference 7. This game was originally scheduled for the 1994–95 season, but was cancelled due to the 1994–95 NHL lockout.",
+          "semantic_score": 0.7144296169281006,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "788",
+          "text": "23rd National Hockey League All-Star Game\nThe 23rd National Hockey League All-Star Game was held in the St. Louis Arena in St. Louis, home of the St. Louis Blues, on January 20, 1970. It was the first time the All-Star Game was held at the St. Louis Arena. The East Division All-Stars defeated the West Division All-Stars 4–1. Bobby Hull was named the game's most valuable player.",
+          "semantic_score": 0.7065608501434326,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "793",
+          "text": "6th National Hockey League All-Star Game\nThe Sixth National Hockey League All-Star Game took place at the Detroit Olympia, home of the Detroit Red Wings, on October 5, 1952. For the second year in a row, the format had the First and Second All-Star Teams, with additional players on each team, play each other. After the game ended in a tie for the second year in a row, the NHL decided that they would continue with the previous format of the Stanley Cup winner playing an all-star team.",
+          "semantic_score": 0.7005102634429932,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "786",
+          "text": "63rd National Hockey League All-Star Game\nThe 63rd National Hockey League All-Star Game, also known as the 2018 NHL All-Star Game, will be held at Amalie Arena in Tampa, Florida, home of the Tampa Bay Lightning on January 28, 2018. Tampa last held the NHL All Star Game in 1999. The All-Star Game will be played in lieu of NHL participation in the 2018 Olympics, as the NHL Board of Governors ruled against interrupting the season to send players to PyeongChang from 10–25 February.",
+          "semantic_score": 0.6842709183692932,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "791",
+          "text": "58th National Hockey League All-Star Game\nThe 58th National Hockey League All-Star Game, also known as the 2011 National Hockey League All-Star Game presented by Discover, was the National Hockey League's (NHL) annual All-Star Game played on January 30, 2011. The game took place during the 2010–11 NHL season at the RBC Center in Raleigh, North Carolina, home of the Carolina Hurricanes. Originally, the Game was supposed to be hosted by the Phoenix Coyotes, but due to ownership issues, the NHL decided to move the game. After bidding for the game reopened, it was awarded to Carolina and fulfilled a nine-year-old promise made to the franchise by NHL Commissioner Gary Bettman.",
+          "semantic_score": 0.6719226241111755,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Office Depot Center in Sunrise, Florida"
+    },
+    {
+      "step": 2,
+      "sub_question": "When was that indoor arena completed?",
+      "retrieved": [
+        {
+          "id": "785",
+          "text": "BB&amp;T Center (Sunrise, Florida)\nThe BB&T Center (previously known as the National Car Rental Center, Office Depot Center, and BankAtlantic Center) is an indoor arena located in Sunrise, Florida. It is home to the Florida Panthers of the National Hockey League. It was completed in 1998, at a cost of US$185 million, almost entirely publicly financed, and features 70 suites and 2,623 club seats.",
+          "semantic_score": 0.617466151714325,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5392",
+          "text": "Skyplex\nSkyplex 360 is an entertainment complex owned by Wallack Holdings LLC that is scheduled to open in 2020. It will be located on a 14 acre lot at the Northeast corner of Sand Lake Road and International Drive in Orlando, Florida. The complex will include a 570 ft tower, which will feature the world's tallest roller coaster, Skyscraper, and the world's largest Perkins Restaurant and Bakery. It is expected to cost , be 1500000 sqft , and include a 2,400-car parking with valet.",
+          "semantic_score": 0.47464659810066223,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "329",
+          "text": "MGM Grand Garden Arena\nThe MGM Grand Garden Arena (originally known as the MGM Grand Garden Special Events Center) is a multi-purpose arena located within the MGM Grand Las Vegas on the Las Vegas Strip.",
+          "semantic_score": 0.44855797290802,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3831",
+          "text": "Manley Field House\nManley Field House is a multi-purpose arena in Syracuse, New York. The arena opened in 1962 and at one time held 9500 people for home games. It was home to the Syracuse Orange men's and women's basketball teams, the indoor track team, and the women's volleyball team before the Carrier Dome opened in 1980. It is named for Dr. George L. Manley, a University trustee and graduate of the College of Medicine, who was the benefactor of the building. It was built to replace the old Archbold Gymnasium, which had served for almost 60 years prior.",
+          "semantic_score": 0.4216989278793335,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5397",
+          "text": "Skyscraper (roller coaster)\nSkyscraper is an upcoming roller coaster that will be located at the planned Skyplex complex in Orlando, Florida. Under development by American and Swiss manufacturers US Thrill Rides and Intamin, the attraction will be a Polercoaster model which utilizes an observation tower as its main support structure. After several delays, Skyscraper is expected to open in 2020 with construction on the Skyplex complex beginning in 2017. Upon completion, it will become the tallest roller coaster in the world at over 500 ft and will feature both the steepest drop and highest inversion.",
+          "semantic_score": 0.420879065990448,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3826",
+          "text": "Archbold Gymnasium\nArchbold Gymnasium is a gymnasium located on the campus of Syracuse University in Syracuse, New York. It was built in 1908 with money donated by John Dustin Archbold, a major benefactor of the university, who also funded the building of Archbold Stadium, just to the west of the gymnasium (now the site of the Carrier Dome). It served as the home to the men's basketball team until the building of the Manley Field House in 1962, with the exception of the time from January, 1947 to 1949. This was due to a large fire which gutted most of the building. The building was rebuilt from 1948 to 1949, and a southern addition was made in 1952, as well as a neighboring gymnasium (Flanagan Gymnasium), which was built in 1989. The building now houses the school's ROTC programs, men's and women's rowing indoor facilities, as well as the bursar, financial aid services, aerospace studies and undergraduate processing.",
+          "semantic_score": 0.38504499197006226,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3925",
+          "text": "MGM Grand Las Vegas\nThe MGM Grand Las Vegas (formerly Marina and MGM-Marina) is a hotel and casino located on the Las Vegas Strip in Paradise, Nevada. The MGM Grand is the largest single hotel in the United States with 5,124 rooms. It is also the third-largest hotel complex in the world by number of rooms and second-largest hotel resort complex in the United States behind the combined The Venetian and The Palazzo. When it opened in 1993, the MGM Grand was the largest hotel complex in the world.",
+          "semantic_score": 0.25266680121421814,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3660",
+          "text": "Princess Tower\nThe Princess Tower (Arabic: برج الأميرة‎ ‎ ) is a 101 story, 413.4 m tall residential-only skyscraper located in the Marina district of Dubai, UAE. Princess Tower is currently the second tallest building in Dubai, after the Burj Khalifa, and the 24th tallest building in the world. Princess Tower was the tallest residential building in the world from 2012 to 2015, when it was overtaken by 432 Park Avenue in New York City.",
+          "semantic_score": 0.23598310351371765,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1998"
+    }
+  ],
+  "links": [
+    {
+      "source": "789",
+      "target": "785",
+      "reason": "Paragraph 789 identifies the 53rd NHL All-Star Game venue as the Office Depot Center in Sunrise, Florida; paragraph 785 states that the BB&T Center (previously known as the Office Depot Center) in Sunrise, Florida was completed in 1998, directly bridging the venue to its completion year."
+    }
+  ],
+  "questions_seen": 80,
+  "_id": "5ae7535c5542997b22f6a6d8",
+  "correct_answer": "1998",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

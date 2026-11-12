@@ -1,0 +1,289 @@
+{
+  "question": "Who is affiliated with more countries as a director, Robert Florey and R. G. Springsteen?",
+  "answer": "Robert Florey",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "How many countries is Robert Florey affiliated with as a director?",
+      "retrieved": [
+        {
+          "id": "1729",
+          "text": "Robert Florey\nRobert Florey (14 September 1900 – 16 May 1979) was a French-American director, screenwriter, film journalist, and occasional actor.",
+          "semantic_score": 0.7920088171958923,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3191",
+          "text": "Lewis Allen (director)\nLewis Allen (25 December 1905 – 3 May 2000) was an English director. Allen worked mainly in the United States, working on Broadway and directing 18 feature films between 1944 and 1959. From the mid-1950s he moved increasingly into television and worked on a number of the most popular shows of the time in the US.",
+          "semantic_score": 0.42545217275619507,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5986",
+          "text": "Brian Kennedy (gallery director)\nBrian Patrick Kennedy (born 5 November 1961) is an Irish-born art museum director who works internationally. He is currently the Director of the Toledo Museum of Art in Ohio. He was the Director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia (Canberra) from 1997-2004.",
+          "semantic_score": 0.41259995102882385,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2202",
+          "text": "Francis Ford Coppola\nFrancis Ford Coppola ( ; born April 7, 1939), also credited as Francis Coppola, is a semi-retired American film director, producer, screenwriter and film composer. He was a central figure in the New Hollywood wave of filmmaking.",
+          "semantic_score": 0.40337395668029785,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2540",
+          "text": "Warren Fu\nWarren Fu is an American music video director, illustrator and designer. He has directed promos for Daft Punk, The Weeknd, Snoop Dogg, Pharrell Williams, The Strokes, HAIM, The Killers, Depeche Mode, Weezer, Mark Ronson, Julian Casablancas, and Aaliyah. Fu is signed to Partizan Entertainment worldwide for commercials and music videos, and Creative Artists Agency for feature films.",
+          "semantic_score": 0.40109002590179443,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2205",
+          "text": "Francis Ford Coppola Presents\nFrancis Ford Coppola Presents is a lifestyle brand created by Francis Ford Coppola, under which he markets goods from companies he owns or controls. It includes films and videos, resorts, cafes, a literary magazine and a winery.",
+          "semantic_score": 0.26069846749305725,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2197",
+          "text": "Eleanor Coppola\nEleanor Coppola (born May 4, 1936) is an American documentary filmmaker, artist, and writer. She is married to director Francis Ford Coppola. She is most known for her 1991 documentary film \"\" as well as other documentaries chronicling the films of her husband and children. Coppola currently lives on her family's winery in Napa Valley, California.",
+          "semantic_score": 0.23421689867973328,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2198",
+          "text": "Anton Coppola\nAntonio Coppola (born March 21, 1917) is an American opera conductor and composer. He is the uncle of film director Francis Ford Coppola and actress Talia Shire, as well as the grand-uncle of Nicolas Cage, Sofia Coppola, Gian-Carlo Coppola, Jason Schwartzman and Robert Schwartzman, and is the younger brother of American composer and musician Carmine Coppola.",
+          "semantic_score": 0.3258773982524872,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2200",
+          "text": "Gia Coppola\nGian-Carla \"Gia\" Coppola (born January 1, 1987) is an American film director, screenwriter, and actress. She is a granddaughter of Francis Ford Coppola, the daughter of Gian-Carlo Coppola and the niece of Roman Coppola and Sofia Coppola.",
+          "semantic_score": 0.1947478950023651,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7479",
+          "text": "Albert Capellani\nAlbert Capellani (23 August 1874 – 26 September 1931) was a French film director and screenwriter of the silent era. He directed films between 1905 and 1922. One of his brother was the actor-sculptor Paul Capellani. and another the film director Roger Capellani.",
+          "semantic_score": 0.367696076631546,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "2"
+    },
+    {
+      "step": 2,
+      "sub_question": "How many countries is R. G. Springsteen affiliated with as a director?",
+      "retrieved": [
+        {
+          "id": "1728",
+          "text": "R. G. Springsteen\nRobert G. Springsteen (September 8, 1904 – December 9, 1989) was an American director of Hollywood B movies and television shows. He was most often credited on screen as R. G. Springsteen.",
+          "semantic_score": 0.6288312077522278,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3615",
+          "text": "Toby Scott\nToby Scott (not to be confused with Los Angeles rapper Toby Scott Ganger) is a music recording engineer, mixer and record producer. Scott has worked extensively with Bruce Springsteen, recording and mixing albums for the singer since 1978. Scott has also worked with other prominent artists such as Bob Dylan, Bette Midler, The Manhattan Transfer, Booker T and the MGs, Tommy Tutone, Steve Van Zandt, Robert Palmer, Blue Öyster Cult, and The Replacements. Additionally, he has recorded and mixed projects for commercials, movies, and television.",
+          "semantic_score": 0.3546640872955322,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4002",
+          "text": "Gwarn Music\nGwarn Music is an independent record label which was created in Manchester, England in 1991. It was founded by former 52nd Street guitarist Tony Henry to release his then new music project FR’ Mystery (lead vocalist Lorna Bailey) after talks to sign the act to WEA in London broke down. The label was initially independently distributed by local city record shop Manchester Underground, before New Order manager Rob Gretton invited Henry to bring the label under the wing of his then new imprint Rob’s Records in late 1994. This was the second time in ten years that Henry and Gretton had worked together. Gretton was 52nd Street’s A&R Manager at Factory Records.",
+          "semantic_score": 0.3461589813232422,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1898",
+          "text": "Garth Brooks (album)\nGarth Brooks is the debut studio album of American country music artist Garth Brooks, released on April 12, 1989 through Capitol Nashville. It was both a critical and chart success, peaking at #13 on the \"Billboard\" 200 and at #2 on the Top Country Albums chart. The album has been certified diamond by the Recording Industry Association of America (RIAA) for shipments over ten million copies. This is Garth's only album to have a neotraditional country sound before developing a more crossover-friendly country-pop sound.",
+          "semantic_score": 0.34509748220443726,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7073",
+          "text": "Kimo Williams\nKimo Williams is an American composer, musician and professor who has performed with a number of ensembles including his ensemble Kimotion and the Lt. Dan Band, that he co-founded with film/TV actor Gary Sinise. While he is perhaps best known for his work with the Lt. Dan Band, Williams has worked on a number of other projects including: award-winning photography, releasing four CDs, writing a stageplay and working on an opera based on the Courts Martial of Henry O Flipper, the first black graduate from West Point. Cognizant of the opportunities he had, as well as those he did not due to a childhood in which he moved often, Williams speaks to students about his history, their future and their need to combat mediocrity.",
+          "semantic_score": 0.33957114815711975,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1902",
+          "text": "The Hits (Garth Brooks album)\nThe Hits is the second compilation album and first wide-released greatest hits album from American country music artist Garth Brooks. Brooks first greatest hits album, \"The Garth Brooks Collection\", was released three months earlier exclusively at McDonald's restaurants for a limited time to raise money for the Ronald McDonald Children's Charities. \"The Hits\" was released on December 13, 1994 and is now out of print. This was due to Brooks' views for whole record sales, instead of albums of singles. He insisted it only be available for a limited time, but not before it sold well over ten million copies (which at that time became his first album to achieve Diamond Series). \"The Hits\" debuted at #1 on the \"Billboard\" 200, and Top Country Albums. A CD Zoom containing 20-second sound bites of 61 songs accompanied \"The Hits\". In June 1995, the master was buried under Brooks’ star on the Hollywood Walk of Fame.",
+          "semantic_score": 0.2797590494155884,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1901",
+          "text": "If Tomorrow Never Comes\n\"If Tomorrow Never Comes\" is a song recorded by American country music artist Garth Brooks. Written by Brooks and Kent Blazy, it was released in August 1989 as the second single from his album \"Garth Brooks\" and also appears on \"The Hits\", \"The Limited Series\" and \"Double Live\". This was his first #1 single on the Billboard Country Singles chart. It is also sometimes referred to as his signature song. \"If Tomorrow Never Comes\" was named Favorite Country Single in the American Music Awards of 1991. It has subsequently become one of Brooks' most popular songs for other artists to perform. The song has been covered by several artists, including Ronan Keating, who took it to Number 1 in the UK Singles Chart in May 2002.",
+          "semantic_score": 0.2078690528869629,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1904",
+          "text": "Sevens (album)\nSevens is the seventh studio album by American country music artist Garth Brooks. It was released on November 25, 1997, and debuted at #1 on the \"Billboard\" 200, and on the Top Country Albums chart. The album also topped the Country album charts in Britain for several months and crossed over into the mainstream pop charts. His duet with Trisha Yearwood, \"In Another's Eyes\", won the Grammy Award for Best Country Collaboration with Vocals at the Grammy Awards of 1998. \"Sevens\" was nominated for the Best Country Album Grammy the following year.",
+          "semantic_score": 0.28524652123451233,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1897",
+          "text": "Garth Brooks and the Magic of Christmas\nGarth Brooks & the Magic of Christmas is the second holiday album by American country music artist Garth Brooks. It was released on November 23, 1999, peaked at #7 on the \"Billboard\" 200 chart, and #1 on the Top Country Albums chart. Two years after this album's release, Brooks released a reissue of this album, Songs from Call Me Claus, which contained most of the songs from this release. The only tracks which weren't carried over were \"White Christmas,\" \"God Rest Ye Merry, Gentlemen,\" and \"Go Tell It on the Mountain\" (all of which are remixed versions of the same songs from his first Christmas album, \"Beyond The Season\").",
+          "semantic_score": 0.21068735420703888,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7282",
+          "text": "Songs About Me\nSongs About Me is the seventh studio album of country music singer Trace Adkins. It was released on March 22, 2005 on Capitol Records Nashville. His highest-selling album to date, it has been certified 2× Platinum by the RIAA and had sold 1.5 million copies. Singles from this album include the title track, Arlington, and Honky Tonk Badonkadonk. The title track and \"Honky Tonk Badonkadonk\" both went to No.2 and Arlington went to No.16 on the U.S. \"Billboard\"Hot Country Songs charts. \"Honky Tonk Badonkadonk\" was also a Top 40 hit on the \"Billboard\" Hot 100 and Pop 100 as well.",
+          "semantic_score": 0.20950976014137268,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1"
+    },
+    {
+      "step": 3,
+      "sub_question": "Which of the two has more countries affiliated with them as a director?",
+      "retrieved": [
+        {
+          "id": "8039",
+          "text": "Teleperformance\nTeleperformance is a multinational company headquartered in France. The company specializes in outsourced omnichannel customer experience management, also known as Business Process Outsourcing (BPO). The company provides customer acquisition, customer care, technical support, debt collection, social media, and other services around the world. Teleperformance has 217,000 employees across 340 contact centers in 74 countries and serves over 160 markets. Countries in which Teleperformance operates include France, the United Kingdom, Albania, Brazil, Chile, India, Philippines, Guyana,China, Canada, Mexico, Colombia, Norway, Italy, Greece, Portugal, the United States, Costa Rica, Dominican Republic, Australia, the Netherlands, Suriname, Egypt, Russia, Sweden, Germany and Poland.",
+          "semantic_score": 0.35031723976135254,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4138",
+          "text": "Dana Blankstein\nDana Blankstein-Cohen (born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+          "semantic_score": 0.3460892140865326,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3540",
+          "text": "Gareth Evans (director)\nGareth Huw Evans (born 1980) is a Welsh film director, screenwriter, film editor and action choreographer.",
+          "semantic_score": 0.34599941968917847,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5273",
+          "text": "Merchant Ivory Productions\nMerchant Ivory Productions is a film company founded in 1961 by producer Ismail Merchant (d. 2005) and director James Ivory. Their films were for the most part produced by Merchant, directed by Ivory, and 23 (of the 44 total films) were scripted by Ruth Prawer Jhabvala (d. 2013) in some capacity, all but two of those with solo credit. The films were often based upon novels or short stories, particularly the work of Henry James, E. M. Forster, and two novels by Jhabvala herself.",
+          "semantic_score": 0.3422779440879822,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "388",
+          "text": "Semyon Aranovich\nSemyon Davidovich Aranovich (Ukrainian: Семён Аранович, 23 July 1934, Derazhnya, Ukraine, Soviet Union – 8 September 1996, Hamburg, Germany) was a Soviet and Russian film director.",
+          "semantic_score": 0.32864516973495483,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9509",
+          "text": "Vladimir Danilevich\nVladimir Petrovich Danilevich (Russian: Владимир Петрович Данилевич ; 4 September 1924 — 9 October 2001) was well-known Soviet and Russian Animator: who successfully worked as the film director, the screenwriter, the art director and the animator.",
+          "semantic_score": 0.24731884896755219,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5269",
+          "text": "The Europeans (film)\nThe Europeans is a 1979 British Merchant Ivory film, directed by James Ivory, produced by Ismail Merchant, and with a screenplay by Ruth Prawer Jhabvala, based on Henry James's novel by the same name.",
+          "semantic_score": 0.27029573917388916,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "268",
+          "text": "Sergey Dreyden\nSergey Simonovich Dreyden (Dontsov) (Russian: Серге́й Си́монович Дре́йден (Донцо́в) ; born September 14, 1941) is a Russian actor and star of Alexander Sokurov's Russian Ark.",
+          "semantic_score": 0.1262698769569397,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "390",
+          "text": "Semyon Aranovich Gershgorin\nSemyon Aronovich Gershgorin (August 24, 1901 – May 30, 1933) was a Soviet (born in Pruzhany, Belarus, Russian Empire) mathematician. He began as a student at the Petrograd Technological Institute in 1923, became a Professor in 1930, and was given an appointment at the Leningrad Mechanical Engineering Institute in the same year. His contributions include the Gershgorin circle theorem.",
+          "semantic_score": 0.09866034239530563,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "743",
+          "text": "Nikolai Safonov\nNikolay Safonov (born June 3, 1989) is a Kazakhstani ice hockey defenceman who was a member of the Kazakhstan men's national junior ice hockey team at the 2009 World Junior Ice Hockey Championships. He currently plays for Gornyak Rudny in the Kazakhstan Vyschaya Liga.",
+          "semantic_score": 0.12195346504449844,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Teleperformance"
+    }
+  ],
+  "links": [
+    {
+      "source": "1729",
+      "target": "1728",
+      "reason": "These paragraphs directly compare the two directors named in the question: Florey is identified as French-American (2 countries), while Springsteen is identified as American (1 country), supporting the conclusion that Florey is affiliated with more countries."
+    }
+  ],
+  "questions_seen": 175,
+  "_id": "5a8765ad5542996e4f3087cf",
+  "correct_answer": "Robert Florey",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

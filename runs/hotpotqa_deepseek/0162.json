@@ -1,0 +1,202 @@
+{
+  "question": "The movie \"100 Million BC\" continues the urban myth of an experiment allegedly carried out at waht shipyard?",
+  "answer": "Philadelphia Naval Shipyard",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is the urban myth or experiment referenced in \"100 Million BC\"?",
+      "retrieved": [
+        {
+          "id": "1609",
+          "text": "100 Million BC\n100 Million BC is a 2008 direct-to-DVD action film by film studio The Asylum, continuing the urban myth of the Philadelphia Experiment.",
+          "semantic_score": 0.7280245423316956,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1608",
+          "text": "999 phone charging myth\nThe 999 phone charging myth is an urban myth that claims that if a mobile phone has low battery then dialing 999 (or any regional emergency number) charges the phone so it has more power. This was confirmed as a myth by several British police forces who publicly cited the dangers of making such calls.",
+          "semantic_score": 0.32708436250686646,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5255",
+          "text": "Cash-Landrum incident\nThe Cash-Landrum Incident was a highly reported unidentified flying object sighting from the United States in 1980, which witnesses insist was responsible for damage to their health. It is one of very few UFO cases to result in civil court proceedings.",
+          "semantic_score": 0.30788010358810425,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3616",
+          "text": "Douglas D. Scott\nDouglas D. Scott is an American archaeologist most notable for his work at the Little Bighorn in the mid-1980s. Working with Richard Fox, Melissa Connor, Doug Harmon, and staff and volunteers from the National Park Service, Scott worked to sketch out a field methodology that has enabled archaeologists to systematically investigate battlefields. This work is internationally recognized as constituting a great step forward in our ability to interpret battlefields archaeologically, regardless of the extent of the historical record. At the Little Bighorn, the fieldwork produced an interpretation of the battle that for the first time gave a clear understanding of the way the battle developed and pointed out some of the glaring inaccuracies of the historiography of the event. The fieldwork also helped determine which of the 242 headstones to the 210 U.S. soldiers lost at the Little Bighorn were erroneous, and recovered skeletal elements allowed one of the soldiers to be positively identified. It was not as successful in recovering the remains of 24 men lost in Deep Ravine and whose whereabouts are unknown to this day.",
+          "semantic_score": 0.2796744704246521,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6526",
+          "text": "His Chance in Life\n\"His Chance in Life\" is a short story by Rudyard Kipling. It was first published in the first Indian edition of \"Plain Tales from the Hills\" (1888), and in subsequent editions of that collection. The story is illuminating about Kipling's attitudes to race, which are less cut-and-dried than is often thought. Kipling is interesting, if not very detailed, on people of mixed race and the snobberies involved. (For some detail, see the Kipling Society notes.)",
+          "semantic_score": 0.27305057644844055,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6531",
+          "text": "In Black and White (short story collection)\nIn Black and White is a collection of eight short stories by Rudyard Kipling which was first published in a booklet of 108 pages as no. 3 of A H Wheeler & Co.’s Indian Railway Library in 1888. It was subsequently published in a book along with nos 1 and 2, \"Soldiers Three\" (1888) and \"The Story of the Gadsbys\", as \"Soldiers Three\" (1899). The characters about whom the stories are concerned are native Indians, rather than the British for writing about whom Kipling may be better known; four of the stories are narrated by the Indians, and four by an observant wise English journalist (the \"persona\" that Kipling likes to adopt). The stories are:",
+          "semantic_score": 0.13977566361427307,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8436",
+          "text": "Dewey Beard\nDewey Beard or Wasú Máza (\"Iron Hail\", 1858–1955) was a Minneconjou Lakota who fought in the Battle of Little Bighorn as a teenager. After George Armstrong Custer's defeat, Wasu Maza followed Sitting Bull into exile in Canada and then back to South Dakota where he lived on the Cheyenne River Indian Reservation. Chief Iron Hail is often mistaken by historians for Chief Iron Tail, being Lakota contemporaries with similar-sounding names. Most biographies incorrectly report that Chief Iron Tail fought in the Battle of the Little Bighorn and that his family was killed in 1890 at Wounded Knee, when in truth it was Chief Iron Hail who suffered the loss.",
+          "semantic_score": 0.12816458940505981,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5250",
+          "text": "Nash-Fortenberry UFO sighting\nThe Nash-Fortenberry UFO sighting was an unidentified flying object sighting that occurred on July 14, 1952, when two commercial pilots (William B. Nash and William H. Fortenberry) claimed to have seen eight UFOs flying in a tight echelon formation over Chesapeake Bay in the state of Virginia.",
+          "semantic_score": 0.15770737826824188,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5251",
+          "text": "1976 Tehran UFO incident\nThe 1976 Tehran UFO Incident was a radar and visual sighting of an unidentified flying object (UFO) over Tehran, the capital of Iran, during the early morning hours of 19 September 1976. During the incident, two F-4 Phantom II jet interceptors reported losing instrumentation and communications as they approached the object. These were restored upon withdrawal.",
+          "semantic_score": 0.07462602853775024,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6525",
+          "text": "The Jungle Book\nThe Jungle Book (1894) is a collection of stories by English author Rudyard Kipling. The stories are fables, using animals in an anthropomorphic manner to give moral lessons. A principal character is the boy or \"man-cub\" Mowgli, who is raised in the jungle by wolves. Other characters include Shere Khan the tiger and Baloo the bear. The book has been adapted many times for film and other media.",
+          "semantic_score": 0.06563769280910492,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The Philadelphia Experiment"
+    },
+    {
+      "step": 2,
+      "sub_question": "At what shipyard was this experiment allegedly carried out?",
+      "retrieved": [
+        {
+          "id": "1615",
+          "text": "Philadelphia Experiment\nThe Philadelphia Experiment is an alleged military experiment supposed to have been carried out by the U.S. Navy at the Philadelphia Naval Shipyard in Philadelphia, Pennsylvania, sometime around October 28, 1943. The U.S. Navy destroyer escort  was claimed to have been rendered invisible (or \"cloaked\") to enemy devices.",
+          "semantic_score": 0.7742015719413757,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5250",
+          "text": "Nash-Fortenberry UFO sighting\nThe Nash-Fortenberry UFO sighting was an unidentified flying object sighting that occurred on July 14, 1952, when two commercial pilots (William B. Nash and William H. Fortenberry) claimed to have seen eight UFOs flying in a tight echelon formation over Chesapeake Bay in the state of Virginia.",
+          "semantic_score": 0.31403544545173645,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5255",
+          "text": "Cash-Landrum incident\nThe Cash-Landrum Incident was a highly reported unidentified flying object sighting from the United States in 1980, which witnesses insist was responsible for damage to their health. It is one of very few UFO cases to result in civil court proceedings.",
+          "semantic_score": 0.30723464488983154,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8692",
+          "text": "New York Shipbuilding Corporation\nThe New York Shipbuilding Corporation (or New York Ship for short) was an American shipbuilding company that operated from 1899 to 1968, ultimately completing more than 500 vessels for the U.S. Navy, the United States Merchant Marine, the United States Coast Guard, and other maritime concerns. At its peak during World War II, NYSB was the largest and most productive shipyard in the world. Its best-known vessels include the destroyer  , the cruiser  , the aircraft carrier  , the nuclear-powered cargo ship NS \"Savannah\", and a quartet of cargo-passenger liners nicknamed the \"Four Aces\".",
+          "semantic_score": 0.3011285066604614,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3480",
+          "text": "William Howard (engineer)\nWilliam Howard (1793–1834) was an American mechanical engineer who was one of the first to work for the Baltimore and Ohio Railroad. When the railroad built its first cars using friction bearings first developed by Ross Winans, Howard made his own design and patented it on November 2, 1828.",
+          "semantic_score": 0.29398566484451294,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5248",
+          "text": "Kenneth Arnold\nKenneth A. Arnold (March 29, 1915 – January 16, 1984) was an American aviator and businessman. He is best known for making what is generally considered the first widely reported unidentified flying object sighting in the United States, after claiming to have seen nine unusual objects flying in tandem near Mount Rainier, Washington on June 24, 1947.",
+          "semantic_score": 0.2402200996875763,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5256",
+          "text": "Kenneth Arnold UFO sighting\nThe Kenneth Arnold UFO sighting occurred on June 24, 1947, when private pilot Kenneth Arnold claimed that he saw a string of nine, shiny unidentified flying objects flying past Mount Rainier at speeds that Arnold estimated at a minimum of 1,200 miles an hour (1,932 km/hr). This was the first post-War sighting in the United States that garnered nationwide news coverage and is credited with being the first of the modern era of UFO sightings, including numerous reported sightings over the next two to three weeks. Arnold's description of the objects also led to the press quickly coining the terms \"flying saucer\" and \"flying disc\" as popular descriptive terms for UFOs.",
+          "semantic_score": 0.21272966265678406,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6592",
+          "text": "UFOFU\nUFOFU was a rock band based in Dallas, Texas. The band consisted of Joseph Butcher, and brothers Brandon Curtis and Ben Curtis. It rose to local prominence in the mid-90's through word of mouth and slots opening for other north Texas bands such as Hagfish and Tripping Daisy. While touring, the band opened for Local H, Smoking Popes, The Geraldine Fibbers and Spacehog.",
+          "semantic_score": 0.190108060836792,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5405",
+          "text": "Theodore D. Wilson\nTheodore Delavan Wilson (also Theodore Delevan Wilson) (11 May 1840 – 29 June 1896) was an American naval ship designer, constructor and instructor of naval architecture and shipbuilding. As chief constructor for the Bureau of Construction and Repair from 1882 to 1892, he was in charge of all new warship design for the United States Navy. Through his efforts, the Navy began its transition out of a post–Civil War slump to become a modern naval power. Warships he designed include the pre-dreadnought battleship \"USS Maine\", whose destruction in Havana, Cuba in 1898 precipitated the Spanish–American War.",
+          "semantic_score": 0.2850989103317261,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8688",
+          "text": "Kaiser Shipyards\nThe Kaiser Shipyards were seven major shipbuilding yards located on the United States west coast during World War II. Kaiser ranked 20th among U.S. corporations in the value of wartime production contracts. The shipyards were owned by the Kaiser Shipbuilding Company, a creation of American industrialist Henry J. Kaiser, (1882-1967), who established the shipbuilding company around 1939 in order to help meet the construction goals set by the United States Maritime Commission for merchant shipping.",
+          "semantic_score": 0.24834705889225006,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Philadelphia Naval Shipyard"
+    }
+  ],
+  "links": [
+    {
+      "source": "1609",
+      "target": "1615",
+      "reason": "Paragraph 1609 identifies the urban myth referenced by '100 Million BC' as the Philadelphia Experiment; paragraph 1615 then specifies that this alleged experiment was carried out at the Philadelphia Naval Shipyard, directly bridging the film to the shipyard answer."
+    }
+  ],
+  "questions_seen": 163,
+  "_id": "5a90a14d5542990a98493672",
+  "correct_answer": "Philadelphia Naval Shipyard",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "question": "Who was born earlier, Robert Mulligan or James Foley?",
+  "answer": "Robert Mulligan",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "When was Robert Mulligan born?",
+      "retrieved": [
+        {
+          "id": "1012",
+          "text": "Robert Mulligan\nRobert Patrick Mulligan (August 23, 1925 – December 20, 2008) was an American film and television director best known as the director of humanistic American dramas, including \"To Kill a Mockingbird\" (1962), \"Summer of '42\" (1971), \"The Other\" (1972), \"Same Time, Next Year\" (1978) and \"The Man in the Moon\" (1991). He was also known in the 1960s for his extensive collaborations with producer Alan J. Pakula. He was the elder brother of actor Richard Mulligan.",
+          "semantic_score": 0.44084423780441284,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8696",
+          "text": "Jimmy Cricket\nJames Mulgrew (born 17 October 1945), known professionally as Jimmy Cricket, is an Irish comedian. He currently lives with his family in Rochdale, North West England.",
+          "semantic_score": 0.3961770236492157,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3751",
+          "text": "Abraham Zapruder\nAbraham Zapruder (May 15, 1905 – August 30, 1970) was a Russian-born American clothing manufacturer who witnessed the assassination of President John F. Kennedy in Dallas, Texas, on November 22, 1963. Zapruder unexpectedly captured the event in a home movie while filming the presidential limousine and motorcade as it traveled through Dealey Plaza.",
+          "semantic_score": 0.3921683430671692,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7113",
+          "text": "Charles Hackley\nCharles Henry Hackley (January 3, 1837 – January 10, 1905), son of Joseph H. Hackley and Salina Fuller Hackley, was born in Michigan City, Indiana, on January 3, 1837. He was an important figure in the history of Muskegon, Michigan. With his father he arrived in Muskegon in 1856 from Indiana to work on the creation of the early Michigan roadways. Later he became the owner of many acres of cutting grounds throughout Michigan. Later on (with business partner Thomas Hume) he opened the Hackley-Hume Lumber Mill on Muskegon Lake in 1854. After many successful years the mill of operation, the mill closed in 1894, after most of Michigan's Lower Peninsula had been effectively deforested. While many lumber mill owners moved their operations to the Pacific Northwest, Hackley remained in Muskegon and focused on urban revitalization of that city.",
+          "semantic_score": 0.3919130563735962,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9570",
+          "text": "Olivia Munn\nLisa Olivia Munn (born July 3, 1980) is an American actress and model. She was credited as Lisa Munn in her early career, but since 2006, she has used the name Olivia Munn.",
+          "semantic_score": 0.3769480884075165,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3748",
+          "text": "Zapruder film\nThe Zapruder film is a silent, color motion picture sequence shot by private citizen Abraham Zapruder with a home-movie camera, as U.S. President John F. Kennedy's motorcade passed through Dealey Plaza in Dallas, Texas, on November 22, 1963, thereby unexpectedly capturing the President's assassination.",
+          "semantic_score": 0.3215331733226776,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3750",
+          "text": "Marilyn Sitzman\nMarilyn Sitzman (December 14, 1939 – August 11, 1993) was an American receptionist and a witness to the assassination of U.S. President John F. Kennedy in Dallas, Texas on November 22, 1963. She was with her boss, Abraham Zapruder, as he made the Zapruder film, the most studied record of the assassination.",
+          "semantic_score": 0.24969317018985748,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3753",
+          "text": "William Greer\nWilliam Robert Greer (September 22, 1909 – February 23, 1985) was an agent of the U.S. Secret Service, best known for having driven President John F. Kennedy's presidential limousine in the motorcade through Dealey Plaza in Dallas on November 22, 1963, when the president was assassinated.",
+          "semantic_score": 0.32566624879837036,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3754",
+          "text": "Assassination of John F. Kennedy\nJohn F. Kennedy, the 35th President of the United States, was assassinated on Friday, November 22, 1963 at 12:30 p.m. Central Standard Time in Dallas, Texas while riding in a motorcade in Dealey Plaza. Kennedy was fatally shot by a former U.S Marine, Lee Harvey Oswald, while he was riding with his wife, Jacqueline, Texas Governor John Connally, and Connally's wife, Nellie, in a presidential motorcade. A ten-month investigation by the Warren Commission from November 1963 to September 1964 concluded that Oswald acted alone in shooting Kennedy, and that Jack Ruby also acted alone when he killed Oswald before he could stand trial. Kennedy's death marked the fourth (following Lincoln, Garfield, and McKinley) and most recent assassination of an American President. Vice President Lyndon B. Johnson became President upon Kennedy's death.",
+          "semantic_score": 0.24650441110134125,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3752",
+          "text": "Lee Harvey Oswald\nLee Harvey Oswald (October 18, 1939 – November 24, 1963) was an American former U.S. Marine who assassinated United States President John F. Kennedy on November 22, 1963. According to four federal government investigations and one municipal investigation, Oswald shot and killed Kennedy as the President traveled by motorcade through Dealey Plaza in the city of Dallas, Texas.",
+          "semantic_score": 0.2954629361629486,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "August 23, 1925"
+    },
+    {
+      "step": 2,
+      "sub_question": "When was James Foley born?",
+      "retrieved": [
+        {
+          "id": "1005",
+          "text": "Jim: The James Foley Story\nJim: The James Foley Story is a 2016 American documentary film about the life of journalist and war correspondent James \"Jim\" Foley directed by Brian Oakes. It premiered at the Sundance Film Festival on January 23, 2016 and on HBO on February 6, 2016.",
+          "semantic_score": 0.528644323348999,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8219",
+          "text": "Patrick Kennedy (1823–1858)\nPatrick Kennedy (February 16, 1823 – November 22, 1858) was an Irish farmer, businessman, and politician who moved to East Boston, Massachusetts from County Wexford, Ireland. He was born in New Ross, Ireland. He was the father of businessman/politician P. J. Kennedy, paternal grandfather of businessman/politician Joseph P. Kennedy Sr., and patrilineal great-grandfather of World War II casualty Joseph P. Kennedy Jr., President John F. Kennedy, Senator Robert F. Kennedy, and longtime Senator Ted Kennedy.",
+          "semantic_score": 0.3878646194934845,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4433",
+          "text": "John Aloysius Green\nJohn Aloysius Green was born in the parish of Moore, County Roscommon, Ireland, 10 December 1844. His parents were John Green and Bridget (Kenny) Green. John A. Green came to Boston, Massachusetts, September 2, 1852, and attended the common schools. In 1860 he learned the monumental trade and worked at it for ten years. Later he worked in granite, sandstone and last of all limestone.",
+          "semantic_score": 0.36098021268844604,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "816",
+          "text": "Harry M. Wurzbach\nHarry McLeary Wurzbach (May 19, 1874 – November 6, 1931) was an attorney and politician. He was the first Republican elected from Texas since Reconstruction to be elected for more than two terms and was re-elected to the Sixty-eighth, Sixty-ninth, and Seventieth congresses, representing Texas's 14th congressional district for several terms, from 1921 to 1929. He was re-elected in 1930 to the Seventy-second Congress and died in office. The first Republican elected from Texas who was born in the state, he was the only Republican from Texas serving in Congress during this period.",
+          "semantic_score": 0.3575604259967804,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4146",
+          "text": "James W. Horne\nJames Wesley Horne (December 14, 1881June 29, 1942) was an early American actor, screenwriter and film director. He began his career as an actor under director Sidney Olcott at Kalem Studios in 1913 and directed his first film for the company two years later.",
+          "semantic_score": 0.3479401171207428,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8212",
+          "text": "John F. Fitzgerald\nJohn Francis \"Honey Fitz\" Fitzgerald (February 11, 1863 – October 2, 1950) was an American politician, father of Rose Kennedy and maternal grandfather of President John F. Kennedy.",
+          "semantic_score": 0.3085286319255829,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6568",
+          "text": "John F. Kennedy Jr.\nJohn Fitzgerald Kennedy Jr. (November 25, 1960 – July 16, 1999), often referred to as JFK Jr. or John John, was an American lawyer, journalist, and magazine publisher. He was a son of President John F. Kennedy and First Lady Jacqueline Kennedy, and a younger brother of former Ambassador to Japan Caroline Kennedy. His father was assassinated, just three days before his third birthday.",
+          "semantic_score": 0.311112642288208,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6570",
+          "text": "Patrick Bouvier Kennedy\nPatrick Bouvier Kennedy (August 7, 1963 – August 9, 1963) was the last child of United States President John F. Kennedy and First Lady Jacqueline Bouvier Kennedy. He was the younger brother of Caroline and John Jr., and had a third sibling who was stillborn. Born prematurely, Patrick Bouvier Kennedy lived just over 39 hours before desperate attempts to save him failed, putting the First Family and nation into mourning. Three months later, his death was eclipsed by his father's assassination, but eventually his short lifespan led to innovations in treatment of premature infants, which gave rise to the pediatric subspecialty neonatology.",
+          "semantic_score": 0.2258463352918625,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8220",
+          "text": "Kennedy Compound\nThe Kennedy Compound consists of three houses on six acres (24,000 m²) of waterfront property on Cape Cod along Nantucket Sound in Hyannis Port, Massachusetts, United States. It was once the home of American businessman and political figure Joseph P. Kennedy Sr., his wife Rose, and two of their sons, President John F. Kennedy and Senator Robert F. Kennedy. Their youngest son, Senator Ted Kennedy, lived in his parents' house, and it was his main residence from 1982 to 2009. He died of brain cancer at the compound in August 2009.",
+          "semantic_score": 0.17353668808937073,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8215",
+          "text": "Jean Kennedy Smith\nJean Ann Kennedy Smith (born February 20, 1928) is an American diplomat who served as United States Ambassador to Ireland from 1993 to 1998. She is the eighth of nine children born to Joseph P. Kennedy, Sr. and Rose Fitzgerald, and is their longest-lived and last surviving child. Her siblings include President John F. Kennedy, Senator Robert F. Kennedy, longtime Senator Ted Kennedy, and Special Olympics founder Eunice Kennedy Shriver.",
+          "semantic_score": 0.310710608959198,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "October 18, 1973"
+    }
+  ],
+  "links": [],
+  "questions_seen": 102,
+  "_id": "5a7da0de5542990b8f5039d7",
+  "correct_answer": "Robert Patrick Mulligan",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

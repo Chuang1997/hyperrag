@@ -1,0 +1,240 @@
+{
+  "question": "What where both Hawker Hurricane and No. 1455 Flight apart of?",
+  "answer": "Royal Air Force",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What was Hawker Hurricane a part of?",
+      "retrieved": [
+        {
+          "id": "891",
+          "text": "Sindlinger Hawker Hurricane\nThe Sindlinger HH-1 Hawker Hurricane is a ⅝ scale homebuilt design based on the Hawker Hurricane. Designed by Fred Sindlinger for amateur construction, the prototype was built between 1969 and 1972.",
+          "semantic_score": 0.7034800052642822,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "892",
+          "text": "Hawker Hurricane\nThe Hawker Hurricane is a British single-seat fighter aircraft of the 1930s–1940s that was designed and predominantly built by Hawker Aircraft Ltd for the Royal Air Force (RAF). Although overshadowed by the Supermarine Spitfire, the aircraft became renowned during the Battle of Britain, accounting for 60 percent of the RAF air victories in the battle, and served in all the major theatres of the Second World War.",
+          "semantic_score": 0.6399037837982178,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "890",
+          "text": "Hawker Tornado\nThe Hawker Tornado was a British single-seat fighter aircraft design of World War II for the Royal Air Force as a replacement for the Hawker Hurricane. The planned production of Tornados was cancelled after the engine it was designed to use—the Rolls-Royce Vulture—proved unreliable in service. A parallel airframe with the Napier Sabre continued into production as the Hawker Typhoon.",
+          "semantic_score": 0.6035641431808472,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "886",
+          "text": "Hawker Typhoon\nThe Hawker Typhoon (Tiffy in RAF slang), is a British single-seat fighter-bomber, produced by Hawker Aircraft. It was intended to be a medium–high altitude interceptor, as a replacement for the Hawker Hurricane but several design problems were encountered and it never completely satisfied this requirement.",
+          "semantic_score": 0.5901130437850952,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "885",
+          "text": "Flying Legend Hawker Hurricane Replica\nThe Flying Legend Hawker Hurricane Replica is an Italian light-sport aircraft, designed and produced by Flying Legend of Caltagirone and introduced at the AERO Friedrichshafen show in 2011. The aircraft, a 72% scale replica of the British Hawker Hurricane Second World War fighter, is supplied as a kit for amateur construction or as a complete ready-to-fly-aircraft.",
+          "semantic_score": 0.559690535068512,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Royal Air Force"
+    },
+    {
+      "step": 2,
+      "sub_question": "What was No. 1455 Flight a part of?",
+      "retrieved": [
+        {
+          "id": "889",
+          "text": "No. 1455 Flight RAF\nNo. 1455 (Fighter) Flight was formed at RAF Tangmere, West Sussex on 7 July 1941, equipped with Turbinlite Douglas Boston and Douglas Havoc aircraft. On operations they co-operated with the Hawker Hurricanes of 1 Squadron and 3 Squadron. The flight was replaced with 534 Squadron on 2 September 1942.",
+          "semantic_score": 0.7167317271232605,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "888",
+          "text": "No. 1300 Flight RAF\nNo. 1300 (Meteorological) Flight was formed on 31 July 1943 at RAF Alipore, West Bengal, British India, by re-designating No. 1 Meteorological Flight RAF. The flight, strength of which had been reduced to three Hawker Hurricane Mk.IIs by this time, was disbanded on 30 May 1946 at RAF Kallang, Malaya, as No. 1300 (Meteorological THUM) Flight, THUM standing for Temperature and Humidity.",
+          "semantic_score": 0.47933298349380493,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5482",
+          "text": "United Express Flight 2415\nUnited Express Flight 2415 was a regularly scheduled flight from Seattle to Pasco, Washington, operated using a BAe Jetstream 31. On December 26, 1989, Flight 2415 crashed while attempting to land at Pasco's Tri-Cities Airport, killing both pilots and all four passengers aboard.",
+          "semantic_score": 0.43334630131721497,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "893",
+          "text": "Battle of Britain Memorial Flight\nThe Battle of Britain Memorial Flight (BBMF) is a Royal Air Force flight which provides an aerial display group usually comprising an Avro Lancaster, a Supermarine Spitfire and a Hawker Hurricane. The aircraft are regularly seen at events commemorating the Second World War and upon British State occasions, notably Trooping the Colour, celebrating Queen Elizabeth II's 80th birthday in 2006, as well as the wedding of Prince William, Duke of Cambridge and Catherine Middleton in 2011 and at air displays throughout the United Kingdom and Europe.",
+          "semantic_score": 0.42344921827316284,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1937",
+          "text": "Admiralty in the 18th century\nThe Glorious Revolution of 1688 rearranged the political map of Europe, and led to a series of wars with France that lasted well over a century. This was the classic age of sail; while the ships themselves evolved in only minor ways, technique and tactics were honed to a high degree, and the battles of the Napoleonic Wars entailed feats that would have been impossible for the fleets of the 17th century. Because of parliamentary opposition, James II fled the country. The landing of William III and the Glorious Revolution itself was a gigantic effort involving 100 warships and 400 transports carrying 11,000 infantry and 4,000 horses. It was not opposed by the English or Scottish fleets.",
+          "semantic_score": 0.41069310903549194,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5481",
+          "text": "United Express Flight 6291\nUnited Express Flight 6291 was a regularly scheduled United Express flight from Washington D.C. to Columbus, Ohio. It was a service operated by Atlantic Coast Airlines on behalf of United Express.",
+          "semantic_score": 0.2952033579349518,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5152",
+          "text": "American Airlines Flight 28\nAmerican Airlines Flight 28 was a scheduled domestic passenger flight that crashed on October 23, 1942 in Chino Canyon, near Palm Springs, California after being struck by a United States Army Air Forces B-34 'Lexington' bomber. The B-34 suffered only minor damage, and landed safely at the Army Airport of the Sixth Ferrying Command, Palm Springs, California.",
+          "semantic_score": 0.3905303180217743,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5487",
+          "text": "United Express Flight 5925\nUnited Express Flight 5925, operated by Great Lakes Airlines with a Beechcraft 1900 twin turboprop, was a regularly scheduled flight from Chicago O'Hare International Airport to Quincy, Illinois, with an intermediate stop in Burlington, Iowa.",
+          "semantic_score": 0.2567516267299652,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Royal Air Force"
+    },
+    {
+      "step": 3,
+      "sub_question": "What organization or unit did both belong to?",
+      "retrieved": [
+        {
+          "id": "893",
+          "text": "Battle of Britain Memorial Flight\nThe Battle of Britain Memorial Flight (BBMF) is a Royal Air Force flight which provides an aerial display group usually comprising an Avro Lancaster, a Supermarine Spitfire and a Hawker Hurricane. The aircraft are regularly seen at events commemorating the Second World War and upon British State occasions, notably Trooping the Colour, celebrating Queen Elizabeth II's 80th birthday in 2006, as well as the wedding of Prince William, Duke of Cambridge and Catherine Middleton in 2011 and at air displays throughout the United Kingdom and Europe.",
+          "semantic_score": 0.46907055377960205,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6731",
+          "text": "No. 401 Squadron RCAF\nNo. 401 Tactical Fighter Squadron , a.k.a. \"City of Westmount\" Squadron (originally No. 1 Squadron), is a Royal Canadian Air Force squadron based at CFB Cold Lake. During World War II it was a fighter squadron and is notable for having fought in the Battle of Britain. Postwar, the squadron operated in Canada as an auxiliary squadron, reserve squadron and a helicopter and training squadron. In 2015 it was reactivated as a Tactical Fighter Squadron.",
+          "semantic_score": 0.44962263107299805,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "889",
+          "text": "No. 1455 Flight RAF\nNo. 1455 (Fighter) Flight was formed at RAF Tangmere, West Sussex on 7 July 1941, equipped with Turbinlite Douglas Boston and Douglas Havoc aircraft. On operations they co-operated with the Hawker Hurricanes of 1 Squadron and 3 Squadron. The flight was replaced with 534 Squadron on 2 September 1942.",
+          "semantic_score": 0.41621556878089905,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6725",
+          "text": "63d Fighter Squadron\nThe 63d Fighter Squadron is an active United States Air Force unit, assigned to the 56th Operations Group, at Luke Air Force Base, Arizona. It operates the F-35A aircraft, conducting advanced fighter training since its reactivation in 2016.",
+          "semantic_score": 0.41539254784584045,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4357",
+          "text": "Comair Flight Services\nComair Flight Services (often referred to as CFS) is a South African business aviation company established in 2007 and is based in Johannesburg, South Africa. Its head office is based at Lanseria International Airport. Originally established in 2007 the company was first named Corporate Flight Services but in 2012 Comair General Aviation Holdings acquired a stake in the company and it was re-branded as Comair Flight Services, retaining the initials \"CFS\".",
+          "semantic_score": 0.40993958711624146,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6723",
+          "text": "377th Fighter Squadron\nThe 377th Fighter Squadron is an United States Air Force active duty unit stationed at Montgomery Air National Guard Base, Alabama. It is an Active Associate Unit administratively assigned to the 495th Fighter Group at Shaw Air Force Base, South Carolina and integrated operationally with the 100th Fighter Squadron of the Alabama Air National Guard’s 187th Fighter Wing. Prior to its reactivation in 2015, the unit was last stationed at Biggs Field, Texas, where as a subordinate unit of the 362nd Fighter Group they flew the North American P-51H Mustang.",
+          "semantic_score": 0.3914615511894226,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6728",
+          "text": "70th Fighter Squadron\nThe 70th Fighter Squadron is an inactive United States Air Force squadron. The Squadron was constituted on 14 Dec 1940 as the 70th Pursuit Squadron (Interceptor). This squadron was activated on 1 Jan 1941 and patrolled the airspace around Fiji. After the war, the squadron was declared inactivated on 26 Dec 1945. The 70th Tactical Fighter Squadron was reinstated on 8 Sep 1975 and serve the 70th Fighter Squadron was retired on 1 Nov 1991. It was most recently part of the 347th Wing at Moody Air Force Base, Georgia. It operated Fairchild Republic A-10 Thunderbolt II aircraft conducting ground attack missions.",
+          "semantic_score": 0.35117051005363464,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "888",
+          "text": "No. 1300 Flight RAF\nNo. 1300 (Meteorological) Flight was formed on 31 July 1943 at RAF Alipore, West Bengal, British India, by re-designating No. 1 Meteorological Flight RAF. The flight, strength of which had been reduced to three Hawker Hurricane Mk.IIs by this time, was disbanded on 30 May 1946 at RAF Kallang, Malaya, as No. 1300 (Meteorological THUM) Flight, THUM standing for Temperature and Humidity.",
+          "semantic_score": 0.3359706997871399,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3888",
+          "text": "RCAF Western Air Command\nWestern Air Command was the part of the Royal Canadian Air Force's Home War Establishment responsible for air operations on the Pacific coast of Canada during the Second World War. When Canada declared war against Germany in September 1939 the command consisted of only five squadrons. Four of them equipped with obsolete aircraft including a bomber squadron with aircraft from the Great War and there were no fighter aircraft at all for its only fighter squadron (113 Fighter Squadron was thus disbanded). With the Japanese threat after Pearl Harbor it grew rapidly and played a critical role in fighter and anti-submarine operations in Canadian and American waters during the Aleutian Islands Campaign. It was there that Squadron Leader K.A. Boomer of No. 111 Squadron shot down a Rufe fighter, the RCAF's only kill in the Pacific Theatre. On 7 July 1942 a Bristol Bolingbroke pressed home an attack on the Japanese Submarine Ro 32 the pilot F/Sgt. P.M.G. Thomas of No. 115 Squadron RCAF then led American Destroyers to sink the damaged submarine. By January 1943 Western Air Command had expanded to include many bomber, fighter and operational units under its control. By the end of the war the command would involve some twenty squadrons when the last units to join were added in 1943. These were the 163 Army Cooperation Squadron in March flying Bristol Bolingbrokes and Hawker Hurricanes, in May the 160 Bomber-Reconnaissance Squadron was added flying Cansos from Sea Island BC (before moving to Yarmouth NS in July) and the 166 Communication Squadron formed in September flying various types. In addition to the new squadrons, new aircraft types came on line replacing the command's remaining Supermarine Stranraers and Blackburn Sharks with Canso's and the Bolingbrokes and Beauforts with the Lockheed Ventura. Countless training missions and operational patrols bolstered the air activity over the coastal areas but there was not much action until RCAF Western Command was on the look out for General Kusaba's Fire Balloons that the Japanese called the Fūsen Bakudan Campaign. In February and March 1945, P-40 fighter pilots from 133 Squadron, Royal Canadian Air Force operating out of RCAF Patricia Bay (Victoria, British Columbia), intercepted and destroyed two fire balloons, On 21 February, Pilot Officer E. E. Maxwell While shot down a balloon, which landed on Sumas Mountain, in Washington State. On 10 March, Pilot Officer J. O. Patten destroyed a balloon near Saltspring Island, British Columbia. During another interception a Canso forced down a fire balloon which was examined at the army headquarters. Patrol activity was joined by the Operational Training Schools (OTS) operated by Number 4 Training Command of the BCATP. They were the No. 3 OTS flying the Canso and Catalina and No. 32 OTS with Ansons, Beauforts and Swordfish at Patricia Bay. In April, 1944 the No. 5 OTS Heavy Conversion unit stood up at Boundary Bay when 16 B-24 Liberators arrived fresh from American factories. By the end of September 1944 RCAF 5 O.T.U. had grown to sizeable force of some 87 aircraft including 38 B-24 Liberators, 35 B-25 Mitchells, 5 Bolingbrokes, 8 P-40 Kittyhawks and a single Norseman. With the end of the war in Europe these aircraft were joined by a number of Victory Aircraft Lancaster X bombers which were to be used to train the British Commonwealth's Very Long Range Bomber Tiger Force that would soon be sent to bomb the Japanese mainland from Okinawa. With the unconditional surrender of Japan the RCAF's Tiger Force bomber squadrons were disbanded before they flew overseas and the total draw down of the Western Air Command was suddenly undertaken. Within several months almost all the flying squadrons would be completely stood down.",
+          "semantic_score": 0.4077880382537842,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6730",
+          "text": "Luke Air Force Base\nLuke Air Force Base (IATA: LUF, ICAO: KLUF, FAA LID: LUF) is a United States Air Force base located seven miles (11 km) west of the central business district of Glendale, in Maricopa County, Arizona, United States. It is also about 15 mi west of Phoenix, Arizona.",
+          "semantic_score": 0.35083162784576416,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Royal Air Force"
+    }
+  ],
+  "links": [
+    {
+      "source": "892",
+      "target": "889",
+      "reason": "Paragraph 892 establishes the Hawker Hurricane was built for and operated by the Royal Air Force; paragraph 889 establishes No. 1455 Flight was an RAF flight, providing the shared organizational membership (RAF) that answers the question."
+    }
+  ],
+  "questions_seen": 90,
+  "_id": "5adcdf455542994ed6169c11",
+  "correct_answer": "Royal Air Force",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

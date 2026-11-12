@@ -1,0 +1,174 @@
+{
+  "question": "Which album was released first, \"Talk That Talk\" or \"Loud\"?",
+  "answer": "\"Loud\"",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "When was \"Talk That Talk\" released?",
+      "retrieved": [
+        {
+          "id": "1168",
+          "text": "Introducing ... Talk Talk\nIntroducing ... Talk Talk is a compilation album by Talk Talk released in 2003 (one of many \"best of\" albums of the band released by coincidence the same year). \"Introducing ... Talk Talk\" is slightly different from the other \"best of\" albums by the band in that it doesn't include any of the band's hits. The first five tracks come from the 1982–1984 period, including a piano version of \"Call in the Night Boy\", B-side to a non-album A-side in 1983. Whilst the remaining seven tracks cover 1986–1988, the EMI era of the band's more experimental phase, most songs in this part of the album are drawn from \"The Colour of Spring\" and \"Spirit of Eden\". Nothing post-1988 is featured, as EMI, who released the album, couldn't collect material from \"Laughing Stock\" or \"Missing Pieces\", both recorded over 1990–1991, or the live album \"London 1986\", released by Pond Life in 1999.",
+          "semantic_score": 0.6227636337280273,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1163",
+          "text": "Talk That Talk\nTalk That Talk is the sixth studio album by Barbadian singer Rihanna, released on November 18, 2011, by Def Jam Recordings and SRP Records. It was recorded while traveling for the Loud Tour between February and November 2011, and was originally planned to be a reissue of her previous studio album \"Loud\" (2010). As executive producer, Rihanna enlisted a wide range of producers including Alex da Kid, Calvin Harris, Chase & Status, No I.D., and StarGate to achieve her desired sound. Following in the same vein as \"Loud\", \"Talk That Talk\" is a dance-oriented pop/R&B crossover album that incorporates elements of hip hop, dubstep, electronic and house music. The album also continues to have subtle dancehall genres, whilst its lyrical content and themes revolve around a nihilist, romantic and lascivious lover.",
+          "semantic_score": 0.5577383637428284,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3577",
+          "text": "Talkin' 'Bout Your Generation (series 4)\n\"Talkin' 'Bout Your Generation\" is an Australian game show which airs on Network Ten. On 27 October 2011, Network Ten confirmed \"Talkin' 'Bout Your Generation\" would return in 2012 for a fourth series. On 22 January 2012, it was announced that the show would begin airing on 1 February 2012 in an 8pm timeslot.",
+          "semantic_score": 0.48417791724205017,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3575",
+          "text": "Talkin' 'Bout Your Generation (series 3)\nTalkin' 'Bout Your Generation is an Australian game show which airs on Network Ten. On 14 September 2010, Network Ten confirmed \"Talkin' 'Bout Your Generation\" would return in 2011. On 25 January 2011, it was announced that Series 3 would begin airing on 8 February 2011. Similar to series 2, this series was split into two airing blocks with a hiatus in the middle.",
+          "semantic_score": 0.47347569465637207,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7861",
+          "text": "The Name of This Band Is Talking Heads\nThe Name of This Band Is Talking Heads is a double live album by Talking Heads, originally released in 1982. The first disc featured the original quartet in recordings from 1977 and 1979, and the second disc the expanded ten-piece lineup that toured in 1980 and 1981. The album contains live versions of songs that appear on their first four studio albums, \"\", \"More Songs About Buildings and Food\", \"Fear of Music\", and \"Remain in Light.\" The cassette edition of the album included \"Cities\" as a bonus track not included on the vinyl edition – this track has been included on the subsequent CD release.",
+          "semantic_score": 0.4694536030292511,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7868",
+          "text": "Talking Heads: 77\nTalking Heads: 77 is the debut album by the American rock band Talking Heads, released in September 1977. The single \"Psycho Killer\" reached No. 92 on the Billboard Hot 100 Chart. In 2003, the album was ranked No. 290 on \"Rolling Stone\" magazine's The 500 Greatest Albums of All Time list.",
+          "semantic_score": 0.46145549416542053,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7863",
+          "text": "Talking Heads (album)\nTalking Heads (also known as Brick) is a box set by rock band Talking Heads, containing the band's eight studio albums in DualDisc format with videos and previously unreleased material. Remixed by Jerry Harrison in Advanced Resolution 5.1 Dolby Surround Sound, \"Brick\" is the first DualDisc release of an artist's entire back catalogue. The albums included in \"Brick\" are:",
+          "semantic_score": 0.4155930280685425,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7865",
+          "text": "The Best of Talking Heads\nThe Best of Talking Heads is a 2004 greatest hits album by Talking Heads, released by Sire/Rhino/Warner Bros., and contains in all 18 tracks, from the beginning to the end of Talking Heads' history. It was released the same day (August 17, 2004) as the expanded reissue of \"The Name of This Band Is Talking Heads\". The album charted at number 87 on the ARIA Charts and charted at number 96 on the Ultratop Charts in Belgium.",
+          "semantic_score": 0.4300110340118408,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "November 18, 2011"
+    },
+    {
+      "step": 2,
+      "sub_question": "When was \"Loud\" released?",
+      "retrieved": [
+        {
+          "id": "1161",
+          "text": "Loud Tour\nThe Loud Tour was the fourth overall and third world concert tour by Barbadian recording artist Rihanna. Performing in over twenty countries in the Americas and Europe, the tour was launched in support of Rihanna's fifth studio album \"Loud\" (2010) but eventually supported her following album \"Talk that Talk\" as it was released during the tour, in November 2011. Critics acclaimed the show for its liveliness and higher caliber of quality when compared to Rihanna's previous tours. The Loud Tour was a large commercial success, experiencing demand for an extension of shows in the United Kingdom due to popularity. In London, Rihanna played a record breaking 10 dates at The O2 Arena. The tour ultimately grossed an estimated value of US$90 million from 98 reported shows and a total audience of 1,200,800. The Loud Tour became the 7th highest grossing tour of 2011.",
+          "semantic_score": 0.5086057186126709,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1164",
+          "text": "List of R5 concert tours\nAmerican pop rock band R5 has embarked on five concert tours, two of which have been worldwide, and two promotional tours. In March 2010, they self-released an EP, \"Ready Set Rock\", and in September released their debut studio album with Hollywood Records. The second EP, \"Loud\", was released on February 19, 2013, which featured the lead single and title track \"Loud\", the debut single from upcoming album. The band's first full-length album, \"Louder\", was released on September 24, 2013 and the album not only includes the four songs from \"Loud\" and also seven new songs. The second single from the album, \"Pass Me By\", premiered on Radio Disney on August 16. The music video premiered on 29 August on Disney Channel and is available for public viewing on the band's Vevo channel. The third single, \"(I Can't) Forget About You\", was released on December 25, 2013 and reached number 47 on \"Billboard\" Digital Pop Songs, and the fourth single \"One Last Dance\" on May 29, 2014.",
+          "semantic_score": 0.474277526140213,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2415",
+          "text": "Heavy (Lauri Ylönen song)\n\"Heavy\" is the first single of Lauri Ylönen from his first solo album \"New World\". The world premiere of the song was on 26 February 2011 with a digital release on 25 February.",
+          "semantic_score": 0.4522826373577118,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1160",
+          "text": "What About Us (Livin Out Loud album)\nWhat About Us is the third studio album of American R&B group Livin Out Loud. It was released first in the United Kingdom. As of July 2, 2006, it ranked number 7 on the World Hip Hop Chart and number 7 also on the UK Hip Hop Chart.",
+          "semantic_score": 0.43197545409202576,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1163",
+          "text": "Talk That Talk\nTalk That Talk is the sixth studio album by Barbadian singer Rihanna, released on November 18, 2011, by Def Jam Recordings and SRP Records. It was recorded while traveling for the Loud Tour between February and November 2011, and was originally planned to be a reissue of her previous studio album \"Loud\" (2010). As executive producer, Rihanna enlisted a wide range of producers including Alex da Kid, Calvin Harris, Chase & Status, No I.D., and StarGate to achieve her desired sound. Following in the same vein as \"Loud\", \"Talk That Talk\" is a dance-oriented pop/R&B crossover album that incorporates elements of hip hop, dubstep, electronic and house music. The album also continues to have subtle dancehall genres, whilst its lyrical content and themes revolve around a nihilist, romantic and lascivious lover.",
+          "semantic_score": 0.41668960452079773,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2417",
+          "text": "New World (Lauri Ylönen album)\nNew World is the first solo album from Lauri Ylönen, lead singer of Finnish band The Rasmus. The album was released on 30 March 2011. This album contains songs by Lauri that didn't fit The Rasmus' style, and decided to be released as a solo album. The first single released was \"Heavy\" and the second was \"In the City\".",
+          "semantic_score": 0.26803112030029297,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1168",
+          "text": "Introducing ... Talk Talk\nIntroducing ... Talk Talk is a compilation album by Talk Talk released in 2003 (one of many \"best of\" albums of the band released by coincidence the same year). \"Introducing ... Talk Talk\" is slightly different from the other \"best of\" albums by the band in that it doesn't include any of the band's hits. The first five tracks come from the 1982–1984 period, including a piano version of \"Call in the Night Boy\", B-side to a non-album A-side in 1983. Whilst the remaining seven tracks cover 1986–1988, the EMI era of the band's more experimental phase, most songs in this part of the album are drawn from \"The Colour of Spring\" and \"Spirit of Eden\". Nothing post-1988 is featured, as EMI, who released the album, couldn't collect material from \"Laughing Stock\" or \"Missing Pieces\", both recorded over 1990–1991, or the live album \"London 1986\", released by Pond Life in 1999.",
+          "semantic_score": 0.36335107684135437,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1159",
+          "text": "Roc Me Out\n\"Roc Me Out\" is a song recorded by Barbadian recording artist Rihanna for her sixth studio album \"Talk That Talk\" (2011). It was written by Ester Dean, Robert Swire, Gareth McGrillen, Mikkel S. Eriksen and Tor Erik Hermansen. The track was produced by StarGate (Eriksen and Hermansen) and Knife Party (Swire and McGrillen). \"Roc Me Out\" is a synthpop-influenced R&B song reminiscent of Rihanna's previous singles \"Rude Boy\" and \"S&M\". It is set in \"chugging\" tempo and features heavy synths, \"contagious\" hooks and West Indian nuances. Lyrically, the song features Rihanna sexually seducing her lover, while revealing her \"nasty secrets\". Contemporary music critics were divided in their reviews of \"Roc Me Out\"; some of them labeled the song as a highlight on the album, while others criticized its similarity to Rihanna's previous singles. Upon the release of \"Talk That Talk\", the song debuted on the lower regions of the singles charts in South Korea and the United Kingdom at number 73 and 176 respectively.",
+          "semantic_score": 0.24232585728168488,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "November 12, 2010"
+    }
+  ],
+  "links": [
+    {
+      "source": "1163",
+      "target": "1161",
+      "reason": "1163 gives Talk That Talk's release date (Nov 18, 2011) and notes it was recorded during the Loud Tour; 1161 identifies Loud as Rihanna's 2010 album and states Talk That Talk was released during the tour in November 2011, bridging the two albums' release timing."
+    }
+  ],
+  "questions_seen": 118,
+  "_id": "5a7a919455429941d65f26b5",
+  "correct_answer": "Loud",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

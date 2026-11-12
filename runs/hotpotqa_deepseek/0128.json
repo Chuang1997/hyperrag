@@ -1,0 +1,196 @@
+{
+  "question": "Are William James and Bret Easton Ellis both screenwriters?",
+  "answer": "Yes",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Is William James a screenwriter?",
+      "retrieved": [
+        {
+          "id": "4146",
+          "text": "James W. Horne\nJames Wesley Horne (December 14, 1881June 29, 1942) was an early American actor, screenwriter and film director. He began his career as an actor under director Sidney Olcott at Kalem Studios in 1913 and directed his first film for the company two years later.",
+          "semantic_score": 0.47497206926345825,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6418",
+          "text": "James F. Light\nJames F. Light was an American literary scholar, university vice president, and provost. During his academic career, he helped revive the works of satirist Nathanael West, with the first book length critical study of his work, \"Nathanael West: An Interpretive Study\", (Northwestern Univ. Press, 1961). He was also the leading authority on John William De Forest, the early American realist whose work he critiqued in \"John William De Forest\" (Twayne Pub., 1965), and he wrote extensively on J. D. Salinger, Robert Penn Warren and others.",
+          "semantic_score": 0.4616203010082245,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8964",
+          "text": "Stephen Susco\nStephen Susco is an American film and television screenwriter who is most famous for writing the hit movies \"The Grudge\" and \"The Grudge 2\".",
+          "semantic_score": 0.46101343631744385,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2901",
+          "text": "Christopher Lee (writer)\nChristopher David Lee (born 28 March 1947) is an Australian scriptwriter who has been an Australian Associated Press journalist and foreign correspondent and has worked as a script consultant in New Zealand, Singapore and New York City. He has won an AFI Award and four AWGIE Awards and is the recipient of a Centenary Medal and a Queensland Premier's Literary Award.",
+          "semantic_score": 0.43638965487480164,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1729",
+          "text": "Robert Florey\nRobert Florey (14 September 1900 – 16 May 1979) was a French-American director, screenwriter, film journalist, and occasional actor.",
+          "semantic_score": 0.4349343776702881,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8958",
+          "text": "The Grudge 2\nThe Grudge 2 is a 2006 American supernatural horror film and a sequel to the 2004 film, \"The Grudge\". Produced by Sam Raimi, the film was directed by Takashi Shimizu (director of the \"Ju-on\" series), written by Stephen Susco and stars an ensemble cast that includes Amber Tamblyn, Sarah Michelle Gellar, Edison Chen, Arielle Kebbel, Jenna Dewan Tatum, Teresa Palmer, Misako Uno, Matthew Knight and Takako Fuji.",
+          "semantic_score": 0.19423437118530273,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6422",
+          "text": "Nathanael West\nNathanael West (born Nathan Weinstein; October 17, 1903 – December 22, 1940) was an American author, screenwriter and satirist.",
+          "semantic_score": 0.423981249332428,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8966",
+          "text": "List of The Grudge characters\n\"The Grudge\" film series features a large cast of characters mainly created by screenwriter Stephen Susco and Takashi Shimizu. The film series focuses on people affected by a deadly curse that spreads like a virus and manifests itself in various ways, such as turning people homicidal or people being haunted, ultimately leading to their demise, if they come in contact with the curse in any way.",
+          "semantic_score": 0.1507754921913147,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8957",
+          "text": "The Grudge\nThe Grudge is a 2004 American supernatural horror film and a remake of the Japanese film, \"\". The film was released in North America on October 22, 2004, by Columbia Pictures, and was directed by Takashi Shimizu (director of all previous \"Ju-on\" films) while Stephen Susco scripted the film. The plot is told through a non-linear sequence of events and includes several intersecting subplots. The film was a box office success, making over $187 million against a $10 million budget, though it received only mixed reviews from critics.",
+          "semantic_score": 0.17138470709323883,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8965",
+          "text": "The Grudge 3\nThe Grudge 3 is a 2009 American direct-to-video supernatural horror film and the third film in \"The Grudge\" series. Toby Wilkins, who had previously directed the successful film \"Splinter\" and the short films \"Tales from the Grudge\", took Takashi Shimizu's place as director who later served as executive producer, while Brad Keene replaced Stephen Susco as screenwriter. The film stars Johanna Braddy, Shawnee Smith and Marina Sirtis, with a special appearance by Matthew Knight (from \"The Grudge 2\"), and was released on DVD on May 12, 2009.",
+          "semantic_score": 0.15147855877876282,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "step": 2,
+      "sub_question": "Is Bret Easton Ellis a screenwriter?",
+      "retrieved": [
+        {
+          "id": "1274",
+          "text": "Bret Easton Ellis\nBret Easton Ellis (born March 7, 1964) is an American author, screenwriter, and short story writer. His works have been translated into 27 languages. He was at first regarded as one of the so-called literary Brat Pack, which also included Tama Janowitz and Jay McInerney. He is a self-proclaimed satirist, whose trademark technique, as a writer, is the expression of extreme acts and opinions in an affectless style. Ellis employs a technique of linking novels with common, recurring characters.",
+          "semantic_score": 0.570208728313446,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1272",
+          "text": "Patrick Bateman\nPatrick Bateman is a fictional character, the villain protagonist and narrator of the novel \"American Psycho\" by Bret Easton Ellis, and its film adaptation. He is a wealthy, materialistic Wall Street investment banker who leads a double life as a serial killer. Bateman has also briefly appeared in other Ellis novels.",
+          "semantic_score": 0.464152455329895,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7367",
+          "text": "David S. Weiss\nDavid S. Weiss is an American comedy writer. He has written for Dennis Miller Live, CNBC's \"Dennis Miller\", The Late Late Show with Craig Kilborn, and . In 2005, he ran unsuccessfully for the Writers Guild of America board of directors.",
+          "semantic_score": 0.43711987137794495,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6422",
+          "text": "Nathanael West\nNathanael West (born Nathan Weinstein; October 17, 1903 – December 22, 1940) was an American author, screenwriter and satirist.",
+          "semantic_score": 0.43370309472084045,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9509",
+          "text": "Vladimir Danilevich\nVladimir Petrovich Danilevich (Russian: Владимир Петрович Данилевич ; 4 September 1924 — 9 October 2001) was well-known Soviet and Russian Animator: who successfully worked as the film director, the screenwriter, the art director and the animator.",
+          "semantic_score": 0.4303680956363678,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "388",
+          "text": "Semyon Aranovich\nSemyon Davidovich Aranovich (Ukrainian: Семён Аранович, 23 July 1934, Derazhnya, Ukraine, Soviet Union – 8 September 1996, Hamburg, Germany) was a Soviet and Russian film director.",
+          "semantic_score": 0.3445780277252197,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6418",
+          "text": "James F. Light\nJames F. Light was an American literary scholar, university vice president, and provost. During his academic career, he helped revive the works of satirist Nathanael West, with the first book length critical study of his work, \"Nathanael West: An Interpretive Study\", (Northwestern Univ. Press, 1961). He was also the leading authority on John William De Forest, the early American realist whose work he critiqued in \"John William De Forest\" (Twayne Pub., 1965), and he wrote extensively on J. D. Salinger, Robert Penn Warren and others.",
+          "semantic_score": 0.23540306091308594,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "268",
+          "text": "Sergey Dreyden\nSergey Simonovich Dreyden (Dontsov) (Russian: Серге́й Си́монович Дре́йден (Донцо́в) ; born September 14, 1941) is a Russian actor and star of Alexander Sokurov's Russian Ark.",
+          "semantic_score": 0.24499329924583435,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8677",
+          "text": "Eisenstein (film)\nEisenstein is a 2000 Canadian film about Sergei Eisenstein, directed by Renny Bartlett and starring Simon McBurney, Raymond Coulthard and Jacqueline McKenzie. It was nominated for five Genie Awards including Best Picture, Best Director, and Best Screenplay.",
+          "semantic_score": 0.35592663288116455,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3759",
+          "text": "Giorgio Ferroni\nGiorgio Ferroni (April 12, 1908 - August 17, 1981), sometimes credited as Calvin Jackson Padget or Calvin J. Padget, was an Italian film director, film editor and a screenwriter.",
+          "semantic_score": 0.3443912863731384,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "links": [],
+  "questions_seen": 129,
+  "_id": "5ac1a4ed5542994d76dcce90",
+  "correct_answer": "no",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}
