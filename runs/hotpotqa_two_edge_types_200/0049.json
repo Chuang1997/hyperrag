@@ -1,0 +1,202 @@
+{
+  "question": "A scam involving a male calling small town fast-food restaurants and pretending to be a police officer to have them strip search employees was turned into a movie of what name?",
+  "answer": "Compliance",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What real-life scam involved a male caller impersonating a police officer and instructing small-town fast-food restaurants to strip search employees?",
+      "retrieved": [
+        {
+          "id": "485",
+          "text": "Strip search phone call scam\nThe strip search phone call scam is a series of incidents that extended over a period of about ten years before an arrest was made in 2004. The incidents involved a man prank calling a restaurant or grocery store, claiming to be a police officer and then convincing managers to conduct strip searches of female employees, and to perform other bizarre acts on behalf of \"the police\". The calls were most often placed to fast-food restaurants in small towns, located in rural areas of the United States.",
+          "semantic_score": 0.800940215587616,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "484",
+          "text": "Compliance (film)\nCompliance is a 2012 American thriller film written and directed by Craig Zobel, and starring Ann Dowd, Dreama Walker, and Pat Healy. The plot focuses on a prank caller who, posing as a police officer, convinces the manager of a fast food restaurant to carry out intrusive and unlawful procedures on an employee. The film is based on the strip search prank call scam that took place at a Mount Washington, Kentucky McDonald's restaurant in Bullit County. Dowd's performance as Sandra, the manager, won her the National Board of Review Award for Best Supporting Actress.",
+          "semantic_score": 0.41251951456069946,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "491",
+          "text": "Part-time job terrorism\nPart-time job terrorism (バイトテロ , baito tero ) is a Japanese social phenomenon; part-time employees perform pranks and stunts, such as climbing into ice cream freezers or holding their body horizontally suspended, more colloquially termed 'planking', on the counter-tops at fast-food restaurants, usually with the sole purpose of gaining recognition from their peers through the photos and/or videos they later display on social media sites. This social phenomenon commonly involves people with high job dissatisfaction—a factor which is commonly cited by the media alongside low pay and arduously long working hours. Although pranks such as the aforementioned would not be seen as shocking by many other cultures, they are considered disgraceful in Japanese culture.",
+          "semantic_score": 0.39410486817359924,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5890",
+          "text": "Broadpoint\nBroadPoint Communications was a US telecommunications company in the late 1990s offering free long-distance calling supported by advertising, a service the company called \"Sponsored Communications.\" Perry Kamel was founder and CEO of the company, based in Landover, Maryland. Users would sign up online for the company's FreeWay service by filling out a questionnaire. To make calls, users dialed the BroadPoint toll-free number, then entered their PIN, followed by the desired number. Users could then earn minutes of calling time by listening to brief advertisements, five to fifteen seconds in length, targeted to their interests and location. GEICO was a frequent advertiser. However, the minutes earned could not be carried over to another call, so users would sometimes accrue many minutes of free calling, only to lose them when their intended party was busy or did not answer. Perhaps because of such shortcomings, the FreeWay service soon ended. The company filed for Chapter 7 liquidation in January 2002. Broadpoint's former URL is no longer associated with the company, and is now made up only of advertising links. Kamel went on to become CEO of Maxamine, a Web analysis company, and is now CEO of Elateral, which describes itself as a \"global branding, marketing and design consultancy.\"",
+          "semantic_score": 0.36073294281959534,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8767",
+          "text": "John's Incredible Pizza Company\nJohn’s Incredible Pizza Company is an American all-you-can-eat buffet restaurant and entertainment business founded by John Parlet in 1997. The company has 11 locations on the United States West Coast. Its corporate office is located in Rancho Santa Margarita, California.",
+          "semantic_score": 0.3599420189857483,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8763",
+          "text": "America's Incredible Pizza Company\nAmerica's Incredible Pizza Company (AIPC) is an American restaurant chain based in Springfield, Missouri. The restaurants are pizza buffets and entertainment centers. The first restaurant opened in Springfield in 2002. The company has 1,200 employees, and a revenue of $64.1 million.",
+          "semantic_score": 0.35746318101882935,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7168",
+          "text": "Papa John's Pizza\nPapa John's Pizza is an American restaurant franchise company. It runs the third largest take-out and pizza delivery restaurant chain in the United States, with headquarters in Jeffersontown, Kentucky, a suburb of Louisville.",
+          "semantic_score": 0.3014594316482544,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8770",
+          "text": "Mr. Jim's Pizza\nMrJims.Pizza is a U.S. chain of pizza restaurants based in Farmers Branch, Texas. Jim Johnson opened the first restaurant in Detroit, Michigan in 1975. There are currently 42 locations in Louisiana, Texas, North Carolina, Nevada and Wyoming, with the majority located in northern Texas. MrJims.Pizza is widely known for their crust. Their hand stretched pizza dough is made fresh in the store daily from flour containing 100% spring wheat. Every single MrJims.Pizza franchise has online ordering capabilities. In 2006, MrJims.Pizza introduced a unique new item, Nacho Stix, to their menu. It quickly became one of their bestsellers, and lead to a resurgence in the popularity of MrJims.",
+          "semantic_score": 0.29383108019828796,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4716",
+          "text": "WingStreet\nWingStreet is a restaurant chain specializing in chicken. The restaurant chain is owned by Yum! Brands, which also owns its sister franchise Pizza Hut. As of September 2008, there were close to 1,600 locations in the U.S., Canada, and Australia. They are almost always co-located with Pizza Hut.",
+          "semantic_score": 0.2329559475183487,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4722",
+          "text": "Pizza Ranch\nThe Pizza Ranch, Inc., founded in 1981, is a \"fast casual\" restaurant chain. Pizza Ranch offers pizza, chicken, a salad bar, and a pizza and chicken buffet. Pizza Ranch has over 200 locations in Colorado, Illinois, Iowa, Kansas, Michigan, Minnesota, Missouri, Montana, Nebraska, North Dakota, South Dakota, Wisconsin, and Wyoming. Pizza Ranch is the largest regional pizza franchise in Iowa, Minnesota, North Dakota, and South Dakota.",
+          "semantic_score": 0.2499723881483078,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The strip search phone call scam"
+    },
+    {
+      "step": 2,
+      "sub_question": "What movie was based on or inspired by that scam?",
+      "retrieved": [
+        {
+          "id": "485",
+          "text": "Strip search phone call scam\nThe strip search phone call scam is a series of incidents that extended over a period of about ten years before an arrest was made in 2004. The incidents involved a man prank calling a restaurant or grocery store, claiming to be a police officer and then convincing managers to conduct strip searches of female employees, and to perform other bizarre acts on behalf of \"the police\". The calls were most often placed to fast-food restaurants in small towns, located in rural areas of the United States.",
+          "semantic_score": 0.6673104166984558,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3293",
+          "text": "How to Steal a Million\nHow to Steal a Million is a 1966 heist comedy film, directed by William Wyler and starring Audrey Hepburn, Peter O'Toole, Eli Wallach and Hugh Griffith. The picture is set and was filmed in France, though the characters speak entirely in English. Audrey Hepburn's clothes were designed by Givenchy.",
+          "semantic_score": 0.41443976759910583,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1470",
+          "text": "Call for the Dead\nCall for the Dead is John le Carré's first novel, published in 1961. It introduces George Smiley, the most famous of le Carré's recurring characters, in a story about East German spies inside Great Britain. It also introduces a fictional version of British Intelligence, called \"the Circus\" because of its location in Cambridge Circus, that is apparently based on MI6 and that recurs throughout le Carré's spy novels.",
+          "semantic_score": 0.39665403962135315,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4702",
+          "text": "Striporama\nStriporama is a 1953 comedy film directed by Jerald Intrator. The film starred a number of burlesque comedy, dance and striptease acts that were popular during the early 1950s. Today, it is best known as one of the few feature films starring pin-up model Bettie Page.",
+          "semantic_score": 0.39397650957107544,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "64",
+          "text": "The Apple Dumpling Gang (film)\nThe Apple Dumpling Gang is a 1975 American comedy-western film produced by Walt Disney Productions about a slick gambler named Russell Donovan (Bill Bixby) who is duped into taking care of a group of orphans who eventually strike gold during the California Gold Rush.",
+          "semantic_score": 0.3915400207042694,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "62",
+          "text": "The Apple Dumpling Gang Rides Again\nThe Apple Dumpling Gang Rides Again is a 1979 American comedy-western film produced by Walt Disney Productions and a sequel to \"The Apple Dumpling Gang\" (1975), starring the comedy duo of Tim Conway and Don Knotts reprising their respective roles as Amos and Theodore. The film also stars Tim Matheson, Harry Morgan, and Kenneth Mars. Ruth Buzzi appears in a small cameo as a wild farsighted woman. Robert Totten, who directed installments of \"Gunsmoke\", also had a small part in the film.",
+          "semantic_score": 0.28805533051490784,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4701",
+          "text": "The Notorious Bettie Page\nThe Notorious Bettie Page is a 2005 biographical film directed by Mary Harron. The screenplay by Harron and Guinevere Turner focuses on 1950s pinup and bondage model Bettie Page.",
+          "semantic_score": 0.26586318016052246,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1474",
+          "text": "The Deadly Affair\nThe Deadly Affair is a 1966 British espionage–thriller film, based on John le Carré's first novel \"Call for the Dead\". The film stars James Mason, Harry Andrews, Simone Signoret and Maximilian Schell and was directed by Sidney Lumet from a script by Paul Dehn. In it George Smiley, the central character of the novel and many other le Carré books, is renamed Charles Dobbs as Paramount, which owned the film rights of their recently filmed \"The Spy Who Came in from the Cold\", had the rights to the Smiley character. The soundtrack was composed by Quincy Jones, and the bossa nova theme song, \"Who Needs Forever\", is performed by Astrud Gilberto.",
+          "semantic_score": 0.35790130496025085,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4698",
+          "text": "Bettie Page Reveals All\nBettie Page Reveals All is a 2012 documentary film about the life history and cultural influence of Bettie Page. Directed by Mark Mori, much of its narration is from audiotape interviews with Page herself. Individuals offering commentary on Page and her significance include Dita Von Teese, Hugh Hefner, Rebecca Romijn, Tempest Storm, Bunny Yeager, Paula Klaw, Jessicka, Mamie Van Doren and Naomi Campbell.",
+          "semantic_score": 0.22889350354671478,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1471",
+          "text": "John le Carré\nDavid John Moore Cornwell (born 19 October 1931), known by the pseudonym John le Carré ( ), is a British author of espionage novels. During the 1950s and the 1960s, he worked for both the Security Service and the Secret Intelligence Service, and began writing novels under his pen name. His third novel, \"The Spy Who Came in from the Cold\" (1963), became an international best-seller and remains one of his best-known works. Following the success of this novel, he left MI6 to become a full-time author.",
+          "semantic_score": 0.22139056026935577,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Compliance"
+    }
+  ],
+  "links": [
+    {
+      "source": "485",
+      "target": "484",
+      "reason": "Paragraph 485 identifies the strip search phone call scam (male caller impersonating police, targeting small-town fast-food restaurants), and paragraph 484 states the film Compliance is based on that exact scam, bridging the scam to the movie's name."
+    }
+  ],
+  "questions_seen": 50,
+  "_id": "5a7d3470554299452d57bb56",
+  "correct_answer": "Compliance",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "question": "Bride of the Regiment was later remade into a 1948 film starring the actress and pin-up girl who was the highest-salaried American woman in which two years?",
+  "answer": "1946 and 1947",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is \"Bride of the Regiment\" (e.g., a film, play, etc.)?",
+      "retrieved": [
+        {
+          "id": "1499",
+          "text": "Bride of the Regiment\nBride of the Regiment is a 1930 American Pre-Code musical film directed by John Francis Dillon and filmed entirely in Technicolor. The screenplay by Ray Harris and Humphrey Pearson is based on the book of the 1922 stage musical \"The Lady in Ermine\" by Frederick Lonsdale and Cyrus Wood, which had been adapted from the operetta \"Die Frau im Hermelin\" by Rudolph Schanzer and Ernst Welisch. The story is a remake of a 1927 First National silent film, \"The Lady in Ermine\", that starred Corinne Griffith. It was later remade by 20th Century-Fox as \"That Lady in Ermine\" (1948) starring Betty Grable and Douglas Fairbanks, Jr.",
+          "semantic_score": 0.5509741306304932,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2457",
+          "text": "Wedding (TV series)\nWedding () is an 18-episode South Korean television drama that aired on KBS2 in 2005. The series explores the relationship of a newly wed couple, showing how two people, who met and married through an arranged matchmaking, slowly develop a relationship and learn what it means to be married. Some of the issues explored include what is the most important thing in a marriage, trust and honesty between a couple, how past relationships affect present, and the role of family in a relationship. Unlike other dramas written by Oh Soo-yeon, which focused on people falling in love by fate or destiny, this one is about two people with very different personalities, values, and backgrounds, and seeing how they learn to love one another despite all of their differences.",
+          "semantic_score": 0.4069727659225464,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9004",
+          "text": "Armed Forces Covenant\nThe Military Covenant or Armed Forces Covenant is a term introduced in 2000 into British public life to refer to the mutual obligations between the nation and its Armed Forces. According to \"The Guardian\", \"it is an informal understanding, rather than a legally enforceable deal, but it is nevertheless treated with great seriousness within the services\". It was coined in , and has now entered political discourse as a way of measuring whether the government and society at large have kept to their obligations to support members of the armed forces.",
+          "semantic_score": 0.3883347809314728,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1288",
+          "text": "Brideville F.C.\nBrideville Football Club was an Irish association football club, originally based in The Liberties, Dublin. They were active during the 1920s, 1930s and 1940s, playing in both the League of Ireland and the Leinster Senior League. They were the first ever winners of the FAI Junior Cup and also played in two FAI Cup finals.",
+          "semantic_score": 0.3690757155418396,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4",
+          "text": "Tere Mere Phere\n\"Tere Mere Phere\" (Hindi: तेरे मेरे फेरे English: Our wedding vows ) is an 2011 Hindi romantic comedy, Road film directed by well known and respected actress Deepa Sahi, and produced by the internationally acclaimed producer director Ketan Mehta and renowned singer Anup Jalota. Presented by Sitara Productions, it is a Maya Movies Production. It stars Vinay Pathak. Riya Sen in the lead roles and introduces newcomers Jagrat Desai and Sasha Goradia. The story of the film has been written by Deepa Sahi and Jagrat Desai. The music is by Shivi R. Kashyap and the lyrics are penned by Manoj ‘Muntashir’ and Ketan Mehta. Most of the songs are choreographed by Bollywood choreographer Jeet Singh. It was released on 30 September 2011 to a mixed but mostly positive reception from critics.",
+          "semantic_score": 0.3566416800022125,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1285",
+          "text": "Knock F.C.\nKnock Football Club is a former Irish football club based in east Belfast. It was founded by members of the Knock Lacrosse Club in 1879 and was the second football club to be formed in Ireland, after Cliftonville F.C.. It played in the first ever match between two Irish football clubs, when it lost 0-2 to Cliftonville on 1 November 1879. It was a founding member of the Irish Football Association. The club played in the early years of the Irish Cup. Its ground was Bloomfield, which in 1882 hosted Ireland's first ever international football match. In 1882, the club changed its name to Down Athletics. By 1891 the club had ceased playing football.",
+          "semantic_score": 0.023663166910409927,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9237",
+          "text": "He Who Can't Marry (2009 TV series)\nHe Who Can't Marry () is a 2009 South Korean television series starring Ji Jin-hee, Uhm Jung-hwa, Kim So-eun, Yoo Ah-in and Yang Jung-a. A romantic comedy about an extremely stubborn and inflexible 40-year-old bachelor, it is a remake of the 2006 Japanese drama \"Kekkon Dekinai Otoko\".",
+          "semantic_score": 0.14332464337348938,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7794",
+          "text": "The Accidental Couple\nThe Accidental Couple (; lit. \"Just Looking\"; shortened to That Fool () is a 2009 South Korean television series starring Hwang Jung-min and Kim Ah-joong. The show is a romantic comedy focusing on the relationship between a post office clerk and an actress after they agree to a six-month contract marriage. It aired on KBS2 from April 29 to June 18, 2009 on Wednesdays and Thursdays at 21:55 for 16 episodes.",
+          "semantic_score": 0.1550002247095108,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3458",
+          "text": "Ohlala Couple\nOhlala Couple () is a 2012 South Korean romantic comedy gender bender television series starring Kim Jung-eun, Shin Hyun-joon, Han Jae-suk and Han Chae-ah. It aired on KBS2 from October 1 to November 27, 2012 on Mondays and Tuesdays at 21:55 for 18 episodes.",
+          "semantic_score": 0.19409820437431335,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3462",
+          "text": "Marrying the Mafia II\nMarrying the Mafia II is a 2005 South Korean film, the sequel to \"Marrying the Mafia\" (2002). It was the most successful comedy film in South Korea the year of its release; its over 5 million tickets sold represented more than 10% of the population and contributed to the third straight year that more tickets were sold for local than for Hollywood films.",
+          "semantic_score": 0.25922876596450806,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "A 1930 American Pre-Code musical film"
+    },
+    {
+      "step": 2,
+      "sub_question": "What 1948 film was a remake of \"Bride of the Regiment\"?",
+      "retrieved": [
+        {
+          "id": "1499",
+          "text": "Bride of the Regiment\nBride of the Regiment is a 1930 American Pre-Code musical film directed by John Francis Dillon and filmed entirely in Technicolor. The screenplay by Ray Harris and Humphrey Pearson is based on the book of the 1922 stage musical \"The Lady in Ermine\" by Frederick Lonsdale and Cyrus Wood, which had been adapted from the operetta \"Die Frau im Hermelin\" by Rudolph Schanzer and Ernst Welisch. The story is a remake of a 1927 First National silent film, \"The Lady in Ermine\", that starred Corinne Griffith. It was later remade by 20th Century-Fox as \"That Lady in Ermine\" (1948) starring Betty Grable and Douglas Fairbanks, Jr.",
+          "semantic_score": 0.6158387660980225,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9047",
+          "text": "Young America (1932 film)\nYoung America is a 1932 American Pre-Code film first adapted for the screen by Maurine Watkins from the play by Fred Ballard (Copyright 1931, Premier Syndicate Hollywood, Sept. 2). William M. Conselman rewrote the screenplay and Maurine Watkins' name no longer appeared on the credits (per American Film Institute catalog). The film was directed by Frank Borzage, whose son, Raymond Borzage, plays Edward 'Nutty' Beamish in the film.",
+          "semantic_score": 0.4828924238681793,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5377",
+          "text": "This Is Heaven\nThis Is Heaven (1929) is an American Pre-Code film, produced by Samuel Goldwyn, released through United Artists, and directed by Alfred Santell.",
+          "semantic_score": 0.432625412940979,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9048",
+          "text": "Desire (1936 film)\nDesire is an American romantic drama film released in 1936 and directed by Frank Borzage. It was produced by Borzage and Ernst Lubitsch. The picture is a remake of the 1933 German film \"Happy Days in Aranjuez\". The screenplay was written by Samuel Hoffenstein, Edwin Justus Mayer and Waldemar Young based on the play \"Die Schönen Tage von Aranjuez\" by Hans Székely and Robert A. Stemmle. The music score was composed by Frederick Hollander and the cinematography was shot by Charles Lang and Victor Milner. Marlene Dietrich's wardrobe was designed by Travis Banton.",
+          "semantic_score": 0.4267362952232361,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9056",
+          "text": "7th Heaven (1927 film)\n7th Heaven (also known as Seventh Heaven) is a 1927 American silent romantic drama directed by Frank Borzage, and starring Janet Gaynor and Charles Farrell. The film is based upon the 1922 play \"Seventh Heaven\", by Austin Strong and was adapted for the screen by Benjamin Glazer. \"7th Heaven\" was initially released as a standard silent film in May of 1927. On September 10, 1927, Fox Film Corporation re-released the film with a synchronized Movietone soundtrack with a musical score and sound effects.",
+          "semantic_score": 0.4223825931549072,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9050",
+          "text": "Frank Borzage\nFrank Borzage ( ; April 23, 1894 – June 19, 1962) was an American film director and actor, most remembered for directing \"7th Heaven\" (1927), \"Man's Castle\" (1933), and \"The Mortal Storm\" (1940).",
+          "semantic_score": 0.24340024590492249,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9055",
+          "text": "Merely Mary Ann\nMerely Mary Ann a 1931 pre-Code romantic comedy drama film starring Janet Gaynor and Charles Farrell. Gaynor and Farrell made almost a dozen films together, including Frank Borzage's classics \"Seventh Heaven\" (1927), \"Street Angel\" (1928), and \"Lucky Star\" (1929); Gaynor won the first Academy Award for Best Actress for the first two and F. W. Murnau's \"Sunrise\". The film, involving an orphan (Gaynor) and a flat-broke composer (Farrell), was written by Jules Furthman from Israel Zangwill's play and directed by Henry King.",
+          "semantic_score": 0.36028599739074707,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9053",
+          "text": "The River (1929 film)\nThe River is a 1929 partial-talkie drama film directed by Frank Borzage, and starring Charles Farrell and Mary Duncan. Much of the film has been lost. A reconstructed version, using still images and explanatory titlecards to bridge the missing scenes, was produced by the Munich Filmmuseum, in collaboration with the cinémathèques of Switzerland and Luxembourg. This version was screened in 2006 by the American Museum of the Moving Image in New York City. Borzage also directed Farrell, opposite Janet Gaynor, in \"Seventh Heaven\" (1927), \"Street Angel\" (1928), and \"Lucky Star\" (1929) during this period.",
+          "semantic_score": 0.3646841049194336,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "That Lady in Ermine"
+    },
+    {
+      "step": 3,
+      "sub_question": "Who is the actress and pin-up girl starring in that 1948 film?",
+      "retrieved": [
+        {
+          "id": "1499",
+          "text": "Bride of the Regiment\nBride of the Regiment is a 1930 American Pre-Code musical film directed by John Francis Dillon and filmed entirely in Technicolor. The screenplay by Ray Harris and Humphrey Pearson is based on the book of the 1922 stage musical \"The Lady in Ermine\" by Frederick Lonsdale and Cyrus Wood, which had been adapted from the operetta \"Die Frau im Hermelin\" by Rudolph Schanzer and Ernst Welisch. The story is a remake of a 1927 First National silent film, \"The Lady in Ermine\", that starred Corinne Griffith. It was later remade by 20th Century-Fox as \"That Lady in Ermine\" (1948) starring Betty Grable and Douglas Fairbanks, Jr.",
+          "semantic_score": 0.5100616216659546,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1500",
+          "text": "Jeanne Carmen\nJeanne Carmen (August 4, 1930 – December 20, 2007) was an American model, pin-up girl, trick-shot golfer, and B movie actress.",
+          "semantic_score": 0.46746498346328735,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2950",
+          "text": "Jenny Agutter\nJennifer Ann Agutter {'1': \", '2': \", '3': 'OBE', '4': \"} (born 20 December 1952) is a British actress. She began her career as a child actress in 1964's \"East of Sudan\" and went on to appear in \"Star!\" and two adaptations of \"The Railway Children\"—the BBC's 1968 television adaptation and the 1970 film version. She also starred in the critically acclaimed 1971 film \"Walkabout\", before moving to Hollywood in 1974. Her Hollywood film roles included parts in \"Logan's Run\" (1976), \"An American Werewolf in London\" (1981) and \"Child's Play 2\" (1990). Agutter won the Emmy Award for Outstanding Supporting Actress in a Drama for the 1971 TV film \"The Snow Goose\", and the BAFTA Award for Best Actress in a Supporting Role for playing Jill Mason in the 1977 film \"Equus\".",
+          "semantic_score": 0.45595696568489075,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1507",
+          "text": "Betty Grable\nElizabeth Ruth Grable (December 18, 1916 – July 2, 1973) was an American actress, pin-up girl, dancer, and singer. Her 42 movies during the 1930s and 1940s grossed more than $100 million and she set a record of 12 consecutive years in the top 10 of box office stars. The U.S. Treasury Department in 1946 and 1947 listed her as the highest-salaried American woman; she earned more than $3 million during her career.",
+          "semantic_score": 0.44666752219200134,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1502",
+          "text": "Frances Rafferty\nFrances Anne Rafferty (June 16, 1922 – April 18, 2004) was an American actress, dancer, World War II pin-up girl and MGM contract star.",
+          "semantic_score": 0.436369925737381,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2207",
+          "text": "Jeanne Haney\nJeanne Marie Haney (born September 2, 1958), also known by her married name Jeanne Neville, is an American former competition swimmer who participated in the 1976 Summer Olympics in Montreal, Quebec. She competed in the preliminary heats of the women's 400-meter individual medley, and finished with the 18th best overall time.",
+          "semantic_score": 0.22736525535583496,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3902",
+          "text": "Carmen (1918 film)\nCarmen is a 1918 German silent drama film directed by Ernst Lubitsch and starring Pola Negri, Harry Liedtke and Leopold von Ledebur. It was based on the novella \"Carmen\" by Prosper Mérimée. Like Bizet's opera \"Carmen\", this film only adapts the third part of Mérimée's novella and transforms the character of Don José at the beginning of the story from bandit on the run to honest man in love with his childhood sweetheart. The film was released with English intertitles in the United States in 1921 under the alternative title Gypsy Blood.",
+          "semantic_score": 0.2532713711261749,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5523",
+          "text": "Mía Maestro\nMía Maestro (born June 19, 1978) is an Argentine actress and singer-songwriter. She is best known for her role as Nora Martinez in \"The Strain\", Nadia Santos in the television drama \"Alias\", as Christina Kahlo in \"Frida\", and as Carmen in \"The Twilight Saga\".",
+          "semantic_score": 0.3138866722583771,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Betty Grable"
+    },
+    {
+      "step": 4,
+      "sub_question": "In which two years was that actress the highest-salaried American woman?",
+      "retrieved": [
+        {
+          "id": "1507",
+          "text": "Betty Grable\nElizabeth Ruth Grable (December 18, 1916 – July 2, 1973) was an American actress, pin-up girl, dancer, and singer. Her 42 movies during the 1930s and 1940s grossed more than $100 million and she set a record of 12 consecutive years in the top 10 of box office stars. The U.S. Treasury Department in 1946 and 1947 listed her as the highest-salaried American woman; she earned more than $3 million during her career.",
+          "semantic_score": 0.8252397775650024,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1502",
+          "text": "Frances Rafferty\nFrances Anne Rafferty (June 16, 1922 – April 18, 2004) was an American actress, dancer, World War II pin-up girl and MGM contract star.",
+          "semantic_score": 0.46359264850616455,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5949",
+          "text": "Betty Compson filmography\nThis page has most if not all of Betty Compson's known film appearances 1915–48. Films from 1915 to 1919 are shorts, mostly for Al Christie unless otherwise stated. A big breakout came in 1919 with \"The Miracle Man\" now lost. In the early-to-mid 1920s Compson was a major player at Paramount with her name above the title of her films. By the end of the decade she was free-lancing and appearing as feature and support with name below the title of the film. Her star definitely took a fall somewhere after marrying director James Cruze, and she would remain a feature support into the sound era for the rest of her film career.",
+          "semantic_score": 0.44104158878326416,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3212",
+          "text": "Madam C. J. Walker\nSarah Breedlove (December 23, 1867 – May 25, 1919), known as Madam C. J. Walker, was an African American entrepreneur, philanthropist, and a political and social activist. Eulogized as the first female self-made millionaire in America, she became one of the wealthiest African American women in the country, \"the world's most successful female entrepreneur of her time,\" and one of the most successful African-American business owners ever.",
+          "semantic_score": 0.42997631430625916,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1503",
+          "text": "Betty Brosmer\nBetty Brosmer (born August 2, 1935), later known by her married name Betty Weider, is an American bodybuilder and physical fitness expert. During the 1950s, she was a popular commercial model and pin-up girl. After marrying entrepreneur Joe Weider in 1961, she began a lengthy career as a spokesperson and trainer in the health and bodybuilding movements. She has been a longtime magazine columnist and co-authored several books on fitness and physical exercise.",
+          "semantic_score": 0.42942363023757935,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3210",
+          "text": "Villa Lewaro\nVilla Lewaro, formerly known as the Anne E. Poth Home, is a 34-room 20000 sqft mansion located at Fargo Lane and North Broadway (US 9) in Irvington, New York. It was the home of Madam C. J. Walker from 1918 to 1919. Walker was the first American female and first African-American female self-made millionaire, and \"the world's most successful female entrepreneur of her time.\" The mansion is an Italianate villa house designed for Walker by Vertner Tandy, the first African-American architect registered in New York, and has been considered to be one of his greatest works. It was constructed during 1916–1918 at an estimated cost of $250,000, and was furnished lavishly. The name Villa Lewaro was coined by a distinguished visitor, Enrico Caruso, from the first two letters of each word in Lelia Walker Robinson, the name of Walker's daughter, who later went by the name of A'Lelia Walker.",
+          "semantic_score": 0.305672287940979,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5242",
+          "text": "Nancy Barry\nNancy M. Barry is the founder and president of Enterprise Solutions to Poverty. Launched in September 2006, the organization works with corporations, entrepreneurs, and business schools to build business models that engage low-income producers as suppliers, distributors and consumers of products that build income and assets. She was President of Women's World Banking from 1990 to 2006, expanding the organization's network to reach nearly 20 million low income entrepreneurs and shaping microfinance worldwide. From 1975 to 1990, Ms. Barry worked at the World Bank, pioneering small enterprise programs and leading work on industry, trade and finance. Ms. Barry has a B.A. in economics from Stanford University, an MBA from Harvard Business School, from where she received the Distinguished alumni award. She is the recipient of various awards and honors such as the \"Forbes\" Magazine's 100 Most Powerful Women in the World in 2004 and 2005,U.S. News and World Report 20 America's Best Leaders in 2006 and the Kellogg-McKinsey Award for Distinguished Leadership. \"",
+          "semantic_score": 0.32869574427604675,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7831",
+          "text": "Bodybuilders (On the Inside)\n\"Bodybuilders\" was originally shot and aired as an episode of the Discovery Channel documentary series called \"On the Inside\". This particular episode went into the sport of bodybuilding at the turn of the millennium, bringing light to various depths of bodybuilding that the general public had little awareness of at the time—particularly natural bodybuilding. This episode aired for 8 years on 4 different networks. It inspired countless of thousands of people to achieve healthier greater physiques. Of all the bodybuilding documentaries, in terms of popularity, it comes second only to \"Pumping Iron\", which was the documentary that turned Arnold Schwarzenegger into a household name. It also featured the former Incredible Hulk actor, Lou Ferrigno.",
+          "semantic_score": 0.19743612408638,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1946 and 1947"
+    }
+  ],
+  "links": [
+    {
+      "source": "1499",
+      "target": "1507",
+      "reason": "Paragraph 1499 identifies the 1948 remake as starring Betty Grable; paragraph 1507 confirms Betty Grable was an actress and pin-up girl, bridging the film to the actress."
+    }
+  ],
+  "questions_seen": 152,
+  "_id": "5ae3e59a5542994393b9e79e",
+  "correct_answer": "1946 and 1947",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

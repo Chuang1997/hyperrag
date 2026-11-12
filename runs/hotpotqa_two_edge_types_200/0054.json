@@ -1,0 +1,275 @@
+{
+  "question": "Sam Mendes and Ruby Yang share what profession?",
+  "answer": "Filmmaker",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Sam Mendes?",
+      "retrieved": [
+        {
+          "id": "543",
+          "text": "Sam Mendes\nSamuel Alexander Mendes, {'1': \", '2': \", '3': \", '4': \"} (born 1 August 1965) is an English stage and film director. He is best known for directing the drama film \"American Beauty\" (1999), which earned him the Academy Award and Golden Globe Award for Best Director, the crime film \"Road to Perdition\" (2002), and the \"James Bond\" films \"Skyfall\" (2012) and \"Spectre\" (2015).",
+          "semantic_score": 0.5527531504631042,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8101",
+          "text": "Jorge Eduardo Costilla Sánchez\nJorge Eduardo Costilla Sánchez (born 1 August 1971), is a former Mexican drug lord and top leader of the criminal drug trafficking organization known as the Gulf Cartel. He was among Mexico's most-wanted drug lords.",
+          "semantic_score": 0.43686822056770325,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7857",
+          "text": "Don Manoukian\nDonald J. Manoukian (June 9, 1934 – September 23, 2014) was an American football guard and professional wrestler of Armenian descent from Reno, Nevada.",
+          "semantic_score": 0.4184265434741974,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8214",
+          "text": "Anthony Shriver\nAnthony Paul Kennedy Shriver (born July 20, 1965) is an American activist for people with intellectual disabilities. In 1989, he founded Best Buddies International, an international organization that helps people with intellectual disabilities to find employment and social opportunities. Through his mother, he is a nephew of World War II casualty Joseph P. Kennedy, Jr., President John F. Kennedy, Senator Robert F. Kennedy, and Senator Ted Kennedy.",
+          "semantic_score": 0.41397690773010254,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3027",
+          "text": "Luis Ángel García\nLuis Ángel García Flores (born February 11, 1984) is a Mexican football midfielder. He currently plays for Club Tijuana, in the Primera División de México.",
+          "semantic_score": 0.41370657086372375,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3026",
+          "text": "José Daniel García\nJosé Daniel García Rodríguez (born January 27, 1986) is a Mexican football defender. He currently plays for Atlante F.C. in the Primera División de México.",
+          "semantic_score": 0.40509992837905884,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8108",
+          "text": "Samuel Flores Borrego\nSamuel Flores Borrego (a.k.a. Metro 3) (6 August 1972 – 2 September 2011) was a Mexican drug lord and high-ranking lieutenant of the Gulf Cartel. He was a former state judicial policeman who protected the ex-leader of the Gulf cartel, Osiel Cárdenas Guillén. Upon his arrest, Flores Borrego became the right-hand man of Jorge Eduardo Costilla Sánchez, the former leader of the criminal organization.",
+          "semantic_score": 0.3456507921218872,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3024",
+          "text": "Jesús Daniel García\nJesús Daniel García Esparza (born August 7, 1994 in Navolato, Sinaloa) is a professional Mexican footballer who currently plays for Cruz Azul.",
+          "semantic_score": 0.3663437068462372,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3022",
+          "text": "Leobardo López\nLeobardo López García (September 4, 1983) is a Mexican football defender. He currently plays for Celaya in Mexico.",
+          "semantic_score": 0.3422718644142151,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3019",
+          "text": "Esteban García\nEsteban Jesús Daniel García (born 20 April 1984 in Buenos Aires) is an Argentine footballer who currently plays for Deportivo Español.",
+          "semantic_score": 0.3413642942905426,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Sam Mendes is an English stage and film director, best known for directing \"American Beauty\" (1999), \"Road to Perdition\" (2002), and the James Bond films \"Skyfall\" (2012) and \"Spectre\" (2015)."
+    },
+    {
+      "step": 2,
+      "sub_question": "Who is Ruby Yang?",
+      "retrieved": [
+        {
+          "id": "543",
+          "text": "Sam Mendes\nSamuel Alexander Mendes, {'1': \", '2': \", '3': \", '4': \"} (born 1 August 1965) is an English stage and film director. He is best known for directing the drama film \"American Beauty\" (1999), which earned him the Academy Award and Golden Globe Award for Best Director, the crime film \"Road to Perdition\" (2002), and the \"James Bond\" films \"Skyfall\" (2012) and \"Spectre\" (2015).",
+          "semantic_score": 0.7867808938026428,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "539",
+          "text": "Ruby Yang\nRuby Yang (楊紫燁; Simplified Chinese: 杨紫烨), is a Chinese American filmmaker.",
+          "semantic_score": 0.678781270980835,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1907",
+          "text": "Miss Sloane\nMiss Sloane is a 2016 political thriller film directed by John Madden and written by Jonathan Perera. The film stars Jessica Chastain, Mark Strong, Gugu Mbatha-Raw, Michael Stuhlbarg, Alison Pill, Jake Lacy, John Lithgow, and Sam Waterston.",
+          "semantic_score": 0.45804837346076965,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "529",
+          "text": "Meghan Strange\nMeghan Strange is an American actress and voice actress. She is best known for her roles as Ruby from \"The Land Before Time\" television series and Robin from \"Sofia the First\". She also voiced the character Harley Quinn on \"\" and has appeared in a number of short films and children's TV shows.",
+          "semantic_score": 0.45089519023895264,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8961",
+          "text": "Sam Raimi\nSamuel M \"Sam\" Raimi ( ; born October 23, 1959) is an American film director, producer, screenwriter and actor, famous for creating the cult horror \"Evil Dead\" series, as well as directing the original \"Spider-Man\" trilogy (2002–07), the 1990 superhero film \"Darkman\" and the \"I Will Rip Your Soul Out\" scene from the 2013 remake of \"Evil Dead\". His most recent film is the 2013 Disney fantasy film \"Oz the Great and Powerful\".",
+          "semantic_score": 0.4218391478061676,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "537",
+          "text": "List of accolades received by American Beauty\n\"American Beauty\" is a 1999 American drama film directed by Sam Mendes and written by Alan Ball. The film stars Kevin Spacey as Lester Burnham, a middle-aged office worker who has a midlife crisis when he becomes infatuated with his teenage daughter's best friend. Released in North America on September 15, 1999, \"American Beauty\" was positively received by critics and audiences alike; it was the best-reviewed American film of the year and grossed over $350 million worldwide. Reviewers praised all aspects of the production, with particular emphasis on Mendes, Spacey and Ball; criticism tended to focus on the familiarity of the characters and setting. At the 1999 Academy Awards, the film won Best Picture, Best Director, Best Actor (for Spacey), Best Original Screenplay and Best Cinematography (for Conrad Hall). The film was nominated for and won numerous other awards and honors, mainly for the direction, writing, and acting.",
+          "semantic_score": 0.4130510091781616,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8317",
+          "text": "Spider-Man 3\nSpider-Man 3 is a 2007 American superhero film based on the fictional Marvel Comics comic book series \"The Amazing Spider-Man\". It was directed by Sam Raimi from a screenplay by Raimi, Ivan Raimi and Alvin Sargent. It is the final film in Raimi's original \"Spider-Man\" film trilogy, following \"Spider-Man\" (2002) and \"Spider-Man 2\" (2004). The film stars Tobey Maguire, Kirsten Dunst, James Franco, Thomas Haden Church, Topher Grace, Bryce Dallas Howard, Rosemary Harris, J. K. Simmons, James Cromwell, and Cliff Robertson in his final acting appearance before his death in 2011. Following the events of \"Spider-Man 2\", Peter Parker has become a cultural phenomenon as Spider-Man, while Mary Jane \"M.J.\" Watson continues her Broadway career. Harry Osborn still seeks vengeance for his father's death, and an escaped Flint Marko falls into a particle accelerator and is transformed into a shape-shifting sand manipulator. An extraterrestrial symbiote crashes to Earth and bonds with Peter, influencing his behavior for the worse.",
+          "semantic_score": 0.2819524109363556,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8312",
+          "text": "Spider-Man 2\nSpider-Man 2 is a 2004 American superhero film directed by Sam Raimi and written by Alvin Sargent from a story by Alfred Gough, Miles Millar, and Michael Chabon. The sequel to the 2002 film \"Spider-Man\", it is the second film in Raimi's Spider-Man film trilogy based on the fictional Marvel Comics comic book series \"The Amazing Spider-Man\". Tobey Maguire, Kirsten Dunst, and James Franco reprise their respective roles as Peter Parker \"/\" Spider-Man, Mary Jane \"M.J.\" Watson and Harry Osborn.",
+          "semantic_score": 0.2758910059928894,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8311",
+          "text": "Spider-Man in film\nThe fictional character Spider-Man, a comic book superhero created by Stan Lee and Steve Ditko and featured in Marvel Comics publications, has currently appeared in ten live-action films since his inception, not including fan made shorts. Spider-Man is the alter-ego of Peter Parker, a talented young freelance photographer and aspiring scientist, and Miles Morales, a high school student, both imbued with superhuman abilities after being bitten by radioactive/genetically-altered spiders.",
+          "semantic_score": 0.27266404032707214,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8313",
+          "text": "The Amazing Spider-Man (2012 film)\nThe Amazing Spider-Man is a 2012 American superhero film based on the Marvel Comics character Spider-Man, and sharing the title of the character's longest-running comic book. It is the fourth theatrical \"Spider-Man\" film produced by Columbia Pictures and Marvel Entertainment, and a reboot of Sam Raimi's \"Spider-Man\" 2002-2007 trilogy preceding it. The film was directed by Marc Webb. It was written by James Vanderbilt, Alvin Sargent and Steve Kloves and it stars Andrew Garfield as Peter Parker / Spider-Man, Emma Stone as Gwen Stacy, Rhys Ifans as Dr. Curtis Connors, Denis Leary as NYPD Captain George Stacy, along with Martin Sheen and Sally Field as the uncle and aunt of Peter Parker, Ben Parker and May Parker. The film tells the story of Peter Parker, a teenager from New York who becomes Spider-Man after being bitten by a genetically altered spider. Parker must stop Dr. Curt Connors as a mutated lizard, from spreading a mutation serum to the city's human population.",
+          "semantic_score": 0.3279094099998474,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Ruby Yang is a Chinese American filmmaker."
+    },
+    {
+      "step": 3,
+      "sub_question": "What profession do Sam Mendes and Ruby Yang share?",
+      "retrieved": [
+        {
+          "id": "539",
+          "text": "Ruby Yang\nRuby Yang (楊紫燁; Simplified Chinese: 杨紫烨), is a Chinese American filmmaker.",
+          "semantic_score": 0.7839771509170532,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9274",
+          "text": "Yuen Woo-ping\nYuen Woo-ping (; born 1945) is a Chinese martial arts choreographer and film director, renowned as one of the most successful and influential figures in the world of Hong Kong action cinema. He is one of the inductees on the Avenue of Stars in Hong Kong. Yuen is also a son of Yuen Siu-tien, a renowned martial arts film actor.",
+          "semantic_score": 0.48945000767707825,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9276",
+          "text": "Yuen Cheung-yan\nYuen Cheung-yan is an actor, director, stuntman, and fight choreographer who has worked for many years in the Hong Kong film industry. During the 1970s and early 1980s, he worked with his elder brother, Yuen Woo-ping, and other members of the Yuen family on several films, some of them kung fu comedies such as \"Shaolin Drunkard\" (1982) and \"The Miracle Fighters\" (1983).",
+          "semantic_score": 0.4364844262599945,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3842",
+          "text": "To Kill with Intrigue\nTo Kill with Intrigue (Chinese: 劍花煙雨江南) is a Kung Fu 1977 Hong Kong action film, directed by Lo Wei. In the movie's plot, Chin Chang Yin (Feng Hsu) leads a gang known as the Killer Bees on a revenge mission to kill Cao Lei's (Jackie Chan) family. However, she kills everyone but Cao Lei and falls in love with him. Jackie mentions, in his book \"I Am Jackie Chan\", how much of the plot is confusing, and he was sure that even the director, Lo Wei, didn't even know what was going on. He has also gone on to express that tensions between himself and the director along with the generally cold weather at the time of filming made for a frustrating experience. The movie was filmed in Korea.",
+          "semantic_score": 0.41100171208381653,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "321",
+          "text": "Mandarin Airlines\nMandarin Airlines () is an airline based in Taipei, Taiwan, whose parent company is China Airlines. The Taiwanese carrier operates domestic and regional international flights, while its parent company focuses on international operations. Charter services are also operated by the company. Its other main hub is the Taichung Airport.",
+          "semantic_score": 0.41048818826675415,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "319",
+          "text": "China Airlines\nChina Airlines (CAL) () () is the flag carrier and largest airline of the Republic of China (Taiwan). It is headquartered in Taoyuan International Airport and has 12,607 regular employees. China Airlines operates over 1,400 flights weekly to 118 airports in 115 cities (including codeshare) across Asia, Europe, North America and Oceania. The cargo division operates 91 pure freighter flights weekly. The carrier was, in 2013, the 29th and 10th largest airline in the world in terms of passenger revenue per kilometer (RPK) and freight RPK, respectively. China Airlines has three airline subsidiaries: Mandarin Airlines operates flights to domestic and low-demand regional destinations; China Airlines Cargo, a member of Skyteam Cargo, operates a fleet of freighter aircraft and manages its parent airline's cargo-hold capacity; Tigerair Taiwan is a low-cost carrier established by China Airlines and Singaporean airline group Tigerair Holdings and is wholly owned by China Airlines Group.",
+          "semantic_score": 0.33098122477531433,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9272",
+          "text": "Shaolin Drunkard\nShaolin Drunkard (; Orig. Tian shi zhuang xie, a.k.a. \"Wu Tang Master\", a.k.a. \"Miracle Fighters 2\") is a 1983 Kung Fu comedy directed by Yuen Woo-ping, written by Yuen Woo-ping and Chung Hing Chiu, and starring Cheung-Yan Yuen, Eddy Ko, and Shun-Yee Yuen.",
+          "semantic_score": 0.36236390471458435,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5083",
+          "text": "Lau Kar-leung\nLau Kar-leung (28 July 1934 – 25 June 2013), also known as Liu Chia-liang, was a Hong Kong-based Chinese actor, filmmaker, choreographer and martial artist. Lau is best known for the films he made in the 1970s and 1980s for the Shaw Brothers Studio. One of his most famous works is \"The 36th Chamber of Shaolin\" which starred Gordon Liu, as well as \"Drunken Master II\" which starred Jackie Chan.",
+          "semantic_score": 0.3514295518398285,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Filmmaker"
+    }
+  ],
+  "links": [
+    {
+      "source": "543",
+      "target": "539",
+      "reason": "Paragraph 543 identifies Sam Mendes as a stage and film director; paragraph 539 identifies Ruby Yang as a filmmaker, providing the complementary evidence needed to conclude they share the profession of filmmaker/director."
+    }
+  ],
+  "questions_seen": 55,
+  "_id": "5ac3bd0c554299204fd21e21",
+  "correct_answer": "filmmaker.",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -123,13 +123,16 @@ def main():
     parser.add_argument('--anchor-weight',type=float,default=10.0)
     parser.add_argument('--max-drift',type=float,default=0.01,
                         help='Maximum cumulative coordinate displacement from SBERT initialization')
+    parser.add_argument('--explicit-degree', type=int, default=8)
+    parser.add_argument('--explicit-weight', type=float, default=0.25)
     args = parser.parse_args()
     corpus = [json.loads(line) for line in Path(args.corpus).read_text().splitlines() if line.strip()]
     if any(not isinstance(p.get('id'),str) or not isinstance(p.get('text'),str) or not p['text'].strip() for p in corpus):
         raise ValueError('Each paragraph needs a string id and nonempty text')
     retriever = GraphRetriever(corpus,args.state,args.encoder,
                                learning_rate=args.learning_rate, anchor_weight=args.anchor_weight,
-                               max_drift=args.max_drift)
+                               max_drift=args.max_drift, explicit_degree=args.explicit_degree,
+                               explicit_weight=args.explicit_weight)
     result = answer_question(args.question,retriever,LLM(args.model),args.top_k,args.global_every)
     path = Path(args.state)/f'question_{retriever.questions:06d}.json'
     path.write_text(json.dumps(result,ensure_ascii=False,indent=2))

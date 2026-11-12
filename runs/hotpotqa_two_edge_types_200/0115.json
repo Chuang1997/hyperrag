@@ -1,0 +1,167 @@
+{
+  "question": "Did the Beaulieu Mine or the McIntyre Mines yield gold and copper?",
+  "answer": "The Beaulieu Mine yielded only gold, while the McIntyre Mines yielded both gold and copper.",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What did the Beaulieu Mine yield?",
+      "retrieved": [
+        {
+          "id": "1148",
+          "text": "Beaulieu Mine\nThe Beaulieu Mine was a post-World War II gold mining operation near Yellowknife, Northwest Territories. It entered production in October 1947, but by the end of November only 7 troy ounces (220 g) of rough gold were recovered. Additional gold was recovered during 1948, but altogether the mine recovered only 30 troy ounces (930 g) of fine gold. The operation folded in chaos and bankruptcy.",
+          "semantic_score": 0.7476284503936768,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8180",
+          "text": "Franklin-Creighton Mine\nThe Franklin-Creighton Mine was a Georgia Gold Rush gold mine located off what is now Yellow Creek Road in the town of Ball Ground in Cherokee County, Georgia. The mine, located along the Etowah River, was initially known as the Franklin Mine because it was started by a widow, Mrs. Mary G. Franklin, who obtained a 40 acre lot in the Gold Lottery of 1832. Around 1883, the mine became known as the Creighton Mine or the Franklin-Creighton Mine. This mine was one of the most productive and continued to operate many years after other area mines had ceased operations. Some estimate that it was yielding $1000 per day in 1893 and others place its total production after 1880 at as much as $1,000,000. The mine was shut down in 1913 as a result of a collapsed shaft which caused the mine to flood.",
+          "semantic_score": 0.38602322340011597,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8176",
+          "text": "Wright-Hargreaves\nThe Wright-Hargreaves Mine is a gold mine located in Kirkland Lake, Ontario. In late July 1911, Bill Wright and his brother-in-law Ed Hargreaves discovered the first visible gold in what would later become the Kirkland Lake camp. In 1913 the No. 1 shaft was sunk to a depth of 85 feet. By the end of its production, the Wright-Hargreaves would be the deepest mine in the Kirkland Lake camp with workings at the 8200 foot level. The mine was in regular production between 1921 and 1965, with a total production of 4,821,296 ounces of gold at an average grade of 0.49 ounces per ton.",
+          "semantic_score": 0.37652480602264404,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1142",
+          "text": "McIntyre Mines\nThe McIntyre mine is an abandoned underground gold mine in Schumacher, Ontario, Canada, which has earned a place in Canadian mining history as one of the nation's most important mines. Its iconic headframe, located near downtown Timmins, has come to represent the entire Porcupine Gold Rush. The McIntyre also yielded a considerable amount of copper over its life.",
+          "semantic_score": 0.36642980575561523,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7574",
+          "text": "Bois du Cazier\nThe Bois du Cazier was a coal mine in what was then the town of Marcinelle, near Charleroi, in Belgium which today is preserved as an industrial heritage site. It is best known as the location of a major mining disaster that took place on August 8, 1956 in which 262 men, including a large number of Italian labourers, were killed. Aside from memorials to the disaster, the site features a small woodland park, preserved headframes and buildings, as well as an Industrial Museum and Glass Museum. The museum features on the European Route of Industrial Heritage and is one of the four Walloon mining sites listed by UNESCO as a World Heritage Site in 2012.",
+          "semantic_score": 0.3639287054538727,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1141",
+          "text": "McIntyre Community Building\nThe McIntyre Community Building was constructed in Timmins, Ontario, Canada in 1938 by McIntyre Mines owner J. P. Bickell. At the time, it was one of the finest recreational centres in Canada outside of a major centre.",
+          "semantic_score": 0.21096597611904144,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8174",
+          "text": "Lake Shore Mine\nThe Lake Shore Mine is a gold mine located in Kirkland Lake, Ontario. In July 1912, Harry Oakes staked claims L-2605-6 which were in the lake itself and had reverted for non-performance of work. On September 6, 1912, he registered the transfer of claim L-1557 that Melville McDougall had staked for Oakes previously. On September 23, 1911, Harry Oakes registered the transfer of claim T-16635 from George Minaker and named the property Lake Shore. In production from 1918 to 1965, the mine produced almost 8.5 million ounces of gold and represented over a third of the gold produced in the entire camp.",
+          "semantic_score": 0.2595820128917694,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1143",
+          "text": "Ferris-Haggarty Mine Site\nThe Ferris-Haggerty Mine Site was one of the richest components of the Grand Encampment Mining District in Carbon County, Wyoming. The site was first exploited by Ed Haggerty, a prospector from Whitehaven, England, in 1897 when he established the Rudefeha Mine on a rich deposit of copper ore. Haggerty was backed by George Ferris and other investors, of whom all but Ferris dropped out. The partners sold an interest to Willis George Emerson, who raised investment funding for improvements to the mine. These facilities included a 16 mi aerial tramway from Grand Encampment over the Continental Divide to the in Encampment. The mine's assets were eventually acquired by the North American Copper Company for $1 million. By 1904 the mine had produced $1.4 million in copper ore, and was sold to the Penn-Wyoming Copper Company. However, even with copper prices peaking in 1907, the company had difficulty making a profit from the remote mine site. The company was over-capitalized and under-insured and was suffered devastating fires at the mine site in March 1906 and May 1907 which halted production. Business disputes and a fall in copper prices prevented re-opening of the mine even after it was rebuilt. Machinery was salvaged after a foreclosure in 1913. A total of $2 million in copper ore was extracted from the mine during its life.",
+          "semantic_score": 0.3503579795360565,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "30 troy ounces of fine gold"
+    },
+    {
+      "step": 2,
+      "sub_question": "What did the McIntyre Mines yield?",
+      "retrieved": [
+        {
+          "id": "1142",
+          "text": "McIntyre Mines\nThe McIntyre mine is an abandoned underground gold mine in Schumacher, Ontario, Canada, which has earned a place in Canadian mining history as one of the nation's most important mines. Its iconic headframe, located near downtown Timmins, has come to represent the entire Porcupine Gold Rush. The McIntyre also yielded a considerable amount of copper over its life.",
+          "semantic_score": 0.6012879610061646,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1148",
+          "text": "Beaulieu Mine\nThe Beaulieu Mine was a post-World War II gold mining operation near Yellowknife, Northwest Territories. It entered production in October 1947, but by the end of November only 7 troy ounces (220 g) of rough gold were recovered. Additional gold was recovered during 1948, but altogether the mine recovered only 30 troy ounces (930 g) of fine gold. The operation folded in chaos and bankruptcy.",
+          "semantic_score": 0.5494450926780701,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8176",
+          "text": "Wright-Hargreaves\nThe Wright-Hargreaves Mine is a gold mine located in Kirkland Lake, Ontario. In late July 1911, Bill Wright and his brother-in-law Ed Hargreaves discovered the first visible gold in what would later become the Kirkland Lake camp. In 1913 the No. 1 shaft was sunk to a depth of 85 feet. By the end of its production, the Wright-Hargreaves would be the deepest mine in the Kirkland Lake camp with workings at the 8200 foot level. The mine was in regular production between 1921 and 1965, with a total production of 4,821,296 ounces of gold at an average grade of 0.49 ounces per ton.",
+          "semantic_score": 0.523065984249115,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8180",
+          "text": "Franklin-Creighton Mine\nThe Franklin-Creighton Mine was a Georgia Gold Rush gold mine located off what is now Yellow Creek Road in the town of Ball Ground in Cherokee County, Georgia. The mine, located along the Etowah River, was initially known as the Franklin Mine because it was started by a widow, Mrs. Mary G. Franklin, who obtained a 40 acre lot in the Gold Lottery of 1832. Around 1883, the mine became known as the Creighton Mine or the Franklin-Creighton Mine. This mine was one of the most productive and continued to operate many years after other area mines had ceased operations. Some estimate that it was yielding $1000 per day in 1893 and others place its total production after 1880 at as much as $1,000,000. The mine was shut down in 1913 as a result of a collapsed shaft which caused the mine to flood.",
+          "semantic_score": 0.5012277960777283,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8174",
+          "text": "Lake Shore Mine\nThe Lake Shore Mine is a gold mine located in Kirkland Lake, Ontario. In July 1912, Harry Oakes staked claims L-2605-6 which were in the lake itself and had reverted for non-performance of work. On September 6, 1912, he registered the transfer of claim L-1557 that Melville McDougall had staked for Oakes previously. On September 23, 1911, Harry Oakes registered the transfer of claim T-16635 from George Minaker and named the property Lake Shore. In production from 1918 to 1965, the mine produced almost 8.5 million ounces of gold and represented over a third of the gold produced in the entire camp.",
+          "semantic_score": 0.4270455241203308,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1141",
+          "text": "McIntyre Community Building\nThe McIntyre Community Building was constructed in Timmins, Ontario, Canada in 1938 by McIntyre Mines owner J. P. Bickell. At the time, it was one of the finest recreational centres in Canada outside of a major centre.",
+          "semantic_score": 0.341549813747406,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1143",
+          "text": "Ferris-Haggarty Mine Site\nThe Ferris-Haggerty Mine Site was one of the richest components of the Grand Encampment Mining District in Carbon County, Wyoming. The site was first exploited by Ed Haggerty, a prospector from Whitehaven, England, in 1897 when he established the Rudefeha Mine on a rich deposit of copper ore. Haggerty was backed by George Ferris and other investors, of whom all but Ferris dropped out. The partners sold an interest to Willis George Emerson, who raised investment funding for improvements to the mine. These facilities included a 16 mi aerial tramway from Grand Encampment over the Continental Divide to the in Encampment. The mine's assets were eventually acquired by the North American Copper Company for $1 million. By 1904 the mine had produced $1.4 million in copper ore, and was sold to the Penn-Wyoming Copper Company. However, even with copper prices peaking in 1907, the company had difficulty making a profit from the remote mine site. The company was over-capitalized and under-insured and was suffered devastating fires at the mine site in March 1906 and May 1907 which halted production. Business disputes and a fall in copper prices prevented re-opening of the mine even after it was rebuilt. Machinery was salvaged after a foreclosure in 1913. A total of $2 million in copper ore was extracted from the mine during its life.",
+          "semantic_score": 0.41497230529785156,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "A considerable amount of copper"
+    }
+  ],
+  "links": [
+    {
+      "source": "1148",
+      "target": "1142",
+      "reason": "Paragraph 1148 establishes the Beaulieu Mine yielded only gold (30 troy ounces of fine gold), while paragraph 1142 establishes the McIntyre Mines yielded gold and a considerable amount of copper; together they directly compare the two mines' yields to answer whether either produced both gold and copper."
+    }
+  ],
+  "questions_seen": 116,
+  "_id": "5a7f7b365542992097ad2f80",
+  "correct_answer": "The McIntyre also yielded a considerable amount of copper",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

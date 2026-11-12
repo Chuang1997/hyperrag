@@ -1,0 +1,516 @@
+{
+  "question": "When was the actor in the CW show developed by Greg Berlanti who also appears in \"Gods and Generals\" born?",
+  "answer": "June 26, 1970",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Which CW show developed by Greg Berlanti is being referred to.",
+      "retrieved": [
+        {
+          "id": "1100",
+          "text": "Greg Berlanti\nGreg Berlanti (born May 24, 1972) is an American film and television writer and producer. He is known for his work on the television series \"Dawson's Creek\", \"Everwood\", \"Political Animals\"; and for his contributions to DC Comics on film and television, including The CW's \"Arrowverse\". In 2017 Berlanti set the record in having 10 different scripted television series planned to air in the 2017–18 television season on various networks and digital platforms.",
+          "semantic_score": 0.5964582562446594,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5848",
+          "text": "Supergirl (TV series)\nSupergirl is an American superhero action-adventure television series developed by Ali Adler, Greg Berlanti and Andrew Kreisberg (the latter two having previously created \"Arrow\" and \"The Flash\") that originally aired on CBS and premiered on October 26, 2015. It is based on the DC Comics character Supergirl, created by Otto Binder and Al Plastino, and stars Melissa Benoist in the title role. Supergirl is a costumed superheroine who is Superman's cousin and one of the last surviving Kryptonians.",
+          "semantic_score": 0.3941727578639984,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1103",
+          "text": "List of Arrow characters\nArrow is an American television series developed by Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg, based on the DC Comics character Green Arrow. Many of the other characters appearing in the series are also based on DC Comics characters. The series premiered on October 10, 2012 in the United States on The CW television network, and is currently in its fifth season. On January 8, 2017, The CW announced that \"Arrow\" would be renewed for a sixth season.",
+          "semantic_score": 0.38335102796554565,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8950",
+          "text": "Greg Costikyan\nGreg Costikyan (born July 22, 1959, in New York City), sometimes known under the pseudonym \"Designer X\", is an American game designer and science fiction writer.",
+          "semantic_score": 0.3699752688407898,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5932",
+          "text": "Jim Backus\nJames Gilmore Backus (February 25, 1913 – July 3, 1989) was an American radio, television, film, and voice actor. Among his most famous roles were the voice of nearsighted cartoon character Mr. Magoo, the rich Hubert Updike III on the radio version of \"The Alan Young Show\", Joan Davis' character's husband (a domestic court judge) on TV's \"I Married Joan\", James Dean's character's father in \"Rebel Without a Cause\", and Thurston Howell III, on the 1960s sitcom \"Gilligan's Island\". He also starred in his own show of one season, \"The Jim Backus Show\", also known as \"Hot Off the Wire\".",
+          "semantic_score": 0.3558989465236664,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8403",
+          "text": "Supergirl (film)\nSupergirl is a 1984 British superhero film directed by Jeannot Szwarc and written by David Odell, based on the DC Comics character of the same name and serves as a spin-off to Alexander and Ilya Salkind's \"Superman\" film series. The film stars Helen Slater as Supergirl, along with Faye Dunaway, Mia Farrow and Peter O'Toole, with Marc McClure reprising his role as Jimmy Olsen from the \"Superman\" films. He was the only actor to do so. \"Supergirl\" was the first superhero film to feature a woman in the lead role.",
+          "semantic_score": 0.17093761265277863,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1119",
+          "text": "Arrowverse\nThe Arrowverse is a shared fictional universe that is centered on television series airing on The CW, developed by Greg Berlanti, Marc Guggenheim, Andrew Kreisberg, Phil Klemmer, and Geoff Johns, based on characters appearing in publications by DC Comics. The shared universe, much like the DC Universe in comic books or the cinematic DC Extended Universe, was established by crossing over common plot elements, settings, cast, and characters. The Arrowverse stars Stephen Amell as Oliver Queen / Green Arrow, Grant Gustin as Barry Allen / Flash, Megalyn Echikunwoke as Mari Jiwe McCabe / Vixen, with an ensemble cast leading \"Legends of Tomorrow\", including Arthur Darvill as Rip Hunter, Caity Lotz as Sara Lance / White Canary, Brandon Routh as Ray Palmer / Atom, Dominic Purcell as Mick Rory / Heat Wave, with Victor Garber and Franz Drameh as Martin Stein & Jefferson \"Jax\" Jackson / Firestorm. Russell Tovey stars as Ray Terrill / The Ray.",
+          "semantic_score": 0.32036495208740234,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8358",
+          "text": "Legion of Super Heroes (TV series)\nLegion of Super Heroes is an American animated television series produced by Warner Bros. Animation that debuted on September 23, 2006, and is based on characters owned by DC Comics. The series centers on a young Superman's adventures in the 31st century, fighting alongside a group of futuristic superheroes known as the Legion of Super-Heroes. The show was produced by its main designer James Tucker, a co-producer of the \"Justice League Unlimited\" series, for the Kids' WB line on The CW network.",
+          "semantic_score": 0.2690829932689667,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Arrow"
+    },
+    {
+      "step": 2,
+      "sub_question": "Which actor from that show also appeared in *Gods and Generals*.",
+      "retrieved": [
+        {
+          "id": "1119",
+          "text": "Arrowverse\nThe Arrowverse is a shared fictional universe that is centered on television series airing on The CW, developed by Greg Berlanti, Marc Guggenheim, Andrew Kreisberg, Phil Klemmer, and Geoff Johns, based on characters appearing in publications by DC Comics. The shared universe, much like the DC Universe in comic books or the cinematic DC Extended Universe, was established by crossing over common plot elements, settings, cast, and characters. The Arrowverse stars Stephen Amell as Oliver Queen / Green Arrow, Grant Gustin as Barry Allen / Flash, Megalyn Echikunwoke as Mari Jiwe McCabe / Vixen, with an ensemble cast leading \"Legends of Tomorrow\", including Arthur Darvill as Rip Hunter, Caity Lotz as Sara Lance / White Canary, Brandon Routh as Ray Palmer / Atom, Dominic Purcell as Mick Rory / Heat Wave, with Victor Garber and Franz Drameh as Martin Stein & Jefferson \"Jax\" Jackson / Firestorm. Russell Tovey stars as Ray Terrill / The Ray.",
+          "semantic_score": 0.5348296165466309,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7766",
+          "text": "Byron Mann\nByron Mann () is a Chinese American actor who has made films in Hollywood, Hong Kong and Mainland China. He is perhaps best known for his performances as Mr. Chau in \"The Big Short\", Chang in \"Hell on Wheels\", Ryu in \"Street Fighter\", Silver Lion in \"The Man with the Iron Fists\" and Yao Fei in the first season of \"Arrow\".",
+          "semantic_score": 0.4859357178211212,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8928",
+          "text": "Brandon Routh\nBrandon James Routh (born October 9, 1979) is an American actor and former fashion model. He grew up in Iowa before moving to Los Angeles to pursue an acting career, and subsequently appeared on multiple television series throughout the early 2000s. In 2006, he gained greater recognition for his role as the titular superhero of the 2006 film \"Superman Returns\". He also had a recurring role in the TV series \"Chuck\", as Daniel Shaw. Following this, he had notable supporting roles in the films \"Zack and Miri Make a Porno\" and \"Scott Pilgrim vs. the World\". In 2014, he began a recurring role on \"Arrow\" as Ray Palmer/Atom which spun off into a guest role on \"The Flash\" and a starring role on \"Legends of Tomorrow\".",
+          "semantic_score": 0.47314926981925964,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1101",
+          "text": "Matt Letscher\nMatthew \"Matt\" Letscher (born June 26, 1970) is an American actor and playwright, known for his roles as Captain Harrison Love in the 1998 American swashbuckler film \"The Mask of Zorro\" and as Colonel Adelbert Ames in the 2003 American film \"Gods and Generals\". He co-starred in the 2016 Michael Bay film \"\", playing Ambassador J. Christopher Stevens. He has also portrayed Eobard Thawne/Reverse-Flash in \"The Flash\" and \"Legends of Tomorrow\".",
+          "semantic_score": 0.4698571264743805,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3091",
+          "text": "Jack Elam\nWilliam Scott Elam, known as Jack Elam (November 13, 1920 – October 20, 2003), was an American film and television actor best known for his numerous roles as villains in Western films and, later in his career, comedies (sometimes spoofing his villainous image). His most distinguishing physical quality was his lazy left eye. Before his career in acting, he took several jobs in finance and served two years in the United States Navy during World War II.",
+          "semantic_score": 0.44302842020988464,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1103",
+          "text": "List of Arrow characters\nArrow is an American television series developed by Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg, based on the DC Comics character Green Arrow. Many of the other characters appearing in the series are also based on DC Comics characters. The series premiered on October 10, 2012 in the United States on The CW television network, and is currently in its fifth season. On January 8, 2017, The CW announced that \"Arrow\" would be renewed for a sixth season.",
+          "semantic_score": 0.4357188045978546,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1105",
+          "text": "Legends of Tomorrow\nDC's Legends of Tomorrow, or simply Legends of Tomorrow, is an American superhero action-adventure television series developed by Greg Berlanti, Marc Guggenheim, Andrew Kreisberg, and Phil Klemmer, who are also executive producers along with Sarah Schechter and Chris Fedak; Klemmer and Fedak serve as showrunners. The series, based on the characters of DC Comics, airs on The CW and is a spin-off from \"Arrow\" and \"The Flash\", existing in the same fictional universe. The series premiered on January 21, 2016. In January 2017, The CW renewed the series for a third season, which is scheduled to debut on October 10, 2017.",
+          "semantic_score": 0.30767297744750977,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1108",
+          "text": "List of The Flash characters\n\"The Flash\" is an American television series developed by writer-producers Greg Berlanti, Andrew Kreisberg and Geoff Johns, based on the DC Comics character the Flash. The series premiered in the United States on October 7, 2014, on The CW television network. It is a spin-off from \"Arrow\", a show in the same universe. The first season follows police forensic investigator Barry Allen (Grant Gustin), who develops super-speed after he is struck by lightning. In his attempt to learn about his powers and how to use them for good, he is assisted by S.T.A.R. Labs' Dr. Caitlin Snow (Danielle Panabaker), Cisco Ramon (Carlos Valdes) and Dr. Harrison Wells (Tom Cavanagh). Barry also tries to solve the murder of his mother (Michelle Harrison) by a superhuman attacker (Matt Letscher) when he was eleven. The murder investigation unjustly imprisoned his father (John Wesley Shipp), leaving detective Joe West (Jesse L. Martin), father of his best friend, Iris (Candice Patton), to take in the young Barry. The memory of his mother's murder and his father's framing and later killing motivates Barry to put his personal needs aside and use his powers to fight those who would hurt the innocent, shaping him into the Flash.",
+          "semantic_score": 0.3300721049308777,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Matt Letscher"
+    },
+    {
+      "step": 3,
+      "sub_question": "When that actor was born.",
+      "retrieved": [
+        {
+          "id": "8932",
+          "text": "Brandon Keener\nBrandon James Keener (born October 1, 1974) is an American actor living in Los Angeles, California. He was born and raised in Fort Smith, Arkansas and graduated from University of Arkansas at Fayetteville, where he won an Irene Ryan scholarship for collegiate actors and performed at the Kennedy Center.",
+          "semantic_score": 0.4768817722797394,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5605",
+          "text": "Jared Daperis\nJared Daperis (born 18 August 1990) is an Australian actor. He has received a Young Artist Award nomination. Daperis' recent film work has been compared with that of a \"young Mel Gibson\", whilst co-stars have likened him to Heath Ledger. He is the middle child of three.He is the brother of actor and director Daniel Daperis.and he has a younger sister Stephanie Daperis.",
+          "semantic_score": 0.47571998834609985,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1828",
+          "text": "Arnold Schwarzenegger filmography\nArnold Schwarzenegger is an actor who has appeared in over 30 films, and has also ventured into directing and producing. He began his acting career primarily with small roles in film and television. For his first film role, he was credited as \"Arnold Strong\", but was credited with his birth name thereafter. He has appeared mainly in action, and comedy films. In addition to films and television, he has appeared in music videos for AC/DC, Bon Jovi, and Guns N' Roses.",
+          "semantic_score": 0.4366433322429657,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6628",
+          "text": "Ryan Dunn\nRyan Matthew Dunn (June 11, 1977 – June 20, 2011) was an American stunt performer, television personality, comedian, actor, writer, musician, and one of the stars of the MTV reality stunt show \"Jackass\".",
+          "semantic_score": 0.40108877420425415,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5641",
+          "text": "View Askew Productions\nView Askew Productions is an American film and television production company founded by Kevin Smith and Scott Mosier in 1994. Actors Ben Affleck, Jeff Anderson, Matt Damon, Chris Rock, Walter Flanagan, Bryan Johnson, Jason Lee, Jason Mewes, Brian O'Halloran, Ethan Suplee, and Smith himself are just some of the stars that frequently appear in projects under the View Askew banner.",
+          "semantic_score": 0.4005878269672394,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5646",
+          "text": "Movies Askew\nMovies Askew is a short film festival run by Kevin Smith and View Askew Productions. \"We've shown you ours. Now show us yours,\" submitters were encouraged. The 12 finalists of 2005 were screened at a gala event in Hollywood, California on September 6, 2006. The audience included a panel of celebrity judges with the likes of Jason Mewes, Scott Mosier and \"Donnie Darko\" director Richard Kelly.",
+          "semantic_score": 0.2810526490211487,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5644",
+          "text": "View Askewniverse\nThe View Askewniverse is a fictional universe created by writer/director Kevin Smith, featured in several films, comics and a television series; it is named for Smith's production company, View Askew Productions. The characters Jay and Silent Bob appear in almost all the View Askewniverse media, and characters from one story often reappear or are referred to in others. Smith often casts the same actors for multiple characters in the universe, sometimes even in the same film; Smith himself portrays the character of Silent Bob.",
+          "semantic_score": 0.15123477578163147,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6629",
+          "text": "Dave England\nDave England (born December 30, 1969) is an American stunt performer, and former professional snowboarder. He is best remembered as one of the stars of the MTV reality stunt show \"Jackass\".",
+          "semantic_score": 0.3023017346858978,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3840",
+          "text": "Jackass Number Two\nJackass Number Two is a 2006 American reality comedy film. It is the sequel to \"\" (2002), both based upon the MTV series \"Jackass\". Like its predecessor and the original TV show, the film is a compilation of stunts, pranks and skits. The film stars the regular \"Jackass\" cast of Johnny Knoxville, Bam Margera, Chris Pontius, Steve-O, Ryan Dunn, Dave England, Jason \"Wee Man\" Acuña, Preston Lacy and Ehren McGhehey. Everyone depicted in the film plays as themselves. All nine main cast members from the first film returned for the sequel. The film was directed by Jeff Tremaine, who also directed \"\" and produced \"Jackass\".",
+          "semantic_score": 0.21794918179512024,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6246",
+          "text": "Jackass: The Movie\nJackass: The Movie is a 2002 American reality comedy film directed by Jeff Tremaine with the tagline \"Do not attempt this at home.\" It is a continuation of the stunts and pranks by the various characters of the MTV television series \"Jackass\", which had completed its unique series run by this time. The film was produced by MTV Films and Dickhouse Productions and released by Paramount Pictures.",
+          "semantic_score": 0.17233262956142426,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "October 1, 1974"
+    },
+    {
+      "step": 4,
+      "sub_question": "What CW shows has Greg Berlanti developed?",
+      "retrieved": [
+        {
+          "id": "1100",
+          "text": "Greg Berlanti\nGreg Berlanti (born May 24, 1972) is an American film and television writer and producer. He is known for his work on the television series \"Dawson's Creek\", \"Everwood\", \"Political Animals\"; and for his contributions to DC Comics on film and television, including The CW's \"Arrowverse\". In 2017 Berlanti set the record in having 10 different scripted television series planned to air in the 2017–18 television season on various networks and digital platforms.",
+          "semantic_score": 0.5415617227554321,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2038",
+          "text": "Joey Bishop\nJoseph Abraham Gottlieb (February 3, 1918 – October 17, 2007), known professionally as Joey Bishop, was an American entertainer who appeared on television as early as 1948 and eventually starred in his own weekly comedy series playing a talk show host, then later hosted a late night talk show. He later became a member of the \"Rat Pack\" with Frank Sinatra, Peter Lawford, Sammy Davis, Jr., and Dean Martin.",
+          "semantic_score": 0.38336098194122314,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5932",
+          "text": "Jim Backus\nJames Gilmore Backus (February 25, 1913 – July 3, 1989) was an American radio, television, film, and voice actor. Among his most famous roles were the voice of nearsighted cartoon character Mr. Magoo, the rich Hubert Updike III on the radio version of \"The Alan Young Show\", Joan Davis' character's husband (a domestic court judge) on TV's \"I Married Joan\", James Dean's character's father in \"Rebel Without a Cause\", and Thurston Howell III, on the 1960s sitcom \"Gilligan's Island\". He also starred in his own show of one season, \"The Jim Backus Show\", also known as \"Hot Off the Wire\".",
+          "semantic_score": 0.38109174370765686,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8950",
+          "text": "Greg Costikyan\nGreg Costikyan (born July 22, 1959, in New York City), sometimes known under the pseudonym \"Designer X\", is an American game designer and science fiction writer.",
+          "semantic_score": 0.37147340178489685,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7206",
+          "text": "Mark S. Golub\nMark S. Golub (born May 10, 1945) is an American rabbi, media entrepreneur, personality and educator. He created the first Russian language television channel produced in America, RTN (The Russian Television Network of America) and the first \"PBS-Style\" Jewish Television Channel, Shalom TV. Golub is the rabbi of two small congregations in Connecticut, Chavurah Aytz Chayim (Stamford, CT) and Chavurah Deevray Torah (Greenwich, CT), but is most well known as the host of L'Chayim, an interview talk show he created in 1979 in which he discusses \"issues of importance to the Jewish community\" with prominent Jewish figures.",
+          "semantic_score": 0.36732521653175354,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1103",
+          "text": "List of Arrow characters\nArrow is an American television series developed by Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg, based on the DC Comics character Green Arrow. Many of the other characters appearing in the series are also based on DC Comics characters. The series premiered on October 10, 2012 in the United States on The CW television network, and is currently in its fifth season. On January 8, 2017, The CW announced that \"Arrow\" would be renewed for a sixth season.",
+          "semantic_score": 0.3428579866886139,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8952",
+          "text": "Violence (role-playing game)\nViolence: The Role-Playing Game of Egregious and Repulsive Bloodshed is a short, 32-page role-playing game written by Greg Costikyan under the pseudonym \"Designer X\" and published by Hogshead Publishing in 1999 as part of its \"New Style\" line of games.",
+          "semantic_score": 0.19910526275634766,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1119",
+          "text": "Arrowverse\nThe Arrowverse is a shared fictional universe that is centered on television series airing on The CW, developed by Greg Berlanti, Marc Guggenheim, Andrew Kreisberg, Phil Klemmer, and Geoff Johns, based on characters appearing in publications by DC Comics. The shared universe, much like the DC Universe in comic books or the cinematic DC Extended Universe, was established by crossing over common plot elements, settings, cast, and characters. The Arrowverse stars Stephen Amell as Oliver Queen / Green Arrow, Grant Gustin as Barry Allen / Flash, Megalyn Echikunwoke as Mari Jiwe McCabe / Vixen, with an ensemble cast leading \"Legends of Tomorrow\", including Arthur Darvill as Rip Hunter, Caity Lotz as Sara Lance / White Canary, Brandon Routh as Ray Palmer / Atom, Dominic Purcell as Mick Rory / Heat Wave, with Victor Garber and Franz Drameh as Martin Stein & Jefferson \"Jax\" Jackson / Firestorm. Russell Tovey stars as Ray Terrill / The Ray.",
+          "semantic_score": 0.26722976565361023,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3737",
+          "text": "Matt James (game designer)\nMatt James (born 1981) is an American game designer and a decorated veteran of the United States Army. As a game designer, James is best known for his online and print works for the \"Dungeons & Dragons\" fantasy role-playing game published by Wizards of the Coast, \"Pathfinder\" role-playing game by Paizo, and Privateer Press. He has also designed game content for Wolfgang Baur's Kobold Press (formerly Open Design LLC). In 2012 James won an ENnie Award for \"\" and has been nominated for several Origins Awards. In 2014, James won an ENnie Award for \"\".",
+          "semantic_score": 0.18417207896709442,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2044",
+          "text": "Night After Night with Allan Havey\nNight After Night with Allan Havey was a late night talk show which aired on The Comedy Channel and, later, Comedy Central from 1989 to 1992. The show featured the stream of consciousness of host Allan Havey, and other departures from the standard late-night talk show format. Havey's sidekick was Nick Bakay, who moved on to act as sidekick on Dennis Miller's short-lived late night talk show.",
+          "semantic_score": 0.2526237666606903,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Arrow, The Flash, Legends of Tomorrow, Supergirl, Black Lightning, Riverdale, and other Arrowverse series"
+    },
+    {
+      "step": 5,
+      "sub_question": "Which actor from those shows also appeared in *Gods and Generals*?",
+      "retrieved": [
+        {
+          "id": "1119",
+          "text": "Arrowverse\nThe Arrowverse is a shared fictional universe that is centered on television series airing on The CW, developed by Greg Berlanti, Marc Guggenheim, Andrew Kreisberg, Phil Klemmer, and Geoff Johns, based on characters appearing in publications by DC Comics. The shared universe, much like the DC Universe in comic books or the cinematic DC Extended Universe, was established by crossing over common plot elements, settings, cast, and characters. The Arrowverse stars Stephen Amell as Oliver Queen / Green Arrow, Grant Gustin as Barry Allen / Flash, Megalyn Echikunwoke as Mari Jiwe McCabe / Vixen, with an ensemble cast leading \"Legends of Tomorrow\", including Arthur Darvill as Rip Hunter, Caity Lotz as Sara Lance / White Canary, Brandon Routh as Ray Palmer / Atom, Dominic Purcell as Mick Rory / Heat Wave, with Victor Garber and Franz Drameh as Martin Stein & Jefferson \"Jax\" Jackson / Firestorm. Russell Tovey stars as Ray Terrill / The Ray.",
+          "semantic_score": 0.6651233434677124,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8928",
+          "text": "Brandon Routh\nBrandon James Routh (born October 9, 1979) is an American actor and former fashion model. He grew up in Iowa before moving to Los Angeles to pursue an acting career, and subsequently appeared on multiple television series throughout the early 2000s. In 2006, he gained greater recognition for his role as the titular superhero of the 2006 film \"Superman Returns\". He also had a recurring role in the TV series \"Chuck\", as Daniel Shaw. Following this, he had notable supporting roles in the films \"Zack and Miri Make a Porno\" and \"Scott Pilgrim vs. the World\". In 2014, he began a recurring role on \"Arrow\" as Ray Palmer/Atom which spun off into a guest role on \"The Flash\" and a starring role on \"Legends of Tomorrow\".",
+          "semantic_score": 0.5607660412788391,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1105",
+          "text": "Legends of Tomorrow\nDC's Legends of Tomorrow, or simply Legends of Tomorrow, is an American superhero action-adventure television series developed by Greg Berlanti, Marc Guggenheim, Andrew Kreisberg, and Phil Klemmer, who are also executive producers along with Sarah Schechter and Chris Fedak; Klemmer and Fedak serve as showrunners. The series, based on the characters of DC Comics, airs on The CW and is a spin-off from \"Arrow\" and \"The Flash\", existing in the same fictional universe. The series premiered on January 21, 2016. In January 2017, The CW renewed the series for a third season, which is scheduled to debut on October 10, 2017.",
+          "semantic_score": 0.5045563578605652,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1108",
+          "text": "List of The Flash characters\n\"The Flash\" is an American television series developed by writer-producers Greg Berlanti, Andrew Kreisberg and Geoff Johns, based on the DC Comics character the Flash. The series premiered in the United States on October 7, 2014, on The CW television network. It is a spin-off from \"Arrow\", a show in the same universe. The first season follows police forensic investigator Barry Allen (Grant Gustin), who develops super-speed after he is struck by lightning. In his attempt to learn about his powers and how to use them for good, he is assisted by S.T.A.R. Labs' Dr. Caitlin Snow (Danielle Panabaker), Cisco Ramon (Carlos Valdes) and Dr. Harrison Wells (Tom Cavanagh). Barry also tries to solve the murder of his mother (Michelle Harrison) by a superhuman attacker (Matt Letscher) when he was eleven. The murder investigation unjustly imprisoned his father (John Wesley Shipp), leaving detective Joe West (Jesse L. Martin), father of his best friend, Iris (Candice Patton), to take in the young Barry. The memory of his mother's murder and his father's framing and later killing motivates Barry to put his personal needs aside and use his powers to fight those who would hurt the innocent, shaping him into the Flash.",
+          "semantic_score": 0.5001588463783264,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1",
+          "text": "Chris Evans (actor)\nChristopher Robert Evans (born June 13, 1981) is an American actor and filmmaker. Evans is known for his superhero roles as the Marvel Comics characters Steve Rogers / Captain America in the Marvel Cinematic Universe and Johnny Storm / Human Torch in \"Fantastic Four\" and .",
+          "semantic_score": 0.4830644726753235,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1107",
+          "text": "List of The Flash episodes\n\"The Flash\" is an American action television series developed by Greg Berlanti, Andrew Kreisberg, and Geoff Johns, airing on The CW. It is based on the DC Comics character Barry Allen / Flash, a costumed crimefighter with the power to move at superhuman speeds. It is a spin-off from \"Arrow\", existing in the same fictional universe. The series follows Barry Allen, portrayed by Grant Gustin, a crime scene investigator who gains superhuman speed, which he uses to fight criminals, including others who have also gained superhuman abilities. \"The Flash\" was renewed in March 2016 for a third season, which premiered on October 4, 2016. On January 8, 2017, The CW renewed the series for a fourth season, which is scheduled to debut on October 10, 2017. s of 23, 2017, episodes of \"The Flash \" have aired, concluding the first half of the  season.",
+          "semantic_score": 0.4471030533313751,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1104",
+          "text": "Pilot (The Flash)\n\"Pilot\" is the first episode of The CW series \"The Flash\". The episode was written by Andrew Kreisberg and Geoff Johns, based on a story by Greg Berlanti, Kreisberg, and Johns, and directed by David Nutter. It was first broadcast on October 7, 2014, on The CW. The show is a spin-off from \"Arrow\" where many of the characters in \"The Flash\" were introduced during its second season. The episode revolves around Barry Allen (Grant Gustin), a forensic scientist working for the Central City Police Department. On the night of the launch of a particle accelerator, a malfunction causes it to explode during a storm. At the same time, Barry is struck by lightning. He wakes from a coma after nine months, and discovers that he has developed a new power: super speed. He is helped by S.T.A.R. Labs' personnel, led by Dr. Harrison Wells (Tom Cavanagh), who are trying to control his speed so that he can use it for greater good.",
+          "semantic_score": 0.39813232421875,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1106",
+          "text": "Fastest Man Alive\n\"Fastest Man Alive\" is the second episode of The CW series \"The Flash\". The episode was written by Andrew Kreisberg and Geoff Johns from a story by Greg Berlanti and Kreisberg and directed by David Nutter. It was first broadcast on October 14, 2014 in The CW. The show is itself an spin-off of the show \"Arrow\", where many characters in the series were introduced during the second season. The episode revolves about Barry Allen (Grant Gustin), a CSI forensic scientist working for the Central City Police Department. During a visit to an event, the event is robbed by masked men. This is later revealed as the result of an accident during the accelerator explosion and the men are in fact a man who can duplicate himself. The episode also shows flashbacks when Barry tries to see his dad in jail, to Joe's disapproval.",
+          "semantic_score": 0.44715365767478943,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1103",
+          "text": "List of Arrow characters\nArrow is an American television series developed by Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg, based on the DC Comics character Green Arrow. Many of the other characters appearing in the series are also based on DC Comics characters. The series premiered on October 10, 2012 in the United States on The CW television network, and is currently in its fifth season. On January 8, 2017, The CW announced that \"Arrow\" would be renewed for a sixth season.",
+          "semantic_score": 0.4737645983695984,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Chris Evans"
+    },
+    {
+      "step": 6,
+      "sub_question": "When was that actor born?",
+      "retrieved": [
+        {
+          "id": "8932",
+          "text": "Brandon Keener\nBrandon James Keener (born October 1, 1974) is an American actor living in Los Angeles, California. He was born and raised in Fort Smith, Arkansas and graduated from University of Arkansas at Fayetteville, where he won an Irene Ryan scholarship for collegiate actors and performed at the Kennedy Center.",
+          "semantic_score": 0.5236445665359497,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1",
+          "text": "Chris Evans (actor)\nChristopher Robert Evans (born June 13, 1981) is an American actor and filmmaker. Evans is known for his superhero roles as the Marvel Comics characters Steve Rogers / Captain America in the Marvel Cinematic Universe and Johnny Storm / Human Torch in \"Fantastic Four\" and .",
+          "semantic_score": 0.48496013879776,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3291",
+          "text": "Stephen Davies (actor)\nStephen Davies is a film and television actor. Stephen grew up Berkley, Michigan. His family then moved to Troy, Michigan. He started his acting career at Berkley High School, graduating in 1968, then attended Wayne State University for a few years. He graduated from the Royal Academy of Dramatic Art in 1975.",
+          "semantic_score": 0.4390932619571686,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3873",
+          "text": "Ike Jones\nIsaac Lolette \"Ike\" Jones (December 23, 1929 – October 5, 2014) was an African-American producer and actor who was perhaps best known for coming forward after the death of actress Inger Stevens to reveal he was her husband, a claim that was backed up in court by Inger Stevens' brother, Carl O. Stensland. He also had the distinction of being the first black graduate of the UCLA Film School in June 1953 (with a degree in film studies) and the first black person to serve as a producer on a major motion picture.",
+          "semantic_score": 0.43521827459335327,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2734",
+          "text": "Daniel Kaluuya\nDaniel Kaluuya (born 8 May 1989) is an English actor and writer. Kaluuya is best known for playing Chris Washington in the 2017 horror film \"Get Out\", Posh Kenneth in the E4 teen-drama \"Skins\", and Bing in the \"Black Mirror\" episode \"Fifteen Million Merits\".",
+          "semantic_score": 0.42489632964134216,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9282",
+          "text": "Fantastic Four (2015 film)\nFantastic Four (stylized as Fant4stic) is a 2015 American superhero film based on the Marvel Comics superhero team of the same name. It is the third theatrical \"Fantastic Four\" film to be produced and distributed by 20th Century Fox, and a reboot of the \"Fantastic Four\" film franchise. Directed by Josh Trank, who co-wrote the screenplay with Jeremy Slater and Simon Kinberg, the film stars Miles Teller, Michael B. Jordan, Kate Mara, Jamie Bell and Toby Kebbell. In \"Fantastic Four\", the team must learn to harness their superhuman abilities gained from an alternate universe to save Earth from a friend turned enemy.",
+          "semantic_score": -0.02322966232895851,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1101",
+          "text": "Matt Letscher\nMatthew \"Matt\" Letscher (born June 26, 1970) is an American actor and playwright, known for his roles as Captain Harrison Love in the 1998 American swashbuckler film \"The Mask of Zorro\" and as Colonel Adelbert Ames in the 2003 American film \"Gods and Generals\". He co-starred in the 2016 Michael Bay film \"\", playing Ambassador J. Christopher Stevens. He has also portrayed Eobard Thawne/Reverse-Flash in \"The Flash\" and \"Legends of Tomorrow\".",
+          "semantic_score": 0.2387048453092575,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8928",
+          "text": "Brandon Routh\nBrandon James Routh (born October 9, 1979) is an American actor and former fashion model. He grew up in Iowa before moving to Los Angeles to pursue an acting career, and subsequently appeared on multiple television series throughout the early 2000s. In 2006, he gained greater recognition for his role as the titular superhero of the 2006 film \"Superman Returns\". He also had a recurring role in the TV series \"Chuck\", as Daniel Shaw. Following this, he had notable supporting roles in the films \"Zack and Miri Make a Porno\" and \"Scott Pilgrim vs. the World\". In 2014, he began a recurring role on \"Arrow\" as Ray Palmer/Atom which spun off into a guest role on \"The Flash\" and a starring role on \"Legends of Tomorrow\".",
+          "semantic_score": 0.28775519132614136,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "October 1, 1974"
+    }
+  ],
+  "links": [
+    {
+      "source": "1103",
+      "target": "1101",
+      "reason": "1103 identifies Arrow as the CW show developed by Greg Berlanti; 1101 identifies Matt Letscher as an actor in Gods and Generals who also portrayed Eobard Thawne in The Flash/Legends of Tomorrow, bridging the show to the actor."
+    },
+    {
+      "source": "1101",
+      "target": "1108",
+      "reason": "1101 states Matt Letscher appeared in Gods and Generals and played Eobard Thawne; 1108 confirms Matt Letscher appears in The Flash, a CW series developed by Greg Berlanti, linking the actor to the CW show."
+    },
+    {
+      "source": "1101",
+      "target": "1105",
+      "reason": "1101 says Matt Letscher portrayed Eobard Thawne in Legends of Tomorrow; 1105 confirms Legends of Tomorrow is a CW series developed by Greg Berlanti, connecting the actor to the show."
+    },
+    {
+      "source": "1101",
+      "target": "1100",
+      "reason": "1101 gives Matt Letscher's birth date (June 26, 1970); 1100 establishes Greg Berlanti as the developer behind The CW's Arrowverse, providing the final birth-date answer for the actor linked to Berlanti's CW shows."
+    }
+  ],
+  "questions_seen": 112,
+  "_id": "5a8b86645542997f31a41d62",
+  "correct_answer": "1970",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

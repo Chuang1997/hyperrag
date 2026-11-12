@@ -1,0 +1,276 @@
+{
+  "question": "Which dog breed has more derivative breeds from the original, German Spitz or Norfolk Spaniel?",
+  "answer": "German Spitz",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "How many derivative breeds originate from the German Spitz?",
+      "retrieved": [
+        {
+          "id": "1158",
+          "text": "German Spitz\nGerman Spitz is used to refer to both a breed of dog and category or type of dog. Several modern breeds have been developed from the German Spitz, and are either registered as separate breeds or as varieties of German Spitz. All the \"German Spitz type\" dogs are dogs of the Spitz type of German origin. The Großspitz, Mittelspitz, and Kleinspitz breeds of \"German Spitz type\" are also called the German Spitz in English.",
+          "semantic_score": 0.6690123081207275,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1151",
+          "text": "German Spitz (Klein)\nThe German Spitz Klein is a breed of dog of the German Spitz type. They are usually classed as a toy or utility breed.",
+          "semantic_score": 0.6138280630111694,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1570",
+          "text": "German Spaniel\nThe German Spaniel, also known as the Deutscher Wachtelhund (German quail dog), is a breed of dog that was developed in Germany around 1890, and is used as a hunting dog. Descended from the old German breed, the Stoeberer (lit. \"rummager\"), which became popular with commoners following the Revolutions of 1848 in the German states, who required a versatile hunting dog. Stoeberer is now a type of hunting dog in Germany with the Wachtelhund being its sole member. The breed is not very well known outside of Germany, but was recognised by the United Kennel Club in 1996.",
+          "semantic_score": 0.526866614818573,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1155",
+          "text": "Pomeranian (dog)\nThe Pomeranian (often known as a Pom or Pom Pom) is a breed of dog of the Spitz type that is named for the Pomerania region in Germany and Poland in Central Europe. Classed as a toy dog breed because of its small size, the Pomeranian is descended from the larger Spitz type dogs, specifically the German Spitz. It has been determined by the Fédération Cynologique Internationale to be part of the German Spitz breed; and in many countries, they are known as the Zwergspitz (\"Dwarf-Spitz\").",
+          "semantic_score": 0.5067232251167297,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1576",
+          "text": "Finnish Spitz\nA Finnish Spitz (Finnish language: \"Suomenpystykorva\") is a breed of dog originating in Finland. The breed was originally bred to hunt all types of game from squirrels and other rodents to bears. It is a \"bark pointer\", indicating the position of game by barking, and drawing the game animal's attention to itself, allowing an easier approach for the hunter. Its original game hunting purpose was to point to game that fled into trees, such as grouse, and capercaillies, but it also serves well for hunting elk. Some individuals have even been known to go after a bear. In its native country, the breed is still mostly used as a hunting dog. The breed is friendly and in general loves children, so it is suitable for domestic life. The Finnish Spitz has been the national dog of Finland since 1979.",
+          "semantic_score": 0.48869603872299194,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9358",
+          "text": "German Shepherd\nThe German Shepherd (German: Deutscher Schäferhund , ] ) is a breed of medium to large-sized working dog that originated in Germany. The breed's officially recognized name is German Shepherd Dog in the English language (sometimes abbreviated as \"GSD\"). The breed is also known as the Alsatian in Britain and Ireland. The German Shepherd is a relatively new breed of dog, with their origin dating to 1899. As part of the Herding Group, German Shepherds are working dogs developed originally for herding sheep. Since that time however, because of their strength, intelligence, trainability, and obedience, German Shepherds around the world are often the preferred breed for many types of work, including disability assistance, search-and-rescue, police and military roles, and even acting. The German Shepherd is the second-most registered breed by the American Kennel Club and fourth-most registered breed by The Kennel Club in the United Kingdom.",
+          "semantic_score": 0.4799390733242035,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1149",
+          "text": "American Eskimo Dog\nThe American Eskimo Dog is a breed of companion dog originating in Germany. The American Eskimo is a member of the Spitz family. The breed's progenitors were German Spitz, but due to anti-German prejudice during the First World War, it was renamed \"American Eskimo Dog\". Although modern American Eskimos have been exported as German Spitz Gross (or Mittel, depending on the dog's height), the breeds have diverged and the standards are significantly different. In addition to serving as a watchdog and companion, the American Eskimo Dog also achieved a high degree of popularity in the United States in the 1930s and 1940s as a circus performer.",
+          "semantic_score": 0.4835759401321411,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Several"
+    },
+    {
+      "step": 2,
+      "sub_question": "How many derivative breeds originate from the Norfolk Spaniel?",
+      "retrieved": [
+        {
+          "id": "1157",
+          "text": "Norfolk Spaniel\nThe Norfolk Spaniel or Shropshire Spaniel is an extinct breed of dog since the early 20th century. It was originally thought to have originated from the work of one of the Dukes of Norfolk, but this theory was disproven after being in doubt during the later part of the 19th century. The term was used to designate springer type spaniels that were neither Sussex nor Clumber Spaniels, and attempts were made to use it to specify a breed that would later become known as the English Springer Spaniel.",
+          "semantic_score": 0.7107779383659363,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6837",
+          "text": "Vulnerable Native Breeds\nVulnerable Native Breeds are a group of dog breeds originating in the United Kingdom and Ireland, and identified by The Kennel Club (KC) as having annual registration numbers of 300 puppies or fewer. The need for such a list was first identified in June 2003, with research conducted by the KC to identify the extent of the vulnerability and viability of each breed. It was a joint project, with the KC working with the British and Irish Native Breeds Trust, later to be known simply as the Native Dog Breeds Trust. The breeds on the list have been promoted at events such as Discover Dogs and Crufts, and by asking that owners of these breeds mate their dogs rather than having them spayed.",
+          "semantic_score": 0.5442973971366882,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1156",
+          "text": "King Charles Spaniel\nThe King Charles Spaniel (also known as the English Toy Spaniel) is a small dog breed of the spaniel type. In 1903, the Kennel Club combined four separate toy spaniel breeds under this single title. The other varieties merged into this breed were the Blenheim, Ruby and Prince Charles Spaniels, each of which contributed one of the four colours available in the breed.",
+          "semantic_score": 0.5290836095809937,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1863",
+          "text": "English Water Spaniel\nThe English Water Spaniel is a breed of dog that has been extinct since the first part of the 20th century, with the last specimen seen in the 1930s. It was best known for its use in hunting waterfowl and for being able to dive as well as a duck. It is described as similar to a Collie or to a cross between a Poodle and a Springer Spaniel with curly fur and typically in a white and liver/tan pattern.",
+          "semantic_score": 0.5260411500930786,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1858",
+          "text": "Spaniel\nA spaniel is a type of gun dog. Spaniels were especially bred to flush game out of denser brush. By the late 17th century spaniels had been specialized into water and land breeds. The extinct English Water Spaniel was used to retrieve water fowl shot down with arrows. Land spaniels were setting spaniels—those that crept forward and pointed their game, allowing hunters to ensnare them with nets, and springing spaniels—those that sprang pheasants and partridges for hunting with falcons, and rabbits for hunting with greyhounds. During the 17th century, the role of the spaniel dramatically changed as Englishmen began hunting with flintlocks for wing shooting. Charles Goodall and Julia Gasow (1984) write that spaniels were \"transformed from untrained, wild beaters, to smooth, polished gun dogs.\"",
+          "semantic_score": 0.5253552794456482,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1864",
+          "text": "Tweed Water Spaniel\nThe Tweed Water Spaniel, or Tweed Spaniel, is a breed of dog extinct since the 19th century. It is best known for being involved in the early development of the modern Curly Coated Retriever and Golden Retriever breeds of dogs. They were described as a generally brown athletic dogs from the area around Berwick-upon-Tweed near the River Tweed and close to the Scottish Borders. A type of water dog, the breed was not well known outside the local area. This breed may have been created by crossing local water dogs with imported St. John's water dog, another breed which is also now extinct.",
+          "semantic_score": 0.4826338589191437,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1861",
+          "text": "American Water Spaniel\nThe American Water Spaniel, (often abbreviated to AWS), is a breed of spaniel which originated in the United States. Developed in the state of Wisconsin during the 19th century from a number of other breeds, including the Irish and English Water Spaniels. The breed was saved by Dr. Fred J. Pfeifer, who set up the breed club and standard, and whose work led to recognition for the breed by the United Kennel Club, and later, the American Kennel Club. While they are the state dog of Wisconsin, they remain a rare breed.",
+          "semantic_score": 0.4906741976737976,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1577",
+          "text": "Wetterhoun\nThe Wetterhoun (FCI No.221, translated into English as the Frisian Water Dog) is a breed of dog traditionally used as a hunting dog for hunting small mammals and waterfowl in the province of Fryslan in the Netherlands. The name of the dog comes from the West Frisian \"Wetterhûn\" meaning \"water dog.\" Plural of Wetterhoun is Wetterhounen in Dutch. The breed may also be called the \"Otterhoun\" (not to be confused with the Otterhound) or \"Dutch Spaniel\", although it is not a Spaniel-type dog.",
+          "semantic_score": 0.4110313057899475,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1150",
+          "text": "English Springer Spaniel\nThe English Springer Spaniel is a breed of gun dog in the Spaniel family traditionally used for flushing and retrieving game. It is an affectionate, excitable breed with a typical lifespan of twelve to fourteen years. They are very similar to the Welsh Springer Spaniel and are descended from the Norfolk or Shropshire Spaniels of the mid-19th century; the breed has diverged into separate show and working lines. The breed suffers from average health complaints. The show-bred version of the breed has been linked to \"rage syndrome\", although the disorder is very rare. It is closely related to the Welsh Springer Spaniel and very closely to the English Cocker Spaniel; less than a century ago, springers and cockers would come from the same litter. The smaller \"cockers\" hunted woodcock while the larger littermates were used to flush, or \"spring,\" game. In 1902, The Kennel Club recognized the English Springer Spaniel as a distinct breed. They are used as sniffer dogs on a widespread basis. The term \"Springer\" comes from the historic hunting role, where the dog would flush (spring) birds into the air.",
+          "semantic_score": 0.5176477432250977,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Several"
+    },
+    {
+      "step": 3,
+      "sub_question": "Which number is greater, the derivative breeds from the German Spitz or from the Norfolk Spaniel?",
+      "retrieved": [
+        {
+          "id": "1157",
+          "text": "Norfolk Spaniel\nThe Norfolk Spaniel or Shropshire Spaniel is an extinct breed of dog since the early 20th century. It was originally thought to have originated from the work of one of the Dukes of Norfolk, but this theory was disproven after being in doubt during the later part of the 19th century. The term was used to designate springer type spaniels that were neither Sussex nor Clumber Spaniels, and attempts were made to use it to specify a breed that would later become known as the English Springer Spaniel.",
+          "semantic_score": 0.5616481304168701,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1158",
+          "text": "German Spitz\nGerman Spitz is used to refer to both a breed of dog and category or type of dog. Several modern breeds have been developed from the German Spitz, and are either registered as separate breeds or as varieties of German Spitz. All the \"German Spitz type\" dogs are dogs of the Spitz type of German origin. The Großspitz, Mittelspitz, and Kleinspitz breeds of \"German Spitz type\" are also called the German Spitz in English.",
+          "semantic_score": 0.5444952845573425,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1570",
+          "text": "German Spaniel\nThe German Spaniel, also known as the Deutscher Wachtelhund (German quail dog), is a breed of dog that was developed in Germany around 1890, and is used as a hunting dog. Descended from the old German breed, the Stoeberer (lit. \"rummager\"), which became popular with commoners following the Revolutions of 1848 in the German states, who required a versatile hunting dog. Stoeberer is now a type of hunting dog in Germany with the Wachtelhund being its sole member. The breed is not very well known outside of Germany, but was recognised by the United Kennel Club in 1996.",
+          "semantic_score": 0.5339925289154053,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9358",
+          "text": "German Shepherd\nThe German Shepherd (German: Deutscher Schäferhund , ] ) is a breed of medium to large-sized working dog that originated in Germany. The breed's officially recognized name is German Shepherd Dog in the English language (sometimes abbreviated as \"GSD\"). The breed is also known as the Alsatian in Britain and Ireland. The German Shepherd is a relatively new breed of dog, with their origin dating to 1899. As part of the Herding Group, German Shepherds are working dogs developed originally for herding sheep. Since that time however, because of their strength, intelligence, trainability, and obedience, German Shepherds around the world are often the preferred breed for many types of work, including disability assistance, search-and-rescue, police and military roles, and even acting. The German Shepherd is the second-most registered breed by the American Kennel Club and fourth-most registered breed by The Kennel Club in the United Kingdom.",
+          "semantic_score": 0.508651077747345,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6835",
+          "text": "Greater Swiss Mountain Dog\nThe Greater Swiss Mountain Dog (German: \"Grosser Schweizer Sennenhund\" or French: \"Grand Bouvier Suisse\" ) is a dog breed which was developed in the Swiss Alps. The name \"Sennenhund\" refers to people called \"Senn\" or \"Senner\", dairymen and herders in the Swiss Alps. Greater Swiss Mountain Dogs are almost certainly the result of indigenous dogs mating with large mastiff types brought to Switzerland by foreign settlers. At one time, the breed was believed to have been among the most popular in Switzerland. It was assumed to have almost died out by the late 19th century, since its work was being done by other breeds or machines, but was rediscovered in the early 1900s.",
+          "semantic_score": 0.507917582988739,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1151",
+          "text": "German Spitz (Klein)\nThe German Spitz Klein is a breed of dog of the German Spitz type. They are usually classed as a toy or utility breed.",
+          "semantic_score": 0.47713831067085266,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6832",
+          "text": "Swiss mountain dog\nSennenhund, called Swiss mountain dogs or Swiss cattle dogs in English, are a type of dog originating in the Swiss Alps. The Sennenhund are farm dogs of the general molosser type. There are four breeds of Sennenhund, all sporting a unique tricolor coat. While the two larger ones share a heavy build and a calm temperament, the two smaller ones are more agile. The breeds range from medium in size to very large. The name Sennenhund refers to people called \"Senn\" or Senner, Swiss alpine herdsmen and dairymen, and does not translate as \"mountain\" or \"cattle\".",
+          "semantic_score": 0.44880858063697815,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6833",
+          "text": "Bernese Mountain Dog\nThe Bernese Mountain Dog (German: \"Berner Sennenhund\" ) is a large-sized breed of dog, one of the four breeds of Sennenhund-type dogs from the Swiss Alps. The name \"Sennenhund\" is derived from the German \"Senne\" (\"alpine pasture\") and \"Hund\" (\"dog\"), as they accompanied the alpine herders and dairymen called \"Senn\". \"Berner\" (or \"Bernese\" in English) refers to the area of the breed’s origin, in the canton of Bern. This mountain dog was originally kept as a general farm dog. Large Sennenhunde in the past were also used as draft animals, pulling carts. The breed was officially established in 1907. In 1937, the American Kennel Club recognized it; today, the club classifies it as a member of the Working Group.",
+          "semantic_score": 0.43641772866249084,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6836",
+          "text": "Entlebucher Mountain Dog\nThe Entlebucher Sennenhund or Entlebucher Mountain Dog is a medium-sized herding dog, it is the smallest of the four Sennenhunds, a dog type that includes four regional breeds. The name Sennenhund refers to people called \"Senn\", herders in the Swiss Alps. Entlebuch is a region in the canton of Lucerne in Switzerland. The breed is also known in English as the Entelbuch Mountain Dog, Entelbucher Cattle Dog, and similar combinations.",
+          "semantic_score": 0.39367711544036865,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1155",
+          "text": "Pomeranian (dog)\nThe Pomeranian (often known as a Pom or Pom Pom) is a breed of dog of the Spitz type that is named for the Pomerania region in Germany and Poland in Central Europe. Classed as a toy dog breed because of its small size, the Pomeranian is descended from the larger Spitz type dogs, specifically the German Spitz. It has been determined by the Fédération Cynologique Internationale to be part of the German Spitz breed; and in many countries, they are known as the Zwergspitz (\"Dwarf-Spitz\").",
+          "semantic_score": 0.43835902214050293,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "German Spitz"
+    }
+  ],
+  "links": [
+    {
+      "source": "1158",
+      "target": "1157",
+      "reason": "Directly compares the derivative-breed counts: 1158 states several modern breeds developed from the German Spitz, while 1157 identifies the Norfolk Spaniel as the ancestor of the English Springer Spaniel, enabling the comparison."
+    },
+    {
+      "source": "1158",
+      "target": "1150",
+      "reason": "1158 establishes German Spitz as a source of several modern breeds; 1150 provides concrete evidence that the Norfolk Spaniel is ancestral to the English Springer Spaniel, supporting the count comparison."
+    },
+    {
+      "source": "1158",
+      "target": "1155",
+      "reason": "1155 gives a specific example of a breed descended from the German Spitz (Pomeranian), supporting the claim in 1158 that several breeds derive from it."
+    },
+    {
+      "source": "1158",
+      "target": "1149",
+      "reason": "1149 gives another specific example of a breed descended from the German Spitz (American Eskimo Dog), reinforcing the derivative count in 1158."
+    }
+  ],
+  "questions_seen": 117,
+  "_id": "5a7b24fe55429931da12c9f7",
+  "correct_answer": "German Spitz",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

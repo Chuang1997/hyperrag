@@ -1,0 +1,261 @@
+{
+  "question": "Gleanntáin Ghlas' Ghaoth Dobhair is a song that can be heard in pubs licensed to serve what?",
+  "answer": "Alcoholic drinks",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is \"Gleanntáin Ghlas' Ghaoth Dobhair\" (e.g., a traditional Irish song)?",
+      "retrieved": [
+        {
+          "id": "566",
+          "text": "Gleanntáin Ghlas' Ghaoth Dobhair\n\"Gleanntáin Ghlas' Ghaoth Dobhair\" is a song in the Irish language written by Irish musician Proinsias Ó Maonaigh (father of Mairéad Ní Mhaonaigh of Altan) about his hometown of Gaoth Dobhair in County Donegal. It translates as \"\"the green glens of Gweedore\"\". The song is one of the well-known Irish language songs of Ireland and it can be heard in many Irish pubs around the world.",
+          "semantic_score": 0.8050167560577393,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "571",
+          "text": "C.L.G. Ghaoth Dobhair\nC.L.G. Ghaoth Dobhair is a GAA club based in the parish of Gweedore in northwest County Donegal, Republic of Ireland. They are one of the strongholds of Gaelic football in County Donegal.",
+          "semantic_score": 0.6382916569709778,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "570",
+          "text": "Amharclann Ghaoth Dobhair\nAmharclann Ghaoth Dobhair (pron. ] ), anglicized as Gweedore Theatre, is a local theatre in the Gaeltacht region of Derrybeg in the parish of Gweedore, County Donegal, Ireland. It seats over 200 patrons, and ever since it was opened by actress Siobhán McKenna, it has staged hundreds of plays in the Irish language.",
+          "semantic_score": 0.5498647093772888,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "567",
+          "text": "Pobalscoil Ghaoth Dobhair\nPobalscoil Ghaoth Dobhair (\"Gweedore Community School\") is an Irish-medium secondary school in the Gaeltacht district of Gaoth Dobhair, County Donegal, Ireland. It has a pupil attendance of 399.",
+          "semantic_score": 0.5277771949768066,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2641",
+          "text": "Buddha's delight\nBuddha's delight, often transliterated as Luóhàn zhāi, lo han jai, or lo hon jai, is a vegetarian dish well known in Chinese and Buddhist cuisine. It is sometimes also called Luóhàn cài ().",
+          "semantic_score": 0.39822253584861755,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "565",
+          "text": "Stephen Cassidy (Gaelic footballer)\nStephen Cassidy is a Gaelic footballer. He plays his club football for Ghaoth Dobhair and has been on his county team. Cassidy was first called up to the Donegal senior team by Brian McEniff for winter training in 2003. With his county he has played in the League, the Championship and the Dr. McKenna Cup. With his club he scored a goal and a point in the final of the 2006 Donegal Senior Football Championship, which his team won.",
+          "semantic_score": 0.30000728368759155,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "A traditional Irish song"
+    },
+    {
+      "step": 2,
+      "sub_question": "In what settings or venues is this song commonly heard or performed?",
+      "retrieved": [
+        {
+          "id": "569",
+          "text": "Irish pub\nAn Irish pub is an establishment licensed to serve alcoholic drinks for consumption on the premises. They are characterised by a unique culture centred around a casual and friendly atmosphere, hearty food and drink, Irish sports, and traditional Irish music. Their widespread appeal has led to the Irish pub theme spreading around the world.",
+          "semantic_score": 0.5219764709472656,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6872",
+          "text": "The Dubliners\nThe Dubliners were an Irish folk band founded in Dublin in 1962. The band started off as \"The Ronnie Drew Ballad Group\", named in honour of its founding member; they subsequently renamed themselves as The Dubliners. The group line-up saw many changes over their fifty-year career. However, the group's success was centred on lead singers Luke Kelly and Ronnie Drew. The band garnered international success with their lively Irish folk songs, traditional street ballads and instrumentals. The band were regulars on the folk scenes in both Dublin and London in the early 1960s, and were signed to the Major Minor label in 1965 after backing from Dominic Behan. They went on to receive extensive airplay on Radio Caroline, and eventually appeared on \"Top of the Pops\" in 1967 with hits \"Seven Drunken Nights\" (which sold over 250,000 copies in the UK) and \"The Black Velvet Band\". Often performing political songs considered controversial at the time, they drew criticism from some folk purists and Ireland’s national broadcaster RTÉ had placed an unofficial ban on their music from 1967–71. During this time the band's popularity began to spread across mainland Europe and they appeared on \"The Ed Sullivan Show\" in the United States. The group's success remained steady right through the 1970s and a number of collaborations with The Pogues in 1987 saw them enter the UK Singles Chart on another two occasions.",
+          "semantic_score": 0.48621097207069397,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8264",
+          "text": "The Skye Boat Song\n\"The Skye Boat Song\" is a Scottish folk song, which can be played as a waltz, recalling the escape of Prince Charles Edward Stuart (Bonnie Prince Charlie) from Uist to the Isle of Skye after his defeat at the Battle of Culloden in 1746.",
+          "semantic_score": 0.45197197794914246,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8878",
+          "text": "Irish Home Rule movement\nThe Irish Home Rule movement was a movement that agitated for self-government for Ireland within the United Kingdom of Great Britain and Ireland. It was the dominant political movement of Irish nationalism from 1870 to the end of World War I.",
+          "semantic_score": 0.44863250851631165,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "566",
+          "text": "Gleanntáin Ghlas' Ghaoth Dobhair\n\"Gleanntáin Ghlas' Ghaoth Dobhair\" is a song in the Irish language written by Irish musician Proinsias Ó Maonaigh (father of Mairéad Ní Mhaonaigh of Altan) about his hometown of Gaoth Dobhair in County Donegal. It translates as \"\"the green glens of Gweedore\"\". The song is one of the well-known Irish language songs of Ireland and it can be heard in many Irish pubs around the world.",
+          "semantic_score": 0.4453792870044708,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8877",
+          "text": "Indian Home Rule movement\nThe Indian Home Rule movement was a movement in British India on the lines of Irish Home Rule movement and other home rule movements. The movement lasted around two years between 1916–1918 and is believed to have set the stage for the independence movement under the leadership of Annie Besant and B.G Tilak.",
+          "semantic_score": 0.24941837787628174,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8873",
+          "text": "Government of Ireland Act 1914\nThe Government of Ireland Act 1914 (4 & 5 Geo. 5 c. 90), also known as the Home Rule Act, and before enactment as the Third Home Rule Bill, was an Act passed by the Parliament of the United Kingdom intended to provide home rule (self-government within the United Kingdom) for Ireland. It was the third such bill introduced by a Liberal government in a 28-year period in response to the Irish Home Rule movement.",
+          "semantic_score": 0.26949062943458557,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8876",
+          "text": "Irish Parliamentary Party\nThe Irish Parliamentary Party (IPP; commonly called the Irish Party or the Home Rule Party) was formed in 1874 by Isaac Butt, the leader of the Nationalist Party, replacing the Home Rule League, as official parliamentary party for Irish nationalist Members of Parliament (MPs) elected to the House of Commons at Westminster within the United Kingdom of Great Britain and Ireland up until 1918. Its central objectives were legislative independence for Ireland and land reform. Its constitutional movement was instrumental in laying the groundwork for Irish self-government through three Irish Home Rule bills.",
+          "semantic_score": 0.3306983709335327,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "571",
+          "text": "C.L.G. Ghaoth Dobhair\nC.L.G. Ghaoth Dobhair is a GAA club based in the parish of Gweedore in northwest County Donegal, Republic of Ireland. They are one of the strongholds of Gaelic football in County Donegal.",
+          "semantic_score": 0.28368064761161804,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8870",
+          "text": "Home Rule League\nThe Home Rule League (1873–1882), sometimes called the Home Rule Party or the Home Rule Confederation, was a political party which campaigned for home rule for Ireland within the United Kingdom of Great Britain and Ireland, until it was replaced by the Irish Parliamentary Party.",
+          "semantic_score": 0.2211163192987442,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "In Irish pubs around the world."
+    },
+    {
+      "step": 3,
+      "sub_question": "What type of license allows a pub to serve alcohol?",
+      "retrieved": [
+        {
+          "id": "569",
+          "text": "Irish pub\nAn Irish pub is an establishment licensed to serve alcoholic drinks for consumption on the premises. They are characterised by a unique culture centred around a casual and friendly atmosphere, hearty food and drink, Irish sports, and traditional Irish music. Their widespread appeal has led to the Irish pub theme spreading around the world.",
+          "semantic_score": 0.7925419211387634,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1281",
+          "text": "The Liberties, Dublin\nThe Liberties (Irish: Na Saoirsí or occasionally Na Libirtí) is an area in central Dublin, Ireland, located to the southwest of the inner city. One of Dublin's most historic working-class neighbourhoods, the area is traditionally associated with social housing, market traders, local family-owned businesses, as well as whiskey distilling, it is now also a centre of enterprise and commercial life in the heart of the city. Today the historic city quarter sits side by side with dynamic media and tech hubs and highly respected medical and education centres.",
+          "semantic_score": 0.42614251375198364,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8876",
+          "text": "Irish Parliamentary Party\nThe Irish Parliamentary Party (IPP; commonly called the Irish Party or the Home Rule Party) was formed in 1874 by Isaac Butt, the leader of the Nationalist Party, replacing the Home Rule League, as official parliamentary party for Irish nationalist Members of Parliament (MPs) elected to the House of Commons at Westminster within the United Kingdom of Great Britain and Ireland up until 1918. Its central objectives were legislative independence for Ireland and land reform. Its constitutional movement was instrumental in laying the groundwork for Irish self-government through three Irish Home Rule bills.",
+          "semantic_score": 0.37153610587120056,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2778",
+          "text": "List of cocktails\nA cocktail is a mixed drink typically made with a distilled beverage (such as, gin, brandy, vodka, whiskey, tequila, cachaça or rum) that is mixed with other ingredients. If beer is one of the ingredients, the drink is called a beer cocktail.",
+          "semantic_score": 0.3667387366294861,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3785",
+          "text": "Alcohol congener analysis\nAlcohol congener analysis of blood and urine is used to provide an indication of the type of alcoholic beverage consumed. The analysis involves investigating compounds called congeners that give the beverage a distinctive appearance, aroma, and flavour, not including water and ethanol. The theory of discovering one’s drinking habits has been investigated since the late 1970s, predominantly in Germany, for \"hip-flask\" defence type cases (after-drinking). Alcohol congener analysis can play a crucial role in these cases where the driver is apprehended some time after a motor vehicle incident who, when returning a positive alcohol reading then claim that this is due to drinking an alcoholic beverage only after the incident. This traditional methodology for congener analysis has focused solely on the detection of fermentation by-product congeners that are found in all alcoholic beverages. By comparing the ratios of a set standard of congeners, the ingested alcoholic beverage type is proposed.",
+          "semantic_score": 0.36536240577697754,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2769",
+          "text": "Cocktail\nWhen used to refer to any generic alcoholic mixed drink, cocktail may mean any beverage that contains two or more ingredients if at least one of those ingredients contains alcohol.",
+          "semantic_score": 0.32653194665908813,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8870",
+          "text": "Home Rule League\nThe Home Rule League (1873–1882), sometimes called the Home Rule Party or the Home Rule Confederation, was a political party which campaigned for home rule for Ireland within the United Kingdom of Great Britain and Ireland, until it was replaced by the Irish Parliamentary Party.",
+          "semantic_score": 0.25855082273483276,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8878",
+          "text": "Irish Home Rule movement\nThe Irish Home Rule movement was a movement that agitated for self-government for Ireland within the United Kingdom of Great Britain and Ireland. It was the dominant political movement of Irish nationalism from 1870 to the end of World War I.",
+          "semantic_score": 0.26689237356185913,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8873",
+          "text": "Government of Ireland Act 1914\nThe Government of Ireland Act 1914 (4 & 5 Geo. 5 c. 90), also known as the Home Rule Act, and before enactment as the Third Home Rule Bill, was an Act passed by the Parliament of the United Kingdom intended to provide home rule (self-government within the United Kingdom) for Ireland. It was the third such bill introduced by a Liberal government in a 28-year period in response to the Irish Home Rule movement.",
+          "semantic_score": 0.29130318760871887,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8877",
+          "text": "Indian Home Rule movement\nThe Indian Home Rule movement was a movement in British India on the lines of Irish Home Rule movement and other home rule movements. The movement lasted around two years between 1916–1918 and is believed to have set the stage for the independence movement under the leadership of Annie Besant and B.G Tilak.",
+          "semantic_score": 0.1261076033115387,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "A license to serve alcoholic drinks for consumption on the premises."
+    }
+  ],
+  "links": [
+    {
+      "source": "566",
+      "target": "569",
+      "reason": "Paragraph 566 states the song can be heard in Irish pubs; paragraph 569 defines an Irish pub as an establishment licensed to serve alcoholic drinks for consumption on the premises, bridging the song to the license type."
+    }
+  ],
+  "questions_seen": 58,
+  "_id": "5ae0818e55429924de1b70e9",
+  "correct_answer": "alcoholic drinks",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

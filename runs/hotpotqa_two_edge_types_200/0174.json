@@ -1,0 +1,275 @@
+{
+  "question": "Who is affiliated with more countries as a director, Robert Florey and R. G. Springsteen?",
+  "answer": "Robert Florey",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Robert Florey and what countries is he affiliated with as a director?",
+      "retrieved": [
+        {
+          "id": "1729",
+          "text": "Robert Florey\nRobert Florey (14 September 1900 – 16 May 1979) was a French-American director, screenwriter, film journalist, and occasional actor.",
+          "semantic_score": 0.8392088413238525,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5986",
+          "text": "Brian Kennedy (gallery director)\nBrian Patrick Kennedy (born 5 November 1961) is an Irish-born art museum director who works internationally. He is currently the Director of the Toledo Museum of Art in Ohio. He was the Director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia (Canberra) from 1997-2004.",
+          "semantic_score": 0.43998971581459045,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2202",
+          "text": "Francis Ford Coppola\nFrancis Ford Coppola ( ; born April 7, 1939), also credited as Francis Coppola, is a semi-retired American film director, producer, screenwriter and film composer. He was a central figure in the New Hollywood wave of filmmaking.",
+          "semantic_score": 0.43294239044189453,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4155",
+          "text": "Leopold Lummerstorfer\nLeopold Lummerstorfer (born 1968 in Gramastetten, Austria) is an Austrian film director, author and producer. He resides in Vienna and near Kapuvár.",
+          "semantic_score": 0.43156662583351135,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3191",
+          "text": "Lewis Allen (director)\nLewis Allen (25 December 1905 – 3 May 2000) was an English director. Allen worked mainly in the United States, working on Broadway and directing 18 feature films between 1944 and 1959. From the mid-1950s he moved increasingly into television and worked on a number of the most popular shows of the time in the US.",
+          "semantic_score": 0.4194175899028778,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2205",
+          "text": "Francis Ford Coppola Presents\nFrancis Ford Coppola Presents is a lifestyle brand created by Francis Ford Coppola, under which he markets goods from companies he owns or controls. It includes films and videos, resorts, cafes, a literary magazine and a winery.",
+          "semantic_score": 0.28568342328071594,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2197",
+          "text": "Eleanor Coppola\nEleanor Coppola (born May 4, 1936) is an American documentary filmmaker, artist, and writer. She is married to director Francis Ford Coppola. She is most known for her 1991 documentary film \"\" as well as other documentaries chronicling the films of her husband and children. Coppola currently lives on her family's winery in Napa Valley, California.",
+          "semantic_score": 0.23938629031181335,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2198",
+          "text": "Anton Coppola\nAntonio Coppola (born March 21, 1917) is an American opera conductor and composer. He is the uncle of film director Francis Ford Coppola and actress Talia Shire, as well as the grand-uncle of Nicolas Cage, Sofia Coppola, Gian-Carlo Coppola, Jason Schwartzman and Robert Schwartzman, and is the younger brother of American composer and musician Carmine Coppola.",
+          "semantic_score": 0.3310202956199646,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2200",
+          "text": "Gia Coppola\nGian-Carla \"Gia\" Coppola (born January 1, 1987) is an American film director, screenwriter, and actress. She is a granddaughter of Francis Ford Coppola, the daughter of Gian-Carlo Coppola and the niece of Roman Coppola and Sofia Coppola.",
+          "semantic_score": 0.19998465478420258,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7479",
+          "text": "Albert Capellani\nAlbert Capellani (23 August 1874 – 26 September 1931) was a French film director and screenwriter of the silent era. He directed films between 1905 and 1922. One of his brother was the actor-sculptor Paul Capellani. and another the film director Roger Capellani.",
+          "semantic_score": 0.39133313298225403,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Robert Florey was a French-American director, screenwriter, film journalist, and occasional actor, affiliated with France and the United States."
+    },
+    {
+      "step": 2,
+      "sub_question": "Who is R. G. Springsteen and what countries is he affiliated with as a director?",
+      "retrieved": [
+        {
+          "id": "1729",
+          "text": "Robert Florey\nRobert Florey (14 September 1900 – 16 May 1979) was a French-American director, screenwriter, film journalist, and occasional actor.",
+          "semantic_score": 0.757599413394928,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1728",
+          "text": "R. G. Springsteen\nRobert G. Springsteen (September 8, 1904 – December 9, 1989) was an American director of Hollywood B movies and television shows. He was most often credited on screen as R. G. Springsteen.",
+          "semantic_score": 0.6406475901603699,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2202",
+          "text": "Francis Ford Coppola\nFrancis Ford Coppola ( ; born April 7, 1939), also credited as Francis Coppola, is a semi-retired American film director, producer, screenwriter and film composer. He was a central figure in the New Hollywood wave of filmmaking.",
+          "semantic_score": 0.4227481186389923,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7479",
+          "text": "Albert Capellani\nAlbert Capellani (23 August 1874 – 26 September 1931) was a French film director and screenwriter of the silent era. He directed films between 1905 and 1922. One of his brother was the actor-sculptor Paul Capellani. and another the film director Roger Capellani.",
+          "semantic_score": 0.39100682735443115,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7483",
+          "text": "Roger Capellani\nRoger Capellani (31 January 1905 – 30 May 1940) was a French film director, the son of film director and screenwriter Albert Capellani and the nephew of the actor Paul Capellani.",
+          "semantic_score": 0.38837864995002747,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7478",
+          "text": "Paul Capellani\nPaul Capellani (September 9, 1877 – November 7, 1960) was a noted French silent film actor. His brother was the director Albert Capellani and his uncle the film director Roger Capellani who died May 1940 at the Battle of Dunkirk.",
+          "semantic_score": 0.3428444266319275,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2205",
+          "text": "Francis Ford Coppola Presents\nFrancis Ford Coppola Presents is a lifestyle brand created by Francis Ford Coppola, under which he markets goods from companies he owns or controls. It includes films and videos, resorts, cafes, a literary magazine and a winery.",
+          "semantic_score": 0.24770981073379517,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2197",
+          "text": "Eleanor Coppola\nEleanor Coppola (born May 4, 1936) is an American documentary filmmaker, artist, and writer. She is married to director Francis Ford Coppola. She is most known for her 1991 documentary film \"\" as well as other documentaries chronicling the films of her husband and children. Coppola currently lives on her family's winery in Napa Valley, California.",
+          "semantic_score": 0.2590397596359253,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "R. G. Springsteen was an American director of Hollywood B movies and television shows, affiliated with the United States."
+    },
+    {
+      "step": 3,
+      "sub_question": "Which of the two is affiliated with more countries as a director?",
+      "retrieved": [
+        {
+          "id": "1728",
+          "text": "R. G. Springsteen\nRobert G. Springsteen (September 8, 1904 – December 9, 1989) was an American director of Hollywood B movies and television shows. He was most often credited on screen as R. G. Springsteen.",
+          "semantic_score": 0.8007374405860901,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3191",
+          "text": "Lewis Allen (director)\nLewis Allen (25 December 1905 – 3 May 2000) was an English director. Allen worked mainly in the United States, working on Broadway and directing 18 feature films between 1944 and 1959. From the mid-1950s he moved increasingly into television and worked on a number of the most popular shows of the time in the US.",
+          "semantic_score": 0.3650916814804077,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3819",
+          "text": "Raz-B\nDe'Mario Monte Thornton (born June 13, 1985), known as Raz-B, is an American, singer and actor. who was a founding member of R&B boy band B2K.",
+          "semantic_score": 0.35601288080215454,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2202",
+          "text": "Francis Ford Coppola\nFrancis Ford Coppola ( ; born April 7, 1939), also credited as Francis Coppola, is a semi-retired American film director, producer, screenwriter and film composer. He was a central figure in the New Hollywood wave of filmmaking.",
+          "semantic_score": 0.3443424701690674,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2543",
+          "text": "Christopher Romero\nChristopher Romero also known as \"Broadway\" is an American 3D animator, music video director, film director and technology entrepreneur from Fort Washington, MD who holds a degree in imaging and digital arts from the University of Maryland. Broadway's first big break came when he produced the animated music video for deceased rapper, Big Pun's \"How We Roll\" single. Broadway went on to become one of the most sought after video directors and creative director at 50 Cent's G Unit.",
+          "semantic_score": 0.3384079337120056,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2205",
+          "text": "Francis Ford Coppola Presents\nFrancis Ford Coppola Presents is a lifestyle brand created by Francis Ford Coppola, under which he markets goods from companies he owns or controls. It includes films and videos, resorts, cafes, a literary magazine and a winery.",
+          "semantic_score": 0.18589389324188232,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2197",
+          "text": "Eleanor Coppola\nEleanor Coppola (born May 4, 1936) is an American documentary filmmaker, artist, and writer. She is married to director Francis Ford Coppola. She is most known for her 1991 documentary film \"\" as well as other documentaries chronicling the films of her husband and children. Coppola currently lives on her family's winery in Napa Valley, California.",
+          "semantic_score": 0.26444581151008606,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2198",
+          "text": "Anton Coppola\nAntonio Coppola (born March 21, 1917) is an American opera conductor and composer. He is the uncle of film director Francis Ford Coppola and actress Talia Shire, as well as the grand-uncle of Nicolas Cage, Sofia Coppola, Gian-Carlo Coppola, Jason Schwartzman and Robert Schwartzman, and is the younger brother of American composer and musician Carmine Coppola.",
+          "semantic_score": 0.17543748021125793,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3821",
+          "text": "B2K\nB2K was an American R&B boy band that was active from 1998 to 2004. In 1998, the group was formed by American record producer Chris Stokes. They released their self-titled debut album on March 12, 2002. The album peaked at #2 on the \"Billboard\" 200 and #1 on the U.S. Hot R&B/Hip-Hop Songs albums chart.",
+          "semantic_score": 0.2667648494243622,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2200",
+          "text": "Gia Coppola\nGian-Carla \"Gia\" Coppola (born January 1, 1987) is an American film director, screenwriter, and actress. She is a granddaughter of Francis Ford Coppola, the daughter of Gian-Carlo Coppola and the niece of Roman Coppola and Sofia Coppola.",
+          "semantic_score": 0.13876326382160187,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Robert Florey"
+    }
+  ],
+  "links": [
+    {
+      "source": "1729",
+      "target": "1728",
+      "reason": "Directly compares the two directors' national affiliations: Florey is French-American (France and US) while Springsteen is American (US only), enabling the conclusion that Florey is affiliated with more countries."
+    }
+  ],
+  "questions_seen": 175,
+  "_id": "5a8765ad5542996e4f3087cf",
+  "correct_answer": "Robert Florey",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

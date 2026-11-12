@@ -1,0 +1,188 @@
+{
+  "question": "When was the king that started coin production in Copenhagen born?",
+  "answer": "2 February 1455",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who was the king that started coin production in Copenhagen?",
+      "retrieved": [
+        {
+          "id": "1209",
+          "text": "Royal Mint (Denmark)\nProduction of coins in Denmark goes about 1000 years back. For the first 500 years it took place at various towns around the country. The first king to start a production of coins in Copenhagen was King Hans. It is believed that it took place in the celler of his house. Owned by Magasin du Nord, the vaulted premises still exist today at Vingårdstræde 6",
+          "semantic_score": 0.770713210105896,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7360",
+          "text": "Albert Heijn (born 1865)\nAlbert Heijn (October 15, 1865, Oostzaan, North Holland – November 13, 1945, Amsterdam) was the original founder of what is now the largest food retailer in the Netherlands. On his wedding day in 1887, he took over the grocery store of his father, Jan Simonsz Heijn, and the supermarket chain founded by his grandson still carries the name Albert Heijn to this day.",
+          "semantic_score": 0.4537288546562195,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "827",
+          "text": "Frederik, Crown Prince of Denmark\nFrederik, Crown Prince of Denmark, Count of Monpezat, {'1': \", '2': \", '3': 'RE, SKmd', '4': \"} (Frederik André Henrik Christian; born 26 May 1968) is the heir apparent to the throne of Denmark. Frederik is the elder son of Queen Margrethe II and Henrik, the Prince Consort.",
+          "semantic_score": 0.45290929079055786,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1215",
+          "text": "John, King of Denmark\nJohn (Danish and Norwegian: \"Hans\" ; Swedish: \"Johan\" ; né \"Johannes\") (2 February 1455 – 20 February 1513) was a Scandinavian monarch under the Kalmar Union. He was King of Denmark (1481–1513), Norway (1483–1513) and as John II (Swedish: \"Johan II\" ) Sweden (1497–1501). From 1482 to 1513, he was concurrently Duke of Schleswig and Holstein in joint rule with his brother Frederick. He currently remains the only King of Denmark since the mid-15th century to not be named Christian or Frederick, if one does not include the current Queen of Denmark, Margrethe II.",
+          "semantic_score": 0.4345894157886505,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7366",
+          "text": "Albert Heijn\nAlbert Heijn B.V. is the largest Dutch supermarket chain, founded in 1887 in Oostzaan, Netherlands. It is named after Albert Heijn, Sr., the founder of the first store in Oostzaan.",
+          "semantic_score": 0.41806620359420776,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "830",
+          "text": "Prince Christian of Denmark\nPrince Christian of Denmark, Count of Monpezat (Christian Valdemar Henri John; born 15 October 2005) is the elder son and eldest child of Crown Prince Frederik and Crown Princess Mary. He is a grandson of Queen Margrethe II and her husband Prince Henrik. He is second in the Danish line of succession, after his father. His sister Isabella is immediately after him in the line of succession.",
+          "semantic_score": 0.4104568362236023,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "826",
+          "text": "Mary, Crown Princess of Denmark\nMary, Crown Princess of Denmark, Countess of Monpezat, {'1': \", '2': \", '3': 'R.E.', '4': \"} (Mary Elizabeth; \"née\" Donaldson; born 5 February 1972) is the wife of Frederik, Crown Prince of Denmark. Frederik is the heir apparent to the throne, which means that should Frederik succeed, she will automatically become Queen of Denmark.",
+          "semantic_score": 0.3981737196445465,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7357",
+          "text": "Albert Heijn (born 1927)\nAlbert Heijn (Zaandam, 25 January 1927 – Hereford, 13 January 2011) was a Dutch entrepreneur, major stock holder and founder and chairman of the board of Ahold.",
+          "semantic_score": 0.3778800070285797,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "King Hans"
+    },
+    {
+      "step": 2,
+      "sub_question": "When was that king born?",
+      "retrieved": [
+        {
+          "id": "1215",
+          "text": "John, King of Denmark\nJohn (Danish and Norwegian: \"Hans\" ; Swedish: \"Johan\" ; né \"Johannes\") (2 February 1455 – 20 February 1513) was a Scandinavian monarch under the Kalmar Union. He was King of Denmark (1481–1513), Norway (1483–1513) and as John II (Swedish: \"Johan II\" ) Sweden (1497–1501). From 1482 to 1513, he was concurrently Duke of Schleswig and Holstein in joint rule with his brother Frederick. He currently remains the only King of Denmark since the mid-15th century to not be named Christian or Frederick, if one does not include the current Queen of Denmark, Margrethe II.",
+          "semantic_score": 0.5195855498313904,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1209",
+          "text": "Royal Mint (Denmark)\nProduction of coins in Denmark goes about 1000 years back. For the first 500 years it took place at various towns around the country. The first king to start a production of coins in Copenhagen was King Hans. It is believed that it took place in the celler of his house. Owned by Magasin du Nord, the vaulted premises still exist today at Vingårdstræde 6",
+          "semantic_score": 0.498057097196579,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "827",
+          "text": "Frederik, Crown Prince of Denmark\nFrederik, Crown Prince of Denmark, Count of Monpezat, {'1': \", '2': \", '3': 'RE, SKmd', '4': \"} (Frederik André Henrik Christian; born 26 May 1968) is the heir apparent to the throne of Denmark. Frederik is the elder son of Queen Margrethe II and Henrik, the Prince Consort.",
+          "semantic_score": 0.4976322054862976,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5623",
+          "text": "Æthelred I of Northumbria\nÆthelred ( ; c. 762  – 18 April 796), was the king of Northumbria from 774 to 779 and again from 790 until he was murdered in 796. He was the son of Æthelwald Moll and Æthelthryth and possibly became king while still a child after Alhred was deposed.",
+          "semantic_score": 0.4669674336910248,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1041",
+          "text": "Charles X Gustav of Sweden\nCharles X Gustav, also Carl Gustav (Swedish: \"Karl X Gustav\" ; 8 November 1622 – 13 February 1660), was King of Sweden from 1654 until his death. He was the son of John Casimir, Count Palatine of Zweibrücken-Kleeburg and Catherine of Sweden. After his father's death he also succeeded him as Pfalzgraf. He was married to Hedwig Eleonora of Holstein-Gottorp, who bore his son and successor, Charles XI. Charles X Gustav was the second Wittelsbach king of Sweden after the childless king Christopher of Bavaria (1441–1448) and he was the first king of the Swedish \"Caroline era\", which had its peak during the end of the reign of his son, Charles XI. He led Sweden during the Second Northern War, enlarging the Swedish Empire. By his predecessor Christina, he was considered \"de facto\" Duke of Eyland (Öland) before ascending to the Swedish throne.",
+          "semantic_score": 0.4626876413822174,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "830",
+          "text": "Prince Christian of Denmark\nPrince Christian of Denmark, Count of Monpezat (Christian Valdemar Henri John; born 15 October 2005) is the elder son and eldest child of Crown Prince Frederik and Crown Princess Mary. He is a grandson of Queen Margrethe II and her husband Prince Henrik. He is second in the Danish line of succession, after his father. His sister Isabella is immediately after him in the line of succession.",
+          "semantic_score": 0.4162631034851074,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "826",
+          "text": "Mary, Crown Princess of Denmark\nMary, Crown Princess of Denmark, Countess of Monpezat, {'1': \", '2': \", '3': 'R.E.', '4': \"} (Mary Elizabeth; \"née\" Donaldson; born 5 February 1972) is the wife of Frederik, Crown Prince of Denmark. Frederik is the heir apparent to the throne, which means that should Frederik succeed, she will automatically become Queen of Denmark.",
+          "semantic_score": 0.43847179412841797,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5627",
+          "text": "Eardwulf of Northumbria\nEardwulf (fl. 790 – c. 830) was king of Northumbria from 796 to 806, when he was deposed and went into exile. He may have had a second reign from 808 until perhaps 811 or 830. Northumbria in the last years of the eighth century was the scene of dynastic strife between several noble families: in 790, the then-king Æthelred I attempted to have Eardwulf assassinated. Eardwulf's survival may have been viewed as a sign of divine favour. A group of nobles conspired to assassinate Æthelred in April 796 and he was succeeded by Osbald: Osbald's reign lasted only twenty-seven days before he was deposed and Eardwulf became king on 14 May 796.",
+          "semantic_score": 0.3444998562335968,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5626",
+          "text": "Ælfwald II of Northumbria\nÆlfwald, according to one tradition, reigned as king of Northumbria following the deposition of Eardwulf in 806. This information appears only in the anonymous tract \"De primo Saxonum adventu\" and in the later \"Flores Historiarum\" of Roger of Wendover. Roger states that Ælfwald had overthrown Eardwulf.",
+          "semantic_score": 0.37777411937713623,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "831",
+          "text": "Princess Isabella of Denmark\nPrincess Isabella of Denmark, Countess of Monpezat (Isabella Henrietta Ingrid Margrethe; born 21 April 2007), is the second child and elder daughter of Crown Prince Frederik and Crown Princess Mary.",
+          "semantic_score": 0.3530549705028534,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "2 February 1455"
+    }
+  ],
+  "links": [
+    {
+      "source": "1209",
+      "target": "1215",
+      "reason": "Paragraph 1209 identifies King Hans as the king who started coin production in Copenhagen; paragraph 1215 identifies John (Hans) as King of Denmark and gives his birth date, bridging the two sub-questions."
+    }
+  ],
+  "questions_seen": 123,
+  "_id": "5a7147fd5542994082a3e758",
+  "correct_answer": "2 February 1455",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

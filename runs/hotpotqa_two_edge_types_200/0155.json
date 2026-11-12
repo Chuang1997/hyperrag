@@ -1,0 +1,261 @@
+{
+  "question": "Ist das Ihr Fahrrad Mr O’Brien? is a German biographical radio play about life, works and legacy of an Irish novelist whose many satrical columns were written under what name?",
+  "answer": "Myles na gCopaleen",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is \"Ist das Ihr Fahrrad Mr O’Brien?\" (e.g., a radio play, book, etc.)?",
+      "retrieved": [
+        {
+          "id": "1538",
+          "text": "Ist das Ihr Fahrrad, Mr. O'Brien?\nIst das Ihr Fahrrad Mr O’Brien? (Is this your bicycle, Mr. O'Brien?) is a German biographical radio play about life, works and legacy of Irish modernist writer Brian O'Nolan (Irish: \"Brian Ó Nualláin\" ; 5 October 1911 – 1 April 1966).",
+          "semantic_score": 0.7361772656440735,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1541",
+          "text": "Brian O'Nolan\nBrian O'Nolan (Irish: \"Brian Ó Nualláin\" ; 5 October 1911 – 1 April 1966) was an Irish novelist, playwright and satirist, considered a major figure in twentieth century Irish literature. Born in Strabane, County Tyrone, he is regarded as a key figure in postmodern literature. His English language novels, such as \"At Swim-Two-Birds\", and \"The Third Policeman\", were written under the \"pen name\" Flann O'Brien. His many satirical columns in \"The Irish Times\" and an Irish language novel \"An Béal Bocht\" were written under the name Myles na gCopaleen.",
+          "semantic_score": 0.3511025309562683,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1183",
+          "text": "The Black Shield of Falworth\nThe Black Shield of Falworth is a 1954 film made by Universal-International, produced by Robert Arthur and Melville Tucker and directed by Rudolph Maté. The screenplay was adapted by Oscar Brodney from Howard Pyle's novel \"Men of Iron\" and starred Tony Curtis as Myles Falworth, Janet Leigh as Lady Anne of Mackworth, David Farrar as the Earl of Alban, Herbert Marshall as the Earl of Mackworth, and Torin Thatcher as Sir James. The original music score was composed by Hans J. Salter.",
+          "semantic_score": 0.32485297322273254,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1468",
+          "text": "Illyria (musical)\nIllyria is a musical with book, music, and lyrics by Pete Mills, based on William Shakespeare's Twelfth Night, written in 2002. Illyria is a traditional adaption of Twelfth Night, but features a more contemporary score.",
+          "semantic_score": 0.3191039264202118,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8907",
+          "text": "Lobachevsky (song)\n\"Lobachevsky\" is a humorous song by Tom Lehrer, referring to the mathematician Nikolai Lobachevsky.",
+          "semantic_score": 0.31830716133117676,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8901",
+          "text": "Lobachevsky Prize\nThe Lobachevsky Prize, awarded by the Russian Academy of Sciences, and the Lobachevsky Medal, awarded by the Kazan State University, are mathematical awards in honor of Nikolai Ivanovich Lobachevsky.",
+          "semantic_score": 0.09459110349416733,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8900",
+          "text": "Nikolai Lobachevsky\nNikolai Ivanovich Lobachevsky (Russian: Никола́й Ива́нович Лобаче́вский ; ] ; 1 December [O.S. 20 November] 1792 – 24 February [O.S. 12 February] 1856 ) was a Russian mathematician and geometer, known primarily for his work on hyperbolic geometry, otherwise known as Lobachevskian geometry.",
+          "semantic_score": 0.12775714695453644,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7454",
+          "text": "Nikolai Sidelnikov\nNikolai Nikolayevich Sidelnikov (Russian: Никола́й Никола́евич Сиде́льников ; June 5, 1930, Tver – June 20, 1992) was a Russian Soviet composer.",
+          "semantic_score": 0.16637462377548218,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "A German biographical radio play"
+    },
+    {
+      "step": 2,
+      "sub_question": "Who is the Irish novelist featured in this radio play?",
+      "retrieved": [
+        {
+          "id": "1538",
+          "text": "Ist das Ihr Fahrrad, Mr. O'Brien?\nIst das Ihr Fahrrad Mr O’Brien? (Is this your bicycle, Mr. O'Brien?) is a German biographical radio play about life, works and legacy of Irish modernist writer Brian O'Nolan (Irish: \"Brian Ó Nualláin\" ; 5 October 1911 – 1 April 1966).",
+          "semantic_score": 0.5380881428718567,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1541",
+          "text": "Brian O'Nolan\nBrian O'Nolan (Irish: \"Brian Ó Nualláin\" ; 5 October 1911 – 1 April 1966) was an Irish novelist, playwright and satirist, considered a major figure in twentieth century Irish literature. Born in Strabane, County Tyrone, he is regarded as a key figure in postmodern literature. His English language novels, such as \"At Swim-Two-Birds\", and \"The Third Policeman\", were written under the \"pen name\" Flann O'Brien. His many satirical columns in \"The Irish Times\" and an Irish language novel \"An Béal Bocht\" were written under the name Myles na gCopaleen.",
+          "semantic_score": 0.469226211309433,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6088",
+          "text": "Oscar Wilde (play)\nThe play Oscar Wilde, written by Leslie and Sewell Stokes, is based on the life of the Irish playwright Oscar Wilde in which Wilde's friend, the controversial author and journalist Frank Harris, appears as a character. The play, which contains much of Wilde's actual writings, starts with Wilde's literary success and his friendship with Lord Alfred Douglas, turns into a courtroom melodrama, and ends with Wilde as a broken alcoholic after two years in prison.",
+          "semantic_score": 0.44454318284988403,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3853",
+          "text": "Victor Beaumont\nAs Peter Wolff, he appeared in a number of German films (\"Revolt in the Reform School, Der brave Suender\" etc.) and at least one play (\"Die erste Mrs Selby\"). After emigrating to the United Kingdom in the 1930s, he appeared in British films and television dramas from the 1940s and Hollywood films from the 1960s. He is perhaps best known for his portrayals of Nazi German characters in films such as \"Where Eagles Dare\" (1968) in which he played Colonel Weissner, \"Carve Her Name with Pride\" (1958), \"The Guns of Navarone\" (1961) and \"The Heroes of Telemark\" (1965).",
+          "semantic_score": 0.4254840016365051,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "572",
+          "text": "Rónán Mac Aodha Bhuí\nRónán Mac Aodha Bhuí is an Irish-language broadcaster known particularly for his popular magazine programme \"Rónán Beo\" on RTÉ Raidió na Gaeltachta. He was born on 6 May 1970 in Cork, but was brought up in Gweedore, in the Donegal gaeltacht, where he attended Bunscoil Bhun Bhig and Pobalscoil Ghaoth Dobhair. He is the youngest son of the author Fionntán Mac Aodha Bhuí and comes from a family of eight.",
+          "semantic_score": 0.4002140164375305,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6095",
+          "text": "Oscar Wilde\nOscar Fingal O'Flahertie Wills Wilde (16 October 185430 November 1900) was a prolific Irish writer who wrote plays, fiction, essays, and poetry. After writing in different forms throughout the 1880s, he became one of London's most popular playwrights in the early 1890s. He is best remembered for his epigrams and plays, the novel \"The Picture of Dorian Gray\", as well as the circumstances of his imprisonment and early death.",
+          "semantic_score": 0.3617810904979706,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6096",
+          "text": "Maxim Mazumdar\nMaxim Mazumdar (27 January 1952 – 28 April 1988) was an Indo-Canadian playwright and director. He is known for his one-man show, \"Oscar Remembered\", which tells the story of the Irish playwright Oscar Wilde as seen from the perspective of his lover and nemesis, Lord Alfred Douglas.",
+          "semantic_score": 0.2995585501194,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6090",
+          "text": "Lord Alfred Douglas\nLord Alfred Bruce Douglas (22 October 187020 March 1945), nicknamed Bosie, was a British author, poet, translator, and political commentator, better known as the friend and lover of Oscar Wilde. Much of his early poetry was Uranian in theme, though he tended, later in life, to distance himself from both Wilde's influence and his own role as a Uranian poet. Politically he would describe himself as \"a strong Conservative of the 'Diehard' variety\".",
+          "semantic_score": 0.27056100964546204,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Brian O'Nolan"
+    },
+    {
+      "step": 3,
+      "sub_question": "Under what name were this novelist’s satirical columns written?",
+      "retrieved": [
+        {
+          "id": "1541",
+          "text": "Brian O'Nolan\nBrian O'Nolan (Irish: \"Brian Ó Nualláin\" ; 5 October 1911 – 1 April 1966) was an Irish novelist, playwright and satirist, considered a major figure in twentieth century Irish literature. Born in Strabane, County Tyrone, he is regarded as a key figure in postmodern literature. His English language novels, such as \"At Swim-Two-Birds\", and \"The Third Policeman\", were written under the \"pen name\" Flann O'Brien. His many satirical columns in \"The Irish Times\" and an Irish language novel \"An Béal Bocht\" were written under the name Myles na gCopaleen.",
+          "semantic_score": 0.6133634448051453,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1538",
+          "text": "Ist das Ihr Fahrrad, Mr. O'Brien?\nIst das Ihr Fahrrad Mr O’Brien? (Is this your bicycle, Mr. O'Brien?) is a German biographical radio play about life, works and legacy of Irish modernist writer Brian O'Nolan (Irish: \"Brian Ó Nualláin\" ; 5 October 1911 – 1 April 1966).",
+          "semantic_score": 0.5015955567359924,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1274",
+          "text": "Bret Easton Ellis\nBret Easton Ellis (born March 7, 1964) is an American author, screenwriter, and short story writer. His works have been translated into 27 languages. He was at first regarded as one of the so-called literary Brat Pack, which also included Tama Janowitz and Jay McInerney. He is a self-proclaimed satirist, whose trademark technique, as a writer, is the expression of extreme acts and opinions in an affectless style. Ellis employs a technique of linking novels with common, recurring characters.",
+          "semantic_score": 0.44575053453445435,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5372",
+          "text": "Jack Fincher (screenwriter)\nHoward Kelly \"Jack\" Fincher (December 6, 1930 — April 10, 2003) was a screenwriter and journalist who has written for various magazines and periodicals, notably serving as a chief editor of \"Life\" magazine. He is also the husband of Claire Mae (née Boettcher), a mental health nurse from South Dakota who worked in drug addiction programs and the father of acclaimed film director David Fincher. Fincher once wrote a Howard Hughes biopic before it was decided to go with John Logan's script for \"The Aviator\" instead. He also wrote The Brain Mystery of Matter and Mind (The Human Body) (Torstar Books Inc.) It is believed that Jack Fincher is the name he used for his books and that Howard Kelly Fincher is the name he was given.",
+          "semantic_score": 0.4290056526660919,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2420",
+          "text": "Finnegans Wake\nFinnegans Wake is a work of avant-garde comic fiction by Irish writer James Joyce. It is significant for its experimental style and reputation as one of the most difficult works of fiction in the English language. Written in Paris over a period of seventeen years and published in 1939, two years before the author's death, \"Finnegans Wake\" was Joyce's final work. The entire book is written in a largely idiosyncratic language, which blends standard English lexical items and neologistic multilingual puns and portmanteau words to unique effect. Many critics believe the technique was Joyce's attempt to recreate the experience of sleep and dreams. Owing to the work's expansive linguistic experiments, stream of consciousness writing style, literary allusions, free dream associations, and abandonment of narrative conventions, \"Finnegans Wake\" remains largely unread by the general public.",
+          "semantic_score": 0.4060831367969513,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2423",
+          "text": "Waywords and Meansigns\nWaywords and Meansigns: Recreating Finnegans Wake [in its whole wholume] is an international project setting James Joyce's novel \"Finnegans Wake\" to music. Waywords and Meansigns has released two editions of audio, each offering an unabridged musical adaptation of Joyce's book. A third edition, featuring over 100 artists and performing much shorter passages of the book, debuted May 4, 2017.",
+          "semantic_score": 0.27519041299819946,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2427",
+          "text": "Finn's Hotel\nFinn's Hotel is a posthumously-published collection of ten short narrative pieces written by Irish author James Joyce. Written in 1923, the works were not published until 2013 by Ithys Press, who claimed the work to be a precursor to Joyce's \"Finnegans Wake\".",
+          "semantic_score": 0.32788795232772827,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2428",
+          "text": "William York Tindall\nWilliam York Tindall (1903–1981) was an American James Joyce scholar with a long and distinguished teaching career at Columbia University. Several of Tindall's classic works of criticism, including \"A Reader's Guide to James Joyce\" and \"A Reader's Guide to Finnegans Wake\" are still in print. He wrote a total of thirteen books on UK and Irish authors including Joyce, Dylan Thomas, William Butler Yeats, and Samuel Beckett.",
+          "semantic_score": 0.34894153475761414,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2419",
+          "text": "James Joyce\nJames Augustine Aloysius Joyce (2 February 1882 – 13 January 1941) was an Irish novelist, short story writer, and poet. He contributed to the modernist avant-garde and is regarded as one of the most influential and important authors of the 20th century. Joyce is best known for \"Ulysses\" (1922), a landmark work in which the episodes of Homer's \"Odyssey\" are paralleled in a variety of literary styles, perhaps most prominently stream of consciousness. Other well-known works are the short-story collection \"Dubliners\" (1914), and the novels \"A Portrait of the Artist as a Young Man\" (1916) and \"Finnegans Wake\" (1939). His other writings include three books of poetry, a play, his published letters and occasional journalism.",
+          "semantic_score": 0.34189075231552124,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2425",
+          "text": "A Skeleton Key to Finnegans Wake\nA Skeleton Key to Finnegans Wake is a 1944 work of literary criticism by mythologist Joseph Campbell and Henry Morton Robinson. The first major text to provide an in-depth analysis of \"Finnegans Wake\" (James Joyce's final novel), \"A Skeleton Key to Finnegans Wake\" is considered by many scholars to be a seminal work on the text. The term \"monomyth\", which Campbell used to describe his journey of the hero in his book, \"The Hero with a Thousand Faces\", came from \"Finnegans Wake.\"",
+          "semantic_score": 0.3377092778682709,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Myles na gCopaleen"
+    }
+  ],
+  "links": [
+    {
+      "source": "1538",
+      "target": "1541",
+      "reason": "1538 identifies the radio play's subject as Brian O'Nolan; 1541 supplies the biographical detail that his satirical columns were written under the name Myles na gCopaleen, bridging the play to the answer."
+    }
+  ],
+  "questions_seen": 156,
+  "_id": "5abdc8e755429965af743e3f",
+  "correct_answer": "Myles na gCopaleen",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

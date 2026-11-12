@@ -1,0 +1,254 @@
+{
+  "question": "The View from the Bottom is the fifth studio album by an American rock band best known for what hit song?",
+  "answer": "My Own Worst Enemy",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is \"The View from the Bottom\" (e.g., album, artist)?",
+      "retrieved": [
+        {
+          "id": "225",
+          "text": "The View from the Bottom\nThe View from the Bottom is the fifth studio album by the American rock band Lit, released on June 19, 2012 through Megaforce Records. It is the band's first new album in eight years, since the release of their self-titled album in 2004. It also marks the first album with Nathan Walker on drums, succeeding the late Allen Shellenberger, who died in 2009, and rhythm guitarist Ryan Gillmor, making it the only time the band has recorded as a five-piece.",
+          "semantic_score": 0.6106195449829102,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7362",
+          "text": "Bottom Dollar Food\nBottom Dollar Food was an American soft-discount grocery chain. It was a subsidiary of Delhaize America, the U.S. division of international food retailer Delhaize Group. Its headquarters was in Salisbury, North Carolina.",
+          "semantic_score": 0.35887232422828674,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3",
+          "text": "The Awakening (P.O.D. album)\nDoug Van Pelt, giving the album four stars for \"HM Magazine\", writes, \"When looking back at P.O.D.’s amazing career, there’s probably going to be some landmark albums that stand out in most fan’s minds... This one is not far behind.\" Awarding the album four out of five stars from \"CCM Magazine\", Matt Conner states, they will \"remain at the top\", with Howard Benson's production, where it has the theme of a \"central character coming to terms with his own mistakes...[giving the album] meaningful depth.\" Mary Nikkel, rating the album four and a half stars at New Release Today, says, \"\"The Awakening\" easily one of the strongest rock releases of the year, a must-have for longtime fans and newcomers thirsty for some heavy music with substance.\" Indicating in a ten out of ten review at Cross Rhythms, replies, \"An album likely to be eventually acknowledged as P.O.D.'s finest ever release.\" Chad Bowar, rating the album three stars from About.com, says, \"P.O.D. fans will be intrigued by the wide variety of styles and the memorable songs on \"The Awakening\".\"",
+          "semantic_score": 0.34290027618408203,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7511",
+          "text": "Given to the Rising\nGiven to the Rising is the ninth studio album from the Oakland, California band Neurosis, released on June 5, 2007. The album is available in a standard jewel case, a limited-edition digipak, and a limited-edition double LP, all with the same track list. \"Decibel Magazine\" listed \"Given to the Rising\" as the 76th best metal album of the decade. A DVD documentary is also available from Neurot Records. The artwork for the album, designed by Josh Graham, is a mixture of photos from Heroes Square in Budapest and drawings inspired by the place. Coincidentally, singer/guitarist Steve Von Till and Josh Graham had separately thought of the idea of using Heroes Square as the artwork for the album.",
+          "semantic_score": 0.32377320528030396,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7750",
+          "text": "Masters of the Dark Arts\nMasters of the Dark Arts is the second studio album by La Coka Nostra released on July 31, 2012. The album features guests including Vinnie Paz, Sean Price, Thirstin Howl III, Sick Jacken and Big Left.",
+          "semantic_score": 0.32296034693717957,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "224",
+          "text": "Lit (band)\nLit is an American rock band, formed in 1995 in Fullerton, California. They are best known for their hit song \"My Own Worst Enemy\".",
+          "semantic_score": 0.2153550535440445,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7361",
+          "text": "Delhaize Group\nDelhaize Le Lion / De Leeuw (] ) was a food retailer headquartered in Sint-Jans-Molenbeek, Brussels, Belgium, and operating in seven countries and on three continents. The principal activity of Delhaize Group is the operation of food supermarkets. On June 24, 2015, Delhaize reached an agreement with Ahold to merge and form a new parent company headquartered in the Netherlands: Ahold Delhaize.",
+          "semantic_score": 0.0978640466928482,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8769",
+          "text": "Toppers Pizza (American restaurant)\nToppers Pizza is a chain of pizzerias in the United States. The chain was founded by Scott Gittrich in 1991 in Champaign, Illinois, but the original location closed in the mid-1990s. The first Toppers Pizza location in Wisconsin opened in Whitewater in 1993. The company is headquartered in Whitewater, Wisconsin. The first official franchise store opened in Eau Claire, WI in 1997.",
+          "semantic_score": 0.12408751249313354,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1674",
+          "text": "P.O.D.\nPayable on Death (abbreviated P.O.D.) is a Christian nu metal band formed in 1992 and based in San Diego, California. The band's line-up consists of vocalist Sonny Sandoval, drummer Wuv Bernardo, guitarist Marcos Curiel, and bassist Traa Daniels. They have sold over 12 million records worldwide. Over the course of their career, the band has received three Grammy Award nominations, contributed to numerous motion picture soundtracks and toured internationally. With their third studio album, \"The Fundamental Elements of Southtown\", they achieved their initial mainstream success; the album was certified platinum by the RIAA in 2000. Their following studio album, \"Satellite\", continued the band's success with the singles, \"Alive\" and \"Youth of the Nation\", pushing it to go triple platinum.",
+          "semantic_score": 0.1489831805229187,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Album by Lit"
+    },
+    {
+      "step": 2,
+      "sub_question": "Which American rock band released \"The View from the Bottom\" as their fifth studio album?",
+      "retrieved": [
+        {
+          "id": "225",
+          "text": "The View from the Bottom\nThe View from the Bottom is the fifth studio album by the American rock band Lit, released on June 19, 2012 through Megaforce Records. It is the band's first new album in eight years, since the release of their self-titled album in 2004. It also marks the first album with Nathan Walker on drums, succeeding the late Allen Shellenberger, who died in 2009, and rhythm guitarist Ryan Gillmor, making it the only time the band has recorded as a five-piece.",
+          "semantic_score": 0.8531588912010193,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4495",
+          "text": "Midnight to Midnight\nMidnight to Midnight is the fifth studio album by the English rock band The Psychedelic Furs. It was originally released in early 1987, on the label Columbia. Richard Butler later claimed that the success of \"Pretty in Pink\" caused the band to be pressured into entering the recording studio to record a follow-up release before they were ready. The result was \"Midnight to Midnight\", their greatest commercial success, yet an album Richard Butler later characterized as \"hollow, vapid and weak\". A more overtly commercial effort than the Furs had ever recorded before, the album also featured the single \"Heartbreak Beat\", which proved to be the Furs' biggest Top 40 entry in the US at that time. The album also featured drummer Paul Garisto and saxophonist Mars Williams, both of whom continue to tour with the band.",
+          "semantic_score": 0.4917430877685547,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "224",
+          "text": "Lit (band)\nLit is an American rock band, formed in 1995 in Fullerton, California. They are best known for their hit song \"My Own Worst Enemy\".",
+          "semantic_score": 0.48562949895858765,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1164",
+          "text": "List of R5 concert tours\nAmerican pop rock band R5 has embarked on five concert tours, two of which have been worldwide, and two promotional tours. In March 2010, they self-released an EP, \"Ready Set Rock\", and in September released their debut studio album with Hollywood Records. The second EP, \"Loud\", was released on February 19, 2013, which featured the lead single and title track \"Loud\", the debut single from upcoming album. The band's first full-length album, \"Louder\", was released on September 24, 2013 and the album not only includes the four songs from \"Loud\" and also seven new songs. The second single from the album, \"Pass Me By\", premiered on Radio Disney on August 16. The music video premiered on 29 August on Disney Channel and is available for public viewing on the band's Vevo channel. The third single, \"(I Can't) Forget About You\", was released on December 25, 2013 and reached number 47 on \"Billboard\" Digital Pop Songs, and the fourth single \"One Last Dance\" on May 29, 2014.",
+          "semantic_score": 0.47104114294052124,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5818",
+          "text": "The Darkness (band)\nThe Darkness are an English rock band from Lowestoft, Suffolk, formed in 2000. The band consists of Justin Hawkins (lead vocals, guitar), his brother Dan Hawkins (guitar, backing vocals), Frankie Poullain (bass, backing vocals) and Rufus Tiger Taylor (drums).",
+          "semantic_score": 0.4685570001602173,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5566",
+          "text": "Midnight Oil (album)\nMidnight Oil is the debut album by Australian hard rock band Midnight Oil which was recorded in 1977 and released in November 1978 on the band's independent Powderworks label. It reached the top 50 on the Australian Kent Music Report Albums Chart. The album was later distributed by CBS Records and issued as a CD. The LP has a blue cover, however, the CD has a black cover. Because of the blue cover, the former version is often referred to, by fans, as the \"blue album\" or \"the Blue Meanie\". The lead single, \"Run By Night\", became the band's first minor hit in Australia and appeared on the Kent Music Report Singles Chart Top 100. It also had a video clip.",
+          "semantic_score": 0.4557441771030426,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3370",
+          "text": "Midnight Madness and Beyond\nMidnight Madness and Beyond is the third album by UK82 Hardcore punk band GBH from Birmingham UK. It was released in August 1986 on the Rough Justice label (the band's first release for their new label, following the departure from Clay Records) with catalogue number Just 2. Recorded once again at Strawberry Studios in Stockport UK. It was later Re-released with additional tracks (the \"Oh No It's GBH Again\" EP)in 2002 by leading Punk reissue label Captain Oi! (Ahoy CD 193)",
+          "semantic_score": 0.3939695358276367,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2937",
+          "text": "Darkthrone\nDarkthrone is a Norwegian heavy metal band. It formed in 1986 as a death metal band under the name Black Death. In 1991, the band embraced a black metal style influenced by Bathory and Celtic Frost and became one of the leading bands in the Norwegian black metal scene. Their first three black metal albums—\"A Blaze in the Northern Sky\", \"Under a Funeral Moon\" and \"Transilvanian Hunger\" (sometimes dubbed the \"Unholy Trinity\") — are considered the peak of the band's career and to be among the most influential albums in the genre. For most of this time, Darkthrone has been a duo of Nocturno Culto and Fenriz, who have sought to remain outside the music mainstream. Since 2006, their work has strayed from the traditional black metal style and incorporated more elements of traditional heavy metal, speed metal and punk rock, being likened to Motörhead.",
+          "semantic_score": 0.39370569586753845,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Lit"
+    },
+    {
+      "step": 3,
+      "sub_question": "What hit song is that band best known for?",
+      "retrieved": [
+        {
+          "id": "224",
+          "text": "Lit (band)\nLit is an American rock band, formed in 1995 in Fullerton, California. They are best known for their hit song \"My Own Worst Enemy\".",
+          "semantic_score": 0.6452954411506653,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1670",
+          "text": "List of songs recorded by Tool\nTool is an American progressive metal band from Los Angeles, California. Formed in 1990, the band originally featured vocalist Maynard James Keenan, guitarist Adam Jones, bassist Paul D'Amour and drummer Danny Carey, although D'Amour was replaced by Justin Chancellor in 1995. The group released its first demo \"72826\" in 1991, which credited all four band members for songwriting. \"Opiate\" was issued the following year, which featured re-recorded versions of \"72826\" tracks \"Cold and Ugly\", \"Hush\" and \"Part of Me\", as well as a live version of \"Jerk-Off\". The band released its debut full-length album \"Undertow\" in 1993, which once again credited all four band members for songwriting. The album also featured a contribution by former Black Flag and then-Rollins Band frontman Henry Rollins, who performed additional vocals on \"Bottom\".",
+          "semantic_score": 0.501681923866272,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8021",
+          "text": "Sleeping with the Light On\n\"Sleeping with the Light On\" is a song by English pop rock band Busted. It was the first song which band members James Bourne and Matt Willis wrote together. It was recorded in 2002 for their debut album \"Busted\", and later released on 11 August 2003 as the album's fourth British single. It reached number three on the UK Singles Chart. In 2014, McBusted performed this song in an acoustic live session.",
+          "semantic_score": 0.47950607538223267,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2937",
+          "text": "Darkthrone\nDarkthrone is a Norwegian heavy metal band. It formed in 1986 as a death metal band under the name Black Death. In 1991, the band embraced a black metal style influenced by Bathory and Celtic Frost and became one of the leading bands in the Norwegian black metal scene. Their first three black metal albums—\"A Blaze in the Northern Sky\", \"Under a Funeral Moon\" and \"Transilvanian Hunger\" (sometimes dubbed the \"Unholy Trinity\") — are considered the peak of the band's career and to be among the most influential albums in the genre. For most of this time, Darkthrone has been a duo of Nocturno Culto and Fenriz, who have sought to remain outside the music mainstream. Since 2006, their work has strayed from the traditional black metal style and incorporated more elements of traditional heavy metal, speed metal and punk rock, being likened to Motörhead.",
+          "semantic_score": 0.4619345963001251,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "225",
+          "text": "The View from the Bottom\nThe View from the Bottom is the fifth studio album by the American rock band Lit, released on June 19, 2012 through Megaforce Records. It is the band's first new album in eight years, since the release of their self-titled album in 2004. It also marks the first album with Nathan Walker on drums, succeeding the late Allen Shellenberger, who died in 2009, and rhythm guitarist Ryan Gillmor, making it the only time the band has recorded as a five-piece.",
+          "semantic_score": 0.4590562880039215,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9262",
+          "text": "Tool (band)\nTool is an American rock band from Los Angeles, California. Formed in 1990, the group's line-up includes drummer Danny Carey, guitarist Adam Jones, and vocalist Maynard James Keenan. Justin Chancellor has been the band's bassist since 1995, replacing their original bassist Paul D'Amour. Tool has won three Grammy Awards, performed worldwide tours, and produced albums topping the charts in several countries.",
+          "semantic_score": 0.34239712357521057,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2931",
+          "text": "Hate Them\nHate Them is the ninth album by Norwegian black metal band, Darkthrone. It was released by Moonfog Productions in 2003. Like their subsequent release, \"Sardonic Wrath\", the album had an electronic intro and outro created by Lars Sørensen (aka LRZ) from Red Harvest. The cover image was the work of Eric Syre from Thesyre, and incorporated images of the Sagrada Família Catholic church in Barcelona. In 2012, the album was reissued by Peaceville Records, including a bonus CD with audio commentary by the band.",
+          "semantic_score": 0.3184158205986023,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5818",
+          "text": "The Darkness (band)\nThe Darkness are an English rock band from Lowestoft, Suffolk, formed in 2000. The band consists of Justin Hawkins (lead vocals, guitar), his brother Dan Hawkins (guitar, backing vocals), Frankie Poullain (bass, backing vocals) and Rufus Tiger Taylor (drums).",
+          "semantic_score": 0.40947455167770386,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "My Own Worst Enemy"
+    }
+  ],
+  "links": [
+    {
+      "source": "225",
+      "target": "224",
+      "reason": "Paragraph 225 identifies Lit as the band behind The View from the Bottom; paragraph 224 identifies Lit as best known for the hit song 'My Own Worst Enemy', directly bridging the album to the hit song answer."
+    }
+  ],
+  "questions_seen": 24,
+  "_id": "5ab8829d55429934fafe6e08",
+  "correct_answer": "My Own Worst Enemy",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

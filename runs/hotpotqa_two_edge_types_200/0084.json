@@ -1,0 +1,261 @@
+{
+  "question": "What park replaced American's first waterpark designed by the creator of seaworld?",
+  "answer": "Universal's Volcano Bay",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who created SeaWorld?",
+      "retrieved": [
+        {
+          "id": "839",
+          "text": "SeaWorld Ohio\nSeaWorld Ohio was a park in the SeaWorld chain of marine animal theme parks. The park opened in 1970 directly across the lake and less than one mile from Geauga Lake Park in Aurora, Ohio, United States. The small lake separated the two parks. Wildwater Kingdom, a small waterpark built by Cedar Fair in 2005, occupied the property until it closed in 2016.",
+          "semantic_score": 0.5387381911277771,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "834",
+          "text": "Wet 'n Wild Orlando\nWet 'n Wild Orlando was the flagship water park of Wet 'n Wild owned by NBC Universal, located on International Drive in Orlando, Florida. It was founded in 1977 by SeaWorld creator George Millay and is considered America's first water park. It closed on December 31, 2016, to be replaced by another water park named Universal's Volcano Bay.",
+          "semantic_score": 0.4140041172504425,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6515",
+          "text": "Creature from the Haunted Sea\nCreature from the Haunted Sea is a 1961 horror comedy film directed by Roger Corman. Written by Charles B. Griffith, the film is a parody of spy, gangster, and monster movies (mostly \"Creature from the Black Lagoon\"), concerning a secret agent, XK150 (played by Robert Towne under the pseudonym \"Edward Wain\"), who goes under the code name \"Sparks Moran\" in order to infiltrate a criminal gang led by Renzo Capetto (Antony Carbone), who is trying to transport a colonel, a group of exiled Cuban nationals, and a large portion of the Cuban treasury out of the country.",
+          "semantic_score": 0.40468400716781616,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8420",
+          "text": "SeaQuest DSV\nSeaQuest DSV (stylized as seaQuest DSV and also promoted as simply seaQuest) is an American science fiction television series created by Rockne S. O'Bannon. It originally aired on NBC between 1993 and 1996. In its final season, it was renamed seaQuest 2032. Set in \"the near future\"—originally the year 2018 in the first season—\"seaQuest DSV\" originally mixed high drama with realistic scientific fiction. It originally starred film star Roy Scheider as Captain Nathan Bridger, designer and commander of the eponymous naval submarine \"seaQuest\" DSV 4600. Jonathan Brandis also starred as Lucas Wolenczak, a teenaged computer genius placed aboard \"seaQuest\" by his father and Stephanie Beacham as Kristin Westphalen, the chief medical officer and head of the \"seaQuest\" science department. In the third season, Michael Ironside replaced Scheider as lead of the series and starred as Captain Oliver Hudson. Also present was a dolphin character called Darwin who, due to technological advances, was able to communicate with the crew. Steven Spielberg expressed interest in the project and served as one of the show's executive producers during the first two seasons.",
+          "semantic_score": 0.3736446797847748,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6117",
+          "text": "Seven Seas Lagoon\nThe Seven Seas Lagoon is a man-made lake at the Walt Disney World Resort in Bay Lake, Florida, near Orlando. Located south of the Magic Kingdom theme park, the Seven Seas Lagoon serves as a natural buffer between the Magic Kingdom and its parking lot and connects with the adjacent Bay Lake. The lake reaches a depth of 14 feet. The lagoon is used mainly for recreational boating, as well as by the resort's three Disney Transport ferryboats that transport guests between the Magic Kingdom and the Transportation and Ticket Center.",
+          "semantic_score": 0.36832669377326965,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6122",
+          "text": "Magic Kingdom Resort Area\nThe Magic Kingdom Resort Area includes five resorts located along the shores of the Seven Seas Lagoon and Bay Lake, near the Magic Kingdom at the Walt Disney World Resort. The area began with the opening of Disney's Contemporary Resort, Disney's Polynesian Resort and Disney's Fort Wilderness Resort & Campground. The Walt Disney World Monorail System connects Disney's Contemporary Resort, Disney's Polynesian Village Resort and Disney's Grand Floridian Resort & Spa to the Transportation and Ticket Center and the Magic Kingdom.",
+          "semantic_score": 0.2653847634792328,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "842",
+          "text": "Volcano Bay\nUniversal's Volcano Bay Water Theme Park, or Volcano Bay, is a themed water park at Universal Orlando Resort in Orlando, Florida. Owned and operated by Universal Parks and Resorts, Volcano Bay replaced Wet 'n Wild as Universal Orlando Resort's water park, and it was the first constructed by Universal itself. The park, themed around a 200 ft volcano named \"Krakatau,\" opened on May 25, 2017.",
+          "semantic_score": 0.2972715198993683,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6121",
+          "text": "Magic Kingdom\nMagic Kingdom is a theme park at the Walt Disney World Resort in Bay Lake, Florida, near Orlando. Owned and operated by The Walt Disney Company through its Parks and Resorts division, the park opened on October 1, 1971, as the first of four theme parks at the resort. Initialized by Walt Disney and designed by WED Enterprises, its layout and attractions are based on Disneyland Park in Anaheim, California, and is dedicated to fairy tales and Disney characters.",
+          "semantic_score": 0.24058596789836884,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6518",
+          "text": "Creature from the Black Lagoon\nCreature from the Black Lagoon is a 1954 American black-and-white 3D monster horror film from Universal-International, produced by William Alland, directed by Jack Arnold, that stars Richard Carlson, Julia Adams, Richard Denning, Antonio Moreno, and Whit Bissell. The Creature was played by Ben Chapman on land and by Ricou Browning underwater. The film premiered in Detroit on February 12 and was released on a regional basis, opening on various dates.",
+          "semantic_score": 0.30756527185440063,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3318",
+          "text": "Walt Disney World Company\nWalt Disney World Company was created in 1967 as the company that initially owned and operated Walt Disney World near Orlando, Florida. The resort opened in 1971 and the land was owned by Walt Disney World Company, Walt Disney Travel Company, and Walt Disney World Hospitality and Recreation Corporation. In 2009 the name was changed to Walt Disney Parks and Resorts division of The Walt Disney Company.",
+          "semantic_score": 0.2946818768978119,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "George Millay"
+    },
+    {
+      "step": 2,
+      "sub_question": "What was America's first waterpark designed by that creator?",
+      "retrieved": [
+        {
+          "id": "834",
+          "text": "Wet 'n Wild Orlando\nWet 'n Wild Orlando was the flagship water park of Wet 'n Wild owned by NBC Universal, located on International Drive in Orlando, Florida. It was founded in 1977 by SeaWorld creator George Millay and is considered America's first water park. It closed on December 31, 2016, to be replaced by another water park named Universal's Volcano Bay.",
+          "semantic_score": 0.4659534990787506,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "33",
+          "text": "English Landing Park\nEnglish Landing Park is located along the Missouri river in Parkville, Missouri, United States. The area the park now sits were once just low water areas of the Missouri River. It includes a 3-mile jogging/biking trail that follows the river's edge, several shelters for picnics, a soccer field, a baseball diamond, volleyball courts, 2 playgrounds (one for small kids and one for bigger kids). Recently, a small 9-hole Frisbee golf course has been added around the jogging/biking trail. There is also a busy set of train tracks that runs along the length of the park. The area of present-day English Landing Park was bought from the English Brothers by Colonel George S. Park in 1838, who was a veteran of the Texas war of independence. He purchased a riverboat landing from them as well, and that riverboat landing as well as the present-day park became a civil war port of call for slave trade. The Power Plant Restaurant, which sits right next to the rail road tracks at the entrance to the park, was built in the mid-19th century as a coal-fired twin-boiler power plant that fed the entire city. The city itself was founded by Colonel Park in 1844 and by 1850 he had built warehouses and a large stone hotel. In 1853 he established one of Platte County's earliest newspapers, The Industrial Luminary. Parkville itself did not become a Civil War battlefield, but there was still mass genocide as numerous slaves tried desperately to escape across the river into Kansas for freedom. These slaves were buried in three large but unmarked cemeteries in the present-day Misty Woods subdivision. After the Civil War, the port and the riverboat landing were all but abandoned and the area slowly changed from a bustling port city to what is present-day Parkville.",
+          "semantic_score": 0.4465722143650055,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3837",
+          "text": "Stanley Hart White\nStanley Hart White was a professor of Landscape Architecture at the University of Illinois from 1922 until 1959 and the inventor of the green wall. White called his invention \"Botanical Bricks\" and developed prototypes in his backyard in Urbana, Illinois. Stanley's brother E.B. White documents the invention in his 1937 letter to Katherine S. White: “I guess everyone has crazy brothers and sisters. I know I have. Stan, by the way, has taken out a patent on an invention of his called ‘Botanical Bricks,’ which are simply plant units capable of being built up to any height, for quick landscape effects, the vertical surfaces covered with flowering vines, or the like. He thinks that the idea has great possibilities for such things as world fairs, city yards, indoor gardens, and many other projects. I think perhaps he has got hold of something, and have written him for more information. He certainly deserves a break.” Stanley refined the vertical garden typology with his patent for the \"vegetation-Bearing Architectonic Structure and System (1938)\" in which he outlines the scope for a new field of vegetation-bearing architecture. The impact of this invention has still unrealized provocations on this history of gardens and designed landscapes, establishing precedent for verdant modernism in the prewar Middle West. The wall was reconstructed in 2012-13 as part of a Graham Foundation Research Award. Stanley Hart White is also known for his innovative teaching style and his influence on the work of Richard Haag, Hideo Sasaki, Peter Walker, Stu Dawson, Philip H. Lewis Jr., and numerous others Stanley Hart White married Blanche Bigney; they had one daughter, Janice Hart White, an accomplished artist. As E. B. White's niece, Janice was an inspiration for the title character in Stuart Little, Harper and Brothers, 1945.",
+          "semantic_score": 0.42142531275749207,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2375",
+          "text": "Lake Compounce\nLake Compounce is an amusement park located in Bristol and Southington, Connecticut; the lake itself lies completely in Southington. Opened in 1846, it is the oldest continuously-operating amusement park in the United States. The amusement park covers 332 acres (1.3 km²) of land, and also has a beach and a waterpark which can be used by guests for no extra charge. The park was acquired from Kennywood Entertainment Company by Palace Entertainment, the U.S. subsidiary of Parques Reunidos. In addition to the title for oldest consecutively run amusement park in the United States, it also has 14th oldest wooden roller coaster in the world, Wildcat. Its other, newer wooden roller coaster, Boulder Dash, has won the Golden Ticket Award for the #1 Wooden Coaster in the World for 5 years, and held that record from 2013 to 2016.",
+          "semantic_score": 0.416544109582901,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7737",
+          "text": "Anton Schwarzkopf\nAnton Schwarzkopf (8 July 1924 – 30 July 2001) was a German engineer of amusement rides, and founder of the Schwarzkopf Industries Company, which built numerous amusement rides and large roller coasters for both amusement parks and traveling funfairs.",
+          "semantic_score": 0.40196603536605835,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "842",
+          "text": "Volcano Bay\nUniversal's Volcano Bay Water Theme Park, or Volcano Bay, is a themed water park at Universal Orlando Resort in Orlando, Florida. Owned and operated by Universal Parks and Resorts, Volcano Bay replaced Wet 'n Wild as Universal Orlando Resort's water park, and it was the first constructed by Universal itself. The park, themed around a 200 ft volcano named \"Krakatau,\" opened on May 25, 2017.",
+          "semantic_score": 0.3083706796169281,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2377",
+          "text": "LeSourdsville Lake Amusement Park\nLeSourdsville Lake Amusement Park was an amusement park located in Middletown, Ohio. Opening in 1922 as a family picnic and campground, LeSourdsville Lake transformed in the 1940s to an amusement park with rides, attractions, and an arcade. In 1977, the name was changed to Americana Amusement Park. Following an electrical fire in 1990 that caused over $5 million in damages, the park fell into decline and was eventually closed in 1999. Under new ownership, the park briefly opened again in 2002 returning to the name \"LeSourdsville Lake Amusement Park\", but after failed attempts to turn a profit and the operating company going bankrupt, it closed permanently near the end of the 2002 season. The park's remaining rides and attractions were either demolished or sold, or still sit today.",
+          "semantic_score": 0.34986642003059387,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3318",
+          "text": "Walt Disney World Company\nWalt Disney World Company was created in 1967 as the company that initially owned and operated Walt Disney World near Orlando, Florida. The resort opened in 1971 and the land was owned by Walt Disney World Company, Walt Disney Travel Company, and Walt Disney World Hospitality and Recreation Corporation. In 2009 the name was changed to Walt Disney Parks and Resorts division of The Walt Disney Company.",
+          "semantic_score": 0.3048253059387207,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9293",
+          "text": "Possessed (roller coaster)\nPossessed is a launched steel Inverted roller coaster located at Dorney Park & Wildwater Kingdom in Allentown, Pennsylvania. It was located at Geauga Lake from 2000 to 2006. The coaster has had four names: \"Superman: Ultimate Escape\" (2000 to 2003) \"Steel Venom\" (2004 to 2006), \"Voodoo\" (2008), and \"Possessed\" (2009 to present). Possessed is nearly identical to Steel Venom at Valleyfair, and similar to at Six Flags Great America.",
+          "semantic_score": 0.2905551791191101,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2376",
+          "text": "Wonderland City\nWonderland City was an amusement park located at Tamarama, on Wonderland Avenue near the point at which it joins Fletcher Street, in Sydney, Australia. It opened on Saturday, 1 December 1906 and closed in 1911. At the time it was the largest open air amusement park in the southern hemisphere. The 20 acre amusement park was operated by theatrical entrepreneur William Anderson. During its operation the colossal playground had a balloon could go up to about 3,800 feet (1158.24 meters) high. An enormous switchback railway and around the clifftop, a steam-driven miniature railway operated over about two miles (3.218688 km) of track. A large wooden bridge build over an artificial lake, the Alpine Slide would take you to \"Rivers of the World\", Seal Pond. An open air Roller Skating Ring, American Shooting Gallery. It was operated by electric light powered by its own steam plant, and the whole area was covered with thousands of gaily coloured lamps and described as a Fairy City. The first Surf \"Gymkhana\" Carnivals was held at Wonderland City (Tamarama Beach) organised by Bondi SBLSC on Saturday 11 February 1908. was dogged by controversy for its attempts using high barbed-wire fence blocked access completely to local swimmers from Tamarama Beach. Before being occupied by the amusement park, Tamarama Park was the site of The Royal Aquarium and Pleasure Grounds, commonly called the Bondi Aquarium.",
+          "semantic_score": 0.36196818947792053,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Wet 'n Wild Orlando"
+    },
+    {
+      "step": 3,
+      "sub_question": "What park replaced that waterpark?",
+      "retrieved": [
+        {
+          "id": "834",
+          "text": "Wet 'n Wild Orlando\nWet 'n Wild Orlando was the flagship water park of Wet 'n Wild owned by NBC Universal, located on International Drive in Orlando, Florida. It was founded in 1977 by SeaWorld creator George Millay and is considered America's first water park. It closed on December 31, 2016, to be replaced by another water park named Universal's Volcano Bay.",
+          "semantic_score": 0.7862048149108887,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "842",
+          "text": "Volcano Bay\nUniversal's Volcano Bay Water Theme Park, or Volcano Bay, is a themed water park at Universal Orlando Resort in Orlando, Florida. Owned and operated by Universal Parks and Resorts, Volcano Bay replaced Wet 'n Wild as Universal Orlando Resort's water park, and it was the first constructed by Universal itself. The park, themed around a 200 ft volcano named \"Krakatau,\" opened on May 25, 2017.",
+          "semantic_score": 0.6193285584449768,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6121",
+          "text": "Magic Kingdom\nMagic Kingdom is a theme park at the Walt Disney World Resort in Bay Lake, Florida, near Orlando. Owned and operated by The Walt Disney Company through its Parks and Resorts division, the park opened on October 1, 1971, as the first of four theme parks at the resort. Initialized by Walt Disney and designed by WED Enterprises, its layout and attractions are based on Disneyland Park in Anaheim, California, and is dedicated to fairy tales and Disney characters.",
+          "semantic_score": 0.47460028529167175,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2369",
+          "text": "Wildwood Amusement Park\nWildwood was an amusement park and picnic grounds that existed from 1889 through 1932 on the southeast shore of White Bear Lake in Mahtomedi, Minnesota. The park was built and operated by the Minneapolis and St. Paul Suburban Railroad Company, a subdivision of the Twin City Rapid Transit Company, which ran a streetcar line from Mahtomedi to nearby St. Paul. It was the sister park of Big Island Amusement Park on Lake Minnetonka, as both were intended to draw crowds of people to opposite ends of the Minneapolis-St. Paul streetcar system on weekends. Wildwood Amusement Park proved to be more successful than Big Island Amusement Park, which closed in 1911, and lasted until 1932 when financial losses brought about its demise.",
+          "semantic_score": 0.45211729407310486,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3318",
+          "text": "Walt Disney World Company\nWalt Disney World Company was created in 1967 as the company that initially owned and operated Walt Disney World near Orlando, Florida. The resort opened in 1971 and the land was owned by Walt Disney World Company, Walt Disney Travel Company, and Walt Disney World Hospitality and Recreation Corporation. In 2009 the name was changed to Walt Disney Parks and Resorts division of The Walt Disney Company.",
+          "semantic_score": 0.4356938302516937,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6122",
+          "text": "Magic Kingdom Resort Area\nThe Magic Kingdom Resort Area includes five resorts located along the shores of the Seven Seas Lagoon and Bay Lake, near the Magic Kingdom at the Walt Disney World Resort. The area began with the opening of Disney's Contemporary Resort, Disney's Polynesian Resort and Disney's Fort Wilderness Resort & Campground. The Walt Disney World Monorail System connects Disney's Contemporary Resort, Disney's Polynesian Village Resort and Disney's Grand Floridian Resort & Spa to the Transportation and Ticket Center and the Magic Kingdom.",
+          "semantic_score": 0.40694189071655273,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Universal's Volcano Bay"
+    }
+  ],
+  "links": [
+    {
+      "source": "834",
+      "target": "842",
+      "reason": "Paragraph 834 identifies Wet 'n Wild Orlando as America's first water park founded by SeaWorld creator George Millay and states it was replaced by Universal's Volcano Bay; paragraph 842 confirms Volcano Bay replaced Wet 'n Wild, directly bridging the creator, the original water park, and its replacement."
+    }
+  ],
+  "questions_seen": 85,
+  "_id": "5ae7793c554299540e5a55c2",
+  "correct_answer": "Krakatau",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

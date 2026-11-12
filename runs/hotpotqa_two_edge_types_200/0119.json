@@ -1,0 +1,289 @@
+{
+  "question": " Hans Florian Zimmer composed The original music score for  Pacific Heights, since the 19080's how many films has he composed music for?",
+  "answer": "Over 150 films",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Hans Florian Zimmer?",
+      "retrieved": [
+        {
+          "id": "734",
+          "text": "Eduard Mazula\nEdward Mazula (born March 21, 1990) is a professional ice hockey forward currently playing for the HC Arystan. He was a member of the Kazakhstan men's national junior ice hockey team at the 2009 World Junior Ice Hockey Championships as well as at the 2010 World Junior Ice Hockey Championships.",
+          "semantic_score": 0.4814227819442749,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1217",
+          "text": "Julius Middelthun\nJulius Olavus Middelthun (3 July 1820 – 5 May 1886) was a Norwegian sculptor born in Kongsberg, son of a coin engraver. As a young man he trained as a goldsmith before moving to Copenhagen to study with Bissen. His ten years there were followed by eight years in Rome, after which time he returned to Norway. He is best remembered for his portraits.",
+          "semantic_score": 0.43438777327537537,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8195",
+          "text": "Leopoldo Zea Aguilar\nLeopoldo Zea (born \"Leopoldo Zea Aguilar\"; June 30, 1912 in Mexico City – June 8, 2004) was a Mexican philosopher.",
+          "semantic_score": 0.42225053906440735,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1870",
+          "text": "David Tomaszewski\nDavid Tomaszewski (] ; born 6 October 1984) is a French music video director and digital artist of Polish descent. He is the son of Polish pianist Marek Tomaszewski.",
+          "semantic_score": 0.42184683680534363,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "969",
+          "text": "Viktor Schauberger\nViktor Schauberger (30 June 1885 in Holzschlag, Upper Austria – 25 September 1958 in Linz, Austria) was an Austrian forest caretaker, naturalist, pseudoscientistref>Ronald Engert: \"Die Forellenturbine als Prinzip der kostenlosen Energiegewinnung. Freie Energie durch Implosion\".</ref>, philosopher, inventor and biomimicry experimenter.",
+          "semantic_score": 0.4170071482658386,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1873",
+          "text": "Marek Tomaszewski\nMarek Tomaszewski (born 20 November 1943 in Kraków) is a Polish pianist. He was one half of the pianist duo Marek and Wacek with Wacław Kisielewski from 1963 until his death on 12 July 1986. He is the father of French music video director David Tomaszewski.",
+          "semantic_score": 0.3250897228717804,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "966",
+          "text": "Holzschlag, Austria\nHolzschlag is a village in the Upper Austria (Oberösterreich) region of Austria. The village is located on Austria's border with the Czech Republic. Inventor Viktor Schauberger was born in Holzschlag in 1885.",
+          "semantic_score": 0.31413742899894714,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "742",
+          "text": "Miroslav Přerost\nMiroslav Přerost (born 1963) is a Czech former professional ice hockey forward who played with HC Plzen during the 1982–83 Czech Extraliga season. He is currently the head coach of the Czech Republic men's national junior ice hockey team. He coached the men's national junior ice hockey team at the 2012, 2013 and the 2014 World Junior Ice Hockey Championships.",
+          "semantic_score": 0.3560918867588043,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5749",
+          "text": "Robert Lewandowski\nRobert Lewandowski (] ; born 21 August 1988) is a Polish professional footballer who plays as a striker for Bundesliga club Bayern Munich, and captains the Poland national team.",
+          "semantic_score": 0.30748075246810913,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "735",
+          "text": "Eldar Abdulayev\nEldar Rasimovich Abdulayev (Russian: Эльдар Расимович Абдулаев ; born January 20, 1985) is a Kazakhstani professional ice hockey forward currently playing for HC Astana in the Kazakhstan Hockey Championship. He was a member of the Kazakhstan men's national junior ice hockey team at the 2005 World Junior Ice Hockey Championships.",
+          "semantic_score": 0.2783118188381195,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Hans Florian Zimmer is a German-born composer and music producer, best known for his film scores."
+    },
+    {
+      "step": 2,
+      "sub_question": "Did Hans Florian Zimmer compose the original music score for Pacific Heights?",
+      "retrieved": [
+        {
+          "id": "1181",
+          "text": "Hans Zimmer\nHans Florian Zimmer (] ; born 12 September 1957) is a German film score composer and record producer. Since the 1980s, he has composed music for over 150 films. His works include \"The Lion King\", for which he won the Academy Award for Best Original Score in 1995, the \"Pirates of the Caribbean\" series, \"The Thin Red Line\", \"Gladiator\", \"The Last Samurai\", \"The Dark Knight Trilogy\", \"Inception\", \"Interstellar\" and \"Dunkirk\".",
+          "semantic_score": 0.5904303789138794,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1184",
+          "text": "Pacific Heights (film)\nPacific Heights is a 1990 psychological thriller film directed by John Schlesinger, written by Daniel Pyne, and starring Melanie Griffith, Matthew Modine, and Michael Keaton. The original music score was composed by Hans Zimmer. The film's tagline is: \"It seemed like the perfect house. He seemed like the perfect tenant. Until they asked him to leave.\"",
+          "semantic_score": 0.5065399408340454,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1537",
+          "text": "Diwa de Leon\nDiwa de Leon is a composer, arranger and musician based in Manila, Philippines. He makes music mainly for television shows, films, and stage productions. His most notable work is his arrangement of GMA Network's \"Survivor Philippines\" theme music. His songs included in \"Emir\". He won the Cinema One Originals Best Musical Score award for his work on the film \"Kolorete\" and Best Music Score for \"Kamera Obskura\" at the 8th Cinemalaya Independent Film Festival. He is also a founding member of the world music group Makiling. His first mainstream film project is Mamarazzi produced by Regal Films.",
+          "semantic_score": 0.4186352491378784,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1535",
+          "text": "Michelangelo Sosnowitz\nMichelangelo Sosnowitz (born August 21, 1973) is an American music composer. His works include ballet, musical theater, electronic and popular music, as well as commercial, television and film. His feature film scores include A Novel Romance, winner Best Film at the NYC International Independent Film Festival, the Dan Fogler directorial debut Hysterical Psycho and the Deborah Kampmeier film Split. His original ballet 'Petrouchka' won Best Choreography at NYMF 2010. He wrote the opening theme music to The History Channel show Battles BC and original theme music for ENTV, Deadline Hollywood BlackTreeMedia and other PMC programming. He also wrote the score and theme music to the Colin Quinn Web series COP SHOW. Original Off-Broadway musicals include Crazy Head Space and Love in the MIddle Ages.",
+          "semantic_score": 0.41709139943122864,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1185",
+          "text": "Remote Control Productions\nRemote Control Productions, Inc. is a film score company run by composer Hans Zimmer and based in Santa Monica, California. Originally known as \"\"Media Ventures,\"\" which was conceived and founded by Jay Rifkin and Hans Zimmer, the company changed its name after the partners both filed lawsuits against each other. Today, Remote Control is home to a large group of composers mentored by Zimmer, many of whom have had successful film scoring careers as part of the company or on their own.",
+          "semantic_score": 0.4028547406196594,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3170",
+          "text": "Interstellar (soundtrack)\nInterstellar: Original Motion Picture Soundtrack is the soundtrack album to the 2014 film \"Interstellar\" directed by Christopher Nolan. The film score is composed by Hans Zimmer who previously scored Nolan's \"Batman\" film trilogy and \"Inception\". The soundtrack garnered critical acclaim. Prior to its digital release, it was nominated for an Academy Award and Original Score at the Hollywood Music in Media Awards. The soundtrack was released on November 17, 2014 via the WaterTower label.",
+          "semantic_score": 0.3477763831615448,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6324",
+          "text": "Africa Movie Academy Award for Best Soundtrack\nThe Africa Movie Academy Award for Best Soundtrack is an annual merit by the Africa Film Academy to reward the best use of music in a film for the year. It was introduced in the 1st edition as \"Best Musical Score\". In the 3rd, 5th and 6th edition it was renamed to \"Best Original Soundtrack\". It was known as \"Best Music\" in the 4th edition. In the 7th edition it was called \"Best Soundtrack\". Since the 8th edition it has been called \"Achievement in Soundtrack\".",
+          "semantic_score": 0.3390151560306549,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1186",
+          "text": "12 Years a Slave (score)\n12 Years a Slave is the original soundtrack album to the 2013 film \"12 Years a Slave\" starring Chiwetel Ejiofor, Michael Fassbender, Benedict Cumberbatch, Paul Dano, and Lupita Nyong'o. The record contains twenty-one tracks from the original film score written and composed by Hans Zimmer. The score was widely admired and thought of as a contender for the Academy Award for Original Music Score at the 86th Academy Awards.",
+          "semantic_score": 0.32859811186790466,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7911",
+          "text": "Dennis Courtney\nDenis Beaulne (born April 30, 1958), better known by his stage name Dennis Courtney, is an American stage director, choreographer, actor and teacher of master classes in auditioning for the theatre. As a director, he is notable for winning the 2008 Israeli National Theatre Prize (Israel's TONY Award equivalent) for his work in the Cameri Theatre production of Fiddler On The Roof, in Tel Aviv. The production closed on January 27, 2016 after a near 8-year run. As an actor, he made his Broadway debut in the 1979 production of Peter Pan with Sandy Duncan and George Rose. Subsequent Broadway/National Tour/Production credits include Shenandoah with John Raitt (1984), Joseph And The Amazing Technicolor Dreamcoat (1984), Roza (1987) and Starlight Express (1989-1990). He directed and choreographed a production of My Way, for the Riverside Center Theatre in Virginia and It Shoulda Been You starring Kim Zimmer and for Gretna Theatre in July and August 2016. In early 2017, he directed and choreographed Kiss Me, Kate at Kent State. In March 2017 he directed the pre-Broadway workshop production of The Last Adam, a new musical by George Alex Livings and Jonathan Hickey. He has collaborated with playwright David Brian Colbert on a new play with music about the life of legendary performer, Ethel Waters, entitled . The play is currently in development.",
+          "semantic_score": 0.2629506587982178,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6777",
+          "text": "Vince Guaraldi\nVincent Anthony Guaraldi (July 17, 1928 – February 6, 1976), born Vincent Anthony Dellaglio, was an American jazz pianist noted for his innovative compositions and arrangements and for composing music for animated television adaptations of the \"Peanuts\" comic strip, as well as his performances on piano as a member of Cal Tjader's late 50s ensemble and his own solo career which included the radio hit \"Cast Your Fate to the Wind\".",
+          "semantic_score": 0.4019767642021179,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "step": 3,
+      "sub_question": "Since the 1980s, how many films has Hans Florian Zimmer composed music for?",
+      "retrieved": [
+        {
+          "id": "1181",
+          "text": "Hans Zimmer\nHans Florian Zimmer (] ; born 12 September 1957) is a German film score composer and record producer. Since the 1980s, he has composed music for over 150 films. His works include \"The Lion King\", for which he won the Academy Award for Best Original Score in 1995, the \"Pirates of the Caribbean\" series, \"The Thin Red Line\", \"Gladiator\", \"The Last Samurai\", \"The Dark Knight Trilogy\", \"Inception\", \"Interstellar\" and \"Dunkirk\".",
+          "semantic_score": 0.5887391567230225,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1535",
+          "text": "Michelangelo Sosnowitz\nMichelangelo Sosnowitz (born August 21, 1973) is an American music composer. His works include ballet, musical theater, electronic and popular music, as well as commercial, television and film. His feature film scores include A Novel Romance, winner Best Film at the NYC International Independent Film Festival, the Dan Fogler directorial debut Hysterical Psycho and the Deborah Kampmeier film Split. His original ballet 'Petrouchka' won Best Choreography at NYMF 2010. He wrote the opening theme music to The History Channel show Battles BC and original theme music for ENTV, Deadline Hollywood BlackTreeMedia and other PMC programming. He also wrote the score and theme music to the Colin Quinn Web series COP SHOW. Original Off-Broadway musicals include Crazy Head Space and Love in the MIddle Ages.",
+          "semantic_score": 0.4210891127586365,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8204",
+          "text": "Quadrophenia (film)\nQuadrophenia is a 1979 British drama film, loosely based on the The Who's 1973 rock opera of the same name. It was directed by Franc Roddam in his feature directing début. Unlike the adaptation of \"Tommy\", \"Quadrophenia\" is not a musical film, and the band does not appear live in the film.",
+          "semantic_score": 0.4083326756954193,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9454",
+          "text": "List of compositions by Jacques Offenbach\nThis is a list of musical compositions by Jacques Offenbach (1819–1880). Offenbach is principally known for his operettas, of which he composed 98 between 1847 and 1880. He also wrote two opéras, \"Die Rheinnixen\" and his unfinished masterpiece \"Les contes d'Hoffmann\".",
+          "semantic_score": 0.3968711793422699,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6777",
+          "text": "Vince Guaraldi\nVincent Anthony Guaraldi (July 17, 1928 – February 6, 1976), born Vincent Anthony Dellaglio, was an American jazz pianist noted for his innovative compositions and arrangements and for composing music for animated television adaptations of the \"Peanuts\" comic strip, as well as his performances on piano as a member of Cal Tjader's late 50s ensemble and his own solo career which included the radio hit \"Cast Your Fate to the Wind\".",
+          "semantic_score": 0.3912140429019928,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9453",
+          "text": "The Tales of Hoffmann\nThe Tales of Hoffmann (French: Les contes d'Hoffmann ) is an \"opéra fantastique \" by Jacques Offenbach. The French libretto was written by Jules Barbier, based on three short stories by E. T. A. Hoffmann, who is the protagonist of the story. It was Offenbach's final work, as he died a year before the premiere.",
+          "semantic_score": 0.29663747549057007,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9455",
+          "text": "The Tales of Hoffmann (film)\nThe Tales of Hoffmann is a 1951 British Technicolor film adaptation of Jacques Offenbach's opera \"The Tales of Hoffmann\", written, produced and directed by the team of Michael Powell and Emeric Pressburger working under the umbrella of their production company, The Archers.",
+          "semantic_score": 0.3420605957508087,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9449",
+          "text": "La Périchole\nLa Périchole (] ) is an opéra bouffe in three acts by Jacques Offenbach. Henri Meilhac and Ludovic Halévy wrote the French-language libretto based on the 1829 one act play \"Le carrosse du Saint-Sacrement\" by Prosper Mérimée, which was revived on 13 March 1850 at the Théâtre-Français. Offenbach was probably aware of this production, as he conducted the orchestra of the Comédie-Française from around this time. Another theatrical creation that pre-dates Offenbach's opéra bouffe and may have influenced the piece is a farce by Desforges and Théaulon given on 21 October 1835 at the Théâtre du Palais-Royal.",
+          "semantic_score": 0.184571772813797,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9456",
+          "text": "Mesdames de la Halle\nMesdames de la Halle is an opérette bouffe in one act by Jacques Offenbach, with a libretto by Armand Lapointe. It was first performed at the Théâtre des Bouffes Parisiens, Paris on 3 March 1858. and was the first work of Offenbach's at the Bouffes with a chorus and a large cast. Gänzl describes the piece as “a delicious piece of Parisian bouffonerie”",
+          "semantic_score": 0.1057414785027504,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9452",
+          "text": "Fantasio (Offenbach)\nFantasio is an 1872 opéra comique in 3 acts, 4 tableaux with music by Jacques Offenbach. The French libretto by Paul de Musset was closely based on the 1834 play of the same name by his brother Alfred de Musset. The opera found little success in Offenbach's lifetime, was revived in the 1930s and performed in a critical edition in the 2000s.",
+          "semantic_score": 0.24972830712795258,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Over 150 films"
+    }
+  ],
+  "links": [
+    {
+      "source": "1184",
+      "target": "1181",
+      "reason": "Paragraph 1184 confirms Hans Zimmer composed the score for Pacific Heights, while paragraph 1181 identifies him and states he has composed music for over 150 films since the 1980s, directly bridging the film-specific fact to the count needed for the answer."
+    }
+  ],
+  "questions_seen": 120,
+  "_id": "5a8adbf55542992d82986fab",
+  "correct_answer": "over 150 films",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

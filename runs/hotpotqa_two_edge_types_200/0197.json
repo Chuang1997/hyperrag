@@ -1,0 +1,151 @@
+{
+  "question": "James Fowle Baldwin helped design a historic railroad that operated in Massachusetts and whose line later operated as part of what?",
+  "answer": "Boston and Maine Railroad's Southern Division",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What historic railroad in Massachusetts did James Fowle Baldwin help design?",
+      "retrieved": [
+        {
+          "id": "1958",
+          "text": "James Fowle Baldwin\nJames Fowle Baldwin (April 29, 1782 – May 20, 1862) was an early American civil engineer who worked with his father and brothers on the Middlesex Canal, surveyed and designed the Boston and Lowell Railroad and the Boston and Albany Railroad, the first Boston water supply from Lake Cochituate, and many other early engineering projects. He was the first president of the Boston Society of Civil Engineers and served one term as a Senator from Suffolk County to the Massachusetts Senate, then served as a Boston Water Commissioner.",
+          "semantic_score": 0.6574066877365112,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1962",
+          "text": "George Rumford Baldwin\nGeorge Rumford Baldwin (North Woburn, January 26, 1798 – North Woburn, October 11, 1888) an early American civil engineer who worked with his father Loammi Baldwin and brothers Loammi Baldwin, Jr. Cyrus Baldwin, Benjamin Franklin Baldwin, and James Fowle Baldwin, on the Middlesex Canal and other projects. His later works included surveying and engineering the Boston, Hartford, and Erie Railroad, the Buffalo and Mississippi Railroad, and the gas and water systems for the City of Quebec.",
+          "semantic_score": 0.5290830731391907,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1959",
+          "text": "Boston, Barre and Gardner Railroad\nBoston, Barre and Gardner Railroad was a historic railroad that operated between Worcester, Massachusetts, Barre, Massachusetts and Gardner, Massachusetts, and its remaining functional tracks are now owned and operated by the Providence and Worcester Railroad (NASDAQ: PWX ).",
+          "semantic_score": 0.48163431882858276,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1956",
+          "text": "Boston and Lowell Railroad\nThe Boston and Lowell Railroad is a historic railroad that operated in Massachusetts in the United States. It was one of the first railroads in North America and the first major one in the state. The line later operated as part of the Boston and Maine Railroad's Southern Division.",
+          "semantic_score": 0.45121335983276367,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5839",
+          "text": "Portsmouth, Great Falls and Conway Railroad\nThe Portsmouth, Great Falls and Conway Railroad (PGF&C) (later known as the Conway Branch of the Boston and Maine Railroad) is a former rail line between Rollinsford and Intervale, New Hampshire, in the United States. At Rollinsford, the line connected to other lines to provide service between the White Mountains and coastal cities such as Boston. At Intervale, it connected to the Mountain Division of the Maine Central Railroad. The rail line takes its name from the city of Portsmouth, near its southern terminus; the city of Somersworth (formerly known as \"Great Falls\"); and the town of Conway, near its northern terminus. Today, the infrastructure of the former PGF&C is owned by different entities, including the State of New Hampshire, the Conway Scenic Railroad, and the New Hampshire Northcoast Corporation. Some segments are still operated as freight or heritage railways, while other segments are being maintained as rail trails.",
+          "semantic_score": 0.40987929701805115,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1963",
+          "text": "Lowell Line\nThe Lowell Line is a railroad line of the MBTA Commuter Rail system, running north from Boston to Lowell, Massachusetts. Originally built as the Boston & Lowell Railroad and later operated as part of the Boston & Maine Railroad's Southern Division, the line was one of the first railroads in North America and the first major one in Massachusetts.",
+          "semantic_score": 0.35890403389930725,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Boston and Lowell Railroad"
+    },
+    {
+      "step": 2,
+      "sub_question": "What did that railroad’s line later operate as part of?",
+      "retrieved": [
+        {
+          "id": "1956",
+          "text": "Boston and Lowell Railroad\nThe Boston and Lowell Railroad is a historic railroad that operated in Massachusetts in the United States. It was one of the first railroads in North America and the first major one in the state. The line later operated as part of the Boston and Maine Railroad's Southern Division.",
+          "semantic_score": 0.884106457233429,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1963",
+          "text": "Lowell Line\nThe Lowell Line is a railroad line of the MBTA Commuter Rail system, running north from Boston to Lowell, Massachusetts. Originally built as the Boston & Lowell Railroad and later operated as part of the Boston & Maine Railroad's Southern Division, the line was one of the first railroads in North America and the first major one in Massachusetts.",
+          "semantic_score": 0.8238869309425354,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1959",
+          "text": "Boston, Barre and Gardner Railroad\nBoston, Barre and Gardner Railroad was a historic railroad that operated between Worcester, Massachusetts, Barre, Massachusetts and Gardner, Massachusetts, and its remaining functional tracks are now owned and operated by the Providence and Worcester Railroad (NASDAQ: PWX ).",
+          "semantic_score": 0.671596109867096,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1958",
+          "text": "James Fowle Baldwin\nJames Fowle Baldwin (April 29, 1782 – May 20, 1862) was an early American civil engineer who worked with his father and brothers on the Middlesex Canal, surveyed and designed the Boston and Lowell Railroad and the Boston and Albany Railroad, the first Boston water supply from Lake Cochituate, and many other early engineering projects. He was the first president of the Boston Society of Civil Engineers and served one term as a Senator from Suffolk County to the Massachusetts Senate, then served as a Boston Water Commissioner.",
+          "semantic_score": 0.5423750877380371,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5839",
+          "text": "Portsmouth, Great Falls and Conway Railroad\nThe Portsmouth, Great Falls and Conway Railroad (PGF&C) (later known as the Conway Branch of the Boston and Maine Railroad) is a former rail line between Rollinsford and Intervale, New Hampshire, in the United States. At Rollinsford, the line connected to other lines to provide service between the White Mountains and coastal cities such as Boston. At Intervale, it connected to the Mountain Division of the Maine Central Railroad. The rail line takes its name from the city of Portsmouth, near its southern terminus; the city of Somersworth (formerly known as \"Great Falls\"); and the town of Conway, near its northern terminus. Today, the infrastructure of the former PGF&C is owned by different entities, including the State of New Hampshire, the Conway Scenic Railroad, and the New Hampshire Northcoast Corporation. Some segments are still operated as freight or heritage railways, while other segments are being maintained as rail trails.",
+          "semantic_score": 0.5002954006195068,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1962",
+          "text": "George Rumford Baldwin\nGeorge Rumford Baldwin (North Woburn, January 26, 1798 – North Woburn, October 11, 1888) an early American civil engineer who worked with his father Loammi Baldwin and brothers Loammi Baldwin, Jr. Cyrus Baldwin, Benjamin Franklin Baldwin, and James Fowle Baldwin, on the Middlesex Canal and other projects. His later works included surveying and engineering the Boston, Hartford, and Erie Railroad, the Buffalo and Mississippi Railroad, and the gas and water systems for the City of Quebec.",
+          "semantic_score": 0.3559182584285736,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Boston and Maine Railroad's Southern Division"
+    }
+  ],
+  "links": [
+    {
+      "source": "1958",
+      "target": "1956",
+      "reason": "1958 identifies James Fowle Baldwin as having surveyed and designed the Boston and Lowell Railroad, while 1956 states that this railroad's line later operated as part of the Boston and Maine Railroad's Southern Division, directly bridging the person to the final answer."
+    },
+    {
+      "source": "1958",
+      "target": "1963",
+      "reason": "1958 links Baldwin to the Boston and Lowell Railroad, and 1963 confirms that the line originally built as the Boston & Lowell Railroad later operated as part of the Boston & Maine Railroad's Southern Division."
+    }
+  ],
+  "questions_seen": 198,
+  "_id": "5ae74818554299572ea547ad",
+  "correct_answer": "Boston and Maine Railroad's Southern Division",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

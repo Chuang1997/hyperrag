@@ -1,0 +1,438 @@
+{
+  "question": "What machine has the same name as another machine created by Ludwig Boltzmann?",
+  "answer": "Boltzmann machine",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What machine(s) did Ludwig Boltzmann create?",
+      "retrieved": [
+        {
+          "id": "1637",
+          "text": "Ludwig Boltzmann\nLudwig Eduard Boltzmann (February 20, 1844 – September 5, 1906) was an Austrian physicist and philosopher whose greatest achievement was in the development of statistical mechanics, which explains and predicts how the properties of atoms (such as mass, charge, and structure) determine the physical properties of matter (such as viscosity, thermal conductivity, and diffusion).",
+          "semantic_score": 0.6651349067687988,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1633",
+          "text": "Ludwig Boltzmann Prize\nThe Ludwig Boltzmann Prize is awarded by the Austrian Physical Society and honors outstanding achievements in theoretical physics. It is named after the famous Austrian physicist Ludwig Boltzmann.",
+          "semantic_score": 0.5829610824584961,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1628",
+          "text": "Boltzmann machine\nA Boltzmann machine is a type of stochastic recurrent neural network (and Markov Random Field).",
+          "semantic_score": 0.5590904355049133,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1630",
+          "text": "Ludwig Boltzmann Gesellschaft\nThe Ludwig Boltzmann Gesellschaft (LBG) is an Austrian network of specialized research institutes that are not part of a university. It was founded in 1961 and named after physicist Ludwig Boltzmann. In 1999, the Ludwig Boltzmann Gesellschaft comprised 131 institutes in the fields of medicine, humanities and social sciences. After 2006, the number of institutes was greatly reduced.",
+          "semantic_score": 0.5581173896789551,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1629",
+          "text": "Boltzmann Medal\nThe Boltzmann Medal (or Boltzmann Award) is the most important prize awarded to physicists that obtain new results concerning statistical mechanics; it is named after the celebrated physicist Ludwig Boltzmann. The Boltzmann Medal is awarded once every three years by the \"Commission on Statistical Physics of the International Union of Pure and Applied Physics\", during the STATPHYS conference.",
+          "semantic_score": 0.5050224661827087,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1634",
+          "text": "Ludwig Boltzmann Institut für Menschenrechte\nThe Ludwig Boltzmann Institute of Human Rights (German: Ludwig Boltzmann Institut für Menschenrechte, BIM) is a Vienna-based research institute affiliated with the Austrian Ludwig Boltzmann Gesellschaft, that specializes in the area of human rights.",
+          "semantic_score": 0.46678972244262695,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1636",
+          "text": "Ludwig Boltzmann Institute for Neo-Latin Studies\nThe Ludwig Boltzmann Institute for Neo-Latin Studies (LBI) (German: \"Ludwig Boltzmann Institut für Neulateinische Studien\" ) in Innsbruck is a research institute of the Austrian Ludwig Boltzmann Gesellschaft. Partner organizations of the LBI are the University of Innsbruck, the University of Freiburg, the Austrian National Library in Vienna, and the Pontificio Comitato di Scienze Storiche in Rome.",
+          "semantic_score": 0.45653876662254333,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Boltzmann machine"
+    },
+    {
+      "step": 2,
+      "sub_question": "What is the name of that machine?",
+      "retrieved": [
+        {
+          "id": "1628",
+          "text": "Boltzmann machine\nA Boltzmann machine is a type of stochastic recurrent neural network (and Markov Random Field).",
+          "semantic_score": 0.6905062198638916,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1629",
+          "text": "Boltzmann Medal\nThe Boltzmann Medal (or Boltzmann Award) is the most important prize awarded to physicists that obtain new results concerning statistical mechanics; it is named after the celebrated physicist Ludwig Boltzmann. The Boltzmann Medal is awarded once every three years by the \"Commission on Statistical Physics of the International Union of Pure and Applied Physics\", during the STATPHYS conference.",
+          "semantic_score": 0.5230320692062378,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1633",
+          "text": "Ludwig Boltzmann Prize\nThe Ludwig Boltzmann Prize is awarded by the Austrian Physical Society and honors outstanding achievements in theoretical physics. It is named after the famous Austrian physicist Ludwig Boltzmann.",
+          "semantic_score": 0.48777782917022705,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1632",
+          "text": "Boltzmann equation\nThe Boltzmann equation or Boltzmann transport equation (BTE) describes the statistical behaviour of a thermodynamic system not in a state of equilibrium, devised by Ludwig Boltzmann in 1872.",
+          "semantic_score": 0.48242565989494324,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1630",
+          "text": "Ludwig Boltzmann Gesellschaft\nThe Ludwig Boltzmann Gesellschaft (LBG) is an Austrian network of specialized research institutes that are not part of a university. It was founded in 1961 and named after physicist Ludwig Boltzmann. In 1999, the Ludwig Boltzmann Gesellschaft comprised 131 institutes in the fields of medicine, humanities and social sciences. After 2006, the number of institutes was greatly reduced.",
+          "semantic_score": 0.47322773933410645,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1637",
+          "text": "Ludwig Boltzmann\nLudwig Eduard Boltzmann (February 20, 1844 – September 5, 1906) was an Austrian physicist and philosopher whose greatest achievement was in the development of statistical mechanics, which explains and predicts how the properties of atoms (such as mass, charge, and structure) determine the physical properties of matter (such as viscosity, thermal conductivity, and diffusion).",
+          "semantic_score": 0.4693222641944885,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1634",
+          "text": "Ludwig Boltzmann Institut für Menschenrechte\nThe Ludwig Boltzmann Institute of Human Rights (German: Ludwig Boltzmann Institut für Menschenrechte, BIM) is a Vienna-based research institute affiliated with the Austrian Ludwig Boltzmann Gesellschaft, that specializes in the area of human rights.",
+          "semantic_score": 0.4257986843585968,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1636",
+          "text": "Ludwig Boltzmann Institute for Neo-Latin Studies\nThe Ludwig Boltzmann Institute for Neo-Latin Studies (LBI) (German: \"Ludwig Boltzmann Institut für Neulateinische Studien\" ) in Innsbruck is a research institute of the Austrian Ludwig Boltzmann Gesellschaft. Partner organizations of the LBI are the University of Innsbruck, the University of Freiburg, the Austrian National Library in Vienna, and the Pontificio Comitato di Scienze Storiche in Rome.",
+          "semantic_score": 0.3966917097568512,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Boltzmann machine"
+    },
+    {
+      "step": 3,
+      "sub_question": "Is there another machine with the same name (but not created by Boltzmann)?",
+      "retrieved": [
+        {
+          "id": "1628",
+          "text": "Boltzmann machine\nA Boltzmann machine is a type of stochastic recurrent neural network (and Markov Random Field).",
+          "semantic_score": 0.662234365940094,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1629",
+          "text": "Boltzmann Medal\nThe Boltzmann Medal (or Boltzmann Award) is the most important prize awarded to physicists that obtain new results concerning statistical mechanics; it is named after the celebrated physicist Ludwig Boltzmann. The Boltzmann Medal is awarded once every three years by the \"Commission on Statistical Physics of the International Union of Pure and Applied Physics\", during the STATPHYS conference.",
+          "semantic_score": 0.5306902527809143,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1633",
+          "text": "Ludwig Boltzmann Prize\nThe Ludwig Boltzmann Prize is awarded by the Austrian Physical Society and honors outstanding achievements in theoretical physics. It is named after the famous Austrian physicist Ludwig Boltzmann.",
+          "semantic_score": 0.5084217190742493,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1630",
+          "text": "Ludwig Boltzmann Gesellschaft\nThe Ludwig Boltzmann Gesellschaft (LBG) is an Austrian network of specialized research institutes that are not part of a university. It was founded in 1961 and named after physicist Ludwig Boltzmann. In 1999, the Ludwig Boltzmann Gesellschaft comprised 131 institutes in the fields of medicine, humanities and social sciences. After 2006, the number of institutes was greatly reduced.",
+          "semantic_score": 0.4956573247909546,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1637",
+          "text": "Ludwig Boltzmann\nLudwig Eduard Boltzmann (February 20, 1844 – September 5, 1906) was an Austrian physicist and philosopher whose greatest achievement was in the development of statistical mechanics, which explains and predicts how the properties of atoms (such as mass, charge, and structure) determine the physical properties of matter (such as viscosity, thermal conductivity, and diffusion).",
+          "semantic_score": 0.46985742449760437,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1634",
+          "text": "Ludwig Boltzmann Institut für Menschenrechte\nThe Ludwig Boltzmann Institute of Human Rights (German: Ludwig Boltzmann Institut für Menschenrechte, BIM) is a Vienna-based research institute affiliated with the Austrian Ludwig Boltzmann Gesellschaft, that specializes in the area of human rights.",
+          "semantic_score": 0.4204532504081726,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1636",
+          "text": "Ludwig Boltzmann Institute for Neo-Latin Studies\nThe Ludwig Boltzmann Institute for Neo-Latin Studies (LBI) (German: \"Ludwig Boltzmann Institut für Neulateinische Studien\" ) in Innsbruck is a research institute of the Austrian Ludwig Boltzmann Gesellschaft. Partner organizations of the LBI are the University of Innsbruck, the University of Freiburg, the Austrian National Library in Vienna, and the Pontificio Comitato di Scienze Storiche in Rome.",
+          "semantic_score": 0.42202118039131165,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "No."
+    },
+    {
+      "step": 4,
+      "sub_question": "What machine(s) did Ludwig Boltzmann create?",
+      "retrieved": [
+        {
+          "id": "1637",
+          "text": "Ludwig Boltzmann\nLudwig Eduard Boltzmann (February 20, 1844 – September 5, 1906) was an Austrian physicist and philosopher whose greatest achievement was in the development of statistical mechanics, which explains and predicts how the properties of atoms (such as mass, charge, and structure) determine the physical properties of matter (such as viscosity, thermal conductivity, and diffusion).",
+          "semantic_score": 0.5768014192581177,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1633",
+          "text": "Ludwig Boltzmann Prize\nThe Ludwig Boltzmann Prize is awarded by the Austrian Physical Society and honors outstanding achievements in theoretical physics. It is named after the famous Austrian physicist Ludwig Boltzmann.",
+          "semantic_score": 0.5151900053024292,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1630",
+          "text": "Ludwig Boltzmann Gesellschaft\nThe Ludwig Boltzmann Gesellschaft (LBG) is an Austrian network of specialized research institutes that are not part of a university. It was founded in 1961 and named after physicist Ludwig Boltzmann. In 1999, the Ludwig Boltzmann Gesellschaft comprised 131 institutes in the fields of medicine, humanities and social sciences. After 2006, the number of institutes was greatly reduced.",
+          "semantic_score": 0.5125994086265564,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1628",
+          "text": "Boltzmann machine\nA Boltzmann machine is a type of stochastic recurrent neural network (and Markov Random Field).",
+          "semantic_score": 0.4900646209716797,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1629",
+          "text": "Boltzmann Medal\nThe Boltzmann Medal (or Boltzmann Award) is the most important prize awarded to physicists that obtain new results concerning statistical mechanics; it is named after the celebrated physicist Ludwig Boltzmann. The Boltzmann Medal is awarded once every three years by the \"Commission on Statistical Physics of the International Union of Pure and Applied Physics\", during the STATPHYS conference.",
+          "semantic_score": 0.4474141299724579,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1634",
+          "text": "Ludwig Boltzmann Institut für Menschenrechte\nThe Ludwig Boltzmann Institute of Human Rights (German: Ludwig Boltzmann Institut für Menschenrechte, BIM) is a Vienna-based research institute affiliated with the Austrian Ludwig Boltzmann Gesellschaft, that specializes in the area of human rights.",
+          "semantic_score": 0.43199673295021057,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1636",
+          "text": "Ludwig Boltzmann Institute for Neo-Latin Studies\nThe Ludwig Boltzmann Institute for Neo-Latin Studies (LBI) (German: \"Ludwig Boltzmann Institut für Neulateinische Studien\" ) in Innsbruck is a research institute of the Austrian Ludwig Boltzmann Gesellschaft. Partner organizations of the LBI are the University of Innsbruck, the University of Freiburg, the Austrian National Library in Vienna, and the Pontificio Comitato di Scienze Storiche in Rome.",
+          "semantic_score": 0.4257168769836426,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Boltzmann machine"
+    },
+    {
+      "step": 5,
+      "sub_question": "What is the name of the machine created by Ludwig Boltzmann?",
+      "retrieved": [
+        {
+          "id": "1628",
+          "text": "Boltzmann machine\nA Boltzmann machine is a type of stochastic recurrent neural network (and Markov Random Field).",
+          "semantic_score": 0.6937379240989685,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1637",
+          "text": "Ludwig Boltzmann\nLudwig Eduard Boltzmann (February 20, 1844 – September 5, 1906) was an Austrian physicist and philosopher whose greatest achievement was in the development of statistical mechanics, which explains and predicts how the properties of atoms (such as mass, charge, and structure) determine the physical properties of matter (such as viscosity, thermal conductivity, and diffusion).",
+          "semantic_score": 0.6133052110671997,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1633",
+          "text": "Ludwig Boltzmann Prize\nThe Ludwig Boltzmann Prize is awarded by the Austrian Physical Society and honors outstanding achievements in theoretical physics. It is named after the famous Austrian physicist Ludwig Boltzmann.",
+          "semantic_score": 0.5908591747283936,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1629",
+          "text": "Boltzmann Medal\nThe Boltzmann Medal (or Boltzmann Award) is the most important prize awarded to physicists that obtain new results concerning statistical mechanics; it is named after the celebrated physicist Ludwig Boltzmann. The Boltzmann Medal is awarded once every three years by the \"Commission on Statistical Physics of the International Union of Pure and Applied Physics\", during the STATPHYS conference.",
+          "semantic_score": 0.573081910610199,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1630",
+          "text": "Ludwig Boltzmann Gesellschaft\nThe Ludwig Boltzmann Gesellschaft (LBG) is an Austrian network of specialized research institutes that are not part of a university. It was founded in 1961 and named after physicist Ludwig Boltzmann. In 1999, the Ludwig Boltzmann Gesellschaft comprised 131 institutes in the fields of medicine, humanities and social sciences. After 2006, the number of institutes was greatly reduced.",
+          "semantic_score": 0.5574877858161926,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1634",
+          "text": "Ludwig Boltzmann Institut für Menschenrechte\nThe Ludwig Boltzmann Institute of Human Rights (German: Ludwig Boltzmann Institut für Menschenrechte, BIM) is a Vienna-based research institute affiliated with the Austrian Ludwig Boltzmann Gesellschaft, that specializes in the area of human rights.",
+          "semantic_score": 0.48168864846229553,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1636",
+          "text": "Ludwig Boltzmann Institute for Neo-Latin Studies\nThe Ludwig Boltzmann Institute for Neo-Latin Studies (LBI) (German: \"Ludwig Boltzmann Institut für Neulateinische Studien\" ) in Innsbruck is a research institute of the Austrian Ludwig Boltzmann Gesellschaft. Partner organizations of the LBI are the University of Innsbruck, the University of Freiburg, the Austrian National Library in Vienna, and the Pontificio Comitato di Scienze Storiche in Rome.",
+          "semantic_score": 0.44820070266723633,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Boltzmann machine"
+    },
+    {
+      "step": 6,
+      "sub_question": "What other machine shares that same name?",
+      "retrieved": [
+        {
+          "id": "1628",
+          "text": "Boltzmann machine\nA Boltzmann machine is a type of stochastic recurrent neural network (and Markov Random Field).",
+          "semantic_score": 0.5696921348571777,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1629",
+          "text": "Boltzmann Medal\nThe Boltzmann Medal (or Boltzmann Award) is the most important prize awarded to physicists that obtain new results concerning statistical mechanics; it is named after the celebrated physicist Ludwig Boltzmann. The Boltzmann Medal is awarded once every three years by the \"Commission on Statistical Physics of the International Union of Pure and Applied Physics\", during the STATPHYS conference.",
+          "semantic_score": 0.49488911032676697,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1633",
+          "text": "Ludwig Boltzmann Prize\nThe Ludwig Boltzmann Prize is awarded by the Austrian Physical Society and honors outstanding achievements in theoretical physics. It is named after the famous Austrian physicist Ludwig Boltzmann.",
+          "semantic_score": 0.4905608594417572,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1630",
+          "text": "Ludwig Boltzmann Gesellschaft\nThe Ludwig Boltzmann Gesellschaft (LBG) is an Austrian network of specialized research institutes that are not part of a university. It was founded in 1961 and named after physicist Ludwig Boltzmann. In 1999, the Ludwig Boltzmann Gesellschaft comprised 131 institutes in the fields of medicine, humanities and social sciences. After 2006, the number of institutes was greatly reduced.",
+          "semantic_score": 0.46558982133865356,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1632",
+          "text": "Boltzmann equation\nThe Boltzmann equation or Boltzmann transport equation (BTE) describes the statistical behaviour of a thermodynamic system not in a state of equilibrium, devised by Ludwig Boltzmann in 1872.",
+          "semantic_score": 0.4026476740837097,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1637",
+          "text": "Ludwig Boltzmann\nLudwig Eduard Boltzmann (February 20, 1844 – September 5, 1906) was an Austrian physicist and philosopher whose greatest achievement was in the development of statistical mechanics, which explains and predicts how the properties of atoms (such as mass, charge, and structure) determine the physical properties of matter (such as viscosity, thermal conductivity, and diffusion).",
+          "semantic_score": 0.3890761435031891,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1634",
+          "text": "Ludwig Boltzmann Institut für Menschenrechte\nThe Ludwig Boltzmann Institute of Human Rights (German: Ludwig Boltzmann Institut für Menschenrechte, BIM) is a Vienna-based research institute affiliated with the Austrian Ludwig Boltzmann Gesellschaft, that specializes in the area of human rights.",
+          "semantic_score": 0.39965200424194336,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1636",
+          "text": "Ludwig Boltzmann Institute for Neo-Latin Studies\nThe Ludwig Boltzmann Institute for Neo-Latin Studies (LBI) (German: \"Ludwig Boltzmann Institut für Neulateinische Studien\" ) in Innsbruck is a research institute of the Austrian Ludwig Boltzmann Gesellschaft. Partner organizations of the LBI are the University of Innsbruck, the University of Freiburg, the Austrian National Library in Vienna, and the Pontificio Comitato di Scienze Storiche in Rome.",
+          "semantic_score": 0.3792074918746948,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Boltzmann machine"
+    }
+  ],
+  "links": [
+    {
+      "source": "1628",
+      "target": "1637",
+      "reason": "Paragraph 1628 identifies the Boltzmann machine by name, while 1637 establishes Ludwig Boltzmann as the physicist whose name it bears, bridging the machine to its namesake creator."
+    }
+  ],
+  "questions_seen": 165,
+  "_id": "5a72429355429971e9dc9375",
+  "correct_answer": "Boltzmann machine",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

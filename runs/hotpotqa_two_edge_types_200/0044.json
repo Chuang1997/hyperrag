@@ -1,0 +1,188 @@
+{
+  "question": "The actress and singer Heather Morris is best known for her role in which series, becoming a regular character in the second season?",
+  "answer": "Glee",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What series is Heather Morris best known for her role in?",
+      "retrieved": [
+        {
+          "id": "441",
+          "text": "Heather Morris\nHeather Elizabeth Morris (born February 1, 1987) is an American actress, dancer, singer and model, known for her role as Brittany S. Pierce in the Fox musical comedy-drama series \"Glee\".",
+          "semantic_score": 0.5059274435043335,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4696",
+          "text": "Sarah Paulson\nSarah Catharine Paulson (born December 17, 1974) is an American actress. After beginning her acting career on stage, she starred in the 1990s television series \"American Gothic\" (1995–96) and \"Jack & Jill\" (1999–2001). Paulson later appeared in comedy films such as \"What Women Want\" (2000) and \"Down with Love\" (2003), and had dramatic roles in films such as \"Path to War\" (2002) and \"The Notorious Bettie Page\" (2005). From 2006 to 2007, Paulson played the role of Harriet Hayes in the NBC comedy-drama series \"Studio 60 on the Sunset Strip\", for which she received her first Golden Globe Award nomination. In 2008, she starred as Ellen Dolan in the superhero noir film \"The Spirit\".",
+          "semantic_score": 0.4882581830024719,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5998",
+          "text": "Diane Ladd\nDiane Ladd (born November 29, 1932) is an American actress, film director, producer and author. She has appeared in over 120 film and television roles. For the 1974 film \"Alice Doesn't Live Here Anymore\", she won the BAFTA Award for Best Actress in a Supporting Role and was nominated for the Academy Award for Best Supporting Actress. She went on to win the Golden Globe Award for Best Supporting Actress on Television for \"Alice\" (1980–81), and to receive Academy Award nominations for \"Wild at Heart\" (1990) and \"Rambling Rose\" (1991). Her other film appearances include \"Chinatown\" (1974), \"Ghosts of Mississippi\" (1996), \"Primary Colors\" (1998), \"28 Days\" (2000), and \"American Cowslip\" (2008). Ladd is the mother of actress Laura Dern, with her ex-husband, actor Bruce Dern.",
+          "semantic_score": 0.4648623764514923,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8983",
+          "text": "Helen Mirren\nDame Helen Lydia Mirren, {'1': \", '2': \", '3': \", '4': \"} (\"née\" Mironoff; born 26 July 1945) is an English actor. Mirren began her acting career with the Royal Shakespeare Company in 1967, and is one of the few performers who have achieved the Triple Crown of Acting, having won the Academy Award for Best Actress in 2007, after two previous nominations, for her performance as Queen Elizabeth II in \"The Queen\". She received an Olivier Award for Best Actress in 2013 for her West End performance in \"The Audience\", in which she also portrayed Elizabeth II, and in 2015 she won the Tony Award for Best Actress in a Play for her Broadway performance in the play. \"The Audience\" was written by Peter Morgan, who also wrote \"The Queen\". Mirren won three consecutive BAFTA Awards for Best Actress between 1992 and 1994 and her first of several Emmy Awards in 1996 for her performance as police detective Jane Tennison on the British television series \"Prime Suspect\", which ran for seven seasons between 1991 and 2006.",
+          "semantic_score": 0.43440333008766174,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8229",
+          "text": "Kristen Wiig\nKristen Carroll Wiig ( ; born August 22, 1973) is an American actress, comedian, writer, and producer. She is known for her work on the NBC sketch comedy series \"Saturday Night Live\" (2005–12), and such films as \"Bridesmaids\", \"The Martian\", and \"Ghostbusters\".",
+          "semantic_score": 0.42354023456573486,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "438",
+          "text": "Brittany Pierce\nBrittany Susan Pierce is a fictional character from the Fox musical comedy-drama series \"Glee\". The character is portrayed by actress Heather Morris, and first appeared in the show's second episode, \"Showmance\". Brittany was developed by \"Glee\" creators Ryan Murphy, Brad Falchuk, and Ian Brennan. In \"Glee\", Brittany is a cheerleader, or \"Cheerio\" for the fictional William McKinley High School, and a member of the school's glee club led by Will Schuester. Morris was originally hired to teach Beyoncé's \"Single Ladies\" dance to the \"Glee\" cast. The show at the time was looking for a third cheerleader, and Morris landed the role. Morris was upgraded to a series regular in the series' second season, in which Brittany is given a larger storyline, solos and dance routines to perform.",
+          "semantic_score": 0.35791876912117004,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "442",
+          "text": "Britney/Brittany\n\"Britney/Brittany\" is the second episode of the second season of the American television series \"Glee\", and the twenty-fourth episode overall. Written and directed by series creator Ryan Murphy, it premiered on the Fox network on September 28, 2010, and pays tribute to Britney Spears. Glee club member Brittany S. Pierce (Heather Morris) experiences an anesthesia-induced hallucination in which she recreates iconic Spears moments, and comes to self-realization, and several club members follow suit. Co-captains Rachel (Lea Michele) and Finn (Cory Monteith) experience difficulties in their relationship, and club director Will Schuester (Matthew Morrison) becomes jealous of guidance counselor Emma Pillsbury's (Jayma Mays) new boyfriend, Dr. Carl Howell (John Stamos).",
+          "semantic_score": 0.3107161223888397,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "434",
+          "text": "Rory Flanagan\nRory Flanagan is a recurring fictional character from the Fox musical comedy-drama series \"Glee\". The character is portrayed by actor Damian McGinty, and appeared in \"Glee\" starting with its third season episode \"Pot o' Gold\", first broadcast on November 1, 2011. Rory is an exchange student from Ireland who arrives as a sophomore, and is living at the home of Brittany Pierce (Heather Morris) while studying at McKinley High. He joins the McKinley glee club, New Directions, in his first episode.",
+          "semantic_score": 0.16970786452293396,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3835",
+          "text": "Paul Feig\nPaul Samuel Feig ( ; born September 17, 1962) is an American actor, film director, producer, and screenwriter. He is best known for directing the 2011 film \"Bridesmaids\", featuring Kristen Wiig and Melissa McCarthy and the 2016 film \"Ghostbusters\" also starring Wiig and McCarthy. Feig also directed the comedy films \"The Heat\" (2013) starring McCarthy and Sandra Bullock, and \"Spy\" (2015) which stars McCarthy, Jason Statham, and Jude Law.",
+          "semantic_score": 0.23594680428504944,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "437",
+          "text": "Sexy (Glee)\n\"Sexy\" is the fifteenth episode of the second season of the American musical comedy-drama television series \"Glee\", and the thirty-seventh episode overall. It was written by Brad Falchuk, directed by Ryan Murphy, and first aired on the Fox network on March 8, 2011. The episode mainly revolves around the topics of sex and adolescent sexuality. In it, Holly Holliday (Gwyneth Paltrow) returns to McKinley High School as a substitute teacher in a class devoted to sex education. Glee club director Will Schuester (Matthew Morrison) begins to develop feelings for Holly, and guidance counselor and celibacy club advisor Emma Pillsbury (Jayma Mays) is less than pleased with Holly's lessons. Santana (Naya Rivera) expresses her love for Brittany (Heather Morris), and Burt Hummel (Mike O'Malley) has a talk with his son Kurt (Chris Colfer) about sex.",
+          "semantic_score": 0.25195521116256714,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Glee"
+    },
+    {
+      "step": 2,
+      "sub_question": "In which season of that series did her character become a regular?",
+      "retrieved": [
+        {
+          "id": "438",
+          "text": "Brittany Pierce\nBrittany Susan Pierce is a fictional character from the Fox musical comedy-drama series \"Glee\". The character is portrayed by actress Heather Morris, and first appeared in the show's second episode, \"Showmance\". Brittany was developed by \"Glee\" creators Ryan Murphy, Brad Falchuk, and Ian Brennan. In \"Glee\", Brittany is a cheerleader, or \"Cheerio\" for the fictional William McKinley High School, and a member of the school's glee club led by Will Schuester. Morris was originally hired to teach Beyoncé's \"Single Ladies\" dance to the \"Glee\" cast. The show at the time was looking for a third cheerleader, and Morris landed the role. Morris was upgraded to a series regular in the series' second season, in which Brittany is given a larger storyline, solos and dance routines to perform.",
+          "semantic_score": 0.6645650267601013,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "435",
+          "text": "A Very Glee Christmas\n\"A Very Glee Christmas\" is the tenth episode of the second season of the American musical television series \"Glee\", and the thirty-second episode overall. It was written by series co-creator Ian Brennan, directed by Alfonso Gomez-Rejon, and premiered on Fox on December 7, 2010. It served as the mid-season finale of season two—nearly two months elapsed before the next episode was aired—and featured Artie (Kevin McHale) trying to keep his girlfriend Brittany's (Heather Morris) belief in Santa Claus intact, and Sue (Jane Lynch) rigging the faculty Secret Santa gift exchange so she gets all the gifts, though she later becomes a Grinch when the gifts are repossessed.",
+          "semantic_score": 0.6385862827301025,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1410",
+          "text": "Glee (season 3)\nThe third season of the musical comedy-drama television series \"Glee\" was commissioned on May 23, 2010 by Fox while the first season aired. It aired between September 20, 2011 and May 22, 2012, and was produced by 20th Century Fox Television and Ryan Murphy Television, with executive producers Dante Di Loreto and series co-creators Ryan Murphy, Brad Falchuk and Ian Brennan.",
+          "semantic_score": 0.6364819407463074,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "441",
+          "text": "Heather Morris\nHeather Elizabeth Morris (born February 1, 1987) is an American actress, dancer, singer and model, known for her role as Brittany S. Pierce in the Fox musical comedy-drama series \"Glee\".",
+          "semantic_score": 0.6338559985160828,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "437",
+          "text": "Sexy (Glee)\n\"Sexy\" is the fifteenth episode of the second season of the American musical comedy-drama television series \"Glee\", and the thirty-seventh episode overall. It was written by Brad Falchuk, directed by Ryan Murphy, and first aired on the Fox network on March 8, 2011. The episode mainly revolves around the topics of sex and adolescent sexuality. In it, Holly Holliday (Gwyneth Paltrow) returns to McKinley High School as a substitute teacher in a class devoted to sex education. Glee club director Will Schuester (Matthew Morrison) begins to develop feelings for Holly, and guidance counselor and celibacy club advisor Emma Pillsbury (Jayma Mays) is less than pleased with Holly's lessons. Santana (Naya Rivera) expresses her love for Brittany (Heather Morris), and Burt Hummel (Mike O'Malley) has a talk with his son Kurt (Chris Colfer) about sex.",
+          "semantic_score": 0.6317124366760254,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1415",
+          "text": "Glee (TV series)\nThe series was created by Ryan Murphy, Brad Falchuk, and Ian Brennan, the latter of whom first conceived of \"Glee\" as a film. The three wrote all of the show's episodes for the first two seasons, and Murphy and Falchuk initially served as the show's main directors. The pilot episode was broadcast on May 19, 2009, and the first season aired from September 9, 2009, to June 8, 2010. Subsequent seasons aired in September through May. The sixth and final season aired from January to March 2015. \"Glee\" features on-screen performance-based musical numbers that were selected by Murphy, who aimed to maintain a balance between show tunes and chart hits, and produced by Adam Anders and Peer Åström. Songs covered in the show were released through the iTunes Store during the week of broadcast, and a series of \"Glee\" albums have been released by Columbia Records. The music of \"Glee\" has been a commercial success, with over thirty-six million digital single sales and eleven million album sales worldwide through October 2011. The series' merchandise also includes DVD and Blu-ray releases, an iPad application, and karaoke games for the Wii. There were live concert tours by the show's cast after the first and second seasons completed shooting; a concert film based on the 2011 tour, \"\", was produced by Murphy and Fox and directed by Kevin Tancharoen.",
+          "semantic_score": 0.6313222050666809,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "442",
+          "text": "Britney/Brittany\n\"Britney/Brittany\" is the second episode of the second season of the American television series \"Glee\", and the twenty-fourth episode overall. Written and directed by series creator Ryan Murphy, it premiered on the Fox network on September 28, 2010, and pays tribute to Britney Spears. Glee club member Brittany S. Pierce (Heather Morris) experiences an anesthesia-induced hallucination in which she recreates iconic Spears moments, and comes to self-realization, and several club members follow suit. Co-captains Rachel (Lea Michele) and Finn (Cory Monteith) experience difficulties in their relationship, and club director Will Schuester (Matthew Morrison) becomes jealous of guidance counselor Emma Pillsbury's (Jayma Mays) new boyfriend, Dr. Carl Howell (John Stamos).",
+          "semantic_score": 0.6150431632995605,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1412",
+          "text": "Glee (season 4)\nThe fourth season of the Fox musical comedy-drama television series \"Glee\" was commissioned on April 9, 2012. It premiered on September 13, 2012 and is produced by 20th Century Fox Television, Ryan Murphy Television and Brad Falchuk Teley-Vision with executive producers Dante Di Loreto and series co-creators Ryan Murphy, Brad Falchuk and Ian Brennan.",
+          "semantic_score": 0.6233084201812744,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Second season"
+    }
+  ],
+  "links": [
+    {
+      "source": "441",
+      "target": "438",
+      "reason": "441 identifies Heather Morris's role as Brittany S. Pierce in Glee; 438 confirms the same character/series and states Morris was upgraded to a series regular in the second season, directly bridging the series to the season answer."
+    }
+  ],
+  "questions_seen": 45,
+  "_id": "5a84e21d5542997b5ce3ff7c",
+  "correct_answer": "Glee",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

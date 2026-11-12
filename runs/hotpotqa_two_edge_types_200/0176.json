@@ -1,0 +1,188 @@
+{
+  "question": " \"One Less Set of Footsteps\" is a song written and performed by a singer born in which year ?",
+  "answer": "1943",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who wrote and performed the song \"One Less Set of Footsteps\"?",
+      "retrieved": [
+        {
+          "id": "1757",
+          "text": "One Less Set of Footsteps\n\"One Less Set of Footsteps\" is a song written and performed by Jim Croce. It was released in 1973 as the first single from his album \"Life and Times\". It reached a peak of #37 on the \"Billboard\" Hot 100, spending ten weeks on the chart.",
+          "semantic_score": 0.8311526775360107,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1752",
+          "text": "It Doesn't Have to Be That Way\n\"It Doesn't Have to Be That Way\" is a song written and recorded by Jim Croce for his 1973 album \"Life and Times\". Originally released early that year as the B-side of the \"One Less Set of Footsteps\" single, it was reissued that December as the third and final single from the album as well as Croce's second posthumously-released single. It reached a peak of #64 on the \"Billboard\" Hot 100, spending five weeks on the chart.",
+          "semantic_score": 0.44702422618865967,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2541",
+          "text": "One Way Trigger\n\"One Way Trigger\" is a song by American rock band the Strokes. Written primarily by Albert Hammond, Jr. and Julian Casablancas, it was released as a free download ahead of their fifth studio album, \"Comedown Machine\" and was made available for streaming via YouTube and SoundCloud, and as a free download via the band's official website on January 25, 2013. Casablancas posted a stylized lyric sheet for the song, designed by long-time collaborator Warren Fu, on his official website on January 30, 2013.",
+          "semantic_score": 0.4248589873313904,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2147",
+          "text": "One on One (song)\n\"One on One\" is a song performed by American musical duo Hall & Oates. Written by member Daryl Hall, the song was released as the second single from their eleventh studio album \"HO\" on January 29, 1983. Backed by minimalistic, synthesizer-based production, the song's lyrics incorporate various sports metaphors to describe seduction. Daryl Hall performs lead vocals, while John Oates provides backing harmony vocals.",
+          "semantic_score": 0.4094912111759186,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8564",
+          "text": "Songs for Slim\nSongs for Slim is an EP by the band The Replacements. The EP was recorded and sold to benefit former bandmate Slim Dunlap, who had suffered a stroke. Chris Mars, former drummer for The Replacements, contributed to one song (\"Radio Hook Word Hit\") and designed the album art.",
+          "semantic_score": 0.4043576121330261,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8565",
+          "text": "Slim Dunlap\nBob \"Slim\" Dunlap (born August 14, 1951) is an American rock musician. He is a Minnesota-based guitarist and singer-songwriter who is best known for replacing The Replacements' original lead guitarist, Bob Stinson in 1987. Dunlap also recorded two solo albums in the mid-1990s.",
+          "semantic_score": 0.3062684237957001,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1742",
+          "text": "Let Me Be the One (The Carpenters song)\n\"Let Me Be the One\" is a song written in 1971 by Roger Nichols and Paul Williams. It first appeared on the 1971 album \"Carpenters\" by The Carpenters.",
+          "semantic_score": 0.33763357996940613,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6083",
+          "text": "One (Ed Sheeran song)\n\"One\" is a song recorded by English singer-songwriter Ed Sheeran for his second studio album, \"x\" (2014). Sheeran wrote the song immediately after releasing his debut album, \"+\" (2011). It marked the last occasion wherein Sheeran wrote about his former girlfriend, who inspired all the romantic compositions on \"+\". \"One\" was produced by frequent collaborator Jake Gosling and its music was based primarily on acoustic guitar. Critics were generally positive toward the song; it was noted for its guitar-driven sound and Sheeran's use of falsetto.",
+          "semantic_score": 0.3544301986694336,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Jim Croce"
+    },
+    {
+      "step": 2,
+      "sub_question": "In what year was that singer born?",
+      "retrieved": [
+        {
+          "id": "1756",
+          "text": "Jim Croce\nJames Joseph \"Jim\" Croce ( ; January 10, 1943 – September 20, 1973) was an American folk and rock singer of the late 1960s and early 1970s. Between 1966 and 1973, Croce released five studio albums and singles. His songs \"Bad, Bad Leroy Brown\" and \"Time in a Bottle\" reached No. 1 on the U.S. \"Billboard\" Hot 100 chart.",
+          "semantic_score": 0.6664990782737732,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1686",
+          "text": "Jim Kerr\nJames Kerr (born 9 July 1959) is a Scottish musician and singer-songwriter, best known as lead singer of the rock band Simple Minds, who achieved five UK No. 1 albums and a No. 1 single \"Belfast Child\". He released his first solo album, \"Lostboy! AKA Jim Kerr\", on 27 May 2010. Kerr's voice has been described as \"David Bowie's rich baritone melded with Bryan Ferry's velvety croon\".",
+          "semantic_score": 0.4190509021282196,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6038",
+          "text": "Jim Rogers (Oklahoma politician)\nJimmie Hugh Rogers Sr. (March 25, 1935 – November 11, 2014) was an American perennial political candidate. He ran for various offices and in 2010 was the Democratic Party nominee for the United States Senate in Oklahoma in a race against incumbent Senator Tom Coburn.",
+          "semantic_score": 0.4120839536190033,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5142",
+          "text": "Johnny McDaid\nJohn \"Johnny\" McDaid (born 24 July 1976) is a Northern Irish singer, songwriter, musician and record producer from Derry.",
+          "semantic_score": 0.4073099195957184,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1757",
+          "text": "One Less Set of Footsteps\n\"One Less Set of Footsteps\" is a song written and performed by Jim Croce. It was released in 1973 as the first single from his album \"Life and Times\". It reached a peak of #37 on the \"Billboard\" Hot 100, spending ten weeks on the chart.",
+          "semantic_score": 0.40256115794181824,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1687",
+          "text": "Jim Kerr discography\nThis is a discography of the Scottish musician Jim Kerr which includes one studio album and three hit singles. Kerr rose to fame during the 1980s as frontman of the popular rock group Simple Minds, who achieved their number one hit single with \"Ballad of the Streets EP\" and also achieved five number one studio albums. In 2010 Kerr embarked on a solo career and released his debut solo album \"Lostboy! AKA Jim Kerr\" which spawned three singles \"Shadowland\", \"Refugee\" and \"She Fell In Love With Silence\".",
+          "semantic_score": 0.34656214714050293,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1680",
+          "text": "Lostboy! AKA Jim Kerr\nLostboy! AKA Jim Kerr is Simple Minds front-man Jim Kerr's first solo album released on 17 May 2010. The album entered the UK charts at No. 94 on 29 May 2010 and UK Independent Chart at #8. The album has also made the charts in some other European areas, most notably Germany, Italy, France and Belgium.",
+          "semantic_score": 0.35052722692489624,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6031",
+          "text": "Kirk Humphreys\nKirk Humphreys (born September 13, 1950) is an American politician who served as Mayor of Oklahoma City from April 9, 1998 to November 3, 2003. He was considered a favorite candidate of the Republican party establishment for U.S. Senator in 2004, losing to former Congressman Tom Coburn, MD in the primary. Humphreys is the chairman of The Humphreys Company.",
+          "semantic_score": 0.24215219914913177,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1752",
+          "text": "It Doesn't Have to Be That Way\n\"It Doesn't Have to Be That Way\" is a song written and recorded by Jim Croce for his 1973 album \"Life and Times\". Originally released early that year as the B-side of the \"One Less Set of Footsteps\" single, it was reissued that December as the third and final single from the album as well as Croce's second posthumously-released single. It reached a peak of #64 on the \"Billboard\" Hot 100, spending five weeks on the chart.",
+          "semantic_score": 0.28094375133514404,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6034",
+          "text": "United States Senate election in Oklahoma, 2004\nThe 2004 United States Senate election in Oklahoma took place on November 2, 2004. The election was concurrent with elections to the United States House of Representatives and the presidential election. Incumbent Republican U.S. Senator Don Nickles decided to retire instead of seeking a fifth term. Republican nominee Tom Coburn won the open seat.",
+          "semantic_score": 0.14127977192401886,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1943"
+    }
+  ],
+  "links": [
+    {
+      "source": "1757",
+      "target": "1756",
+      "reason": "Paragraph 1757 identifies Jim Croce as the writer/performer of 'One Less Set of Footsteps'; paragraph 1756 provides Jim Croce's birth year (1943), directly bridging the song to the singer's birth year."
+    }
+  ],
+  "questions_seen": 177,
+  "_id": "5adca0845542994d58a2f684",
+  "correct_answer": "1943",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

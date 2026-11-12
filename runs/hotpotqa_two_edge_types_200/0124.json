@@ -1,0 +1,231 @@
+{
+  "question": "Additi Gupta is known for negative roles in the drama series that broadcasts on what country's Star Plus network?",
+  "answer": "India",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is Additi Gupta known for?",
+      "retrieved": [
+        {
+          "id": "1237",
+          "text": "Additi Gupta\nAditi Gupta (stylized as Additi Gupta) is an Indian actress, model and fashion designer, known for her work as the protagonist in the popular television series \"Kis Desh Mein Hai Meraa Dil\" on Star Plus channel. She was also seen portraying a witch in the Zee TV series \"Qubool Hai\". She is also known for her negative roles in Pardes Mein Hai Mera Dil and Star Plus's Ishqbaaz.",
+          "semantic_score": 0.5236530900001526,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6560",
+          "text": "Bhakti Ballabh Tirtha\nSrila Bhakti Ballabh Tirtha Maharaj (13 April 1924 - 20 April 2017) is a disciple of Bhakti Dayita Madhava Goswami Maharaj and an acharya and initiating spiritual master (Sri Guru) in the Gaudiya Math following the philosophy of the Bhakti marg, specifically of Caitanya Mahaprabhu and Gaudiya Vaishnava theology. He was the President Acharya of Sree Chaitanya Gaudiya Math, headquartered at Kolkata, West Bengal, India and having more than 22 branches in India. He was president of WVA (World Vaishnava Association) and founder of GOKUL( Global organization for KrishnaChaitnaya's Universal Love).",
+          "semantic_score": 0.4544961750507355,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1234",
+          "text": "Vipul Gupta\nVipul Gupta (born 17 September 1984) is an actor and model. He is best known for playing the lead role of Drone Keshab in a very popular Star Plus Serial: K. Street Pali Hill and as Anand Zorawar Shergill in TV serial \"Meri Bhabhi\" on STAR Plus. He is currently seen in a Vikram Bhatt's web series \"Maaya\".",
+          "semantic_score": 0.42270201444625854,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "587",
+          "text": "Raj Kapoor\nRanbir Raj Kapoor (14 December 1924 – 2 June 1988), also known as \"the greatest showman of Indian cinema\", was a noted Indian film actor, producer and director of Hindi cinema. Born at Kapoor Haveli in Peshawar to actor Prithviraj Kapoorhe was a prominent member of the Kapoor familythat produced several celebrated Bollywood superstars.",
+          "semantic_score": 0.37625619769096375,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8341",
+          "text": "Sharan (actor)\nSharan (born 6 February 1974) is an Indian film actor and an occasional playback singer and film producer who works in Kannada cinema. He made his acting debut in the mid-1990s and appeared mostly in comedy roles and small supporting roles. However, he earned much recognition during the late 2000s and made his lead role for his 100th film \"Rambo (2012 film)\" and since then featuring as the lead actor in comedy films.",
+          "semantic_score": 0.3750655949115753,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6562",
+          "text": "Bhakti Hridaya Bon\nBhakti Hridaya Bon, also known as Swami Bon (Baharpur, 23 March 1901 - Vrindavan, 7 July 1982) was a disciple of Bhaktisiddhanta Sarasvati Thakura and a guru in the Gaudiya Math following the philosophy of the Bhakti marg, specifically of Caitanya Mahaprabhu and Gaudiya Vaishnava theology. At the time of his death, he left behind thousands of Bengali disciples in India. His current successor is Gopananda Bon.",
+          "semantic_score": 0.37183472514152527,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6900",
+          "text": "Shajoon Kariyal\nShajoon Kariyal is an Indian film director and producer working in Malayalam cinema. Shajoon was born in 1963 in Kozhikode, Kerala and had his primary education from Govt. Ganapath High School, Chalappuram. He started his film career in 1984, at the age of 18, as an assistant director to I. V. Sasi. He worked as the assistant or associate director to many films including \"Uyarangalil\" (1984), \"Anubandham\" (1985), \"Karimpinpoovinakkare\" (1985), \"Aavanazhi\" (1986), \"1921\" (1988), \"Douthyam\" (1989), \"Varthamana Kalam\" (1990), \"Arhatha\" (1990), \"Midhya\" (1991), \"Neelagiri\" (1991) and \"Varnapakittu\" (1997). He was the story writer for the Mammootty-starrer megahit \"Jackpot\" (1993). He debuted as a director with \"Rajaputhran\" (1996), starring Suresh Gopi, Shobhana and Vikram. He has directed many films, including the commercially successful \"Thachiledathu Chundan\" (1999) and the critically acclaimed \"Vadakkumnadhan\" (2006). After \"Vadakkumnadhan\", he planned two films, \"Raman Police\" and \"Talkies\", but both the projects did not work out. In 2012, he directed \"Chettayees\" which he also co-produced, as one of the five partners of the newly launched production house Thakkaali Films. His latest film is \"Sir C. P.\" (2015).",
+          "semantic_score": 0.17633701860904694,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6555",
+          "text": "Kenneth R. Valpey\nKenneth R. Valpey (born December 18, 1950) is a Gaudiya Vaishnava Theologian who studied at Oxford University, St Cross College (1999–2004). While there, he conducted his research at the Oxford Centre for Hindu Studies. He has a D.Phil. from Oxford University, where his dissertation was on Chaitanya Vaishnava murti-seva. He is also a member of the International Society for Krishna Consciousness, in which Krishna Ksetra Das (spiritual name given to him by Srila Prabhupada) acts as an initiating spiritual master, or guru. He is a professor at Bhaktivedanta College where the central program of study is in Vaishnava Theology. There he teaches courses in Vaishnava Vedanta. He teaches at The Chinese University of Hong Kong and has a Fellowship at the Oxford Centre for Hindu Studies. At present he is working with Ravi M. Gupta on a ‘companion’ to the Bhagavata Purana, and on a translation of a 16th-century Sanskrit Vaisnava ritual texts in corroboration with Dr. Mans Broo (Abo Akademie, Finland). Having taught courses in Indian and Asian religions for the year 2006 at the University of Florida, Gainesville, and having taught for the academic year 2007-08 at the Chinese University of Hong Kong in the Department of Cultural and Religious Studies, he continues to teach at Chinese University of Hong Kong each Autumn semester as a visiting scholar.",
+          "semantic_score": 0.3598943054676056,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Her work as the protagonist in the television series \"Kis Desh Mein Hai Meraa Dil\""
+    },
+    {
+      "step": 2,
+      "sub_question": "Which drama series is Additi Gupta known for negative roles in?",
+      "retrieved": [
+        {
+          "id": "1237",
+          "text": "Additi Gupta\nAditi Gupta (stylized as Additi Gupta) is an Indian actress, model and fashion designer, known for her work as the protagonist in the popular television series \"Kis Desh Mein Hai Meraa Dil\" on Star Plus channel. She was also seen portraying a witch in the Zee TV series \"Qubool Hai\". She is also known for her negative roles in Pardes Mein Hai Mera Dil and Star Plus's Ishqbaaz.",
+          "semantic_score": 0.8362414240837097,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1231",
+          "text": "Love Ka Hai Intezaar\nLove Ka Hai Intezaar is an Indian television romantic drama series, produced by Siddharth Malhotra. It is broadcasting worldwide on Star Plus, Mondays through Saturdays, at 2:00 PM, IST in an afternoon programming block called \"Star Plus Dopahar\", since 15th May 2017. Sanjeeda Sheikh, and Keith Sequeira played the leads in the show till a twenty-year leap after which Preetika Rao and Mohit Sehgal also joined them to play another main leads of the show. The series ended on 30 September 2017 when the Star Dopahar block was discontinued.",
+          "semantic_score": 0.5176742672920227,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7672",
+          "text": "Madhuri Desai\nMadhuri Desai is an Indian actress, model and a dancer. She played the lead role of Veda Deshmukh in the Marathi TV serial Yek Number that aired on Star Pravah.She is currently working with director Mahesh Manjrekar on his upcoming movie alongside other notable stars .She has finished her post graduation in Pharma Management from Mumbai University.",
+          "semantic_score": 0.5133666396141052,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1234",
+          "text": "Vipul Gupta\nVipul Gupta (born 17 September 1984) is an actor and model. He is best known for playing the lead role of Drone Keshab in a very popular Star Plus Serial: K. Street Pali Hill and as Anand Zorawar Shergill in TV serial \"Meri Bhabhi\" on STAR Plus. He is currently seen in a Vikram Bhatt's web series \"Maaya\".",
+          "semantic_score": 0.5003119707107544,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8400",
+          "text": "Mansi Srivastava\nMansi Srivastava is an Indian television actress. She is well known for playing the role of Heer in Zee TV's show \"Rab Se Sohna Isshq\" and the lead role of Shivani in \"Do Dil Bandhe Ek Dori Se\" on Zee TV. She also played the role of Shatabdi in \"Peterson Hill\" on Sab TV. In 2016, She played the Parallel lead role of Dr. Prerna in \"Sasural Simar Ka\".\"She is Currently playing the Parallel lead role of Bhavya in Star Plus's Popular Show Ishqbaaz and also in its spin off series Dil Boley Oberoi.",
+          "semantic_score": 0.4962957799434662,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "592",
+          "text": "Divya Rana\nDivya Rana is a former Bollywood actress most noted for her role in Raj Kapoor's \"Ram Teri Ganga Maili\" Divya began her career with the film \"Ek Jaan Hain Hum\" (1984) opposite Raj Kapoor's youngest son Rajiv Kapoor. Then she was selected as the second lead in Raj Kapoor's \"Ram Teri Ganga Maili\" (1985) co-starring Rajiv Kapoor & Mandakini. Divya later acted in films like \"Watan Ke Rakhwale\", \"Ek Hi Maqsad , Aasmaan (1984) , Maa Kasam (1985 film) , Param Dharam as Munnibai)\" and many others. She quit acting after her marriage and currently lives in Mumbai with her husband Fazal and goes by the name Salma Manekia. She works as a photographer and makes ceramic sculptures.",
+          "semantic_score": 0.4697546660900116,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1229",
+          "text": "Ishqbaaaz\nIshqbaaaz (English: \"Lovers\") is an Indian drama television series which is broadcast on Star Plus. It premiered on 27 June 2016 and airs Mon-Fri 10-11pm IST.Nakuul Mehta, Kunal Jaisingh and Leenesh Mattoo respectively portray Shivaay, Omkara and Rudra, the three heirs of the Oberoi family. The show initially focused on the tale of three brothers, later become centered on the love story of Shivaay and Annika (Surbhi Chandna); with the story of Omkara and Rudra being shifted to the spinoff series \"Dil Boley Oberoi\". In July 2017 \"Dil Boley Oberoi\" ended and the storylines were merged back into \"Ishqbaaaz\" which doubled its runtime.",
+          "semantic_score": 0.4416074752807617,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Pardes Mein Hai Mera Dil and Ishqbaaz"
+    },
+    {
+      "step": 3,
+      "sub_question": "On what country’s Star Plus network does that drama series broadcast?",
+      "retrieved": [
+        {
+          "id": "1237",
+          "text": "Additi Gupta\nAditi Gupta (stylized as Additi Gupta) is an Indian actress, model and fashion designer, known for her work as the protagonist in the popular television series \"Kis Desh Mein Hai Meraa Dil\" on Star Plus channel. She was also seen portraying a witch in the Zee TV series \"Qubool Hai\". She is also known for her negative roles in Pardes Mein Hai Mera Dil and Star Plus's Ishqbaaz.",
+          "semantic_score": 0.6246238946914673,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1229",
+          "text": "Ishqbaaaz\nIshqbaaaz (English: \"Lovers\") is an Indian drama television series which is broadcast on Star Plus. It premiered on 27 June 2016 and airs Mon-Fri 10-11pm IST.Nakuul Mehta, Kunal Jaisingh and Leenesh Mattoo respectively portray Shivaay, Omkara and Rudra, the three heirs of the Oberoi family. The show initially focused on the tale of three brothers, later become centered on the love story of Shivaay and Annika (Surbhi Chandna); with the story of Omkara and Rudra being shifted to the spinoff series \"Dil Boley Oberoi\". In July 2017 \"Dil Boley Oberoi\" ended and the storylines were merged back into \"Ishqbaaaz\" which doubled its runtime.",
+          "semantic_score": 0.6221757531166077,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1231",
+          "text": "Love Ka Hai Intezaar\nLove Ka Hai Intezaar is an Indian television romantic drama series, produced by Siddharth Malhotra. It is broadcasting worldwide on Star Plus, Mondays through Saturdays, at 2:00 PM, IST in an afternoon programming block called \"Star Plus Dopahar\", since 15th May 2017. Sanjeeda Sheikh, and Keith Sequeira played the leads in the show till a twenty-year leap after which Preetika Rao and Mohit Sehgal also joined them to play another main leads of the show. The series ended on 30 September 2017 when the Star Dopahar block was discontinued.",
+          "semantic_score": 0.547814130783081,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8400",
+          "text": "Mansi Srivastava\nMansi Srivastava is an Indian television actress. She is well known for playing the role of Heer in Zee TV's show \"Rab Se Sohna Isshq\" and the lead role of Shivani in \"Do Dil Bandhe Ek Dori Se\" on Zee TV. She also played the role of Shatabdi in \"Peterson Hill\" on Sab TV. In 2016, She played the Parallel lead role of Dr. Prerna in \"Sasural Simar Ka\".\"She is Currently playing the Parallel lead role of Bhavya in Star Plus's Popular Show Ishqbaaz and also in its spin off series Dil Boley Oberoi.",
+          "semantic_score": 0.46781501173973083,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1236",
+          "text": "Star Plus (UK and Ireland)\nSTAR Plus is a Hindi language general entertainment television channel and the largest Asian Channel in the United Kingdom. STAR Plus is owned by STAR TV UK whose head office is in London. The channel is part of STAR TV's network of channels. STAR Plus' programming primarily consists of family dramas and telefilms. This channel is also distributed worldwide by Fox International Channels, subsidiary of 21st Century Fox. The majority of programming on STAR Plus UK is subtitled in English.",
+          "semantic_score": 0.4648610055446625,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1234",
+          "text": "Vipul Gupta\nVipul Gupta (born 17 September 1984) is an actor and model. He is best known for playing the lead role of Drone Keshab in a very popular Star Plus Serial: K. Street Pali Hill and as Anand Zorawar Shergill in TV serial \"Meri Bhabhi\" on STAR Plus. He is currently seen in a Vikram Bhatt's web series \"Maaya\".",
+          "semantic_score": 0.4294731020927429,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "United Kingdom"
+    }
+  ],
+  "links": [
+    {
+      "source": "1237",
+      "target": "1229",
+      "reason": "Paragraph 1237 identifies Ishqbaaz as a Star Plus series in which Additi Gupta had a negative role; paragraph 1229 confirms Ishqbaaz is an Indian drama broadcast on Star Plus, bridging her role to the network's country."
+    },
+    {
+      "source": "1237",
+      "target": "1236",
+      "reason": "Paragraph 1237 links Additi Gupta to Star Plus's Ishqbaaz; paragraph 1236 describes STAR Plus as a UK Asian channel, providing the bridge from the drama series to the United Kingdom network."
+    }
+  ],
+  "questions_seen": 125,
+  "_id": "5ae1d1995542997283cd226c",
+  "correct_answer": "Indian",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

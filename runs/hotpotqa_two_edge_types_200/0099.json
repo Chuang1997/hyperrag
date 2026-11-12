@@ -1,0 +1,174 @@
+{
+  "question": "What is the name of the city located near the historical region known as Margianḗ in Greek?",
+  "answer": "Merv",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is the historical region known as Margianḗ in Greek?",
+      "retrieved": [
+        {
+          "id": "988",
+          "text": "Margiana\nMargiana (Greek: \"Margianḗ\", Old Persian: \"Marguš\", Middle Persian: \"Marv\") is a historical region centred on the oasis of Merv and was a minor satrapy within the Achaemenid satrapy of Bactria, and a province within its successors, the Seleucid, Parthian and Sasanian empires.",
+          "semantic_score": 0.696317195892334,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "985",
+          "text": "Merv\nMerv (Turkmen: Merw , \"Мерв\", مرو; Persian: مرو‎ ‎ , \"Marv\"), formerly Achaemenid Satrapy of Margiana, and later Alexandria (Margiana) (Ἀλεξάνδρεια) and Antiochia in Margiana (Greek: Ἀντιόχεια τῆς Μαργιανῆς ), was a major oasis-city in Central Asia, on the historical Silk Road, located near today's Mary in Turkmenistan.",
+          "semantic_score": 0.6101217865943909,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2236",
+          "text": "Archaic Greece\nArchaic Greece was the period in Greek history lasting from the eighth century BC to the second Persian invasion of Greece in 480 BC, following the Greek Dark Ages and succeeded by the Classical period. The period began with a massive increase in the Greek population and a series of significant changes which rendered the Greek world at the end of the eighth century as entirely unrecognisable as compared to its beginning.",
+          "semantic_score": 0.480127215385437,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "984",
+          "text": "Attica\nAttica (Greek: Αττική , \"Attikḗ\" or \"Attikī́\" ; ] or ] ) is a historical region that encompasses the city of Athens, the capital of present-day Greece. The historical region is centered on the Attic peninsula, which projects into the Aegean Sea. The modern administrative region of Attica is more extensive than the historical region and includes the Saronic Islands, Cythera, and the municipality of Troizinia on the Peloponnesian mainland. The history of Attica is tightly linked with that of Athens, which, from the classical period, was one of the most important cities in the ancient world.",
+          "semantic_score": 0.47191154956817627,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5183",
+          "text": "Lesche\nLesche (Gr. λέσχη ) is an Ionic Greek word, signifying \"council\" or \"conversation\", and a \"place for council or conversation\". There is frequent mention of places of public resort, in the Greek cities, by the name of \"leschai\" (λέσχαι , the Greek plural of \"lesche\"), some set apart for the purpose, and others so called because they were so used by loungers; to the latter class belong the agora and its porticoes, the gymnasia, and the shops of various tradesmen, especially those of the smiths, which were frequented in winter on account of their warmth, and in which, for the same reason, the poor sought shelter for the night.",
+          "semantic_score": 0.46520185470581055,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1039",
+          "text": "Military history of Iran\nWith thousands of years of recorded history, and due to an unchanging geographic (and subsequently geopolitical) condition, Iran (previously known as Persia in the West until 1935) has had a long, varied, and checkered military culture and history, ranging from triumphant and unchallenged ancient military supremacy affording effective superpower status in its day, to a series of near catastrophic defeats (beginning with the destruction of Elam) at the hand of previously subdued and conquered peripheral nations (including Greece, Macedon and the Asiatic nomadic tribes at the Eastern boundary of the lands traditionally home to the Iranian people).",
+          "semantic_score": 0.26533934473991394,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2233",
+          "text": "Syracuse, Sicily\nSyracuse ( ; Italian: \"Siracusa\" , ] ; Sicilian: \"Sarausa/Seragusa\" ; ; Ancient Greek: Συράκουσαι , \"Syrakousai\"; Medieval Greek: Συρακοῦσαι ) is a historic city in Sicily, the capital of the province of Syracuse. The city is notable for its rich Greek history, culture, amphitheatres, architecture, and as the birthplace of the preeminent mathematician and engineer Archimedes. This 2,700-year-old city played a key role in ancient times, when it was one of the major powers of the Mediterranean world. Syracuse is located in the southeast corner of the island of Sicily, next to the Gulf of Syracuse beside the Ionian Sea.",
+          "semantic_score": 0.3774535357952118,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9629",
+          "text": "Quesnelia marmorata\nQuesnelia marmorata is a species of bromeliad in the genus \"Quesnelia\".",
+          "semantic_score": 0.34474465250968933,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Margiana"
+    },
+    {
+      "step": 2,
+      "sub_question": "Which city is located near that region?",
+      "retrieved": [
+        {
+          "id": "988",
+          "text": "Margiana\nMargiana (Greek: \"Margianḗ\", Old Persian: \"Marguš\", Middle Persian: \"Marv\") is a historical region centred on the oasis of Merv and was a minor satrapy within the Achaemenid satrapy of Bactria, and a province within its successors, the Seleucid, Parthian and Sasanian empires.",
+          "semantic_score": 0.6661489605903625,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "985",
+          "text": "Merv\nMerv (Turkmen: Merw , \"Мерв\", مرو; Persian: مرو‎ ‎ , \"Marv\"), formerly Achaemenid Satrapy of Margiana, and later Alexandria (Margiana) (Ἀλεξάνδρεια) and Antiochia in Margiana (Greek: Ἀντιόχεια τῆς Μαργιανῆς ), was a major oasis-city in Central Asia, on the historical Silk Road, located near today's Mary in Turkmenistan.",
+          "semantic_score": 0.5533564686775208,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6202",
+          "text": "State road D.565 (Turkey)\nD.565 is a 407 km long north-south state road running south from İğneada on the Black Sea to Izmir. The route is broken into two parts by the Sea of Marmara: a 128 km long section in East Thrace from İğneada to Tekirdağ and a 279 km section in Anatolia from Bandırma to Izmir. The gap is connected by a car ferry operating between the two port cities. The route is mostly a four lane highway except for the first 61 km section at its northern end.",
+          "semantic_score": 0.4446868300437927,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "619",
+          "text": "Marovoay\nMarovoay ] is a city and commune (commune urbaine, Malagasy: \"kaominina\" ) in north-western Madagascar. It belongs to the district of Marovoay, which is a part of Boeny Region. The population of the commune was estimated to be approximately 65,000 in 2001 commune census.",
+          "semantic_score": 0.44450515508651733,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3196",
+          "text": "Palmanova beach\nPalma Nova Beach is seven kilometers (4.3 mi) from Calvià, situated between Punta Nadala and es Carregador, on the Spanish Balearic island of Majorca. Besides Palmanova beach, other names by which the beach is known include \"Playa de Palma Nova\", and \"Platja de Palma Nova\". The Palma Nova sea front has three beaches: Torrenova, Es Carregador, and Palma Nova. The beach has had an extension of 500 m and has needed an artificial regeneration to achieve the current aspect of fine and white sand, as well as its dimensions.",
+          "semantic_score": 0.36813515424728394,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3195",
+          "text": "Bay of Palma\nThe Bay of Palma (Catalan: \"Badia de Palma\" , Spanish: \"Bahía de Palma\" ) is a bay located to the south of Palma, Majorca, Spain. It is in the south-west of the Balearic Island of Mallorca. Palma de Majorca's harbour is located on the northern shores along with some famous beaches. It is bounded to the west by Cape Cala Figuera, to the north by the city of Palma, to the south by the Mediterranean Sea and to the east by the White Cape. The Serra de Na Burguesa terminates at its shore.",
+          "semantic_score": 0.34953832626342773,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3194",
+          "text": "Palma Metro\nPalma Metro (Catalan: \"Metro de Palma\" , Spanish: \"Metro de Palma\" [\"de Mallorca\"] ) is a light metro system in Palma, Majorca, Spain. The initial line of the system, M1, consists of 7.2 km of route and nine stations, and was constructed between 2005 and 2007 at cost of 312 million euros; it opened for service on 25 April 2007. In March 2013, an existing 8.35 km and nine station rail line was bundled in to the metro's service as the system's M2 line.",
+          "semantic_score": 0.2463940978050232,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4166",
+          "text": "Gbangbatoke\nGbangbatoke is a small town in Moyamba District in the Southern province of Sierra Leone. The town is best known for being the birthplace of two of Sierra Leone's most prominent politicians, Sir Milton Margai and Sir Albert Margai. The population of Gbangbatoke is predominantly from the Mende ethnic group, and the Mende language is widely spoken.",
+          "semantic_score": 0.3008248507976532,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Merv"
+    }
+  ],
+  "links": [
+    {
+      "source": "988",
+      "target": "985",
+      "reason": "Paragraph 988 identifies Margianḗ as the Greek name for Margiana, centered on the oasis of Merv; paragraph 985 identifies Merv as the city formerly called the Achaemenid Satrapy of Margiana, located near today's Mary, directly bridging the region to the city."
+    }
+  ],
+  "questions_seen": 100,
+  "_id": "5a857cf35542994c784ddb1d",
+  "correct_answer": "Mary",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

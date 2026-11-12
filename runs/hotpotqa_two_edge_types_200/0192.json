@@ -1,0 +1,181 @@
+{
+  "question": "What was the name of the band of Confederate army deserters in the 2016 movie starring Matthew McConaughey, Gugu Mbatha-Raw, and Keri Russell?",
+  "answer": "Knight Company",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is the 2016 movie starring Matthew McConaughey, Gugu Mbatha-Raw, and Keri Russell?",
+      "retrieved": [
+        {
+          "id": "1908",
+          "text": "The Whole Truth (2016 film)\nThe Whole Truth is a 2016 American thriller film directed by Courtney Hunt and written by Nicholas Kazan. The film stars Keanu Reeves, Gabriel Basso, Gugu Mbatha-Raw, Renée Zellweger, and Jim Belushi.",
+          "semantic_score": 0.49123334884643555,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2735",
+          "text": "Slasher.com\n\"Slasher.com\" is a 2017 horror feature film directed by Chip Gubera starring Jewel Shepard, R.A. Mihailoff, All-4-One's Delious Kennedy, Ben Kaplan, and Morgan Carter.",
+          "semantic_score": 0.470558762550354,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8676",
+          "text": "Romper Stomper\nRomper Stomper is a 1992 Australian drama film written and directed by Geoffrey Wright in his feature film directorial debut. The film stars Russell Crowe, Daniel Pollock, Jacqueline McKenzie and Tony Lee. The film tells the story of the exploits and downfall of a neo-Nazi group in blue-collar suburban Melbourne. The film was released on 12 November 1992.",
+          "semantic_score": 0.4544612169265747,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8963",
+          "text": "Texas Chainsaw 3D\nTexas Chainsaw (promoted as Texas Chainsaw 3D) is a 2013 American slasher film directed by John Luessenhop, with a screenplay by Adam Marcus, Debra Sullivan and Kirsten Elms and a story by Stephen Susco, Marcus and Sullivan. It is the seventh installment in \"The Texas Chainsaw Massacre\" franchise and was presented in 3-D. The film serves as a direct sequel to the 1974 film \"The Texas Chain Saw Massacre\" (ignoring the events of the second, and films, not including the remake films). The film stars Alexandra Daddario, Dan Yeager, Trey Songz, Tania Raymonde, Scott Eastwood, Thom Barry, Paul Rae and Bill Moseley, with Gunnar Hansen and Marilyn Burns, who had appeared in the original 1974 film. The story centers on Heather, who discovers that she was adopted after learning of an inheritance from a long-lost grandmother. She subsequently takes a road trip with her friends to collect the inheritance, unaware that it includes her cousin, Leatherface, as well. Filming began in the summer of July 2011, and it was released January 4, 2013.",
+          "semantic_score": 0.4299761652946472,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7096",
+          "text": "Profile of a Serial Killer\nProfile of a Serial Killer is a 1998 Australian crime television film directed by Steve Jodrell and starring Rebecca Gibney, Shane Feeney-Connor and Hugh Jackman. The film was released on DVD on 19 October 2004.",
+          "semantic_score": 0.42916804552078247,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8679",
+          "text": "Geoffrey Wright\nGeoffrey Wright (born 1959) is an Australian film director and screenwriter, who gained cult success with the 1992 film \"Romper Stomper\", which starred Russell Crowe.",
+          "semantic_score": 0.40377071499824524,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8675",
+          "text": "Daniel Pollock\nDaniel John Pollock (24 August 1968 – 13 April 1992) was an Australian actor best known for his role as Davey in the 1992 Australian drama film \"Romper Stomper\", which featured Russell Crowe.",
+          "semantic_score": 0.30275624990463257,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8681",
+          "text": "Romper Stomper (TV series)\nRomper Stomper is an Australian television series on video streaming service Stan. It is created as a sequel to the 1992 film \"Romper Stomper\". The six-part series will see Jacqueline McKenzie, Dan Wyllie and John Brumpton reprise their roles in a continuation of the story, 25 years later. It follows a new generation of the activist Far-right, their anti-fascist counterparts and the multicultural fabric of a country each of them threatens to tear apart.",
+          "semantic_score": 0.2678002417087555,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1833",
+          "text": "True Lies\nTrue Lies is a 1994 American action film written, co-produced and directed by James Cameron, starring Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold, Art Malik, Tia Carrere, Bill Paxton, Eliza Dushku, Grant Heslov and Charlton Heston. It is a loose remake of the 1991 French comedy film \"La Totale!\" The film follows U.S. government agent Harry Tasker (Schwarzenegger), who balances his life as a spy with his familial duties.",
+          "semantic_score": 0.2587609589099884,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3409",
+          "text": "Nothing but the Truth (2008 American film)\nNothing but the Truth is a 2008 American drama film written and directed by Rod Lurie. According to comments made by Lurie in \"The Truth Hurts\", a bonus feature on the DVD release, his inspiration for the screenplay was the case of journalist Judith Miller, who in July 2005 was jailed for contempt of court for refusing to testify before a federal grand jury investigating a leak naming Valerie Plame as a covert CIA operative, but this was merely a starting point for what is primarily a fictional story. In an April 2009 interview, Lurie stressed: \"I should say that the film is about neither of these women although certainly their stories as reported in the press went into the creation of their characters and the situation they find themselves in.\"",
+          "semantic_score": 0.2599351406097412,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Free State of Jones"
+    },
+    {
+      "step": 2,
+      "sub_question": "What was the name of the band of Confederate army deserters in that movie?",
+      "retrieved": [
+        {
+          "id": "1911",
+          "text": "Free State of Jones (film)\nFree State of Jones is a 2016 American historical period war film inspired by the life of Newton Knight and his armed revolt against the Confederacy in Jones County, Mississippi, throughout the American Civil War. Written and directed by Gary Ross, the film stars Matthew McConaughey, Gugu Mbatha-Raw, Mahershala Ali, and Keri Russell.",
+          "semantic_score": 0.7252753376960754,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1905",
+          "text": "Newton Knight\nNewton Knight (November 10, 1829 – February 16, 1922) was an American farmer, soldier and Southern Unionist in Mississippi, best known as the leader of the Knight Company, a band of Confederate army deserters who resisted the Confederacy during the Civil War. Local legends tell of Knight and his men forming the \"Free State of Jones\" in the area in and around Jones County, Mississippi, at the height of the war. The nature and extent of the Knight Company's opposition to the Confederate government is disputed among historians. After the war, Knight joined the Republican Party and served in Mississippi's Reconstruction government as a deputy US Marshal.",
+          "semantic_score": 0.5425301790237427,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6041",
+          "text": "Robert Earl Jones\nRobert Earl Jones (February 3, 1910 – September 7, 2006), sometimes credited as Earl Jones, was an American actor and prizefighter. One of the first prominent African-American film stars, Jones was a living link with the Harlem renaissance of the 1920s and 1930s, having worked with Langston Hughes early in his career. In New York in the 1930s Jones worked with young people on the Works Progress Administration, the largest New Deal agency, through which he met Langston Hughes, who cast him in his 1938 play, \"Don't You Want to Be Free?\" . Jones was best known for his leading roles in films such as \"Lying Lips\" (1939) and later in his career for supporting roles in films such as \"The Sting\" (1973), \"Trading Places\" (1983), \"The Cotton Club\" (1984) and \"Witness\" (1985). Jones was the father of actor James Earl Jones.",
+          "semantic_score": 0.47709330916404724,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8857",
+          "text": "Let Freedom Ring (film)\nLet Freedom Ring is a 1939 in Sepiatone Western directed by Jack Conway, starring Nelson Eddy and Virginia Bruce.",
+          "semantic_score": 0.4200518727302551,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8816",
+          "text": "Bruce Lee Fights Back from the Grave\nBruce Lee Fights Back From The Grave, released originally as Visitor of America (Hangul: 아메리카 방문객 ; Hanja: 아메리카 訪問客 ; RR: \"Amelika bangmungaeg \" ), is a 1976 Bruceploitation movie starring Bruce Lee impersonator and tae kwon do instructor Jun Chong (using the alias Bruce K.L. Lea). The film was directed by Lee Doo-yong, though persistent misinformation claims that the movie was directed by Italian horror director Umberto Lenzi. The poster's artwork was very common among exploitation films at the time.",
+          "semantic_score": 0.3986859917640686,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8858",
+          "text": "Let Freedom Ring\nLet Freedom Ring is an album by jazz saxophonist Jackie McLean, recorded in 1962 and released on the Blue Note label.",
+          "semantic_score": 0.14075152575969696,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3765",
+          "text": "Tony Richardson\nCecil Antonio \"Tony\" Richardson (5 June 1928 – 14 November 1991) was an English theatre and film director and producer whose career spanned five decades. In 1964 he won the Academy Award for Best Director for the film \"Tom Jones\".",
+          "semantic_score": 0.3566915988922119,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Knight Company"
+    }
+  ],
+  "links": [
+    {
+      "source": "1911",
+      "target": "1905",
+      "reason": "Paragraph 1911 identifies the 2016 film starring McConaughey, Mbatha-Raw, and Russell as Free State of Jones; paragraph 1905 names the band of Confederate army deserters in that story as the Knight Company, bridging the film to the answer."
+    }
+  ],
+  "questions_seen": 193,
+  "_id": "5ae712fa554299572ea546b9",
+  "correct_answer": "the Knight Company",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

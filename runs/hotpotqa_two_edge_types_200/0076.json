@@ -1,0 +1,254 @@
+{
+  "question": "What music school did the singer of The Search for Everything: Wave One attend?",
+  "answer": "Berklee College of Music",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is \"The Search for Everything: Wave One\" (e.g., an album, EP, etc.)?",
+      "retrieved": [
+        {
+          "id": "763",
+          "text": "The Search for Everything: Wave One\nThe Search for Everything: Wave One (also shortened as Wave One) is an extended play (EP) by American singer John Mayer. Released on January 20, 2017, the EP contains the first four tracks from Mayer's seventh studio album, \"The Search for Everything\". It includes the lead single \"Love on the Weekend\" and three new tracks.",
+          "semantic_score": 0.7504433989524841,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "755",
+          "text": "The Search for Everything: Wave Two\nThe Search for Everything: Wave Two (also shortened as Wave Two) is an extended play (EP) by American singer-songwriter John Mayer. Released on February 24, 2017 by Columbia and Sony Music, the EP contains four tracks from Mayer's seventh studio album, \"The Search for Everything\", and is a follow-up to its predecessor EP, \"\". It includes the lead single \"Still Feel Like Your Man\".",
+          "semantic_score": 0.6522589921951294,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8328",
+          "text": "Desperately Seeking Something\nDesperately Seeking Something is a British television series first broadcast on 6 November 1995, presented by travel writer and presenter Pete McCarthy. In it, McCarthy looked at various spiritual practices from across the globe, looking at both long standing traditional beliefs as well as 'alternate' religions which began to flourish in the 1990s. He met a variety of practitioners and participated in their rituals. It ran for three series, with the first two series focusing on practitioners located in the British Isles. The second season looked more at Christian and Pagan sects, including the Fellowship of Isis and the Golden Dawn. The third series saw him looking at world traditional beliefs like Australian Aboriginal beliefs and Hawaiian religion.",
+          "semantic_score": 0.3657483160495758,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "493",
+          "text": "Body cavity search\nA body cavity search, also known simply as a cavity search, is either a visual search or a manual internal inspection of body cavities for prohibited materials (contraband), such as illegal drugs, money, jewelry, or weapons. Body cavities used for concealment include nostrils, ears, mouth, navel, penis (urethra and foreskin) or vagina, and rectum. It is far more invasive than the standard strip search that is typically performed on individuals taken into custody, either upon police arrest or incarceration at a jail, prison, or psychiatric hospital. Often the procedure is repeated when the person leaves the institution.",
+          "semantic_score": 0.34431150555610657,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3882",
+          "text": "Mosaics (album)\nMosaics is an album by Mark Heard, released in 1985 on Home Sweet Home Records. According to the liner notes in \"Ashes and Light\", this album was recorded first but delayed by the record company who wanted the less rock-oriented \"Ashes\" released first. Consequently, this was the first album recorded in Heard's own Fingerprint Recording Studio.",
+          "semantic_score": 0.32986921072006226,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3881",
+          "text": "Ashes and Light\nAshes and Light is an album by Mark Heard, released in 1984 on Home Sweet Home Records. According to the liner notes, Heard recorded Mosaics first, but the record company wanted this album released first.",
+          "semantic_score": 0.3135710656642914,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1589",
+          "text": "On Everything\n\"On Everything\" is a song by American musician DJ Khaled featuring American rappers Travis Scott, Rick Ross and Big Sean. It appeared on Khaled's tenth studio album, \"Grateful\" (2017). The song was written by DJ Khaled, Travis Scott, Rick Ross, Big Sean and Danja, the latter also co-produced it with Khaled. The song contains a recurring sample of \"Under the Sun\" by Mark Pritchard.",
+          "semantic_score": 0.273434042930603,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7860",
+          "text": "Remain in Light\nRemain in Light is the fourth studio album by American new wave band Talking Heads, released on October 8, 1980, on Sire Records. It was recorded at Compass Point Studios in the Bahamas and Sigma Sound Studios in Philadelphia between July and August 1980 and was produced by the quartet's long-time collaborator Brian Eno.",
+          "semantic_score": 0.19174139201641083,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "EP"
+    },
+    {
+      "step": 2,
+      "sub_question": "Who is the singer of \"The Search for Everything: Wave One\"?",
+      "retrieved": [
+        {
+          "id": "763",
+          "text": "The Search for Everything: Wave One\nThe Search for Everything: Wave One (also shortened as Wave One) is an extended play (EP) by American singer John Mayer. Released on January 20, 2017, the EP contains the first four tracks from Mayer's seventh studio album, \"The Search for Everything\". It includes the lead single \"Love on the Weekend\" and three new tracks.",
+          "semantic_score": 0.7060286998748779,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "755",
+          "text": "The Search for Everything: Wave Two\nThe Search for Everything: Wave Two (also shortened as Wave Two) is an extended play (EP) by American singer-songwriter John Mayer. Released on February 24, 2017 by Columbia and Sony Music, the EP contains four tracks from Mayer's seventh studio album, \"The Search for Everything\", and is a follow-up to its predecessor EP, \"\". It includes the lead single \"Still Feel Like Your Man\".",
+          "semantic_score": 0.6063502430915833,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9713",
+          "text": "Ian Gillan\nIan Gillan (born 19 August 1945) is an English singer and songwriter. He originally found commercial success as the lead singer and lyricist for Deep Purple.",
+          "semantic_score": 0.42328348755836487,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1589",
+          "text": "On Everything\n\"On Everything\" is a song by American musician DJ Khaled featuring American rappers Travis Scott, Rick Ross and Big Sean. It appeared on Khaled's tenth studio album, \"Grateful\" (2017). The song was written by DJ Khaled, Travis Scott, Rick Ross, Big Sean and Danja, the latter also co-produced it with Khaled. The song contains a recurring sample of \"Under the Sun\" by Mark Pritchard.",
+          "semantic_score": 0.41633376479148865,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1193",
+          "text": "Brandy Clark\nBrandy Lynn Clark (born October 9, 1975) is an American country music singer-songwriter. Her songs have been recorded by Sheryl Crow, Miranda Lambert, The Band Perry, Reba McEntire, LeAnn Rimes, Billy Currington, Darius Rucker, and Kacey Musgraves. She was nominated for Best New Artist at the 2015 Grammy Awards.",
+          "semantic_score": 0.4149044454097748,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9712",
+          "text": "Ray Fenwick\nRaymond John Fenwick (born 18 July 1946) is an English guitarist and session musician, best known for replacing Steve Howe in The Syndicats, and as the lead guitarist of Ian Gillan's post Deep Purple solo project, the Ian Gillan Band.",
+          "semantic_score": 0.33542582392692566,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9721",
+          "text": "Ian Gillan &amp; Tony Iommi: WhoCares\nWhoCares, full title Ian Gillan & Tony Iommi: WhoCares is a music project by Deep Purple frontman Ian Gillan and Black Sabbath guitarist Tony Iommi and a charity release by the supergroup WhoCares they had formed with the help of other musicians, to raise money to rebuild a music school in Gyumri, Armenia after the destruction of the city in the 1988 earthquake in Armenia.",
+          "semantic_score": 0.37844017148017883,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9719",
+          "text": "Gillan's Inn\nGillan's Inn is an album by Ian Gillan in celebration of his 40 years as a singer. The first release was a DualDisc composed of both a CD and a DVD side. The CD featured re-recorded tracks from all eras of Ian Gillan's singing career. In a recent interview Gillan observed that, despite the number of participants and guest appearances, this was the easiest project he ever put together.",
+          "semantic_score": 0.32334041595458984,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "John Mayer"
+    },
+    {
+      "step": 3,
+      "sub_question": "What music school did that singer attend?",
+      "retrieved": [
+        {
+          "id": "759",
+          "text": "John Mayer\nJohn Clayton Mayer ( ; born October 16, 1977) is an American singer-songwriter, guitarist, and producer. He was born in Bridgeport, Connecticut, and raised in nearby Fairfield. He attended Berklee College of Music in Boston, but disenrolled and moved to Atlanta in 1997 with Clay Cook. Together, they formed a short-lived two-man band called Lo-Fi Masters. After their split, Mayer continued to play local clubs—refining his skills and gaining a following. After his appearance at the 2001 South by Southwest Festival, he was signed to Aware Records, and then Columbia Records, which released his first EP, \"Inside Wants Out\". His following two full-length albums—\"Room for Squares\" (2001) and \"Heavier Things\" (2003)—did well commercially, achieving multi-platinum status. In 2003, he won the Grammy Award for Best Male Pop Vocal Performance for the single \"Your Body Is a Wonderland\".",
+          "semantic_score": 0.5929723978042603,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "780",
+          "text": "SoulStice\nAshley J. Llorens (also known as SoulStice), was born in 1979 in Chicago, IL. He started seriously pursuing music while earning his B.S. and M.S. at the University of Illinois in Urbana-Champaign. In 2003, SoulStice founded the independent label, Wandering Soul Records, concurrently with the release of his first album, North by Northwest. In addition to his career in music, he continues to pursue his career in Electrical Engineering as a Senior Researcher at the Johns Hopkins University Applied Physics Laboratory.",
+          "semantic_score": 0.4037518799304962,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "756",
+          "text": "People's Music School\nFounded in 1976, The People's Music School offers free group classes and private lessons to children and adults, regardless of their financial resources. People's Music School is located in Uptown, Chicago at 931 W. Eastwood Avenue. The School today offers instruction in 13 instruments (including woodwind, piano, percussion, and string instruments), as well as voice and theory classes to more than 350 students each year. In exchange for free music education, parents of the students volunteer at the school for two hours a month. The People's Music School also presents free concert performances to showcase the talents of its students and to give back to the neighborhood.",
+          "semantic_score": 0.38660940527915955,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "757",
+          "text": "Brooklyn Music School\nThe Brooklyn Music School is a community school for the performing arts in the Fort Greene neighborhood of Brooklyn, New York. The school was founded in 1912 as the Brooklyn Music School Settlement. It owns and operates a four-story building located at 126 St. Felix St. that contains twenty-four classrooms, three dance studios, and a 266-seat Spanish Style theatre. The Brooklyn Music School is a long-standing member of the National Guild of Community Schools of the Arts.",
+          "semantic_score": 0.3795325458049774,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4292",
+          "text": "Holger Geschwindner\nHolger Geschwindner (born September 12, 1945 in Bad Nauheim, Hesse) is a former basketball player, and is the mentor, coach and friend of the National Basketball Association's (NBA) Dallas Mavericks power forward Dirk Nowitzki. Geschwindner first met Nowitzki when the future basketball star was 16 years old.",
+          "semantic_score": 0.37357354164123535,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4293",
+          "text": "Silke Nowitzki\nSilke Nowitzki (born July 12, 1974 in Würzburg, West Germany) is a German former international basketball player. She is the manager of her brother Dirk Nowitzki.",
+          "semantic_score": 0.29266732931137085,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4288",
+          "text": "Dirk Nowitzki: German Wunderkind\nDirk Nowitzki : German Wunderkind is a biography of the German NBA basketball star Dirk Nowitzki, written by German sports journalists Dino Reisner and Holger Sauer. It was published in 2004 by the German \"Copress\" publishing house. It follows Nowitzki's life as a boy in Würzburg, how he turned to basketball as a teenager, broke through in Germany and eventually became the franchise player of the Dallas Mavericks in the NBA.",
+          "semantic_score": 0.24571044743061066,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4285",
+          "text": "Dirk Nowitzki\nDirk Werner Nowitzki (] ) (born June 19, 1978) is a German professional basketball player for the Dallas Mavericks of the National Basketball Association (NBA). An alumnus of Röntgen Gymnasium and the DJK Würzburg basketball club, Nowitzki was chosen as the ninth pick in the 1998 NBA draft by the Milwaukee Bucks and immediately traded to the Mavericks, where he has played since. Listed at 7 ft , Nowitzki is considered to be one of the greatest power forwards of all time.",
+          "semantic_score": 0.235715851187706,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "760",
+          "text": "Greenwich House Music School\nGreenwich House Music School is a community arts school located at 46 Barrow Street in New York City’s Greenwich Village. The School is a part of Greenwich House, an organization started in 1902 as part of the settlement movement providing arts education and social service programs. Greenwich House Music School was started in 1905 by the Greenwich House founder, Mary Kingsbury Simkhovitch, as a place for immigrant children to learn music after school, and has grown into a community music, art and dance school for both children and adults. Today, approximately 40 faculty members teach a range of instruments including piano, strings, guitar, harp, percussion, woodwinds, brass and Suzuki Violin. In addition to music, the school teaches early childhood classes in music and art, as well as ballet for children 3.5–18 years of age.",
+          "semantic_score": 0.3144036531448364,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Berklee College of Music"
+    }
+  ],
+  "links": [
+    {
+      "source": "763",
+      "target": "759",
+      "reason": "Paragraph 763 identifies John Mayer as the singer of The Search for Everything: Wave One; paragraph 759 states that John Mayer attended Berklee College of Music, directly bridging the singer to the school."
+    }
+  ],
+  "questions_seen": 77,
+  "_id": "5a8b45765542995d1e6f1333",
+  "correct_answer": "Berklee College of Music",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

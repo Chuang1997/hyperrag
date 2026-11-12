@@ -1,0 +1,240 @@
+{
+  "question": "Rimo I and Passu Sar are both part of which mountain range?",
+  "answer": "Karakoram",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is Rimo I?",
+      "retrieved": [
+        {
+          "id": "955",
+          "text": "Rimo I\nRimo I is the main summit of the Rimo massif with an elevation of 7385 m . It lies in the northern part of the remote Rimo Muztagh, a subrange of the Karakoram range. It is located about 20 km northeast of the snout of the Siachen Glacier and is the world's 71st highest mountain. \"Rimo\" means \"striped mountain\". The Rimo Glacier, originating here, drains to the Shyok river.",
+          "semantic_score": 0.621100902557373,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3017",
+          "text": "LeAnn Rimes (album)\nLeAnn Rimes is the eponymous fourth studio album by LeAnn Rimes, released in 1999.",
+          "semantic_score": 0.4102437198162079,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6344",
+          "text": "Hawkinsara\nHawkinsara, abbreviated Hknsa. in the horticultural trade, is an intergeneric hybrid of orchids, with parent genera \"Broughtonia\", \"Cattleya\", \"Laelia\" and \"Sophronitis\".",
+          "semantic_score": 0.40458014607429504,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2538",
+          "text": "Ipomoea aquatica\nIpomoea aquatica is a semiaquatic, tropical plant grown as a vegetable for its tender shoots and leaves. It is found throughout the tropical and subtropical regions of the world, although it is not known where it originated. This plant is known in English as water spinach, river spinach, water morning glory, water convolvulus, or by the more ambiguous names Chinese spinach, Chinese Watercress, Chinese convolvulus, swamp cabbage or kangkong in Southeast Asia. Occasionally, it has also been mistakenly called \"kale\" in English, although kale is a strain of mustard belonging to the species \"Brassica oleracea\" and is completely unrelated to water spinach, which is a species of morning glory. It is known as \"phak bung\" in Thai and Laotian, \"eng chai\" in Teochew and Hokkien, \"ong choy\" (蕹菜) in Cantonese, \"kongxincai\" (空心菜) in Mandarin Chinese, \"rau muống\" in Vietnamese, \"kangkong\" in Tagalog, \"kangkung\" in Indonesian and Malay, \"gazun\" in Myanmar, \"trokuon\" (ត្រកួន) in Khmer, \"kolmou xak\" in Assamese,\"வள்ளல்\" (vallal) in Tamil, \"kalmi saag\" in Hindi, \"kalmi shak\" in Bengali, \"Thooti Koora\" in Telugu, \"Kalama Saga\" in Odia, \"hayoyo\" in Ghana. In Suriname (South-America) it is known as \"dagoeblad\" or \"dagublad\".",
+          "semantic_score": 0.35100412368774414,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4406",
+          "text": "Soyo\nSoyo (formerly known as Santo António do Zaire) is a city located in the province of Zaire in Angola, at the mouth of the Congo river. Soyo recently became the largest oil-producing region in the country, with an estimate of 1200000 oilbbl/d .",
+          "semantic_score": 0.3431515693664551,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3012",
+          "text": "This Woman (LeAnn Rimes album)\nThis Woman is the seventh studio album by LeAnn Rimes released on January 25, 2005. While promoting \"This Woman\", she stated that it was her return to her \"roots\", country music. In essence, the album has a strong theme of love, falling in love and marriage. This could be due to LeAnn's own marriage to her back up dancer Dean Sheremet. The album was a success on the country charts. Like \"Twisted Angel\", Rimes helped pen tracks on the album (\"You Take Me Home\", \"I Got It Bad\" and \"When This Woman Loves a Man\").",
+          "semantic_score": 0.3252149522304535,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3016",
+          "text": "The Best of LeAnn Rimes\nThe Best of LeAnn Rimes is a greatest hits album by American country singer LeAnn Rimes, released in 2004, it tweaks the 2003 U.S. release \"Greatest Hits\", leaving behind some of the purer country hits that didn't translate outside of the U.S.—notably, Al Anderson's \"Big Deal\"—and concentrating on her big pop crossover hits, including \"How Do I Live,\" \"Can't Fight the Moonlight” and her duet with Ronan Keating, \"Last Thing on My Mind.",
+          "semantic_score": 0.3229953646659851,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3010",
+          "text": "I Need You (album)\nI Need You is the third compilation album from American recording artist LeAnn Rimes. The album was first released on January 30, 2001, through Curb Records to help satisfy Rimes' recording contract obligations during litigation with the label and her management. Rimes publicly disowned the album just days after its release, causing it to be discontinued. The album was then officially released by Rimes on March 26, 2002, with four additional tracks and a new recording: \"Light the Fire Within\". In 2008, the album was released as a package with Rimes' debut album, \"Blue\" (1996).",
+          "semantic_score": 0.3278363049030304,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2529",
+          "text": "Ipomoea indica\nIpomoea indica is a species of flowering plant in the family Convolvulaceae, known by several common names, including blue morning glory, oceanblue morning glory, koali awa, and blue dawn flower.",
+          "semantic_score": 0.31426090002059937,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2532",
+          "text": "Ipomoea carnea\nIpomoea carnea, the pink morning glory, is a species of morning glory. This flowering plant has heart-shaped leaves that are a rich green and 6 – long. It can be easily grown from seeds which are toxic and it can be hazardous to cattle; the toxicity is related to the swainsonine produced by endophytes and to bioaccumulation of selenium species in leaves but mostly in seeds",
+          "semantic_score": 0.29641664028167725,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Rimo I is the main summit of the Rimo massif with an elevation of 7385 m, located in the northern part of the remote Rimo Muztagh, a subrange of the Karakoram range."
+    },
+    {
+      "step": 2,
+      "sub_question": "What is Passu Sar?",
+      "retrieved": [
+        {
+          "id": "956",
+          "text": "Passu Sar\nPassu Sar (Urdu: ‎ ; or Passu Sar, Passu I) is a mountain peak in the Batura Muztagh, a sub-range of the Karakoram mountain range, located in the Gilgit District of Gilgit-Baltistan, Pakistan, west of the Hunza Valley. It is the high point of the Passu massif, which also includes Passu Diar (or \"Passu East\", \"Pasu II\"). The peak lies on the main ridge of the Batura Muztagh, about 7 km (4 mi) east of Batura Sar.",
+          "semantic_score": 0.7608144283294678,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "955",
+          "text": "Rimo I\nRimo I is the main summit of the Rimo massif with an elevation of 7385 m . It lies in the northern part of the remote Rimo Muztagh, a subrange of the Karakoram range. It is located about 20 km northeast of the snout of the Siachen Glacier and is the world's 71st highest mountain. \"Rimo\" means \"striped mountain\". The Rimo Glacier, originating here, drains to the Shyok river.",
+          "semantic_score": 0.687287449836731,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "962",
+          "text": "Yutmaru Sar\nYutmaru Sar is a mountain in the Hispar mountain range, a subrange of the Karakoram. At an elevation of 7283 m it is the 88th highest mountain in the world. Yutmaru Sar is located in Gilgit-Baltistan, Pakistan. It was first climbed in 1980.",
+          "semantic_score": 0.5302243232727051,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "961",
+          "text": "Distaghil Sar\nDisteghil Sar or Distaghil Sar (Urdu: ‎ ) is the highest mountain in the Hispar Muztagh, a subrange of the Karakoram mountain range, in Gilgit-Baltistan. It is the 19th highest mountain on earth and the 7th highest peak in Pakistan. Destghil sar is a Wakhi language word, that means \"above the inner ranch.\" The mountain has an about 3 km long top ridge above 7400m with three distinct summits: (north)west 7885m, central 7760 m, and (south)east 7696m or 7535m ().",
+          "semantic_score": 0.484281063079834,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "958",
+          "text": "Mingli Sar\nMingli Sar is a mountain located in the Shimshal valley in Gilgit-Baltistan, Pakistan. The mountain, located in the Karakoram mountain range, is 6050 meters high and located at the southernmost part of the Pamir mountain range. It was first climbed in 1988 by the famous Pakistani climber Nazir Sabir. Shimshal lake sits at the base of the mountain. China is located to the north, while to the left is the Hindukush mountain range. K2 is located on the south eastern side of the valley.",
+          "semantic_score": 0.48076075315475464,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "963",
+          "text": "Kanjut Sar\nKanjut Sar (Urdu: کنجت سر‎ ) or Kunjudh Sar as pronounced in \"Wakhi\" is a mountain located in the Hispar Muztagh, a subrange of the Karakoram mountain range. Kunjudh Sar in wakhi language mean that which overlooks Kunjudh, or above Kunjudh, while Khujudh is the wakhi name for Lower Hunza. It is the 26th highest mountain on Earth and the 11th highest in Pakistan.",
+          "semantic_score": 0.43193456530570984,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7568",
+          "text": "Yukshin Gardan Sar\nYukshin Gardan Sar (Urdu: ‎ ) is a high peak of the Hispar Muztagh, a subrange of the Karakoram range in Pakistan. Its height is also often given as 7,469 m (24,505 ft) or 7,641 m (25,069 ft). It lies about 15 km (9 mi) northeast of Khunyang Chhish and 5 km (3 mi) northwest of Kanjut Sar. It is flanked on the northwest by the Yazghil Glacier and on the northeast by the Yukshin Gardan Glacier; both drain into the Shimshal River.",
+          "semantic_score": 0.4683341085910797,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Passu Sar is a mountain peak in the Batura Muztagh, a sub-range of the Karakoram mountain range, located in the Gilgit District of Gilgit-Baltistan, Pakistan, west of the Hunza Valley."
+    },
+    {
+      "step": 3,
+      "sub_question": "Which mountain range contains both Rimo I and Passu Sar?",
+      "retrieved": [
+        {
+          "id": "956",
+          "text": "Passu Sar\nPassu Sar (Urdu: ‎ ; or Passu Sar, Passu I) is a mountain peak in the Batura Muztagh, a sub-range of the Karakoram mountain range, located in the Gilgit District of Gilgit-Baltistan, Pakistan, west of the Hunza Valley. It is the high point of the Passu massif, which also includes Passu Diar (or \"Passu East\", \"Pasu II\"). The peak lies on the main ridge of the Batura Muztagh, about 7 km (4 mi) east of Batura Sar.",
+          "semantic_score": 0.9379028081893921,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "958",
+          "text": "Mingli Sar\nMingli Sar is a mountain located in the Shimshal valley in Gilgit-Baltistan, Pakistan. The mountain, located in the Karakoram mountain range, is 6050 meters high and located at the southernmost part of the Pamir mountain range. It was first climbed in 1988 by the famous Pakistani climber Nazir Sabir. Shimshal lake sits at the base of the mountain. China is located to the north, while to the left is the Hindukush mountain range. K2 is located on the south eastern side of the valley.",
+          "semantic_score": 0.6414912939071655,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "961",
+          "text": "Distaghil Sar\nDisteghil Sar or Distaghil Sar (Urdu: ‎ ) is the highest mountain in the Hispar Muztagh, a subrange of the Karakoram mountain range, in Gilgit-Baltistan. It is the 19th highest mountain on earth and the 7th highest peak in Pakistan. Destghil sar is a Wakhi language word, that means \"above the inner ranch.\" The mountain has an about 3 km long top ridge above 7400m with three distinct summits: (north)west 7885m, central 7760 m, and (south)east 7696m or 7535m ().",
+          "semantic_score": 0.597857654094696,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "962",
+          "text": "Yutmaru Sar\nYutmaru Sar is a mountain in the Hispar mountain range, a subrange of the Karakoram. At an elevation of 7283 m it is the 88th highest mountain in the world. Yutmaru Sar is located in Gilgit-Baltistan, Pakistan. It was first climbed in 1980.",
+          "semantic_score": 0.5952490568161011,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7568",
+          "text": "Yukshin Gardan Sar\nYukshin Gardan Sar (Urdu: ‎ ) is a high peak of the Hispar Muztagh, a subrange of the Karakoram range in Pakistan. Its height is also often given as 7,469 m (24,505 ft) or 7,641 m (25,069 ft). It lies about 15 km (9 mi) northeast of Khunyang Chhish and 5 km (3 mi) northwest of Kanjut Sar. It is flanked on the northwest by the Yazghil Glacier and on the northeast by the Yukshin Gardan Glacier; both drain into the Shimshal River.",
+          "semantic_score": 0.5819167494773865,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "963",
+          "text": "Kanjut Sar\nKanjut Sar (Urdu: کنجت سر‎ ) or Kunjudh Sar as pronounced in \"Wakhi\" is a mountain located in the Hispar Muztagh, a subrange of the Karakoram mountain range. Kunjudh Sar in wakhi language mean that which overlooks Kunjudh, or above Kunjudh, while Khujudh is the wakhi name for Lower Hunza. It is the 26th highest mountain on Earth and the 11th highest in Pakistan.",
+          "semantic_score": 0.5424822568893433,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Karakoram"
+    }
+  ],
+  "links": [
+    {
+      "source": "955",
+      "target": "956",
+      "reason": "Paragraph 955 states Rimo I lies in the Rimo Muztagh, a subrange of the Karakoram range; paragraph 956 states Passu Sar lies in the Batura Muztagh, a sub-range of the Karakoram mountain range. Together they establish that both peaks belong to the Karakoram range."
+    }
+  ],
+  "questions_seen": 97,
+  "_id": "5a79fc8b5542994f819ef114",
+  "correct_answer": "Karakoram mountain range",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

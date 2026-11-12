@@ -1,0 +1,261 @@
+{
+  "question": " Legends of the Fall was based on a novella by what poetry and fiction writer?",
+  "answer": "Jim Harrison",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What novella is the film *Legends of the Fall* based on?",
+      "retrieved": [
+        {
+          "id": "948",
+          "text": "Legends of the Fall\nLegends of the Fall is a 1994 American epic drama film directed by Edward Zwick and starring Brad Pitt, Anthony Hopkins, Aidan Quinn, Julia Ormond and Henry Thomas. Based on the 1979 novella of the same title by Jim Harrison, the film is about three brothers and their father living in the wilderness and plains of Montana in the early 20th century and how their lives are affected by nature, history, war and love. The film's time frame spans from World War I through the Prohibition era, ending with a brief scene set in 1963. The film was nominated for three Academy Awards and won for Best Cinematography (John Toll). Both the film and book contain occasional Cornish language terms, the Ludlows being a Cornish emigrant family.",
+          "semantic_score": 0.6980549097061157,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "947",
+          "text": "Jim Harrison\nJames Harrison (December 11, 1937 – March 26, 2016) was an American writer known for his poetry, fiction, reviews, essays about the outdoors, and writings about food. He is best known for his 1979 novella \"Legends of the Fall\". He has been called \"a force of nature\", and his work has been compared to that of William Faulkner and Ernest Hemingway. Harrison's characters tend to be rural by birth and to have retained some qualities of their agrarian pioneer heritage which explains their sense of rugged intelligence and common sense. They attune themselves to both the natural and the civilized world, surrounded by excesses but determined to live their lives as well as possible.",
+          "semantic_score": 0.6506097316741943,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3897",
+          "text": "The Hunter of Fall (1918 film)\nThe Hunter of Fall (German: Der Jäger von Fall) is a 1918 German silent drama film directed by and starring Ludwig Beck. It is based on the 1883 novel \"The Hunter of Fall\" by Ludwig Ganghofer.",
+          "semantic_score": 0.5146301984786987,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2009",
+          "text": "The Fall (Camus novel)\nThe Fall (French: La Chute ) is a philosophical novel by Albert Camus. First published in 1956, it is his last complete work of fiction. Set in Amsterdam, \"The Fall\" consists of a series of dramatic monologues by the self-proclaimed \"judge-penitent\" Jean-Baptiste Clamence, as he reflects upon his life to a stranger. In what amounts to a confession, Clamence tells of his success as a wealthy Parisian defense lawyer who was highly respected by his colleagues; his crisis, and his ultimate \"fall\" from grace, was meant to invoke, in secular terms, The Fall of Man in the Garden of Eden. \"The Fall\" explores themes of innocence, imprisonment, non-existence, and truth. In a eulogy to Albert Camus, existentialist philosopher Jean-Paul Sartre described the novel as \"perhaps the most beautiful and the least understood\" of Camus' books.",
+          "semantic_score": 0.4489282965660095,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2199",
+          "text": "Autumn Crocus (film)\nAutumn Crocus is a 1934 British romance film directed by Basil Dean and starring Ivor Novello, Fay Compton and Muriel Aked. The film follows a teacher who falls in love with the married owner of the guest house in which she is staying during a holiday to Austria. It was based on Dodie Smith's first play \"Autumn Crocus\", previously a West End hit for director Basil Dean. The film was made by Associated Talking Pictures at Ealing Studios, with art direction by Edward Carrick. It was the final film appearance of its star, Ivor Novello. A contemporary reviewer wrote, \"Novello's schoolboy knees under his Tyrolean shorts make the audience, if not the players, feel bashful\".",
+          "semantic_score": 0.40674400329589844,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2005",
+          "text": "The Stranger (novel)\nL’Étranger (The Outsider [UK], or The Stranger [US]) is a 1942 novel by French author Albert Camus. Its theme and outlook are often cited as examples of Camus' philosophy of the absurd and existentialism, though Camus personally rejected the latter label.",
+          "semantic_score": 0.33880937099456787,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2006",
+          "text": "The Rebel (book)\nThe Rebel (French: \"L'Homme révolté\" ) is a 1951 book-length essay by Albert Camus, which treats both the metaphysical and the historical development of rebellion and revolution in societies, especially Western Europe. Camus relates writers and artists as diverse as Epicurus and Lucretius, Marquis de Sade, Georg Wilhelm Friedrich Hegel, Fyodor Dostoyevsky, Friedrich Nietzsche, Max Stirner, André Breton, and others in an integrated, historical portrait of man in revolt. Examining both rebellion and revolt, which may be seen as the same phenomenon in personal and social frames, Camus examines several 'countercultural' figures and movements from the history of Western thought and art, noting the importance of each in the overall development of revolutionary thought and philosophy.",
+          "semantic_score": 0.2455929070711136,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2010",
+          "text": "Marcel J. Melançon\nMarcel J. Mélançon is a Canadian philosopher and scientist. He was born in Saint-Barnabé, Quebec, in 1938, and is mostly known for his book on the French philosopher Albert Camus \"Albert Camus, An Analysis of his thought\" (Albert Camus. Analyse de sa pensée). He has mostly worked together with the biologist Richard D. Lambert.",
+          "semantic_score": 0.07610080391168594,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "\"Legends of the Fall\" by Jim Harrison"
+    },
+    {
+      "step": 2,
+      "sub_question": "Who wrote that novella?",
+      "retrieved": [
+        {
+          "id": "947",
+          "text": "Jim Harrison\nJames Harrison (December 11, 1937 – March 26, 2016) was an American writer known for his poetry, fiction, reviews, essays about the outdoors, and writings about food. He is best known for his 1979 novella \"Legends of the Fall\". He has been called \"a force of nature\", and his work has been compared to that of William Faulkner and Ernest Hemingway. Harrison's characters tend to be rural by birth and to have retained some qualities of their agrarian pioneer heritage which explains their sense of rugged intelligence and common sense. They attune themselves to both the natural and the civilized world, surrounded by excesses but determined to live their lives as well as possible.",
+          "semantic_score": 0.7977878451347351,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "948",
+          "text": "Legends of the Fall\nLegends of the Fall is a 1994 American epic drama film directed by Edward Zwick and starring Brad Pitt, Anthony Hopkins, Aidan Quinn, Julia Ormond and Henry Thomas. Based on the 1979 novella of the same title by Jim Harrison, the film is about three brothers and their father living in the wilderness and plains of Montana in the early 20th century and how their lives are affected by nature, history, war and love. The film's time frame spans from World War I through the Prohibition era, ending with a brief scene set in 1963. The film was nominated for three Academy Awards and won for Best Cinematography (John Toll). Both the film and book contain occasional Cornish language terms, the Ludlows being a Cornish emigrant family.",
+          "semantic_score": 0.6388301849365234,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2009",
+          "text": "The Fall (Camus novel)\nThe Fall (French: La Chute ) is a philosophical novel by Albert Camus. First published in 1956, it is his last complete work of fiction. Set in Amsterdam, \"The Fall\" consists of a series of dramatic monologues by the self-proclaimed \"judge-penitent\" Jean-Baptiste Clamence, as he reflects upon his life to a stranger. In what amounts to a confession, Clamence tells of his success as a wealthy Parisian defense lawyer who was highly respected by his colleagues; his crisis, and his ultimate \"fall\" from grace, was meant to invoke, in secular terms, The Fall of Man in the Garden of Eden. \"The Fall\" explores themes of innocence, imprisonment, non-existence, and truth. In a eulogy to Albert Camus, existentialist philosopher Jean-Paul Sartre described the novel as \"perhaps the most beautiful and the least understood\" of Camus' books.",
+          "semantic_score": 0.4433623254299164,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3897",
+          "text": "The Hunter of Fall (1918 film)\nThe Hunter of Fall (German: Der Jäger von Fall) is a 1918 German silent drama film directed by and starring Ludwig Beck. It is based on the 1883 novel \"The Hunter of Fall\" by Ludwig Ganghofer.",
+          "semantic_score": 0.4369499683380127,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2199",
+          "text": "Autumn Crocus (film)\nAutumn Crocus is a 1934 British romance film directed by Basil Dean and starring Ivor Novello, Fay Compton and Muriel Aked. The film follows a teacher who falls in love with the married owner of the guest house in which she is staying during a holiday to Austria. It was based on Dodie Smith's first play \"Autumn Crocus\", previously a West End hit for director Basil Dean. The film was made by Associated Talking Pictures at Ealing Studios, with art direction by Edward Carrick. It was the final film appearance of its star, Ivor Novello. A contemporary reviewer wrote, \"Novello's schoolboy knees under his Tyrolean shorts make the audience, if not the players, feel bashful\".",
+          "semantic_score": 0.3711816966533661,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2005",
+          "text": "The Stranger (novel)\nL’Étranger (The Outsider [UK], or The Stranger [US]) is a 1942 novel by French author Albert Camus. Its theme and outlook are often cited as examples of Camus' philosophy of the absurd and existentialism, though Camus personally rejected the latter label.",
+          "semantic_score": 0.297315776348114,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2006",
+          "text": "The Rebel (book)\nThe Rebel (French: \"L'Homme révolté\" ) is a 1951 book-length essay by Albert Camus, which treats both the metaphysical and the historical development of rebellion and revolution in societies, especially Western Europe. Camus relates writers and artists as diverse as Epicurus and Lucretius, Marquis de Sade, Georg Wilhelm Friedrich Hegel, Fyodor Dostoyevsky, Friedrich Nietzsche, Max Stirner, André Breton, and others in an integrated, historical portrait of man in revolt. Examining both rebellion and revolt, which may be seen as the same phenomenon in personal and social frames, Camus examines several 'countercultural' figures and movements from the history of Western thought and art, noting the importance of each in the overall development of revolutionary thought and philosophy.",
+          "semantic_score": 0.22268937528133392,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2010",
+          "text": "Marcel J. Melançon\nMarcel J. Mélançon is a Canadian philosopher and scientist. He was born in Saint-Barnabé, Quebec, in 1938, and is mostly known for his book on the French philosopher Albert Camus \"Albert Camus, An Analysis of his thought\" (Albert Camus. Analyse de sa pensée). He has mostly worked together with the biologist Richard D. Lambert.",
+          "semantic_score": 0.13439558446407318,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Jim Harrison"
+    },
+    {
+      "step": 3,
+      "sub_question": "Is that author also known as a poetry and fiction writer?",
+      "retrieved": [
+        {
+          "id": "947",
+          "text": "Jim Harrison\nJames Harrison (December 11, 1937 – March 26, 2016) was an American writer known for his poetry, fiction, reviews, essays about the outdoors, and writings about food. He is best known for his 1979 novella \"Legends of the Fall\". He has been called \"a force of nature\", and his work has been compared to that of William Faulkner and Ernest Hemingway. Harrison's characters tend to be rural by birth and to have retained some qualities of their agrarian pioneer heritage which explains their sense of rugged intelligence and common sense. They attune themselves to both the natural and the civilized world, surrounded by excesses but determined to live their lives as well as possible.",
+          "semantic_score": 0.5424095392227173,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "945",
+          "text": "Jim Aikin\nJames Douglas Aikin (born 1948) is an American science fiction writer based in Livermore, California. He is also a music technology writer, an interactive fiction writer, freelance editor and writer, cellist, and teacher. He frequently writes articles for various music industry magazines, including \"Electronic Musician\", \"Keyboard Magazine\", and \"Mix\".",
+          "semantic_score": 0.4983964264392853,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7694",
+          "text": "Jason Gray (poet)\nJason Gray is an American poet whose first book, \"Photographing Eden,\" was the winner of the Hollis Summers Prize from the Ohio University Press. Gray's poems have been published in \"The American Poetry Review\", \"The Kenyon Review\", \"Poetry\", and other prominent literary journals. He serves as co-editor of \"Unsplendid\", an online journal of formal poetry, and was the 2009 Peter Taylor Fellow at the Kenyon Review Writers' Workshop.",
+          "semantic_score": 0.4934253394603729,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7594",
+          "text": "Henry Meyer\nHenry Meyer (1840–1925) was a poet originally from",
+          "semantic_score": 0.49265480041503906,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9527",
+          "text": "Langston Hughes\nJames Mercer Langston Hughes (February 1, 1902 – May 22, 1967) was an American poet, social activist, novelist, playwright, and columnist from Joplin, Missouri.",
+          "semantic_score": 0.475787878036499,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9535",
+          "text": "Langston Hughes Society\nThe Langston Hughes Society is a United States-based literary society concerned with the work of African American poet Langston Hughes. The society was the first national organisation to be dedicated to the work of an African American writer. Founded after the poet's death and in the wake of the Langston Hughes Study conference of 1981 by Hughes' literary assistant George Houston Bass, the society's official publication is the \"Langston Hughes Review\", published by Institute for African American Studies at The University of Georgia. The organisation also presents the \"Langston Hughes Award\" annually.",
+          "semantic_score": 0.3418550193309784,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "948",
+          "text": "Legends of the Fall\nLegends of the Fall is a 1994 American epic drama film directed by Edward Zwick and starring Brad Pitt, Anthony Hopkins, Aidan Quinn, Julia Ormond and Henry Thomas. Based on the 1979 novella of the same title by Jim Harrison, the film is about three brothers and their father living in the wilderness and plains of Montana in the early 20th century and how their lives are affected by nature, history, war and love. The film's time frame spans from World War I through the Prohibition era, ending with a brief scene set in 1963. The film was nominated for three Academy Awards and won for Best Cinematography (John Toll). Both the film and book contain occasional Cornish language terms, the Ludlows being a Cornish emigrant family.",
+          "semantic_score": 0.17395907640457153,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9528",
+          "text": "Langston Hughes Medal\nThe Langston Hughes Medal has been awarded annually since 1978 to recognize an influential and distinguished writer associated with the African diaspora for their \"impressive works of poetry, fiction, drama, autobiography and critical essays that help to celebrate the memory and tradition of Langston Hughes\".",
+          "semantic_score": 0.2960154712200165,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9534",
+          "text": "I, Too (Langston Hughes poem)\nI, Too is a poem written by Langston Hughes that demonstrates a yearning for equality through perseverance while disproving the idea that patriotism is limited by race. It was first published in 1926, and published in \"The First Collection of Poems of Langston Hughes.\" This poem, along with other works by Hughes, helped define the Harlem Renaissance, a period in the early 1920s and 30s of newfound cultural identity for blacks in America who had discovered the power of literature, art, music, and poetry as a means of personal and collective expression in the scope of civil rights.",
+          "semantic_score": 0.28606659173965454,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9531",
+          "text": "Langston Hughes House\nLangston Hughes House is a historic home located in Harlem, Manhattan, New York City. It is an Italianate style dwelling built in 1869. It is a three story with basement, rowhouse faced in brownstone and measuring 20 feet wide and 45 feet deep. Noted African American poet and author Langston Hughes (1902-1967) occupied the top floor as his workroom from 1947 to 1967.",
+          "semantic_score": 0.20094124972820282,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "links": [
+    {
+      "source": "948",
+      "target": "947",
+      "reason": "948 identifies the novella as by Jim Harrison, and 947 confirms Harrison wrote the 1979 novella and describes him as a writer of poetry and fiction, bridging the film to the author's identity."
+    }
+  ],
+  "questions_seen": 96,
+  "_id": "5ab55a9b5542992aa134a2ba",
+  "correct_answer": "James Harrison",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

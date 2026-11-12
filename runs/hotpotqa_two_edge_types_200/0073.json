@@ -1,0 +1,289 @@
+{
+  "question": "What former president of ABC television is a high ranking officer in the same company as Christine Mccarthy?",
+  "answer": "Bob Iger",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Christine McCarthy and what company does she work for?",
+      "retrieved": [
+        {
+          "id": "733",
+          "text": "Christine McCarthy\nChristine M. McCarthy is an American businesswoman and the chief financial officer (CFO) of The Walt Disney Company. McCarthy reports to chief executive officer (CEO) Robert A. Iger.",
+          "semantic_score": 0.7156738042831421,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5178",
+          "text": "Liz McCarthy (fighter)\nLiz McCarthy is an American mixed martial artist who competes in the Atomweight division. She is signed with Invicta FC. McCarthy competed at Invicta 2 and 4 with a win and a loss. She returned at Invicta FC 9 against Amber Brown where she lost via split decision.",
+          "semantic_score": 0.5684430003166199,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2212",
+          "text": "Jeanne Marie Ford\nJeanne Marie Ford (previously known as \"Jeanne Marie Grunwell\") is an American television soap opera writer. She is also an English teacher at Hagerstown Community College.",
+          "semantic_score": 0.44814664125442505,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1194",
+          "text": "Michele Bachmann\nMichele Marie Bachmann ( ; \"née\" Amble; born April 6, 1956) is an American politician. A Republican, she is a former member of the United States House of Representatives, who represented Minnesota's 6th congressional district, a post she held from 2007 to 2015. The district includes several of the northern suburbs of the Twin Cities, as well as St. Cloud.",
+          "semantic_score": 0.44691002368927,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1195",
+          "text": "Michele Serros\nMichele Marie Serros (February 10, 1966 – January 4, 2015) was an American author, poet and comedic social commentator. Hailed as “a Woman to Watch in the New Century” by \"Newsweek\", She wrote several books and regularly contributed original commentaries to National Public Radio.",
+          "semantic_score": 0.43914785981178284,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1198",
+          "text": "Michele Bachmann presidential campaign, 2012\nThe 2012 presidential campaign of Michele Bachmann, Congresswoman of Minnesota, began in June 2011. She ran for the 2012 Republican Party nomination for president of the United States. Bachmann announced she was running for president during the CNN Republican primary debate held June 13, 2011, and made her formal announcement two weeks later in her hometown of Waterloo, Iowa.",
+          "semantic_score": 0.33901578187942505,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1189",
+          "text": "Tarryl Clark\nTarryl Lynn Clark (born July 31, 1961) is a Minnesota politician and a former member of the Minnesota Senate. A Democrat, she represented District 15, including portions of Benton, Sherburne, and Stearns counties, from 2006 to 2011. She was a Democratic-Farmer-Labor Party nominee for United States Congress in 2010, unsuccessfully challenging incumbent Republican Michele Bachmann.",
+          "semantic_score": 0.30470767617225647,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "728",
+          "text": "Bob Iger\nRobert Allen Iger ( ; born February 10, 1951) is an American businessman who is chairman and chief executive officer (CEO) of The Walt Disney Company. Before Disney, Iger served as the president of ABC Television from 1994 to 1995 and the president and chief operating officer (COO) of Capital Cities/ABC, Inc. from 1995 until Disney's acquisition of the company in 1996. He was named president and COO of Disney in 2000, and later succeeded Michael Eisner as CEO in 2005, after a successful effort by Roy E. Disney to shake up the management of the company. As part of his yearly compensation, Iger earned $44.9 million in 2015.",
+          "semantic_score": 0.1986820101737976,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2638",
+          "text": "Barbara Lee\nBarbara Jean Lee (born July 16, 1946) is the U.S. Representative for California 's 13th congressional district , serving East Bay voters from 1998 to 2013 during a time when the region was designated California 's 9 congressional district . She is a member of the Democratic Party. She was the first woman to represent the 9th district and is also the first woman to represent the 13th district. Lee was the Chair of the Congressional Black Caucus and was the Co-Chair of the Congressional Progressive Caucus. Lee is notable as the only member of either house of Congress to vote against the authorization of use of force following the September 11, 2001 attacks. This made her a hero among many in the anti-war movement. Lee has been a vocal critic of the war in Iraq and supports legislation creating a Department of Peace.",
+          "semantic_score": 0.2531645596027374,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "730",
+          "text": "Jay Rasulo\nJames A. \"Jay\" Rasulo was the Senior Executive VP and CFO of The Walt Disney Company. On June 30, 2015, Christine McCarthy was announced as his successor. Prior to being appointed CFO, he was chairman of Walt Disney Parks and Resorts from October 2005 until December 2009 when he switched positions with Thomas O. Staggs. He was made the president of the theme park division in September 2002, replacing Paul Pressler.",
+          "semantic_score": 0.20928536355495453,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Christine McCarthy is an American businesswoman and the chief financial officer (CFO) of The Walt Disney Company."
+    },
+    {
+      "step": 2,
+      "sub_question": "Who is a former president of ABC television?",
+      "retrieved": [
+        {
+          "id": "733",
+          "text": "Christine McCarthy\nChristine M. McCarthy is an American businesswoman and the chief financial officer (CFO) of The Walt Disney Company. McCarthy reports to chief executive officer (CEO) Robert A. Iger.",
+          "semantic_score": 0.8955968022346497,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "728",
+          "text": "Bob Iger\nRobert Allen Iger ( ; born February 10, 1951) is an American businessman who is chairman and chief executive officer (CEO) of The Walt Disney Company. Before Disney, Iger served as the president of ABC Television from 1994 to 1995 and the president and chief operating officer (COO) of Capital Cities/ABC, Inc. from 1995 until Disney's acquisition of the company in 1996. He was named president and COO of Disney in 2000, and later succeeded Michael Eisner as CEO in 2005, after a successful effort by Roy E. Disney to shake up the management of the company. As part of his yearly compensation, Iger earned $44.9 million in 2015.",
+          "semantic_score": 0.5559195876121521,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "730",
+          "text": "Jay Rasulo\nJames A. \"Jay\" Rasulo was the Senior Executive VP and CFO of The Walt Disney Company. On June 30, 2015, Christine McCarthy was announced as his successor. Prior to being appointed CFO, he was chairman of Walt Disney Parks and Resorts from October 2005 until December 2009 when he switched positions with Thomas O. Staggs. He was made the president of the theme park division in September 2002, replacing Paul Pressler.",
+          "semantic_score": 0.5150439739227295,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7978",
+          "text": "Disney Channels Worldwide\nDisney Channels Worldwide (officially ABC Cable Networks Group, Inc.) is a subsidiary of Disney–ABC Television Group, a unit of Disney Media Networks, the division of The Walt Disney Company that operates various children and family television channels around the world: Disney Channel, Disney XD, Disney Junior, Disney Cinemagic, Dlife, and Hungama TV. In addition, the subsidiary is responsible for operating Radio Disney, Disney Television Animation and It's a Laugh Productions.",
+          "semantic_score": 0.4774385392665863,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "724",
+          "text": "Disney–ABC Television Group\nABC, Inc. DBA the Disney–ABC Television Group (simply Disney–ABC), formerly known as Capital Cities/ABC Inc., is a subsidiary holdings company that manages all of The Walt Disney Company's Disney and ABC-branded television properties. The group includes the ABC Television Network (including ABC Daytime, ABC Entertainment, and ABC News divisions), as well as Disney's A&E Television Networks and its 80% controlling stake in ESPN, Inc. While holding the controlling stake in ESPN, Disney–ABC and ESPN operate as separate units of Disney Media Networks.",
+          "semantic_score": 0.4449542164802551,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7985",
+          "text": "Disney XD\nDisney XD is an American digital cable and satellite television channel that is owned by the Disney Channels Worldwide unit of the Disney–ABC Television Group, itself a unit of the Disney Media Networks division of The Walt Disney Company. Aimed primarily at children ages 6-14, its programming consists of original first-run television series, current and former original series and made-for-cable films from sister network Disney Channel, theatrically-released films, and acquired programs from other distributors.",
+          "semantic_score": 0.3647668957710266,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7987",
+          "text": "Disney Junior\nDisney Junior is an American digital cable and satellite television network that is owned by the Disney Channels Worldwide unit of the Disney–ABC Television Group, itself a unit of the Disney Media Networks division of The Walt Disney Company. Aimed mainly at children 8 years and under, its programming consists of original first-run television series, theatrically-released and made-for-DVD movies and select other third-party programming.",
+          "semantic_score": 0.37908241152763367,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7979",
+          "text": "Radio Disney\nRadio Disney, also known as Radio Disney Networks (corporate name Radio Disney, Inc.), is an American radio network that is owned by Disney Channels Worldwide, Inc., a subsidiary of Disney–ABC Television Group, a primary component of The Walt Disney Company's Disney Media Networks segment. Radio Disney Networks broadcasts three separated digital channels, Radio Disney, Radio Disney Country and Radio Disney Junior, via radio station's HD channel or by online stream sites. The original Radio Disney network play music and other content aimed at preteens and young teenagers; it can be described as a youth-targeted contemporary hit radio format with heavy emphasis on teen idols. Recently Radio Disney has become a Mainstream Top 40 Indicator reporter on Nielsen-BDS eventually being upgraded to monitored status with Nielsen-BDS. Radio Disney is also a monitored reporter on the Mediabase 24/7 Top 40 panel. The network is headquartered in Burbank, California.",
+          "semantic_score": 0.41321682929992676,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7984",
+          "text": "Disney Cinemagic\nDisney Cinemagic is a pay-cable movie channel owned by Walt Disney Company Limited (UK) operating primarily in European markets by Disney Channels Worldwide. Additionally, there are similar channels, run by Sky UK, , in the UK and Foxtel, Foxtel Movies Disney in Australia.",
+          "semantic_score": 0.38577064871788025,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4685",
+          "text": "Capital Cities/ABC Inc.\nCapital Cities/ABC Inc., founded as Capital Cities Communications (and sometimes referred to as \"CapCities\"), was an American media company. It purchased the much larger American Broadcasting Company in 1985, becoming Capital Cities/ABC, Inc. It was purchased by The Walt Disney Company and re-branded as Disney–ABC Television Group in 1996 as the holdings subsidiary for Disney's branded television properties.",
+          "semantic_score": 0.38907212018966675,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Bob Iger"
+    },
+    {
+      "step": 3,
+      "sub_question": "Is that former president of ABC television a high-ranking officer in the same company as Christine McCarthy?",
+      "retrieved": [
+        {
+          "id": "733",
+          "text": "Christine McCarthy\nChristine M. McCarthy is an American businesswoman and the chief financial officer (CFO) of The Walt Disney Company. McCarthy reports to chief executive officer (CEO) Robert A. Iger.",
+          "semantic_score": 0.6541231870651245,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "728",
+          "text": "Bob Iger\nRobert Allen Iger ( ; born February 10, 1951) is an American businessman who is chairman and chief executive officer (CEO) of The Walt Disney Company. Before Disney, Iger served as the president of ABC Television from 1994 to 1995 and the president and chief operating officer (COO) of Capital Cities/ABC, Inc. from 1995 until Disney's acquisition of the company in 1996. He was named president and COO of Disney in 2000, and later succeeded Michael Eisner as CEO in 2005, after a successful effort by Roy E. Disney to shake up the management of the company. As part of his yearly compensation, Iger earned $44.9 million in 2015.",
+          "semantic_score": 0.5377061367034912,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5676",
+          "text": "Walter Cronkite\nWalter Leland Cronkite Jr. (November 4, 1916 – July 17, 2009) was an American broadcast journalist, best known as anchorman for the \"CBS Evening News\" for 19 years (1962–1981). During the heyday of CBS News in the 1960s and 1970s, he was often cited as \"the most trusted man in America\" after being so named in an opinion poll.",
+          "semantic_score": 0.4532928168773651,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8050",
+          "text": "Howie Lind\nHoward R. Lind (born October 3, 1957) is a retired U.S. Navy commander, former Special Assistant in the Office of the Secretary of Defense, former 10th Congressional District Republican chairman, was a 2014 candidate for the U.S. Senate in Virginia, and a 2014 candidate for the Republican nomination in Virginia's 10th Congressional District.",
+          "semantic_score": 0.43186360597610474,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3450",
+          "text": "Terry Halvorsen\nTerry Halvorsen is a retired American military officer who is a former Chief Information Officer at the US Department of Defense. He previously served as the Acting Department of Defense Chief Information Officer and the Department of the Navy Chief Information Officer.",
+          "semantic_score": 0.43024376034736633,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5673",
+          "text": "Terry Drinkwater\nTerry Drinkwater (May 9, 1936 – May 31, 1989) was an American television and radio journalist most widely known for his quarter-century career as a correspondent for CBS News. Drinkwater was also an anchorman for the West Coast editions of the \"CBS Evening News\", covering events that occurred after the East Coast version with Walter Cronkite aired.",
+          "semantic_score": 0.3428751528263092,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5678",
+          "text": "CBS Evening News\nCBS Evening News is the flagship evening television news program of CBS News, the news division of the CBS television network in the United States. The program has been broadcast since May 3, 1948 under the original title \"CBS Television News\", eventually adopting its current title in 1963. Since June 19, 2017, the program is anchored by Anthony Mason on an interim basis. Previous anchors have included Douglas Edwards, Walter Cronkite, Dan Rather, Connie Chung, Bob Schieffer, Katie Couric and Scott Pelley.",
+          "semantic_score": 0.2237771898508072,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4685",
+          "text": "Capital Cities/ABC Inc.\nCapital Cities/ABC Inc., founded as Capital Cities Communications (and sometimes referred to as \"CapCities\"), was an American media company. It purchased the much larger American Broadcasting Company in 1985, becoming Capital Cities/ABC, Inc. It was purchased by The Walt Disney Company and re-branded as Disney–ABC Television Group in 1996 as the holdings subsidiary for Disney's branded television properties.",
+          "semantic_score": 0.26988816261291504,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5677",
+          "text": "Sanford Socolow\nSanford Socolow (November 11, 1928 – January 31, 2015) was an American broadcast journalist who worked at CBS News from 1956 to 1988. He was executive producer of \"The CBS Evening News with Walter Cronkite\" from 1978 to 1981.",
+          "semantic_score": 0.3067110478878021,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5674",
+          "text": "Dan Rather\nDaniel Irvin Rather Jr. (born October 31, 1931) is an American journalist and the former news anchor for the \"CBS Evening News.\" He was most recently managing editor and anchor of the television news magazine \"Dan Rather Reports\" on the cable channel AXS TV. Rather was anchor of the \"CBS Evening News\" for 24 years, from March 9, 1981, to March 9, 2005. He also contributed to CBS's \"60 Minutes\". Rather became embroiled in controversy about a disputed news report involving President George W. Bush's Vietnam-era service in the National Guard and subsequently left \"CBS Evening News\" in 2005, and he left the network entirely after 44 years in 2006.",
+          "semantic_score": 0.32980817556381226,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "links": [
+    {
+      "source": "733",
+      "target": "728",
+      "reason": "733 establishes Christine McCarthy is CFO of The Walt Disney Company; 728 establishes Bob Iger was president of ABC Television and is now chairman/CEO of The Walt Disney Company, bridging the same-company and former-ABC-president conditions."
+    }
+  ],
+  "questions_seen": 74,
+  "_id": "5a85df525542994c784ddb9f",
+  "correct_answer": "Robert A. Iger",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

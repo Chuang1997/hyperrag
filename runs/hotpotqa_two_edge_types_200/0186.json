@@ -1,0 +1,254 @@
+{
+  "question": "In which sport does both Virginia Ruzici and Andy Murray participate?",
+  "answer": "Tennis",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What sport does Virginia Ruzici participate in?",
+      "retrieved": [
+        {
+          "id": "1848",
+          "text": "Virginia Ruzici\nVirginia Ruzici (born 31 January 1955) is a former professional tennis player from Romania. She won the 1978 French Open singles championship.",
+          "semantic_score": 0.6947097182273865,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1850",
+          "text": "1978 BMW Challenge – Singles\nVirginia Ruzici won the singles title at the 1978 BMW Challenge tennis tournament, defeating Betty Stöve in the final 5–7, 6–2, 7–5, winning her 5th title on the WTA Tour.",
+          "semantic_score": 0.4487261176109314,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1856",
+          "text": "1983 Virginia Slims of Detroit\nThe 1983 Virginia Slims of Detroit was a women's tennis tournament played on indoor carpet courts at the Cobo Hall & Arena in Detroit, Michigan in the United States that was part of the 1983 Virginia Slims World Championship Series. The tournament was held from October 3 through October 9, 1983. Eighth-seeded Virginia Ruzici won the singles title and earned $28,000 first-prize money.",
+          "semantic_score": 0.44869330525398254,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8112",
+          "text": "Mary Pierce\nMary Pierce (born 15 January 1975) is a French retired tennis professional who played on the Women's Tennis Association (WTA) tour. Born in Canada, she is a citizen of Canada, and the United States. Pierce played for France in team competitions and in the Olympics.",
+          "semantic_score": 0.4334928095340729,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1851",
+          "text": "1978 French Open – Women's Singles\nVirginia Ruzici defeated Mima Jaušovec 6–2, 6–2 in the final to win the Women's Singles tennis title at the 1978 French Open.",
+          "semantic_score": 0.40985381603240967,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1857",
+          "text": "1978 BMW Challenge\nThe 1978 BMW Challenge was a women's singles tennis tournament played on indoor carpet courts at the Brighton Centre in Brighton in England. The event was part of the AA category of the 1978 Colgate Series. It was the inaugural edition of the tournament and was held from 16 October through 22 October 1978. Fifth-seeded Virginia Ruzici won the singles title and earned $14,000 first-prize money.",
+          "semantic_score": 0.346343070268631,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1849",
+          "text": "1980 French Open – Women's Singles\nChris Evert defeated Virginia Ruzici 6–0, 6–3 in the final to win the Women's Singles tennis title at the 1980 French Open.",
+          "semantic_score": 0.38096800446510315,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Tennis"
+    },
+    {
+      "step": 2,
+      "sub_question": "What sport does Andy Murray participate in?",
+      "retrieved": [
+        {
+          "id": "1855",
+          "text": "Andy Murray\nSir Andrew Barron Murray, {'1': \", '2': \", '3': \", '4': \"} (born 15 May 1987) is a British professional tennis player from Scotland currently ranked world no. 3 in men's singles. Murray represents Great Britain in his sporting activities and is a three-time Grand Slam tournament winner, two-time Olympic champion, Davis Cup champion and the winner of the 2016 ATP World Tour Finals.",
+          "semantic_score": 0.6920878291130066,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1426",
+          "text": "Stefan Edberg\nStefan Bengt Edberg (] ; born 19 January 1966) is a Swedish former world no. 1 professional tennis player (in both singles and doubles). A major proponent of the serve-and-volley style of tennis, he won six Grand Slam singles titles and three Grand Slam men's doubles titles between 1985 and 1996. He also won the Masters Grand Prix and was a part of the Swedish Davis Cup-winning-team four times. In addition he won four Masters Series titles, four Championship Series titles and the unofficial Olympic tournament 1984, was ranked in the singles top 10 for ten successive years, 9 years in the top 5, and is considered one of the greatest players of his era. Edberg began coaching Roger Federer in January 2014, with this partnership ending in December 2015.",
+          "semantic_score": 0.46166518330574036,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6540",
+          "text": "George Morgan (tennis)\nGeorge Morgan (born 7 February 1993) is a British tennis player. He won the Boys' Doubles title at the 2011 Wimbledon Championships alongside Mate Pavić.",
+          "semantic_score": 0.44185879826545715,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8796",
+          "text": "2005 BA-CA-TennisTrophy\nThe 2005 BA-CA-TennisTrophy was a tennis tournament played on indoor hard courts. It was the 31st edition of the event known that year as the BA-CA-TennisTrophy, and was part of the International Series Gold of the 2005 ATP Tour. It took place at the Wiener Stadthalle in Vienna, Austria, from October 10 through October 16, 2005.",
+          "semantic_score": 0.4384971857070923,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8798",
+          "text": "2006 BA-CA-TennisTrophy\nThe 2006 BA-CA-TennisTrophy was a tennis tournament played on indoor hard courts. It was the 32nd edition of the event known that year as the BA-CA-TennisTrophy, and was part of the International Series Gold of the 2006 ATP Tour. It took place at the Wiener Stadthalle in Vienna, Austria, from October 9 through October 15, 2006.",
+          "semantic_score": 0.4334639608860016,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8799",
+          "text": "2004 BA-CA-TennisTrophy\nThe 2004 BA-CA-TennisTrophy was a tennis tournament played on indoor hard courts. It was the 30th edition of the event known that year as the BA-CA-TennisTrophy, and was part of the International Series Gold of the 2004 ATP Tour. It took place at the Wiener Stadthalle in Vienna, Austria, from October 11 through October 17, 2004.",
+          "semantic_score": 0.42146459221839905,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8792",
+          "text": "2007 BA-CA-TennisTrophy\nThe 2007 BA-CA-TennisTrophy was a tennis tournament played on indoor hard courts. It was the 33rd edition of the event known that year as the BA-CA-TennisTrophy, and was part of the International Series Gold of the 2007 ATP Tour. It took place at the Wiener Stadthalle in Vienna, Austria, from October 7 through October 14, 2007.",
+          "semantic_score": 0.4265769124031067,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1419",
+          "text": "Becker–Edberg rivalry\nThe tennis players Boris Becker (Germany) and Stefan Edberg (Sweden) met 35 times between 1984 and 1996. Although Becker led their overall head-to-head series 25–10 and won all three of their Davis Cup matches, Edberg won three of their four meetings in Grand Slams. Edberg and Becker also reached the world Tour Finals in 1989 which Edberg won in Four sets.",
+          "semantic_score": 0.3865452706813812,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Tennis"
+    },
+    {
+      "step": 3,
+      "sub_question": "Do these two sports match?",
+      "retrieved": [
+        {
+          "id": "6537",
+          "text": "2017 Open 13 – Doubles\nMate Pavić and Michael Venus were the defending champions, but Venus chose to compete in Delray Beach instead. Pavić played alongside Alexander Peya, but lost in the quarterfinals to Robin Haase and Dominic Inglot.",
+          "semantic_score": 0.5068802833557129,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4310",
+          "text": "1998 Stella Artois Championships\nThe 1998 Stella Artois Championships was a men's tennis tournament played on grass courts at the Queen's Club in London in the United Kingdom and was part of the World Series of the 1998 ATP Tour. It was the 96 edition of the tournament and was held from June 8 through June 15, 1998. Scott Draper won the singles title.",
+          "semantic_score": 0.473360538482666,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4311",
+          "text": "Peter Curtis (tennis)\nPeter Curtis (born 29 August 1945 ) is a former British professional tennis player. Peter Curtis won one Grand Slam in mixed doubles with his wife at the time Mary Ann Eisel Curtis.",
+          "semantic_score": 0.46056610345840454,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4053",
+          "text": "2000 Sparkassen Cup – Doubles\nMary Pierce and Larisa Neiland were the defending champions, but none competed this year. Neiland retired from professional tennis during this season.",
+          "semantic_score": 0.45709228515625,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1421",
+          "text": "Edberg–Lendl rivalry\nThe tennis players Stefan Edberg (Sweden) and Ivan Lendl (Czechoslovakia, 1978–92/United States, 1992–94) met 27 times during their careers. Edberg leads the series 14–13. In an interview with the ATP in 2008 Edberg reflected on his classic rivalries.",
+          "semantic_score": 0.4521035850048065,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6536",
+          "text": "2017 Open Sud de France – Doubles\nMate Pavić and Michael Venus were the defending champions, but Pavić chose to compete in Sofia instead. Venus played alongside Robert Lindstedt, but lost in the quarterfinals to Alexander and Mischa Zverev.",
+          "semantic_score": 0.4302385449409485,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6535",
+          "text": "2017 Ricoh Open – Men's Doubles\nMate Pavić and Michael Venus were the defending champions, but Pavić chose to compete in Stuttgart instead. Venus played alongside André Sá, but lost to Łukasz Kubot and Marcelo Melo in the semifinals.",
+          "semantic_score": 0.40396738052368164,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6543",
+          "text": "2017 ASB Classic – Men's Doubles\nMate Pavić and Michael Venus were the defending champions, but Pavić chose to compete in Sydney instead. Venus played alongside Robert Lindstedt, but lost in the first round to Nicholas Monroe and Artem Sitak.",
+          "semantic_score": 0.43897345662117004,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1419",
+          "text": "Becker–Edberg rivalry\nThe tennis players Boris Becker (Germany) and Stefan Edberg (Sweden) met 35 times between 1984 and 1996. Although Becker led their overall head-to-head series 25–10 and won all three of their Davis Cup matches, Edberg won three of their four meetings in Grand Slams. Edberg and Becker also reached the world Tour Finals in 1989 which Edberg won in Four sets.",
+          "semantic_score": 0.4052833914756775,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6538",
+          "text": "Mate Pavić\nMate Pavić (born 4 July 1993) is a Croatian professional tennis player specialising in doubles. Mate won the 2016 US Open mixed doubles title in partnership with Laura Siegemund, and reached the 2017 Wimbledon Championships men's doubles finals partnering Oliver Marach.",
+          "semantic_score": 0.4346924424171448,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "links": [
+    {
+      "source": "1848",
+      "target": "1855",
+      "reason": "Paragraph 1848 states Virginia Ruzici is a former professional tennis player, and paragraph 1855 states Andy Murray is a British professional tennis player, directly establishing that both participate in tennis."
+    }
+  ],
+  "questions_seen": 187,
+  "_id": "5add97c15542997545bbbd80",
+  "correct_answer": "professional tennis player",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

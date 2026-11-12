@@ -1,0 +1,275 @@
+{
+  "question": "Who has written more than 300 papers, Semyon Aranovich Gershgorin or Pavel Alexandrov?",
+  "answer": "Pavel Alexandrov",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "How many papers has Semyon Aranovich Gershgorin written?",
+      "retrieved": [
+        {
+          "id": "390",
+          "text": "Semyon Aranovich Gershgorin\nSemyon Aronovich Gershgorin (August 24, 1901 – May 30, 1933) was a Soviet (born in Pruzhany, Belarus, Russian Empire) mathematician. He began as a student at the Petrograd Technological Institute in 1923, became a Professor in 1930, and was given an appointment at the Leningrad Mechanical Engineering Institute in the same year. His contributions include the Gershgorin circle theorem.",
+          "semantic_score": 0.5856621265411377,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "388",
+          "text": "Semyon Aranovich\nSemyon Davidovich Aranovich (Ukrainian: Семён Аранович, 23 July 1934, Derazhnya, Ukraine, Soviet Union – 8 September 1996, Hamburg, Germany) was a Soviet and Russian film director.",
+          "semantic_score": 0.4383665919303894,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8634",
+          "text": "Ilyas Afandiyev\nIlyas Mahammad oglu Afandiyev (Azerbaijani: \"Əfəndiyev İlyas Məhəmməd oğlu\" ) was an Azerbaijani and Soviet writer, member of Azerbaijan Union of Writers (1940), Honored Art Worker of Azerbaijan (1960), laureate of the State Prize of Azerbaijan (1972) and People’s Writer of Azerbaijan (1979).",
+          "semantic_score": 0.4354393482208252,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "393",
+          "text": "Gershgorin circle theorem\nIn mathematics, the Gershgorin circle theorem may be used to bound the spectrum of a square matrix. It was first published by the Soviet mathematician Semyon Aronovich Gershgorin in 1931. The spelling of S. A. Gershgorin's name has been transliterated in several different ways, including Geršgorin, Gerschgorin, Gershgorin, Hershhorn, and Hirschhorn.",
+          "semantic_score": 0.4250916540622711,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7197",
+          "text": "Joseph Epstein (writer)\nJoseph Epstein (born January 9, 1937) is an essayist, short-story writer, and editor. From 1974 to 1998 he was the editor of the magazine \"The American Scholar\".",
+          "semantic_score": 0.40500545501708984,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8626",
+          "text": "Aliagha Vahid\nAliagha Vahid (Azerbaijani: \"Əliağa Vahid\" ), born Aliagha Mammadqulu oglu Isgandarov (17 February 1895, Baku – 1 October 1965, Baku), was an Azerbaijani poet and Honoured Artist of the Azerbaijan SSR (1943). He was known for reintroducing medieval ghazel style in Soviet Azerbaijani poetry.",
+          "semantic_score": 0.29293492436408997,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9509",
+          "text": "Vladimir Danilevich\nVladimir Petrovich Danilevich (Russian: Владимир Петрович Данилевич ; 4 September 1924 — 9 October 2001) was well-known Soviet and Russian Animator: who successfully worked as the film director, the screenwriter, the art director and the animator.",
+          "semantic_score": 0.22144831717014313,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8627",
+          "text": "Rauf Atakishiyev\nRauf Israfil oglu Atakishiyev (Azerbaijani: \"Rauf Atakişiyev\" ) was a Soviet Azerbaijani singer, pianist, singer-soloist, People's Artist of the Azerbaijan SSR (1967), professor (1972).",
+          "semantic_score": 0.35725265741348267,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1"
+    },
+    {
+      "step": 2,
+      "sub_question": "How many papers has Pavel Alexandrov written?",
+      "retrieved": [
+        {
+          "id": "386",
+          "text": "Pavel Alexandrov\nPavel Sergeyevich Alexandrov (Russian: Па́вел Серге́евич Алекса́ндров ), sometimes romanized Paul Alexandroff or Aleksandrov (7 May 1896 – 16 November 1982), was a Soviet mathematician. He wrote about three hundred papers, making important contributions to set theory and topology.",
+          "semantic_score": 0.6358059048652649,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1652",
+          "text": "List of compositions by Béla Bartók\nThis aspires to be a complete list of compositions by Béla Bartók. The catalogue numbering by András Szőllősy (Sz.), László Somfai (BB.) and Denijs Dille (DD.) are provided, as well as Bartók's own opus numbers. Note that Bartók started three times anew with opus numbers, here indicated with \"(list 1)\", \"(list 2)\" and \"(list 3)\" respectively. The pieces from the third listing are by far best known; opus lists 1 and 2 are early works. The year of composition and instrumentation (including voice) are included. See the main article on Béla Bartók for more details.",
+          "semantic_score": 0.44503578543663025,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9433",
+          "text": "Vasil Bykaŭ\nVasíl Uładzímiravič Býkaŭ (often spelled Vasil Bykov, Belarusian: Васі́ль Уладзі́міравіч Бы́каў , Russian: Василь Влади́мирович Быков ) (June 19, 1924 – June 22, 2003) was a prolific author of novels and novellas about World War II and a significant figure in Belarusian literature and civic thought. His work earned him endorsements for the Nobel Prize nomination from, among others, Nobel Prize laureates Joseph Brodsky and Czesław Miłosz.",
+          "semantic_score": 0.42959144711494446,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3243",
+          "text": "Ilya Ehrenburg\nIlya Grigoryevich Ehrenburg (Russian: Илья́ Григо́рьевич Эренбу́рг , ] ; 27 January [O.S. 15 January] 1891 – 31 August 1967) was a Soviet writer, journalist, translator, and cultural figure.",
+          "semantic_score": 0.4213193356990814,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4821",
+          "text": "Crime and Punishment\nCrime and Punishment (Russian: Преступлéние и наказáние , \"Prestupleniye i nakazaniye\"; ] ) is a novel by the Russian author Fyodor Dostoyevsky. It was first published in the literary journal \"The Russian Messenger\" in twelve monthly installments during 1866. Later, it was published in a single volume. It is the second of Dostoyevsky's full-length novels following his return from 5 years of exile in Siberia. \"Crime and Punishment\" is considered the first great novel of his \"mature\" period of writing.",
+          "semantic_score": 0.40233394503593445,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1654",
+          "text": "Suite, Op. 14 (Bartók)\nThe Suite, Op. 14, Sz. 62, BB 70 is a piece for solo piano written by Béla Bartók. It was written in February 1916, published in 1918, and debuted by the composer on April 21, 1919, in Budapest. The Suite is one of Bartók's most significant works for piano, only comparable with his 1926 Piano Sonata. Though much of Bartók's work makes frequent use of Eastern European folk music, this suite is one of the few pieces without melodies of folk origin. However, Romanian, Arabic, and North African rhythmic influences can still be found in some movements. Originally intending the suite to be a five-movement work, Bartók later decided against the idea and discarded the second movement, the \"Andante\", which was published only posthumously in the October 1955 issue of \"Új Zenei Szemle\" (New Musical Review).",
+          "semantic_score": 0.31083664298057556,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1650",
+          "text": "List of string quartets by Béla Bartók\nThe Hungarian composer Béla Bartók wrote six string quartets, each for the usual forces of two violins, viola and cello. Notable composers who have been influenced by them include Benjamin Britten, particularly in the Sonata in C for Cello and Piano (; ), Elliott Carter, who refers in the opening of his own First String Quartet to Bartók’s Sixth Quartet , Chen Yi , Edison Denisov, whose Second Quartet is closely related to Bartók’s Fifth Quartet , Franco Donatoni, who was deeply impressed when he heard a broadcast of Bartók's Fourth Quartet , Robert Fripp, who mentions them as an influence upon King Crimson , Miloslav Ištvan , György Kurtág, whose Opp. 1 and 28 both owe a great deal to Bartók's quartets (; ), György Ligeti, whose two string quartets both owe a great deal to Bartók’s quartets (; ), Bruno Maderna , George Perle, who credits the Bartók Fourth and Fifth Quartets as precedents for his use of arrays of chords related to one another by different types of symmetry , Walter Piston (; ), Kim Dzmitrïyevich Tsesakow , Wilfried Westerlinck , Stefan Wolpe, who explained in a public lecture how he had derived ideas from Bartók’s Fourth Quartet , and Xu Yongsan .",
+          "semantic_score": 0.2770516872406006,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4803",
+          "text": "Dostoevsky and Parricide\n\"Dostoevsky and Parricide\" (German: \"Dostojewski und die Vatertötung\" ) is an introductory article contributed by Sigmund Freud to a scholarly collection on \"The Brothers Karamazov\" by Fyodor Dostoyevsky. The collection was published in 1928. The article argues that it is no coincidence that some of the greatest works of world literature - including \"Oedipus Rex\", \"Hamlet\", as well as \"The Brothers Karamazov\" – all concern parricide, which in Dostoevsky's case Freud links to his epilepsy.",
+          "semantic_score": 0.3378967344760895,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9428",
+          "text": "Czesław Miłosz\nCzesław Miłosz ( ; 30 June 1911 – 14 August 2004) was a Polish poet, prose writer, translator and diplomat. His World War II-era sequence \"The World\" is a collection of twenty \"naïve\" poems. Following the war, he served as Polish cultural attaché in Paris and Washington, D.C., then in 1951 defected to the West. His nonfiction book \"The Captive Mind\" (1953) became a classic of anti-Stalinism. From 1961 to 1998 he was a professor of Slavic Languages and Literatures at the University of California, Berkeley. He became a U.S. citizen in 1970. In 1978 he was awarded the Neustadt International Prize for Literature, and in 1980 the Nobel Prize in Literature. In 1999 he was named a Puterbaugh Fellow. After the fall of the Iron Curtain, he divided his time between Berkeley, California, and Kraków, Poland.",
+          "semantic_score": 0.3376309871673584,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "387",
+          "text": "Alexandroff extension\nIn the mathematical field of topology, the Alexandroff extension is a way to extend a noncompact topological space by adjoining a single point in such a way that the resulting space is compact. It is named for the Russian mathematician Pavel Alexandrov.",
+          "semantic_score": 0.3150843679904938,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Three hundred papers."
+    },
+    {
+      "step": 3,
+      "sub_question": "Which of them has written more than 300 papers?",
+      "retrieved": [
+        {
+          "id": "9536",
+          "text": "Bibliography of Abraham Lincoln\nThis bibliography of Abraham Lincoln is a comprehensive list of written and published works about or by Abraham Lincoln, 16th President of the United States. In terms of primary sources containing Lincoln's letters and writings, scholars rely on \"The Collected Works of Abraham Lincoln\", edited by Roy Basler, and others. It only includes writings by Lincoln, and omits incoming correspondence. In the six decades since Basler completed his work, some new documents written by Lincoln have been discovered. Currently, a project is underway at the Papers of Abraham Lincoln to provide \"a freely accessible comprehensive electronic edition of documents written by and to Abraham Lincoln\". The Papers of Abraham Lincoln completed Series I of their project \"The Law Practice of Abraham Lincoln\" in 2000. They electronically launched \"The Law Practice of Abraham Lincoln, Second Edition\" in 2009, and published a selective print edition of this series. At present they are engaged in locating, digitizing, and transcribing documents for Series II (non-legal, pre-presidential materials) and Series III (presidential materials).",
+          "semantic_score": 0.32260239124298096,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8979",
+          "text": "900 series (bowling)\nA 900 series refers to three consecutive perfect games bowled by an individual bowler. A 300 is a perfect score in one game, thus a player's score would be 900 in a series of three consecutive games (the typical number of games in a single league session). To achieve the feat, a bowler would have to bowl 36 consecutive strikes. To date, 29 individuals have bowled a total of 30 certified 900 series (that is, 900s that have been officially recognized by the United States Bowling Congress, the sport's national governing body in the United States).",
+          "semantic_score": 0.3195936977863312,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3246",
+          "text": "Harold Robbins\nHarold Robbins (May 21, 1916 – October 14, 1997) was an American author of popular novels. One of the best-selling writers of all time, he penned over 25 best-sellers, selling over 750 million copies in 32 languages.",
+          "semantic_score": 0.3195366859436035,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8591",
+          "text": "Hokusai Manga\nThe Hokusai Manga (北斎漫画 , \"Hokusai's Sketches\") is a collection of sketches of various subjects by the Japanese artist Hokusai. Subjects of the sketches include landscapes, flora and fauna, everyday life and the supernatural. The word \"manga\" in the title does not refer to the contemporary story-telling \"manga\", as the sketches in the work are not connected to each other. Block-printed in three colours (black, gray and pale flesh), the Manga comprise literally thousands of images in 15 volumes, the first published in 1814, when the artist was 55. The final three volumes were published posthumously, two of them assembled by their publisher from previously unpublished material. The final volume was made up of previously published works, some not even by Hokusai, and is not considered authentic by art historians.",
+          "semantic_score": 0.30387479066848755,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7203",
+          "text": "New Writings in SF 30\nNew Writings in SF 30 is an anthology of science fiction short stories edited by Kenneth Bulmer, the ninth volume of nine he oversaw in the \"New Writings in SF\" series in succession to the series' originator, John Carnell, and the final volume in the series. Most late volumes in the series were first published in hardcover by Sidgwick & Jackson, followed by a paperback edition issued by Corgi. No reference to a hardcover edition of this volume has been found; the Corgi paperback was issued in 1977.",
+          "semantic_score": 0.292283296585083,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3241",
+          "text": "The Dream Merchants\nThe Dream Merchants is an American novel written by Harold Robbins and published in 1949. Set in the early 20th century, the book is a \"rags-to-riches\" story of a penniless young man who goes to Hollywood and builds a great film studio. A former Universal Studios employee, author Harold Robbins based the main character on Universal's founder, Carl Laemmle. With the Hollywood history in the backdrop, it is a love story.",
+          "semantic_score": 0.0903390496969223,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4922",
+          "text": "Manga Life\nManga Life (まんがライフ , Manga Raifu ) is a manga magazine published monthly by Takeshobo in Japan since the November 1984 issue (published in October 1984). Its original title was Gag da (ギャグダ , Gyagu da ) , and the change to \"Manga Life\" was made to better compete with \"Manga Time\", a rival magazine published by Houbunsha. Most of the series appearing in the magazine use the yonkoma format. The magazine is released monthly on the 17th, though it sometimes appears on shelves slightly before or after that, depending on speed of actual distribution. \"Manga Life\" is published in B5 size, and its Japanese magazine code is 18635.",
+          "semantic_score": 0.07219523191452026,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2140",
+          "text": "Anthony Burgess\nJohn Anthony Burgess Wilson, {'1': \", '2': \", '3': 'FRSL', '4': \"} ( ; 25 February 1917 – 22 November 1993) – who published under the pen name Anthony Burgess – was an English writer and composer. From relatively modest beginnings in a Catholic family in Manchester, he eventually became one of the best known English literary figures of the latter half of the twentieth century.",
+          "semantic_score": 0.21960213780403137,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7697",
+          "text": "Mark Jacobs (author)\nMark Jacobs is a former foreign service officer. He has published more than 90 stories in a range of magazines, including \"The Atlantic,\" \"The Iowa Review\", \"The Kenyon Review\", \"The Southern Review\", \"The Idaho Review\", and \"Southern Humanities Review\". His story \"How Birds Communicate\" won the Iowa Review Fiction Prize in 1998. His five books include three novels and two collections of short stories. Pulitzer Prize winner in fiction Robert Olen Butler wrote that \"Mark Jacobs is one of the most exciting new writers I've read in years... a writer who I think will become our own Graham Greene.\" While much of his earlier work was set in the countries in which he lived and traveled, more recent material has included novels and short stories that are set in the United States.",
+          "semantic_score": 0.2569749057292938,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8535",
+          "text": "Year Books\nThe Year Books are the modern English name that is now typically given to the earliest law reports of England. Substantial numbers of manuscripts circulated during the later medieval period containing reports of pleas heard before the Common Bench. In the sixteenth century versions of this material appeared in print form. These publications constituted the earliest legal precedents of the common law. They are extant in a continuous series from 1268 to 1535, covering the reigns of King Edward I to Henry VIII. The language of the original manuscripts and editions was either Latin or Law French.",
+          "semantic_score": 0.2606411874294281,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Mark Jacobs"
+    }
+  ],
+  "links": [
+    {
+      "source": "390",
+      "target": "386",
+      "reason": "Paragraph 390 identifies Semyon Gershgorin as a mathematician but gives no paper count, while paragraph 386 states Pavel Alexandrov wrote about three hundred papers; together they support comparing the two mathematicians' output for the question."
+    }
+  ],
+  "questions_seen": 40,
+  "_id": "5a717d4c5542994082a3e854",
+  "correct_answer": "Pavel Sergeyevich Alexandrov",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

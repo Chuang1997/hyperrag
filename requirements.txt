@@ -2,3 +2,4 @@ torch>=2.2
 sentence-transformers>=3.0
 openai>=1.40
 geoopt==0.5.1
+scikit-learn>=1.3

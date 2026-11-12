@@ -1,0 +1,450 @@
+{
+  "question": "What where Mark Chamberlain and Alex Oxlade-Chamberlain being?",
+  "answer": "Mark Chamberlain is an English former international footballer, and Alex Oxlade-Chamberlain is his son, an English professional footballer who plays as a midfielder for Liverpool and the England national team.",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Identify who Mark Chamberlain and Alex Oxlade-Chamberlain are (to avoid confusion, since they might be related or in the news together).",
+      "retrieved": [
+        {
+          "id": "1294",
+          "text": "Mark Chamberlain\nMark Valentine Chamberlain (born 19 November 1961) is an English former international footballer. He is the younger brother of Neville Chamberlain, and the father of Liverpool and England international player Alex Oxlade-Chamberlain and Portsmouth's Christian Oxlade-Chamberlain.",
+          "semantic_score": 0.6528435349464417,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1297",
+          "text": "Alex Oxlade-Chamberlain\nAlexander Mark David Oxlade-Chamberlain (born 15 August 1993) is an English professional footballer who plays as a midfielder for Premier League club Liverpool and the England national team.",
+          "semantic_score": 0.5888746976852417,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1293",
+          "text": "Neville Chamberlain (footballer)\nNeville Patrick Chamberlain (born 22 January 1960) is an English former footballer. A forward, he scored 73 goals in 296 league games in a ten-year professional career in the Football League. His brother, Mark, was also a footballer, and his nephews Alex Oxlade-Chamberlain and Christian Oxlade-Chamberlain play for Liverpool and Portsmouth respectively, with Alex also an England international.",
+          "semantic_score": 0.5079007148742676,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1289",
+          "text": "Cal Chamberlain\nCal Chamberlain (April 21, 1968 – c. July 25, 2008), born Mark Chamberlain, was an artist and Internet pioneer based in New York City. He was among the first journalists to achieve notability through online media.",
+          "semantic_score": 0.4253256916999817,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9155",
+          "text": "John Robert Porter\nJohn Robert Porter (born 5 January 1953) is an English billionaire businessman and philanthropist best known as the grandson of Sir Jack Cohen founder of Tesco and son of Dame Shirley Porter.",
+          "semantic_score": 0.4025970995426178,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1296",
+          "text": "Mark Chamberlain (photographer)\nMark Phineas Chamberlain is an American photographic/environmental/installation artist, gallery owner and curator. He was born and raised in Dubuque, Iowa (See List of people from Dubuque, Iowa), received his BA in Political Science in 1965, and Masters in Operations Research in 1967, from the University of Iowa. Chamberlain was drafted into the U.S. Army in 1967 and stationed in Korea during the American War in Vietnam. On discharge from the army, he changed his previous career course to become a photographic artist. He explains, \"While stationed overseas, I picked up a camera to maintain my sanity and provide a creative outlet. I also took classes in the Korean language and history and found a photography mentor in the military crafts program. Returning home, I had a growing desire to find an outlet for this newfound passion.\" In 1969, Chamberlain moved to Southern California, aspiring to open a photographic art gallery.",
+          "semantic_score": 0.2840133607387543,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4547",
+          "text": "Jack Charlton\nJohn Charlton, OBE, DL (born 8 May 1935) is an English former footballer and manager who played as a defender. He was part of the England team that won the 1966 World Cup. He is the elder brother of former Manchester United forward Bobby Charlton, who was also a teammate in England's World Cup final victory. He spent his entire club career with Leeds United from 1950 to 1973, helping the club to the Second Division title (1963–64), First Division title (1968–69), FA Cup (1972), League Cup (1968), Charity Shield (1969), Inter-Cities Fairs Cup (1968 and 1971), as well as one other promotion from the Second Division (1955–56) and five second-place finishes in the First Division, two FA Cup final defeats and one Inter-Cities Fairs Cup final defeat. His 629 league and 762 total competitive appearances are club records. In 2006, Leeds United supporters voted Charlton into the club's greatest ever XI.",
+          "semantic_score": 0.1586616188287735,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Mark Chamberlain is an English former international footballer, and Alex Oxlade-Chamberlain is his son, an English professional footballer who plays as a midfielder for Liverpool and the England national team."
+    },
+    {
+      "step": 2,
+      "sub_question": "Determine the context (are they in a match, event, etc.).",
+      "retrieved": [
+        {
+          "id": "1297",
+          "text": "Alex Oxlade-Chamberlain\nAlexander Mark David Oxlade-Chamberlain (born 15 August 1993) is an English professional footballer who plays as a midfielder for Premier League club Liverpool and the England national team.",
+          "semantic_score": 0.825671911239624,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1294",
+          "text": "Mark Chamberlain\nMark Valentine Chamberlain (born 19 November 1961) is an English former international footballer. He is the younger brother of Neville Chamberlain, and the father of Liverpool and England international player Alex Oxlade-Chamberlain and Portsmouth's Christian Oxlade-Chamberlain.",
+          "semantic_score": 0.811375081539154,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1293",
+          "text": "Neville Chamberlain (footballer)\nNeville Patrick Chamberlain (born 22 January 1960) is an English former footballer. A forward, he scored 73 goals in 296 league games in a ten-year professional career in the Football League. His brother, Mark, was also a footballer, and his nephews Alex Oxlade-Chamberlain and Christian Oxlade-Chamberlain play for Liverpool and Portsmouth respectively, with Alex also an England international.",
+          "semantic_score": 0.7341911792755127,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8831",
+          "text": "Souleyman Sané\nSouleyman Sané (born 26 February 1961) is a retired Senegalese footballer who played as a striker. He is the father of Manchester City FC and Germany forward Leroy Sané.",
+          "semantic_score": 0.4483012855052948,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9062",
+          "text": "Edward Holt\nEdward Holt (born 1879) was an English footballer. His regular position was as a forward. He was born in Withington, Manchester, Lancashire. He played for Manchester United and Newton Heath Athletic.",
+          "semantic_score": 0.44710710644721985,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8833",
+          "text": "Leroy Sané\nLeroy Aziz Sané (] , ] ; born 11 January 1996) is a German professional footballer who plays as a winger for Premier League club Manchester City and the Germany national team.",
+          "semantic_score": 0.31447914242744446,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9061",
+          "text": "Samuel Holt\nSamuel Edward Holt (3 September 1880 – 18 April 1929) was an Irish politician.",
+          "semantic_score": 0.21511012315750122,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The context is biographical information about footballers and their family relationships, not a match or event."
+    },
+    {
+      "step": 3,
+      "sub_question": "Find where they were or what they were doing.",
+      "retrieved": [
+        {
+          "id": "1294",
+          "text": "Mark Chamberlain\nMark Valentine Chamberlain (born 19 November 1961) is an English former international footballer. He is the younger brother of Neville Chamberlain, and the father of Liverpool and England international player Alex Oxlade-Chamberlain and Portsmouth's Christian Oxlade-Chamberlain.",
+          "semantic_score": 0.35744914412498474,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4055",
+          "text": "Sports associations (East Germany)\nThe term Sports Associations (German: \"Sportvereinigung\" , ] ) in East Germany (German Democratic Republic, GDR) meant a sports agency for certain economic branches of the whole society, which were members of the East German Sports Association (DTSB). Members of biggest social employers had their own branch sports clubs or the \"Sportvereinigung\". One of the biggest problems is that you can not find almanacs of these today. All of them were recycled or sold to private persons. So you can not start an article about each trade sports association, since 2012. The rest are data banks of history sections from the sport club sites with the certain name or in addition: pennants, medals, flags, and other related objects. Nevertheless, you can find still a lot of sports societies in the former GDR which use the old names. After 1954 they separated amateur sport from professional sport, and from 1961, most Trade Sports-Associations of sports societies in the GDR had been closed but existed under single clubs with the name BSG (\"Betriebssportgemeinschaft\") which meant Cooperative Sports Collective in English. In 1966, the football sections were separated and they used the name Fußballclub (FC). They had to conform to the rules of the East German Sports Association. The sections of the associations were called Sports Clubs (SCs) for only the professional athletes.",
+          "semantic_score": 0.35191816091537476,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8839",
+          "text": "List of Australian rules football families\nThis is a List of Australian rules football families, that is families who have had more than one member play or coach in the Australian Football League (previously the VFL) as well as families who have had multiple immediate family members with notable playing or coaching careers in the West Australian Football League (WAFL), South Australian National Football League (SANFL) or Victorian Football League (VFL, formerly known as the VFA). Each family will have at least a father and child combination or a set of siblings. Many families have had two or more cousins play league football but they are not included unless one also had a father, child or sibling play.",
+          "semantic_score": 0.336308091878891,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4050",
+          "text": "Protégé Sports\nProtégé Sports, Inc. is a company that provides online sports training from professional athletes and coaches. The company is based in Scottsdale, Arizona, and boasts a number of current and former professional athletes and coaches amongst its \"mentors\", including Steve Nash, Boris Diaw, Bob Lanier, George Gervin, Eddie Johnson, Kevin Young, Tim Salmon, Craig Waibel, Peter Kostis and Gary McCord.",
+          "semantic_score": 0.32319796085357666,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9062",
+          "text": "Edward Holt\nEdward Holt (born 1879) was an English footballer. His regular position was as a forward. He was born in Withington, Manchester, Lancashire. He played for Manchester United and Newton Heath Athletic.",
+          "semantic_score": 0.311143696308136,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1293",
+          "text": "Neville Chamberlain (footballer)\nNeville Patrick Chamberlain (born 22 January 1960) is an English former footballer. A forward, he scored 73 goals in 296 league games in a ten-year professional career in the Football League. His brother, Mark, was also a footballer, and his nephews Alex Oxlade-Chamberlain and Christian Oxlade-Chamberlain play for Liverpool and Portsmouth respectively, with Alex also an England international.",
+          "semantic_score": 0.3015545904636383,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1297",
+          "text": "Alex Oxlade-Chamberlain\nAlexander Mark David Oxlade-Chamberlain (born 15 August 1993) is an English professional footballer who plays as a midfielder for Premier League club Liverpool and the England national team.",
+          "semantic_score": 0.3007231056690216,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9061",
+          "text": "Samuel Holt\nSamuel Edward Holt (3 September 1880 – 18 April 1929) was an Irish politician.",
+          "semantic_score": 0.11540256440639496,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2184",
+          "text": "Henry W. Holt\nHenry Winston Holt (September 14, 1864 – October 4, 1947) was born at Wakefield, Virginia in Isle of Wight County, Virginia, but was raised in Surry County, Virginia. His preparatory education was received at Hanover Academy in Hanover County, Virginia after which he attended Massachusetts Institute of Technology for two years and Virginia Military Institute, from which he graduated in 1886. Turning then to law, he entered Washington and Lee University where he received his law degree in 1888. Upon graduation, he began to practice in Wichita, Kansas, but returned to Virginia in 1891 as Commandant of Cadets at Staunton Military Academy.",
+          "semantic_score": 0.049604542553424835,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8835",
+          "text": "Australian Football League reserves affiliations\nThe Australian Football League stages the highest-level senior Australian rules football competition in the country. However, since the late 1980s, when the former Victorian Football League expanded interstate to become the modern Australian Football League, there has not been a league-wide reserves competition; and, since 2000, there has been no dedicated reserves competition of any kind. As a result, AFL-listed players who are not selected in their senior teams are made eligible to play in one of the second-tier state leagues: the Victorian Football League, South Australian National Football League, West Australian Football League, or North East Australian Football League. The system used to accommodate AFL-listed players within these leagues varies considerably from state to state.",
+          "semantic_score": 0.19565559923648834,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Mark Chamberlain was an English former international footballer, and Alex Oxlade-Chamberlain plays as a midfielder for Liverpool and the England national team."
+    },
+    {
+      "step": 4,
+      "sub_question": "Who are Mark Chamberlain and Alex Oxlade-Chamberlain?",
+      "retrieved": [
+        {
+          "id": "1297",
+          "text": "Alex Oxlade-Chamberlain\nAlexander Mark David Oxlade-Chamberlain (born 15 August 1993) is an English professional footballer who plays as a midfielder for Premier League club Liverpool and the England national team.",
+          "semantic_score": 0.791967511177063,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1294",
+          "text": "Mark Chamberlain\nMark Valentine Chamberlain (born 19 November 1961) is an English former international footballer. He is the younger brother of Neville Chamberlain, and the father of Liverpool and England international player Alex Oxlade-Chamberlain and Portsmouth's Christian Oxlade-Chamberlain.",
+          "semantic_score": 0.7809733152389526,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1293",
+          "text": "Neville Chamberlain (footballer)\nNeville Patrick Chamberlain (born 22 January 1960) is an English former footballer. A forward, he scored 73 goals in 296 league games in a ten-year professional career in the Football League. His brother, Mark, was also a footballer, and his nephews Alex Oxlade-Chamberlain and Christian Oxlade-Chamberlain play for Liverpool and Portsmouth respectively, with Alex also an England international.",
+          "semantic_score": 0.7164905071258545,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8145",
+          "text": "Alex Smith (footballer, born 1876)\nAlexander Smith (7 November 1876 – 12 November 1954) was a Scottish footballer who played as a winger for Rangers and the Scotland national team.",
+          "semantic_score": 0.43763652443885803,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9062",
+          "text": "Edward Holt\nEdward Holt (born 1879) was an English footballer. His regular position was as a forward. He was born in Withington, Manchester, Lancashire. He played for Manchester United and Newton Heath Athletic.",
+          "semantic_score": 0.40784406661987305,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9061",
+          "text": "Samuel Holt\nSamuel Edward Holt (3 September 1880 – 18 April 1929) was an Irish politician.",
+          "semantic_score": 0.1958383470773697,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7387",
+          "text": "Paul Smith (defensive end)\nPaul Edward Smith (August 13, 1945 – March 14, 2000) was a collegiate and professional American football defensive end. Smith was selected in the 1968 Common Draft by the American Football League's Denver Broncos and played in the National Football League for the Broncos and Washington Redskins.",
+          "semantic_score": 0.2199830263853073,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Mark Chamberlain is an English former international footballer, and Alex Oxlade-Chamberlain is his son, an English professional footballer who plays as a midfielder for Liverpool and the England national team."
+    },
+    {
+      "step": 5,
+      "sub_question": "In what context were they mentioned together?",
+      "retrieved": [
+        {
+          "id": "1297",
+          "text": "Alex Oxlade-Chamberlain\nAlexander Mark David Oxlade-Chamberlain (born 15 August 1993) is an English professional footballer who plays as a midfielder for Premier League club Liverpool and the England national team.",
+          "semantic_score": 0.8034700155258179,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1294",
+          "text": "Mark Chamberlain\nMark Valentine Chamberlain (born 19 November 1961) is an English former international footballer. He is the younger brother of Neville Chamberlain, and the father of Liverpool and England international player Alex Oxlade-Chamberlain and Portsmouth's Christian Oxlade-Chamberlain.",
+          "semantic_score": 0.795620322227478,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1293",
+          "text": "Neville Chamberlain (footballer)\nNeville Patrick Chamberlain (born 22 January 1960) is an English former footballer. A forward, he scored 73 goals in 296 league games in a ten-year professional career in the Football League. His brother, Mark, was also a footballer, and his nephews Alex Oxlade-Chamberlain and Christian Oxlade-Chamberlain play for Liverpool and Portsmouth respectively, with Alex also an England international.",
+          "semantic_score": 0.7095401883125305,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8145",
+          "text": "Alex Smith (footballer, born 1876)\nAlexander Smith (7 November 1876 – 12 November 1954) was a Scottish footballer who played as a winger for Rangers and the Scotland national team.",
+          "semantic_score": 0.4203450679779053,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9062",
+          "text": "Edward Holt\nEdward Holt (born 1879) was an English footballer. His regular position was as a forward. He was born in Withington, Manchester, Lancashire. He played for Manchester United and Newton Heath Athletic.",
+          "semantic_score": 0.40476223826408386,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9061",
+          "text": "Samuel Holt\nSamuel Edward Holt (3 September 1880 – 18 April 1929) was an Irish politician.",
+          "semantic_score": 0.20747332274913788,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7387",
+          "text": "Paul Smith (defensive end)\nPaul Edward Smith (August 13, 1945 – March 14, 2000) was a collegiate and professional American football defensive end. Smith was selected in the 1968 Common Draft by the American Football League's Denver Broncos and played in the National Football League for the Broncos and Washington Redskins.",
+          "semantic_score": 0.17294976115226746,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "They were mentioned together in the context of a father-son relationship: Mark Chamberlain is the father of Alex Oxlade-Chamberlain."
+    },
+    {
+      "step": 6,
+      "sub_question": "Where were they (or what were they doing) in that context?",
+      "retrieved": [
+        {
+          "id": "1294",
+          "text": "Mark Chamberlain\nMark Valentine Chamberlain (born 19 November 1961) is an English former international footballer. He is the younger brother of Neville Chamberlain, and the father of Liverpool and England international player Alex Oxlade-Chamberlain and Portsmouth's Christian Oxlade-Chamberlain.",
+          "semantic_score": 0.6292256712913513,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1297",
+          "text": "Alex Oxlade-Chamberlain\nAlexander Mark David Oxlade-Chamberlain (born 15 August 1993) is an English professional footballer who plays as a midfielder for Premier League club Liverpool and the England national team.",
+          "semantic_score": 0.4645516574382782,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1293",
+          "text": "Neville Chamberlain (footballer)\nNeville Patrick Chamberlain (born 22 January 1960) is an English former footballer. A forward, he scored 73 goals in 296 league games in a ten-year professional career in the Football League. His brother, Mark, was also a footballer, and his nephews Alex Oxlade-Chamberlain and Christian Oxlade-Chamberlain play for Liverpool and Portsmouth respectively, with Alex also an England international.",
+          "semantic_score": 0.43907853960990906,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1289",
+          "text": "Cal Chamberlain\nCal Chamberlain (April 21, 1968 – c. July 25, 2008), born Mark Chamberlain, was an artist and Internet pioneer based in New York City. He was among the first journalists to achieve notability through online media.",
+          "semantic_score": 0.4155246317386627,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9155",
+          "text": "John Robert Porter\nJohn Robert Porter (born 5 January 1953) is an English billionaire businessman and philanthropist best known as the grandson of Sir Jack Cohen founder of Tesco and son of Dame Shirley Porter.",
+          "semantic_score": 0.39778512716293335,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1296",
+          "text": "Mark Chamberlain (photographer)\nMark Phineas Chamberlain is an American photographic/environmental/installation artist, gallery owner and curator. He was born and raised in Dubuque, Iowa (See List of people from Dubuque, Iowa), received his BA in Political Science in 1965, and Masters in Operations Research in 1967, from the University of Iowa. Chamberlain was drafted into the U.S. Army in 1967 and stationed in Korea during the American War in Vietnam. On discharge from the army, he changed his previous career course to become a photographic artist. He explains, \"While stationed overseas, I picked up a camera to maintain my sanity and provide a creative outlet. I also took classes in the Korean language and history and found a photography mentor in the military crafts program. Returning home, I had a growing desire to find an outlet for this newfound passion.\" In 1969, Chamberlain moved to Southern California, aspiring to open a photographic art gallery.",
+          "semantic_score": 0.28481224179267883,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4547",
+          "text": "Jack Charlton\nJohn Charlton, OBE, DL (born 8 May 1935) is an English former footballer and manager who played as a defender. He was part of the England team that won the 1966 World Cup. He is the elder brother of former Manchester United forward Bobby Charlton, who was also a teammate in England's World Cup final victory. He spent his entire club career with Leeds United from 1950 to 1973, helping the club to the Second Division title (1963–64), First Division title (1968–69), FA Cup (1972), League Cup (1968), Charity Shield (1969), Inter-Cities Fairs Cup (1968 and 1971), as well as one other promotion from the Second Division (1955–56) and five second-place finishes in the First Division, two FA Cup final defeats and one Inter-Cities Fairs Cup final defeat. His 629 league and 762 total competitive appearances are club records. In 2006, Leeds United supporters voted Charlton into the club's greatest ever XI.",
+          "semantic_score": 0.12576918303966522,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Mark Chamberlain was an English former international footballer, and Alex Oxlade-Chamberlain plays as a midfielder for Liverpool and the England national team."
+    }
+  ],
+  "links": [
+    {
+      "source": "1294",
+      "target": "1297",
+      "reason": "1294 explicitly states Mark Chamberlain is the father of Alex Oxlade-Chamberlain, while 1297 identifies Alex as the Liverpool and England midfielder, together establishing their father-son relationship and respective roles."
+    },
+    {
+      "source": "1294",
+      "target": "1293",
+      "reason": "1293 corroborates the family link by naming Mark as Neville's brother and Alex as Neville's nephew, reinforcing the identity and relationship context."
+    }
+  ],
+  "questions_seen": 131,
+  "_id": "5adffc8d55429925eb1afbc6",
+  "correct_answer": "an English professional footballer",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

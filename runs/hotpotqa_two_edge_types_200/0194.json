@@ -1,0 +1,165 @@
+{
+  "question": "In which period was this German composer, pianist, organist and conductor born in 1847 active, whose work \"Wedding March\" became reference to any \"wedding march?\"",
+  "answer": "Early Romantic period",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is the German composer, pianist, organist and conductor born in 1847 whose work \"Wedding March\" became a reference to any \"wedding march\"?",
+      "retrieved": [
+        {
+          "id": "1934",
+          "text": "Felix Mendelssohn\nJakob Ludwig Felix Mendelssohn Bartholdy (] ; 3 February 1809 4 November 1847), born and widely known as Felix Mendelssohn, was a German composer, pianist, organist and conductor of the early Romantic period.",
+          "semantic_score": 0.5846469402313232,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1932",
+          "text": "Bridal Chorus\nThe \"Bridal Chorus\" (German: \"Treulich geführt\" ) from the 1850 opera \"Lohengrin\" by German composer Richard Wagner is a march played for the bride's entrance at many formal weddings throughout the Western world. In English-speaking countries it is generally known as \"Here Comes the Bride\" or \"Wedding March\", though \"wedding march\" refers to any piece in march tempo accompanying the entrance or exit of the bride, notably Felix Mendelssohn's \"Wedding March\". The piece was made popular when it was used as the processional at the wedding of Victoria the Princess Royal to Prince Frederick William of Prussia in 1858.",
+          "semantic_score": 0.5549045205116272,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1926",
+          "text": "Alex Mendelssohn\nAlex Mendelssohn (born 30 May 1935) is an Australian artist and opal miner of Hungarian descent. popularly known as Alex or his birth name \"Sándor Mendelssohn\" (variant of the name Alexander in Hungary). He is the great-great-grandson of Felix Mendelssohn, the Romantic German composer who gave the world the famous \"Wedding March\" overture.",
+          "semantic_score": 0.5472210049629211,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1931",
+          "text": "A Midsummer Night's Dream (Mendelssohn)\nAt two separate times, Felix Mendelssohn composed music for William Shakespeare's play, \"A Midsummer Night's Dream\". First in 1826, near the start of his career, he wrote a concert overture (Op. 21). Later, in 1842, only a few years before his death, he wrote incidental music (Op. 61) for a production of the play, into which he incorporated the existing Overture. The incidental music includes the world-famous \"Wedding March\". The German title reads \"Ein Sommernachtstraum\".",
+          "semantic_score": 0.4771774411201477,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1929",
+          "text": "Max Reger\nJohann Baptist Joseph Maximilian Reger (19 March 187311 May 1916), commonly known as Max Reger, was a German composer, pianist, organist, conductor, and academic teacher. He worked as a concert pianist, as a musical director at the Leipzig University Church, as a professor at the Royal Conservatory in Leipzig, and as a music director at the court of Duke Georg II of Saxe-Meiningen.",
+          "semantic_score": 0.4764440059661865,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5945",
+          "text": "Max Reinhardt\nMax Reinhardt (September 9, 1873 – October 30, 1943) was an Austrian-born American theatre and film director, intendant, and theatrical producer. With his innovative stage productions, he is regarded as one of the most prominent directors of German-language theatre in the early 20th century. In 1920, he established the Salzburg Festival with the performance of Hofmannsthal's \"Jedermann\".",
+          "semantic_score": 0.3198724091053009,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Felix Mendelssohn"
+    },
+    {
+      "step": 2,
+      "sub_question": "In which period was this composer active?",
+      "retrieved": [
+        {
+          "id": "1934",
+          "text": "Felix Mendelssohn\nJakob Ludwig Felix Mendelssohn Bartholdy (] ; 3 February 1809 4 November 1847), born and widely known as Felix Mendelssohn, was a German composer, pianist, organist and conductor of the early Romantic period.",
+          "semantic_score": 0.8310023546218872,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1926",
+          "text": "Alex Mendelssohn\nAlex Mendelssohn (born 30 May 1935) is an Australian artist and opal miner of Hungarian descent. popularly known as Alex or his birth name \"Sándor Mendelssohn\" (variant of the name Alexander in Hungary). He is the great-great-grandson of Felix Mendelssohn, the Romantic German composer who gave the world the famous \"Wedding March\" overture.",
+          "semantic_score": 0.5397590398788452,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1931",
+          "text": "A Midsummer Night's Dream (Mendelssohn)\nAt two separate times, Felix Mendelssohn composed music for William Shakespeare's play, \"A Midsummer Night's Dream\". First in 1826, near the start of his career, he wrote a concert overture (Op. 21). Later, in 1842, only a few years before his death, he wrote incidental music (Op. 61) for a production of the play, into which he incorporated the existing Overture. The incidental music includes the world-famous \"Wedding March\". The German title reads \"Ein Sommernachtstraum\".",
+          "semantic_score": 0.528829038143158,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1933",
+          "text": "Johann Gottlieb Görner\nJohann Gottlieb Görner (16 April 1697 – 15 February 1778) was a German composer and organist. His brother was the composer Johann Valentin Görner and his son the organist Karl Friedrich Görner. He was a student at the Thomasschule zu Leipzig and University of Leipzig, then organist of the city's Paulinerkirche from 1716 (whose music director he became in 1723) then its Nikolaikirche from 1721. In 1723 he founded a Collegium Musicum, which competed with Johann Sebastian Bach's. He died in Leipzig.",
+          "semantic_score": 0.4467262029647827,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7454",
+          "text": "Nikolai Sidelnikov\nNikolai Nikolayevich Sidelnikov (Russian: Никола́й Никола́евич Сиде́льников ; June 5, 1930, Tver – June 20, 1992) was a Russian Soviet composer.",
+          "semantic_score": 0.44661471247673035,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7450",
+          "text": "Nikolai Lugansky\nNikolai Lugansky (Russian: Никола́й Льво́вич Луга́нский ; born 26 April 1972) is a Russian pianist from Moscow. At the age of five, before he had learned to read music, he played a Beethoven piano sonata learned completely by ear. He studied piano at the Moscow Central Music School and the Moscow Conservatory. His teachers included Tatiana Kestner, Tatiana Nikolayeva and Sergei Dorensky.",
+          "semantic_score": 0.3172377347946167,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4082",
+          "text": "Alexander Serov\nAlexander Nikolayevich Serov (Russian: Алекса́ндр Никола́евич Серо́в , Saint Petersburg, 23 January [O.S. 11 January] 1820 – Saint Petersburg, 1 February [O.S. 20 January] 1871 ) was a Russian composer and music critic. He is notable as one of the most important music critics in Russia during the 1850s and 1860s and as the most significant Russian composer in the period between Dargomyzhsky's \"Rusalka\" and the works of Rimsky-Korsakov, Mussorgsky, and Tchaikovsky.",
+          "semantic_score": 0.3132338523864746,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1925",
+          "text": "Karl-Birger Blomdahl\nKarl-Birger Blomdahl (19 October 1916 – 14 June 1968) was a Swedish composer and conductor born in Växjö. He was educated in biochemistry, but was primarily active in music and by his experimental compositions he became one of the big names in Swedish modernism. His teachers included Hilding Rosenberg. He died in Kungsängen, Stockholm.",
+          "semantic_score": 0.40555787086486816,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Early Romantic period"
+    }
+  ],
+  "links": [
+    {
+      "source": "1934",
+      "target": "1931",
+      "reason": "1934 identifies Felix Mendelssohn as the German composer/pianist/organist/conductor and states he was of the early Romantic period; 1931 confirms Mendelssohn composed the world-famous 'Wedding March,' bridging the composer identification to the work named in the question."
+    },
+    {
+      "source": "1934",
+      "target": "1932",
+      "reason": "1934 names Mendelssohn and his early Romantic period; 1932 explains that 'wedding march' refers to any such piece, notably Felix Mendelssohn's 'Wedding March,' connecting the period answer to the work that made the term a reference."
+    }
+  ],
+  "questions_seen": 195,
+  "_id": "5abaf0e055429966062416a3",
+  "correct_answer": "early Romantic period",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

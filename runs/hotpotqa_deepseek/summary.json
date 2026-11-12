@@ -1,7 +1,0 @@
-{
-  "completed": 190,
-  "total": 1000,
-  "model": "deepseek-flash",
-  "ContainsMatch": 0.6736842105263158,
-  "LLMAccuracy": 0.8315789473684211
-}

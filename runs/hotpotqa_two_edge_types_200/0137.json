@@ -1,0 +1,261 @@
+{
+  "question": "Black Journal is based on the real life events of what serial killer that  murdered three women in Correggio?",
+  "answer": "Leonarda Cianciulli",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is Black Journal (e.g., a film, TV series, etc.)?",
+      "retrieved": [
+        {
+          "id": "1368",
+          "text": "Black Journal (television)\nBlack Journal was a public affairs television program that began at WNET in 1968. It covered issues relevant to African American communities with film crews sent to Atlanta, Detroit, New Orleans, and Los Angeles, and Ethiopia. The show won Emmy, Peabody and Russwurm awards. \"Black Journal\" moved to commercial television in 1977, with Tony Brown as producer and host, renamed as Tony Brown's Journal. It returned to public television in 1982, until 2008. The show was originally broadcast as once a month, one hour productions. Other executive producers included documentary filmmakers Madeline Anderson, William Greaves and St. Clair Bourne.",
+          "semantic_score": 0.6998655796051025,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4954",
+          "text": "Black Book (non-standard disc format)\nBlack Book is an unofficial designation of optical disc (OD) formats that defy official standards for CD, DVD, HD DVD and Blu-ray Discs. Most formats considered Black Book are formats used for video games or Digital Rights Management.",
+          "semantic_score": 0.5639034509658813,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9340",
+          "text": "Black Star (photo agency)\nBlack Star, also known as Black Star Publishing Company, was started by refugees from Germany who had established photographic agencies there in the 1920s. Today it is a New York City-based photographic agency with offices in London and in White Plains, New York. It is known for photojournalism, corporate assignment photography and stock photography services worldwide. It is noted for its contribution to the history of photojournalism in the United States. It was the first privately owned picture agency in the United States, and introduced numerous new techniques in photography and illustrated journalism. The agency was closely identified with Henry Luce's magazines \"Life\" and \"Time\".",
+          "semantic_score": 0.5082378387451172,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4953",
+          "text": "Black Book (novel)\nBlack Book (Dutch: Zwartboek ) is a Dutch-language 2006 thriller novel by Laurens Abbink Spaink. It is the novelization of the Dutch film \"Black Book\" (2006). It tells the story of a young Jewish woman, Rachel Stein, and her struggle for survival during and after the Second World War. The book has a photo section, and an afterword by Paul Verhoeven and Gerard Soeteman.",
+          "semantic_score": 0.47700396180152893,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1363",
+          "text": "Black Journal\nBlack Journal (originally titled Gran Bollito) is a 1977 Italian drama film directed by Mauro Bolognini. It is based on the real life events of Leonarda Cianciulli, the Italian serial killer best known as the \"Soap-Maker of Correggio\".",
+          "semantic_score": 0.47332873940467834,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4956",
+          "text": "Black Book (film)\nBlack Book (Dutch: Zwartboek ) is a 2006 Dutch thriller film co-written and directed by Paul Verhoeven and starring Carice van Houten, Sebastian Koch, Thom Hoffman, and Halina Reijn. The film, credited as based on several true events and characters, is about a young Jewish woman in the Netherlands who becomes a spy for the resistance during World War II after tragedy befalls her in an encounter with the Nazis. The film had its world premiere on 1 September 2006 at the Venice Film Festival and its public release on 14 September 2006 in the Netherlands. It is the first film that Verhoeven made in the Netherlands since \"The Fourth Man,\" made in 1983 before he moved to the United States.",
+          "semantic_score": 0.38825109601020813,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1367",
+          "text": "Leonarda Cianciulli\nLeonarda Cianciulli (14 November 1893 – 15 October 1970) was an Italian serial killer. Better known as the \"Soap-Maker of Correggio\" (Italian: \"la Saponificatrice di Correggio\"), she murdered three women in Correggio between 1939 and 1940, and turned their bodies into soap and teacakes.",
+          "semantic_score": 0.01058925036340952,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4951",
+          "text": "Black Book (World War II)\nThe Black Book: The Ruthless Murder of Jews by German-Fascist Invaders Throughout the Temporarily-Occupied Regions of the Soviet Union and in the German Nazi Death Camps established on occupied Polish soil during the War 1941–1945 alternatively The Black Book of the Holocaust, or simply The Black Book (Russian: Чёрная Книга , \"Chornaya Kniga\"; Yiddish: דאָס שוואַרצע בוך‎ , \"Dos shvartse bukh\"), was a result of the collaborative effort by the Jewish Anti-Fascist Committee (JAC) and members of the American Jewish community to document the anti-Jewish crimes of the Holocaust and the participation of Jews in the fighting and the resistance movement against the Nazis during World War II.",
+          "semantic_score": 0.44041091203689575,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "A public affairs television program"
+    },
+    {
+      "step": 2,
+      "sub_question": "What real-life events is Black Journal based on?",
+      "retrieved": [
+        {
+          "id": "1368",
+          "text": "Black Journal (television)\nBlack Journal was a public affairs television program that began at WNET in 1968. It covered issues relevant to African American communities with film crews sent to Atlanta, Detroit, New Orleans, and Los Angeles, and Ethiopia. The show won Emmy, Peabody and Russwurm awards. \"Black Journal\" moved to commercial television in 1977, with Tony Brown as producer and host, renamed as Tony Brown's Journal. It returned to public television in 1982, until 2008. The show was originally broadcast as once a month, one hour productions. Other executive producers included documentary filmmakers Madeline Anderson, William Greaves and St. Clair Bourne.",
+          "semantic_score": 0.6906540393829346,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9340",
+          "text": "Black Star (photo agency)\nBlack Star, also known as Black Star Publishing Company, was started by refugees from Germany who had established photographic agencies there in the 1920s. Today it is a New York City-based photographic agency with offices in London and in White Plains, New York. It is known for photojournalism, corporate assignment photography and stock photography services worldwide. It is noted for its contribution to the history of photojournalism in the United States. It was the first privately owned picture agency in the United States, and introduced numerous new techniques in photography and illustrated journalism. The agency was closely identified with Henry Luce's magazines \"Life\" and \"Time\".",
+          "semantic_score": 0.4541962444782257,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5504",
+          "text": "Black Movie Awards\nThe Black Movie Awards (BMAs) is an annual ceremony held to recognize achievements of film actors of African descent and to honor films that stand out in their portrayal of Black experience. Founded in 1997, with an inaugural event at the American Black Film Festival (ABFF), it has been televised several times since 2005, including the 2005 ceremony hosted by Cedric the Entertainer and the 2006 ceremony hosted by Tyler Perry.",
+          "semantic_score": 0.44983381032943726,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2168",
+          "text": "Saturday Night Live Weekend Update Thursday\nSaturday Night Live Weekend Update Thursday is an American limited-run series broadcast on NBC. It is a political satire news show spin-off from \"Saturday Night Live\", featuring that show's \"Weekend Update\" segment. It initially ran for three 30-minute episodes in October 2008, during the lead-up to the 2008 United States presidential election.",
+          "semantic_score": 0.415572851896286,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5678",
+          "text": "CBS Evening News\nCBS Evening News is the flagship evening television news program of CBS News, the news division of the CBS television network in the United States. The program has been broadcast since May 3, 1948 under the original title \"CBS Television News\", eventually adopting its current title in 1963. Since June 19, 2017, the program is anchored by Anthony Mason on an interim basis. Previous anchors have included Douglas Edwards, Walter Cronkite, Dan Rather, Connie Chung, Bob Schieffer, Katie Couric and Scott Pelley.",
+          "semantic_score": 0.3993372321128845,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2172",
+          "text": "Weekend Update\nWeekend Update is a \"Saturday Night Live\" sketch that comments on and parodies . It is the show's longest-running recurring sketch, having been on since the show's first broadcast, and is typically presented in the middle of the show immediately after the first musical performance. One or two of the players are cast in the role of news anchor, presenting gag news items based on current events and acting as hosts for occasional editorials, commentaries, or other performances by other cast members or guests. Chevy Chase has claimed that \"Weekend Update\" which he started as anchor in 1975 paved the way for comedic news shows like \"The Daily Show\" and \"The Colbert Report\".",
+          "semantic_score": 0.33500969409942627,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8228",
+          "text": "Saturday Night Live from Milano\nSaturday Night Live from Milano, Also known as Saturday Night Live Italy, was the Italian localisation of the popular US-comedy television series \"Saturday Night Live\", shown on Mediaset television channel Italia 1 from 2006.",
+          "semantic_score": 0.2606637477874756,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5674",
+          "text": "Dan Rather\nDaniel Irvin Rather Jr. (born October 31, 1931) is an American journalist and the former news anchor for the \"CBS Evening News.\" He was most recently managing editor and anchor of the television news magazine \"Dan Rather Reports\" on the cable channel AXS TV. Rather was anchor of the \"CBS Evening News\" for 24 years, from March 9, 1981, to March 9, 2005. He also contributed to CBS's \"60 Minutes\". Rather became embroiled in controversy about a disputed news report involving President George W. Bush's Vietnam-era service in the National Guard and subsequently left \"CBS Evening News\" in 2005, and he left the network entirely after 44 years in 2006.",
+          "semantic_score": 0.24581000208854675,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8227",
+          "text": "Saturday Night Live 40th Anniversary Special\nThe Saturday Night Live 40th Anniversary Special is a three-and-a-half-hour prime-time special that aired on Sunday, February 15, 2015, on NBC, celebrating \"Saturday Night Live\"' s 40th year on the air, having premiered on October 11, 1975, under the original title \"NBC's Saturday Night\". This special generated 23.1 million viewers, becoming NBC's most-watched prime-time, non-sports, entertainment telecast (excluding Super Bowl lead-outs) since the \"Friends\" series finale in 2004. It is the third such anniversary special to be broadcast, with celebratory episodes also held during the 15th and 25th seasons.",
+          "semantic_score": 0.3106721341609955,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2039",
+          "text": "The Week Show\nThe Week Show is a television late night talk show sketch comedy program on Bite TV in Canada. It originally ran from December 2008 to mid-2010. The show is hosted by Matt Chin and Ricky Thompson, who started on an internet late night talk show \"My Show with Matt Chin\" online in 2001.",
+          "semantic_score": 0.2862454950809479,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "African American communities"
+    },
+    {
+      "step": 3,
+      "sub_question": "Which serial killer murdered three women in Correggio?",
+      "retrieved": [
+        {
+          "id": "1367",
+          "text": "Leonarda Cianciulli\nLeonarda Cianciulli (14 November 1893 – 15 October 1970) was an Italian serial killer. Better known as the \"Soap-Maker of Correggio\" (Italian: \"la Saponificatrice di Correggio\"), she murdered three women in Correggio between 1939 and 1940, and turned their bodies into soap and teacakes.",
+          "semantic_score": 0.5955342650413513,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1363",
+          "text": "Black Journal\nBlack Journal (originally titled Gran Bollito) is a 1977 Italian drama film directed by Mauro Bolognini. It is based on the real life events of Leonarda Cianciulli, the Italian serial killer best known as the \"Soap-Maker of Correggio\".",
+          "semantic_score": 0.5180640816688538,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2756",
+          "text": "Louis Facciolo\nLouis Facciolo also known as \"Louie\" (born 1941 in Canarsie, Brooklyn) was a Gambino crime family mob associate who served under capo Leonard DiMaria and brother of Lucchese crime family mobster Bruno Facciolo who shot to fame when it became known that he was murdered by the NYPD \"mafia cops\".",
+          "semantic_score": 0.4242970049381256,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1359",
+          "text": "Mary Ann Cotton\nMary Ann Cotton (\"née \" Robson; 31 October 1832 – 24 March 1873) was an English serial killer, convicted of, and hanged for, the murder by poisoning of her stepson Charles Edward Cotton. It is likely that she murdered three of her four husbands, apparently in order to collect on their insurance policies, and many others. She may have murdered as many as 21 people, including 11 of her 13 children. She chiefly used arsenic poisoning, causing gastric pain and rapid decline of health.",
+          "semantic_score": 0.41846802830696106,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6956",
+          "text": "Anthony Casso\nAnthony Salvatore \"Gaspipe\" Casso (born May 21, 1940 in Brooklyn, New York City) is an Italian-American mobster and former underboss of the Lucchese crime family. During his career in organized crime, Casso was regarded as a \"homicidal maniac\" in the American Mafia, single-handedly killing over 40 to 50 people, and ordering as many as 100 or more murders. Former Lucchese captain and government witness Anthony Accetturo once said of Casso, \"all he wanted to do is kill, kill, get what you can, even if you didn't earn it.\" In interviews and on the witness stand, Casso has confessed involvement in the murders of Frank DeCicco, Roy DeMeo, and Vladimir Reznikov. Casso has also admitted to several attempts to murder Gambino family boss John Gotti.",
+          "semantic_score": 0.3952999413013458,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2751",
+          "text": "Frank Sindone\nFrank Sindone (1928 – October 29, 1980), also known as \"Barracuda Frank\", was a loan shark and soldier in the Bruno crime family who helped plot the 1980 murder of family mob boss Angelo Bruno.",
+          "semantic_score": 0.3620451092720032,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2754",
+          "text": "Anthony Corallo\nAntonio \"Tony Ducks\" Corallo (February 12, 1913 – August 23, 2000) was a New York City mobster and boss of the Lucchese crime family. Corallo exercised a tremendous control over trucking and construction unions in New York.",
+          "semantic_score": 0.291023313999176,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2753",
+          "text": "Aniello Migliore\nAniello \"Neil\" Migliore (born October 2, 1933) is a New York City mobster, and acting leader of the Lucchese crime family. Migliore was a close associate of family bosses Gaetano \"Tommy\" Lucchese and Anthony \"Tony Ducks\" Corallo.",
+          "semantic_score": 0.21998530626296997,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Leonarda Cianciulli"
+    }
+  ],
+  "links": [
+    {
+      "source": "1363",
+      "target": "1367",
+      "reason": "Paragraph 1363 states Black Journal is based on Leonarda Cianciulli, while paragraph 1367 identifies Cianciulli as the serial killer who murdered three women in Correggio, directly bridging the film to the killer's crimes."
+    }
+  ],
+  "questions_seen": 138,
+  "_id": "5a8c7ac2554299653c1aa08e",
+  "correct_answer": "Leonarda Cianciulli",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

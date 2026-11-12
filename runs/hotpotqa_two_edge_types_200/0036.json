@@ -1,0 +1,202 @@
+{
+  "question": "Which British racing driver has raced for 7 different teams and won the European Grand Prix in 1999?",
+  "answer": "Johnny Herbert",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Which British racing drivers have won the European Grand Prix in 1999?",
+      "retrieved": [
+        {
+          "id": "4339",
+          "text": "1999 IAAF Grand Prix Final\nThe 1999 IAAF Grand Prix Final was the fifteenth edition of the season-ending competition for the IAAF Grand Prix track and field circuit, organised by the International Association of Athletics Federations. It was held on 11 September at the Olympic Stadium in Munich, Germany.",
+          "semantic_score": 0.5723692178726196,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "355",
+          "text": "Stewart Grand Prix\nStewart Grand Prix was a Formula One constructor and racing team formed by three times Formula One champion Jackie Stewart and his son Paul Stewart in 1996. The team competed in F1, as the Ford works-supported team, for only three seasons, from 1997 to 1999. The 1999 season was by far its strongest, yielding one win (Johnny Herbert at the European Grand Prix) and one pole position (Rubens Barrichello at the French Grand Prix) en route to finishing fourth overall in the Constructors Championship.",
+          "semantic_score": 0.5597093105316162,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4649",
+          "text": "2009 Monterey Sports Car Championships\nThe 2009 Monterey Sports Car Championships presented by Patrón was the tenth and final round of the 2009 American Le Mans Series season. It took place at Mazda Raceway Laguna Seca, Monterey, California on October 11, 2009. The race was won by the Acura of de Ferran Motorsports, driven by Simon Pagenaud and retiring driver Gil de Ferran, which wore a tribute livery based on Jim Hall's Chaparrals. Adrian Fernández and Luis Díaz won the LMP2 category in the Fernández Racing Acura while only six tenths of a second behind the overall winning de Ferran car. The GT2 class was won by the #45 Flying Lizard Motorsports Porsche after contact with the #3 Corvette Racing while approaching the finish line on the final lap. Guy Cosmo and John Baker of Orbit Racing won their first race in the ALMS Challenge category after the Velox Motorsport entry was disqualified.",
+          "semantic_score": 0.46802306175231934,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "363",
+          "text": "Peter Westbury\nPeter Westbury (26 May 1938 – 7 December 2015) was a British racing driver from England. He participated in two World Championship Formula One Grands Prix, scoring no championship points. In 1969 he raced a Formula 2 Brabham-Cosworth, driving in his first Grand Prix in the 1969 German Grand Prix. He finished ninth on the road, fifth in the F2 class. The following year he failed to qualify for the 1970 United States Grand Prix driving a works BRM, after an engine failure.",
+          "semantic_score": 0.4595264196395874,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6191",
+          "text": "John Button (racing driver)\nJohn Button (27 July 1943 – 12 January 2014) was an English rallycross driver and the father of 2009 Formula One World Champion Jenson Button. His best overall results were both in 1976, as the runner-up in the Embassy/RAC-MSA British Rallycross and TEAC/Lydden Rallycross championships.",
+          "semantic_score": 0.4579007625579834,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4337",
+          "text": "1998 IAAF Grand Prix Final\nThe 1998 IAAF Grand Prix Final was the fourteenth edition of the season-ending competition for the IAAF Grand Prix track and field circuit, organised by the International Association of Athletics Federations. It was held on 5 September at the Luzhniki Stadium in Moscow, Russia.",
+          "semantic_score": 0.45031729340553284,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4343",
+          "text": "2001 IAAF Grand Prix Final\nThe 2001 IAAF Grand Prix Final was the seventeenth edition of the season-ending competition for the IAAF Grand Prix track and field circuit, organised by the International Association of Athletics Federations. It was held on 9 September at the Olympic Park Stadium in Melbourne, Australia. It was the first and only time that the event was held in the southern hemisphere (international track and field seasons typically revolve around a northern hemisphere schedule).",
+          "semantic_score": 0.4473922848701477,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4338",
+          "text": "1997 IAAF Grand Prix Final\nThe 1997 IAAF Grand Prix Final was the thirteenth edition of the season-ending competition for the IAAF Grand Prix track and field circuit, organised by the International Association of Athletics Federations. It was held on 13 September at the Hakatanomori Athletic Stadium in Fukuoka City, Japan.",
+          "semantic_score": 0.4248974025249481,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4344",
+          "text": "1996 IAAF Grand Prix Final\nThe 1996 IAAF Grand Prix Final was the twelfth edition of the season-ending competition for the IAAF Grand Prix track and field circuit, organised by the International Association of Athletics Federations. It was held on 7 September at the Arena Civica in Milan, Italy.",
+          "semantic_score": 0.4217134118080139,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4341",
+          "text": "2000 IAAF Grand Prix Final\nThe 2000 IAAF Grand Prix Final was the sixteenth edition of the season-ending competition for the IAAF Grand Prix track and field circuit, organised by the International Association of Athletics Federations. It was held on 5 October at the Khalifa International Stadium in Doha, Qatar. It was the first and only time that the event was held outside of September, due in part to Qatar's hot desert climate.",
+          "semantic_score": 0.34667760133743286,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Johnny Herbert"
+    },
+    {
+      "step": 2,
+      "sub_question": "Among those drivers, who has raced for 7 different teams?",
+      "retrieved": [
+        {
+          "id": "362",
+          "text": "Johnny Herbert\nJohn Paul \"Johnny\" Herbert (born 25 June 1964) is a British racing driver. He raced in Formula One from 1989 to 2000, for 7 different teams, winning three races and placed 4th in the 1995 championship. He also raced sports cars winning the Le Mans 24 Hours in 1991 driving a Mazda 787B. He enjoyed much success in lower-level motor racing.",
+          "semantic_score": 0.748658299446106,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6673",
+          "text": "Andy Michner\nAndy Michner (born October 27, 1968, Ann Arbor, Michigan), is a former driver in the Indy Racing League IndyCar Series, NASCAR Craftsman Truck Series and NASCAR Busch Series. He is the current record holder of the world's fastest Sprint Car race at a United States Auto Club event in Phoenix, Arizona at 136.034 mph 1996. Michner finished twice a runner-up to NASCAR'S Tony Stewart in United States Auto Club competition and has 19 USAC Wins. He passed his Indy 500 Rookie Orientation Program but elected to not qualify for the race 1996 Indianapolis 500. In 1996 & 1997, Michner ran a partial season in the NASCAR Craftsman Truck Series as Chevrolet's Development Driver. He then returned to the Indy Car series in 1998 with Konica/Syan Racing and captured his career best finish of eighth place in his first race, the 1998 Indianapolis 500. Michner then signed with Factory Riley&Scott Reebok Indycar Team where Michner led in the closing laps of the 1998 Texas Longhorn 500 but failed to finish due to an engine failure. At Michigan International Speedway in August 1998, it was announced, Michner signed a 3-year contract to drive the Bayer Aleve, Coca-Cola Chevrolet in NASCAR's Busch Series for BACE Motorsports. Michner suffered ultimately career ending injuries in October 1998 while testing at Homestead-Miami Speedway in a NASCAR Busch Series test. He attempted to qualify for the 1999 Indianapolis 500 for Byrd Racing but failed to make the field due to rain. He was named to a Logan Racing entry to two races in 2000 but the car did not appear at either race.",
+          "semantic_score": 0.5030214190483093,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9040",
+          "text": "James Moffat (racing driver)\nJames Moffat (born 18 June 1984) is an Australian professional racing driver competing in the Virgin Australia Supercars Championship. He currently drives the No. 34 Holden VF Commodore for Garry Rogers Motorsport.",
+          "semantic_score": 0.4722936153411865,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6191",
+          "text": "John Button (racing driver)\nJohn Button (27 July 1943 – 12 January 2014) was an English rallycross driver and the father of 2009 Formula One World Champion Jenson Button. His best overall results were both in 1976, as the runner-up in the Embassy/RAC-MSA British Rallycross and TEAC/Lydden Rallycross championships.",
+          "semantic_score": 0.44944116473197937,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "359",
+          "text": "Robin Montgomerie-Charrington\nRobin \"Monty\" Montgomerie-Charrington (born Robert Victor Campbell Montgomerie on 23 June 1915 in Mayfair, London – died 3 April 2007 ) was a British racing driver from England. He took up 500cc Formula 3 in 1950, achieving modest results through '50 and '51. He participated in one Formula One World Championship Grand Prix, the European Grand Prix at Spa, Belgium, on 22 June 1952. He retired his Aston Butterworth with \"engine trouble\" after 17 laps and scored no World Championship points.",
+          "semantic_score": 0.4428773522377014,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6192",
+          "text": "Jenson Button\nJenson Alexander Lyons Button {'1': \", '2': \", '3': \", '4': \"} (born 19 January 1980) is a British racing driver currently under contract with McLaren-Honda, as a reserve driver. He won the 2009 FIA Formula One World Championship, driving for Brawn GP. Button announced in September 2016 that he would be giving up his seat at the end of the 2016 season but announced that he would remain at McLaren as a reserve driver and ambassador of McLaren until 2018.",
+          "semantic_score": 0.3536812961101532,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9037",
+          "text": "James Courtney\nJames Anthony Courtney (born 29 June, 1980) is an Australian racing driver competing in the Virgin Australia Supercars Championship. He currently drives the No. 22 Holden VF Commodore for Walkinshaw Racing. Courtney won the 2010 V8 Supercar Championship Series driving for the Dick Johnson Racing team.",
+          "semantic_score": 0.3920702636241913,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7939",
+          "text": "Phil Hill\nPhilip Toll Hill Jr. (April 20, 1927 – August 28, 2008) was an American automobile racer and the only American-born driver to win the Formula One World Drivers' Championship (Mario Andretti, an Italian American driver, won the World Drivers' Championship in 1978, but was not born in the United States). He also scored three wins at each of the 24 Hours of Le Mans and 12 Hours of Sebring sports car races.",
+          "semantic_score": 0.4274611473083496,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "356",
+          "text": "Graham Whitehead\nAnthony Graham Whitehead (born in Harrogate, 15 April 1922 – died in Lower Basildon, Berkshire, 15 January 1981) was a British racing driver from England. He participated in one Formula One World Championship Grand Prix, on 19 July 1952. He finished 12th, scoring no championship points. He also competed in several non-Championship Formula One races. He began racing his half-brother Peter's ERA, in 1951 and then drove his Formula Two Alta in the 1952 British Grand Prix. He finished second at 1958 24 Hours of Le Mans only weeks before the accident on the Tour de France in which Peter was killed. Graham escaped serious injury and later raced again with an Aston Martin and Ferrari 250GT before stopping at the end of 1961.",
+          "semantic_score": 0.33403632044792175,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6193",
+          "text": "John Button (campaigner)\nJohn Button (born 9 February 1944 in Liverpool, England) is a Western Australian man who was the victim of a significant miscarriage of justice. Button was wrongfully convicted of the manslaughter, by vehicle impact, of his girlfriend, Rosemary Anderson, in 1963.",
+          "semantic_score": 0.20692552626132965,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Johnny Herbert"
+    }
+  ],
+  "links": [
+    {
+      "source": "355",
+      "target": "362",
+      "reason": "Paragraph 355 identifies Johnny Herbert as the winner of the 1999 European Grand Prix for Stewart Grand Prix, while paragraph 362 confirms Herbert is a British racing driver who raced in Formula One for 7 different teams, jointly answering both sub-questions."
+    }
+  ],
+  "questions_seen": 37,
+  "_id": "5ae680cc5542996d980e7ba5",
+  "correct_answer": "Johnny Herbert",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

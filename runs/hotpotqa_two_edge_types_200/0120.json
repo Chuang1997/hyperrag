@@ -1,0 +1,261 @@
+{
+  "question": "Who is older, Tarryl Lynn Clark or Michele Marie Bachmann?",
+  "answer": "Michele Marie Bachmann",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is Tarryl Lynn Clark's date of birth?",
+      "retrieved": [
+        {
+          "id": "1189",
+          "text": "Tarryl Clark\nTarryl Lynn Clark (born July 31, 1961) is a Minnesota politician and a former member of the Minnesota Senate. A Democrat, she represented District 15, including portions of Benton, Sherburne, and Stearns counties, from 2006 to 2011. She was a Democratic-Farmer-Labor Party nominee for United States Congress in 2010, unsuccessfully challenging incumbent Republican Michele Bachmann.",
+          "semantic_score": 0.584527313709259,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1193",
+          "text": "Brandy Clark\nBrandy Lynn Clark (born October 9, 1975) is an American country music singer-songwriter. Her songs have been recorded by Sheryl Crow, Miranda Lambert, The Band Perry, Reba McEntire, LeAnn Rimes, Billy Currington, Darius Rucker, and Kacey Musgraves. She was nominated for Best New Artist at the 2015 Grammy Awards.",
+          "semantic_score": 0.4841928780078888,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3613",
+          "text": "Leah Ray\nLeah Ray Hubbard Werblin (February 16, 1915 – May 27, 1999) was an American singer born in Norfolk, Virginia who performed in the Big Band era and who sang and acted in more than a dozen motion pictures.",
+          "semantic_score": 0.42062368988990784,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6464",
+          "text": "Merlakia Jones\nMerlakia Jones (born June 21, 1974) is a former American college and professional basketball player who was a guard in the Women's National Basketball Association (WNBA) for eight seasons during the 1990s and 2000s. Jones played college basketball for the University of Florida, and then played professionally for the Cleveland Rockers and Detroit Shock of the WNBA.",
+          "semantic_score": 0.4122004210948944,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3610",
+          "text": "Laura Turner (singer)\nLaura Turner is an American singer born in Houston, Texas. She came to public notice following the release of her album \"Soul Deep\" on Curb Records in 2003.",
+          "semantic_score": 0.40660691261291504,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6472",
+          "text": "Jalen Jones\nJalen Jones (born May 27, 1993) is an American professional basketball player for the New Orleans Pelicans of the National Basketball Association (NBA). He was signed on a two-way contract with the NBA G League. He played college basketball for Southern Methodist and Texas A&M.",
+          "semantic_score": 0.1813516914844513,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1194",
+          "text": "Michele Bachmann\nMichele Marie Bachmann ( ; \"née\" Amble; born April 6, 1956) is an American politician. A Republican, she is a former member of the United States House of Representatives, who represented Minnesota's 6th congressional district, a post she held from 2007 to 2015. The district includes several of the northern suburbs of the Twin Cities, as well as St. Cloud.",
+          "semantic_score": 0.2682076692581177,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "818",
+          "text": "Norm Coleman\nNorman Bertram Coleman Jr., (born August 17, 1949) is an American lobbyist, lawyer and politician. He served as a U.S. Senator from Minnesota from 2003 until 2009. Before that, he was mayor of Saint Paul, Minnesota from 1994 to 2002. Previously a member of the Democratic–Farmer–Labor Party (DFL), Coleman became a Republican in 1996. Coleman was elected to the Senate in 2002 and served one term, losing his 2008 reelection bid by 312 votes (out of over 3 million cast).",
+          "semantic_score": 0.22092550992965698,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6469",
+          "text": "Mark Jones (basketball, born 1961)\nMark Anthony Jones (born April 10, 1961) is a retired American professional basketball player. He played point guard. Jones played college basketball at St. Bonaventure before being drafted by the New York Knicks as the 82nd overall pick in the 4th round of the 1983 NBA Draft. He never played for the Knicks, however, instead ultimately playing six games in the NBA for the New Jersey Nets during the season.",
+          "semantic_score": 0.16799050569534302,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6471",
+          "text": "Domonic Jones\nDomonic Jones (born August 16, 1981) is an American expatriate professional basketball player. He plays for RBC Verviers-Pepinster in Basketball League Belgium as of the 2011–12 season. He is 6'1\", 205 pounds and switches between the point guard and shooting guard positions. Jones played college basketball at Virginia Commonwealth University where he was named the Colonial Athletic Association Men's Basketball Player of the Year in 2003–04.",
+          "semantic_score": 0.13463756442070007,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "July 31, 1961"
+    },
+    {
+      "step": 2,
+      "sub_question": "What is Michele Marie Bachmann's date of birth?",
+      "retrieved": [
+        {
+          "id": "1194",
+          "text": "Michele Bachmann\nMichele Marie Bachmann ( ; \"née\" Amble; born April 6, 1956) is an American politician. A Republican, she is a former member of the United States House of Representatives, who represented Minnesota's 6th congressional district, a post she held from 2007 to 2015. The district includes several of the northern suburbs of the Twin Cities, as well as St. Cloud.",
+          "semantic_score": 0.5989370346069336,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1198",
+          "text": "Michele Bachmann presidential campaign, 2012\nThe 2012 presidential campaign of Michele Bachmann, Congresswoman of Minnesota, began in June 2011. She ran for the 2012 Republican Party nomination for president of the United States. Bachmann announced she was running for president during the CNN Republican primary debate held June 13, 2011, and made her formal announcement two weeks later in her hometown of Waterloo, Iowa.",
+          "semantic_score": 0.5221815705299377,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1195",
+          "text": "Michele Serros\nMichele Marie Serros (February 10, 1966 – January 4, 2015) was an American author, poet and comedic social commentator. Hailed as “a Woman to Watch in the New Century” by \"Newsweek\", She wrote several books and regularly contributed original commentaries to National Public Radio.",
+          "semantic_score": 0.4404433071613312,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5748",
+          "text": "Anna Lewandowska\nAnna Lewandowska (born Anna Stachurska 7 September 1988) is a Polish athlete, a graduate of the Academy of Physical Education in Warsaw, a specialist on nutrition, karate and representative of the country in traditional karate. She is a multiple medalist of the World, European, and national Championships. She is married to footballer Robert Lewandowski.",
+          "semantic_score": 0.3992542624473572,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3538",
+          "text": "Pierre Chenal\nPierre Chenal (] ; December 5, 1904 – December 23, 1990) was a French director and screenwriter who flourished in the 1930s. He was married from 1937 – 1955 to Florence Marly (2 June 1919 – 9 November 1978), a Czech-born French film actress.",
+          "semantic_score": 0.3990537226200104,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1189",
+          "text": "Tarryl Clark\nTarryl Lynn Clark (born July 31, 1961) is a Minnesota politician and a former member of the Minnesota Senate. A Democrat, she represented District 15, including portions of Benton, Sherburne, and Stearns counties, from 2006 to 2011. She was a Democratic-Farmer-Labor Party nominee for United States Congress in 2010, unsuccessfully challenging incumbent Republican Michele Bachmann.",
+          "semantic_score": 0.2599240839481354,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5749",
+          "text": "Robert Lewandowski\nRobert Lewandowski (] ; born 21 August 1988) is a Polish professional footballer who plays as a striker for Bundesliga club Bayern Munich, and captains the Poland national team.",
+          "semantic_score": 0.15648752450942993,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5750",
+          "text": "Anna Westerlund\nAnna Ǻsa Olivia Westerlund (born 9 April 1989) is a Finnish footballer, who plays at club level for LSK Kvinner FK of the Norwegian Toppserien. She previously played for FC Honka in Finland's Naisten Liiga and Umeå IK. Despite playing 90 minutes in all 22 of Umeå's league matches, her contract with the club was not extended at the end of the 2011 season. The following season she remained in Sweden with Piteå IF.",
+          "semantic_score": 0.15599054098129272,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "April 6, 1956"
+    },
+    {
+      "step": 3,
+      "sub_question": "Compare their birth dates to determine who is older.",
+      "retrieved": [
+        {
+          "id": "2086",
+          "text": "Jiroemon Kimura\nJiroemon Kimura (木村 次郎右衛門 , Kimura Jirōemon , April 19, 1897 – June 12, 2013) was a Japanese supercentenarian. He became the oldest verified male in history on December 28, 2012, at the age of 115 years and 253 days when he surpassed the age of Christian Mortensen who died in 1998, and also became the first and so far the only man who indisputably reached 116 years of age, being 116 years, 54 days old at the time of his death from natural causes on June 12, 2013, in a hospital in his hometown of Kyōtango, Kyoto Prefecture, Japan. He was the last known living man born in the 19th century.",
+          "semantic_score": 0.39855849742889404,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8218",
+          "text": "Kara Kennedy\nKara Anne Kennedy Allen (February 27, 1960 – September 16, 2011) was a member of the American political dynasty, the Kennedy family. She was the oldest of the three children of U.S. Senator Ted Kennedy from Massachusetts and Joan Bennett Kennedy, and a niece of President John F. Kennedy and Senator Robert F. Kennedy.",
+          "semantic_score": 0.3306131660938263,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2093",
+          "text": "James Sisnett\nJames Emmanuel \"Doc\" Sisnett (22 February 1900 – 23 May 2013) was a Barbadian supercentenarian. Born and raised in Saint George, he spent his life as a blacksmith, sugar factory worker, and farmer, not retiring from the latter until he turned 100. In excellent health throughout his life, he died at the age of 113 years, 90 days and held a number of distinctions. Among them, he was the verified oldest man in the Western Hemisphere, the second-oldest man in the world, and the last surviving black man born in the 19th century. He was also the only verified supercentenarian from Barbados and, along with Jiroemon Kimura (who died 20 days after Sisnett), one of the last men born in the 19th century.",
+          "semantic_score": 0.33054476976394653,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2476",
+          "text": "Scott Kelly (astronaut)\nScott Joseph Kelly (born February 21, 1964 in Orange, New Jersey) is an engineer, retired American astronaut, and a retired U.S. Navy Captain. A veteran of four space flights, Kelly commanded the International Space Station (ISS) on Expeditions 26, 45, and 46.",
+          "semantic_score": 0.29675915837287903,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3749",
+          "text": "Orville Nix\nOrville Orhel Nix (April 16, 1911 – January 17, 1972) was a witness to the assassination of U.S. President John F. Kennedy in Dallas, Texas, on November 22, 1963. His filming of the event, capturing only the last few seconds of the drama, is considered nearly as important as the Abraham Zapruder film.",
+          "semantic_score": 0.29279136657714844,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8215",
+          "text": "Jean Kennedy Smith\nJean Ann Kennedy Smith (born February 20, 1928) is an American diplomat who served as United States Ambassador to Ireland from 1993 to 1998. She is the eighth of nine children born to Joseph P. Kennedy, Sr. and Rose Fitzgerald, and is their longest-lived and last surviving child. Her siblings include President John F. Kennedy, Senator Robert F. Kennedy, longtime Senator Ted Kennedy, and Special Olympics founder Eunice Kennedy Shriver.",
+          "semantic_score": 0.28383076190948486,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8216",
+          "text": "Patricia Kennedy Lawford\nPatricia Helen \"Pat\" Kennedy Lawford (May 6, 1924 – September 17, 2006) was an American socialite and the sixth of nine children of Rose and Joseph P. Kennedy Sr. She was a sister of President John F. Kennedy, Senator Robert F. Kennedy, and Senator Ted Kennedy. Pat wanted to be a film producer, a profession not readily open to young women in her time. She married English actor Peter Lawford in 1954, but they experienced a serious culture-clash and divorced in 1966.",
+          "semantic_score": 0.19063806533813477,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3751",
+          "text": "Abraham Zapruder\nAbraham Zapruder (May 15, 1905 – August 30, 1970) was a Russian-born American clothing manufacturer who witnessed the assassination of President John F. Kennedy in Dallas, Texas, on November 22, 1963. Zapruder unexpectedly captured the event in a home movie while filming the presidential limousine and motorcade as it traveled through Dealey Plaza.",
+          "semantic_score": 0.1923719197511673,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Jiroemon Kimura is older."
+    }
+  ],
+  "links": [
+    {
+      "source": "1189",
+      "target": "1194",
+      "reason": "Paragraph 1189 gives Tarryl Lynn Clark's birth date (July 31, 1961), and paragraph 1194 gives Michele Marie Bachmann's birth date (April 6, 1956), enabling direct comparison to determine who is older."
+    }
+  ],
+  "questions_seen": 121,
+  "_id": "5a7cad635542996dd594b97f",
+  "correct_answer": "Michele Marie Bachmann",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

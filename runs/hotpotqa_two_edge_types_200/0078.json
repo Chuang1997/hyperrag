@@ -1,0 +1,455 @@
+{
+  "question": "What city did the musician whose debut album shares its title with the 1959 Alfred Hitchcock hail from?",
+  "answer": "New York City",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "There is a 1959 Alfred Hitchcock film — we need its title.",
+      "retrieved": [
+        {
+          "id": "779",
+          "text": "North by Northwest\nNorth by Northwest is a 1959 American thriller directed by Alfred Hitchcock and starring Cary Grant, Eva Marie Saint and James Mason. The screenplay was by Ernest Lehman, who wanted to write \"the Hitchcock picture to end all Hitchcock pictures\".",
+          "semantic_score": 0.5470161437988281,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "774",
+          "text": "Alfred Hitchcock filmography\nAlfred Hitchcock (1899–1980) was an English director and filmmaker. Popularly known as the \"Master of Suspense\" for his use of innovative film techniques in thrillers, Hitchcock started his career in the British film industry as a title designer and art director for a number of silent films during the early 1920s. His directorial debut was the 1925 release \"The Pleasure Garden\". Hitchcock followed this with \"\", his first commercial and critical success. It featured many of the thematic elements his films would be known for such as an innocent man on the run. It also featured the first of his famous cameo appearances. Two years later he directed \"Blackmail\" (1929) which was his first sound film. In 1935 Hitchcock directed \"The 39 Steps\". Three years later he directed \"The Lady Vanishes\" starring Margaret Lockwood, and Michael Redgrave.",
+          "semantic_score": 0.519267737865448,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1731",
+          "text": "The Preview Murder Mystery\nThe Preview Murder Mystery is a 1936 American mystery-comedy, directed by Robert Florey and shot in the Paramount studio. The plot follows a studio public relations man who attempts to trap a killer using television technology, allowing on-screen glimpses of technicians like Florey's cinematographer Karl Struss.",
+          "semantic_score": 0.4706386625766754,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "782",
+          "text": "List of The Alfred Hitchcock Hour episodes\nThe following is a list of the 93 episodes of the television program The Alfred Hitchcock Hour, which is a continuation of the program \"Alfred Hitchcock Presents\" (1955–60). \"The Alfred Hitchcock Hour\", like its predecessor, is an anthology series in the thriller genre. NBC renamed the program when they extended its running-time from about 25 minutes to about 50 minutes. Both programs were hosted by Alfred Hitchcock, whose directorial work in thriller films is extremely influential. Hitchcock directed only one episode of \"The Alfred Hitchcock Hour\": \"I Saw The Whole Thing\" (Season 1, episode 4).",
+          "semantic_score": 0.4648624062538147,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "783",
+          "text": "George Tomasini\nGeorge Tomasini (April 20, 1909 – November 22, 1964) was an American film editor, born in Springfield, Massachusetts who had a decade long collaboration with director Alfred Hitchcock, editing nine of his movies between 1954-1964. Tomasini edited many of Hitchcock's best-known works, such as \"Rear Window\" (1954), \"Vertigo\" (1958), \"North by Northwest\" (1959), \"Psycho\" (1960), and \"The Birds\" (1963), as well as other well-received films such as \"Cape Fear\" (1962). On a 2012 listing of the 75 best edited films of all time, compiled by the Motion Picture Editors Guild based on a survey of its members, four films edited by Tomasini for Hitchcock appear. No other editor appeared more than three times on this listing. The listed films were \"Psycho\", \"Vertigo\", \"Rear Window\", and \"North by Northwest\".",
+          "semantic_score": 0.4483605623245239,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "777",
+          "text": "Gordon Harker\nGordon Harker (7 August 1885 – 2 March 1967) was an English stage and film actor. he had a long career on the stage, from 1902 to the 1950s. One of the last plays he starred in was \"Small Hotel\", a popular comedy he toured in 1955. In addition, he appeared in 68 films between 1921 and 1959, including three silent films directed by Alfred Hitchcock and in several scenes in \"Elstree Calling\" (1930), a revue film co-directed by Hitchcock. He was known for his performance as Inspector Hornleigh in a trilogy of films produced between 1938 and 1940, as well in \"Saloon Bar\" (1940), based on a stage play he had starred in and another one of his stage successes The Poltergeist made into the film \"Things Happen at Night\" (1947), a poltergeist comedy he co-starred in with Alfred Drayton and Robertson Hare. His last major screen role was as the wiley waiter Albert in the 1957 motion picture version of \"Small Hotel\"",
+          "semantic_score": 0.3740176558494568,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2957",
+          "text": "The Informers (1963 film)\nThe Informers (US title - Underworld Informers) is a 1963 British crime film produced and distributed in the UK by The Rank Organisation and distributed in the USA by Continental Film Distributors. It was directed by Ken Annakin, produced by William MacQuitty with the screenplay by Paul Durst and Alun Falconer from the novel \"Death of a Snout\" by Douglas Warner. It starred Nigel Patrick, Margaret Whiting, Harry Andrews, Derren Nesbitt and Colin Blakely. Cinematography was by Reginald H. Wyer.",
+          "semantic_score": 0.361648827791214,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "North by Northwest"
+    },
+    {
+      "step": 2,
+      "sub_question": "A musician’s debut album shares that title.",
+      "retrieved": [
+        {
+          "id": "779",
+          "text": "North by Northwest\nNorth by Northwest is a 1959 American thriller directed by Alfred Hitchcock and starring Cary Grant, Eva Marie Saint and James Mason. The screenplay was by Ernest Lehman, who wanted to write \"the Hitchcock picture to end all Hitchcock pictures\".",
+          "semantic_score": 0.49351048469543457,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7511",
+          "text": "Given to the Rising\nGiven to the Rising is the ninth studio album from the Oakland, California band Neurosis, released on June 5, 2007. The album is available in a standard jewel case, a limited-edition digipak, and a limited-edition double LP, all with the same track list. \"Decibel Magazine\" listed \"Given to the Rising\" as the 76th best metal album of the decade. A DVD documentary is also available from Neurot Records. The artwork for the album, designed by Josh Graham, is a mixture of photos from Heroes Square in Budapest and drawings inspired by the place. Coincidentally, singer/guitarist Steve Von Till and Josh Graham had separately thought of the idea of using Heroes Square as the artwork for the album.",
+          "semantic_score": 0.4119575619697571,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "153",
+          "text": "The Leslie West Band\nThe Leslie West Band is the third album released by American rock guitarist Leslie West. The album, recorded at Electric Lady Studios in New York City, was released on Bud Prager's Phantom Records in 1976 and features Mick Jones of Foreigner on guitar.",
+          "semantic_score": 0.40743857622146606,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5629",
+          "text": "Masters of the Hemisphere\nMasters of the Hemisphere are an American indie pop group, founded by Bren Mead and Sean Rawls. The two moved to Athens, Georgia, to attend college in 1996. There they met Ryan Lewis, co-founder of Kindercore Records, who played drums at the first Masters of the Hemisphere show. Jeff Griggs (also of The Mendoza Line) soon replaced Lewis. In 1997 Kindercore released their debut seven-inch ep, \"Going on a Trek to Iceland\". The group then recorded their first full length album, the eponymous \"Masters of the Hemisphere\", which was released on Kindercore Records in 1998. The band soon expanded to a four-piece, adding multi-instrumentalist Adrian Finch. Several singles and compilation appearances followed, including a release on the Happy Happy Birthday To Me Records singles club, before the band released their second full length, the concept album \"I Am Not a Freemdoom\", also on Kindercore. The record garnered mixed reviews, which in part was likely due to the album's rather complicated concept, regarding an island of reservoir-dwelling creatures being enslaved by an evil dog. The \"Permanent Stranger\" EP followed in 2002, on the dcBaltimore2012 label. The band split up after their next album, 2002's well received \"Protest a Dark Anniversary\". A recording of their then-final show at Athens, Georgia's 40 Watt Club was later released as \"The Last Show Ever\".",
+          "semantic_score": 0.40100952982902527,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "146",
+          "text": "Leslie West\nLeslie West (born Leslie Weinstein; October 22, 1945) is an American rock guitarist, vocalist, and songwriter. He is best known as a founding member of the hard rock band Mountain.",
+          "semantic_score": 0.393576979637146,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "147",
+          "text": "Leslie West Live!\nLeslie West Live! is a live album by Leslie West, released in 1993.",
+          "semantic_score": 0.3350144326686859,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "783",
+          "text": "George Tomasini\nGeorge Tomasini (April 20, 1909 – November 22, 1964) was an American film editor, born in Springfield, Massachusetts who had a decade long collaboration with director Alfred Hitchcock, editing nine of his movies between 1954-1964. Tomasini edited many of Hitchcock's best-known works, such as \"Rear Window\" (1954), \"Vertigo\" (1958), \"North by Northwest\" (1959), \"Psycho\" (1960), and \"The Birds\" (1963), as well as other well-received films such as \"Cape Fear\" (1962). On a 2012 listing of the 75 best edited films of all time, compiled by the Motion Picture Editors Guild based on a survey of its members, four films edited by Tomasini for Hitchcock appear. No other editor appeared more than three times on this listing. The listed films were \"Psycho\", \"Vertigo\", \"Rear Window\", and \"North by Northwest\".",
+          "semantic_score": 0.2155132293701172,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "151",
+          "text": "Climbing!\nClimbing!, also known as Mountain Climbing!, is the official debut studio album by American blues rock band Mountain. Released on March 7, 1970, the album featured the 'classic' Mountain lineup of Leslie West (guitar, vocals), Felix Pappalardi (bass, vocals, piano), Corky Laing (drums, percussion) and Steve Knight (keyboards) and followed the West solo album \"Mountain\" featuring Pappalardi and drummer Norman Smart, released in 1969 and often credited to the band. Produced by Pappalardi, the album reached number 17 on the American \"Billboard\" 200 albums chart and featured the band's best-known song, \"Mississippi Queen\". An early rendition of \"For Yasgur's Farm\" was actually performed at the Woodstock Festival in August 1969 as Who Am I But You And The Sun. It was subsequently recorded and retitled for the album.",
+          "semantic_score": 0.38043010234832764,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Climbing!"
+    },
+    {
+      "step": 3,
+      "sub_question": "We need the city that musician is from.",
+      "retrieved": [
+        {
+          "id": "146",
+          "text": "Leslie West\nLeslie West (born Leslie Weinstein; October 22, 1945) is an American rock guitarist, vocalist, and songwriter. He is best known as a founding member of the hard rock band Mountain.",
+          "semantic_score": 0.4754173457622528,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "151",
+          "text": "Climbing!\nClimbing!, also known as Mountain Climbing!, is the official debut studio album by American blues rock band Mountain. Released on March 7, 1970, the album featured the 'classic' Mountain lineup of Leslie West (guitar, vocals), Felix Pappalardi (bass, vocals, piano), Corky Laing (drums, percussion) and Steve Knight (keyboards) and followed the West solo album \"Mountain\" featuring Pappalardi and drummer Norman Smart, released in 1969 and often credited to the band. Produced by Pappalardi, the album reached number 17 on the American \"Billboard\" 200 albums chart and featured the band's best-known song, \"Mississippi Queen\". An early rendition of \"For Yasgur's Farm\" was actually performed at the Woodstock Festival in August 1969 as Who Am I But You And The Sun. It was subsequently recorded and retitled for the album.",
+          "semantic_score": 0.4625445306301117,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "933",
+          "text": "Aurelio Valle\nAurelio Valle is an American singer, guitarist, composer and visual art residing in New York, New York born in Chicago, Illinois and raised in Kingsville, Texas. He is a founding member of the experimental rock group CALLA from New York City/Brooklyn, New York and is best known for his work with that group. The band was formed in New York City in 1997 along with Wayne Magruder and Sean Donovan, later adding member Peter Gannon.",
+          "semantic_score": 0.39234980940818787,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7620",
+          "text": "Albert R. Ellingwood\nAlbert Russell Ellingwood (22 June 1887 – 12 May 1934) was a pioneering mountaineer and climber in the western United States during the first half of the twentieth century. He made first ascents of many peaks and routes in the Rocky Mountains, particularly in Colorado, including Lizard Head in the San Juan Mountains, Ellingwood Ridge on La Plata Peak in the Sawatch Range, and Crestone Needle in the Sangre de Cristo Range. Many mountain features are named for him, on peaks such as Middle Teton, on which Ellingwood made the first ascent, the Ellingwood Ridge of La Plata Peak, and the Ellingwood Arete ascent of Crestone Needle; the fourteener Ellingwood Point, near Blanca Peak in southern Colorado, is named for him as well.",
+          "semantic_score": 0.3695843517780304,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9807",
+          "text": "Hummingbird (Local Natives album)\nHummingbird is the second studio album by American indie rock band Local Natives, released on January 29, 2013 on Frenchkiss Records in the US, and on Infectious Records in Europe. Produced by The National guitarist Aaron Dessner, the album was preceded by the singles, \"Breakers\" and \"Heavy Feet.\" \"Breakers\" reached #12 on the Billboard Top 200. The song \"Mt. Washington\" was also featured in the 2015 video game \"Life Is Strange\".",
+          "semantic_score": 0.3664274513721466,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "153",
+          "text": "The Leslie West Band\nThe Leslie West Band is the third album released by American rock guitarist Leslie West. The album, recorded at Electric Lady Studios in New York City, was released on Bud Prager's Phantom Records in 1976 and features Mick Jones of Foreigner on guitar.",
+          "semantic_score": 0.27377837896347046,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9808",
+          "text": "Local Natives\nLocal Natives (previously known as Cavil at Rest) is an American indie rock band based in Silver Lake, Los Angeles, California, United States. Their debut album, \"Gorilla Manor\", was first released in the UK in November 2009, and later released in the US on February 16, 2010. The album received mostly positive reviews and debuted in the Billboard 200 and at No. 3 in the New Artist Chart. Their second album, \"Hummingbird\", was released in January 2013. Their third album, \"Sunlit Youth\", was released in September 2016.",
+          "semantic_score": 0.23620250821113586,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "147",
+          "text": "Leslie West Live!\nLeslie West Live! is a live album by Leslie West, released in 1993.",
+          "semantic_score": 0.18075913190841675,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "New York City"
+    },
+    {
+      "step": 4,
+      "sub_question": "What is the title of the 1959 Alfred Hitchcock film?",
+      "retrieved": [
+        {
+          "id": "779",
+          "text": "North by Northwest\nNorth by Northwest is a 1959 American thriller directed by Alfred Hitchcock and starring Cary Grant, Eva Marie Saint and James Mason. The screenplay was by Ernest Lehman, who wanted to write \"the Hitchcock picture to end all Hitchcock pictures\".",
+          "semantic_score": 0.5537935495376587,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "774",
+          "text": "Alfred Hitchcock filmography\nAlfred Hitchcock (1899–1980) was an English director and filmmaker. Popularly known as the \"Master of Suspense\" for his use of innovative film techniques in thrillers, Hitchcock started his career in the British film industry as a title designer and art director for a number of silent films during the early 1920s. His directorial debut was the 1925 release \"The Pleasure Garden\". Hitchcock followed this with \"\", his first commercial and critical success. It featured many of the thematic elements his films would be known for such as an innocent man on the run. It also featured the first of his famous cameo appearances. Two years later he directed \"Blackmail\" (1929) which was his first sound film. In 1935 Hitchcock directed \"The 39 Steps\". Three years later he directed \"The Lady Vanishes\" starring Margaret Lockwood, and Michael Redgrave.",
+          "semantic_score": 0.5053926706314087,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "783",
+          "text": "George Tomasini\nGeorge Tomasini (April 20, 1909 – November 22, 1964) was an American film editor, born in Springfield, Massachusetts who had a decade long collaboration with director Alfred Hitchcock, editing nine of his movies between 1954-1964. Tomasini edited many of Hitchcock's best-known works, such as \"Rear Window\" (1954), \"Vertigo\" (1958), \"North by Northwest\" (1959), \"Psycho\" (1960), and \"The Birds\" (1963), as well as other well-received films such as \"Cape Fear\" (1962). On a 2012 listing of the 75 best edited films of all time, compiled by the Motion Picture Editors Guild based on a survey of its members, four films edited by Tomasini for Hitchcock appear. No other editor appeared more than three times on this listing. The listed films were \"Psycho\", \"Vertigo\", \"Rear Window\", and \"North by Northwest\".",
+          "semantic_score": 0.4531947374343872,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "782",
+          "text": "List of The Alfred Hitchcock Hour episodes\nThe following is a list of the 93 episodes of the television program The Alfred Hitchcock Hour, which is a continuation of the program \"Alfred Hitchcock Presents\" (1955–60). \"The Alfred Hitchcock Hour\", like its predecessor, is an anthology series in the thriller genre. NBC renamed the program when they extended its running-time from about 25 minutes to about 50 minutes. Both programs were hosted by Alfred Hitchcock, whose directorial work in thriller films is extremely influential. Hitchcock directed only one episode of \"The Alfred Hitchcock Hour\": \"I Saw The Whole Thing\" (Season 1, episode 4).",
+          "semantic_score": 0.446489155292511,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1731",
+          "text": "The Preview Murder Mystery\nThe Preview Murder Mystery is a 1936 American mystery-comedy, directed by Robert Florey and shot in the Paramount studio. The plot follows a studio public relations man who attempts to trap a killer using television technology, allowing on-screen glimpses of technicians like Florey's cinematographer Karl Struss.",
+          "semantic_score": 0.44608575105667114,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "777",
+          "text": "Gordon Harker\nGordon Harker (7 August 1885 – 2 March 1967) was an English stage and film actor. he had a long career on the stage, from 1902 to the 1950s. One of the last plays he starred in was \"Small Hotel\", a popular comedy he toured in 1955. In addition, he appeared in 68 films between 1921 and 1959, including three silent films directed by Alfred Hitchcock and in several scenes in \"Elstree Calling\" (1930), a revue film co-directed by Hitchcock. He was known for his performance as Inspector Hornleigh in a trilogy of films produced between 1938 and 1940, as well in \"Saloon Bar\" (1940), based on a stage play he had starred in and another one of his stage successes The Poltergeist made into the film \"Things Happen at Night\" (1947), a poltergeist comedy he co-starred in with Alfred Drayton and Robertson Hare. His last major screen role was as the wiley waiter Albert in the 1957 motion picture version of \"Small Hotel\"",
+          "semantic_score": 0.368354469537735,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2957",
+          "text": "The Informers (1963 film)\nThe Informers (US title - Underworld Informers) is a 1963 British crime film produced and distributed in the UK by The Rank Organisation and distributed in the USA by Continental Film Distributors. It was directed by Ken Annakin, produced by William MacQuitty with the screenplay by Paul Durst and Alun Falconer from the novel \"Death of a Snout\" by Douglas Warner. It starred Nigel Patrick, Margaret Whiting, Harry Andrews, Derren Nesbitt and Colin Blakely. Cinematography was by Reginald H. Wyer.",
+          "semantic_score": 0.32261237502098083,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "North by Northwest"
+    },
+    {
+      "step": 5,
+      "sub_question": "Which musician’s debut album shares that title?",
+      "retrieved": [
+        {
+          "id": "779",
+          "text": "North by Northwest\nNorth by Northwest is a 1959 American thriller directed by Alfred Hitchcock and starring Cary Grant, Eva Marie Saint and James Mason. The screenplay was by Ernest Lehman, who wanted to write \"the Hitchcock picture to end all Hitchcock pictures\".",
+          "semantic_score": 0.4626868665218353,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5629",
+          "text": "Masters of the Hemisphere\nMasters of the Hemisphere are an American indie pop group, founded by Bren Mead and Sean Rawls. The two moved to Athens, Georgia, to attend college in 1996. There they met Ryan Lewis, co-founder of Kindercore Records, who played drums at the first Masters of the Hemisphere show. Jeff Griggs (also of The Mendoza Line) soon replaced Lewis. In 1997 Kindercore released their debut seven-inch ep, \"Going on a Trek to Iceland\". The group then recorded their first full length album, the eponymous \"Masters of the Hemisphere\", which was released on Kindercore Records in 1998. The band soon expanded to a four-piece, adding multi-instrumentalist Adrian Finch. Several singles and compilation appearances followed, including a release on the Happy Happy Birthday To Me Records singles club, before the band released their second full length, the concept album \"I Am Not a Freemdoom\", also on Kindercore. The record garnered mixed reviews, which in part was likely due to the album's rather complicated concept, regarding an island of reservoir-dwelling creatures being enslaved by an evil dog. The \"Permanent Stranger\" EP followed in 2002, on the dcBaltimore2012 label. The band split up after their next album, 2002's well received \"Protest a Dark Anniversary\". A recording of their then-final show at Athens, Georgia's 40 Watt Club was later released as \"The Last Show Ever\".",
+          "semantic_score": 0.42852678894996643,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "153",
+          "text": "The Leslie West Band\nThe Leslie West Band is the third album released by American rock guitarist Leslie West. The album, recorded at Electric Lady Studios in New York City, was released on Bud Prager's Phantom Records in 1976 and features Mick Jones of Foreigner on guitar.",
+          "semantic_score": 0.42294102907180786,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "146",
+          "text": "Leslie West\nLeslie West (born Leslie Weinstein; October 22, 1945) is an American rock guitarist, vocalist, and songwriter. He is best known as a founding member of the hard rock band Mountain.",
+          "semantic_score": 0.4175790846347809,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "151",
+          "text": "Climbing!\nClimbing!, also known as Mountain Climbing!, is the official debut studio album by American blues rock band Mountain. Released on March 7, 1970, the album featured the 'classic' Mountain lineup of Leslie West (guitar, vocals), Felix Pappalardi (bass, vocals, piano), Corky Laing (drums, percussion) and Steve Knight (keyboards) and followed the West solo album \"Mountain\" featuring Pappalardi and drummer Norman Smart, released in 1969 and often credited to the band. Produced by Pappalardi, the album reached number 17 on the American \"Billboard\" 200 albums chart and featured the band's best-known song, \"Mississippi Queen\". An early rendition of \"For Yasgur's Farm\" was actually performed at the Woodstock Festival in August 1969 as Who Am I But You And The Sun. It was subsequently recorded and retitled for the album.",
+          "semantic_score": 0.4166485369205475,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "147",
+          "text": "Leslie West Live!\nLeslie West Live! is a live album by Leslie West, released in 1993.",
+          "semantic_score": 0.3402191996574402,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "783",
+          "text": "George Tomasini\nGeorge Tomasini (April 20, 1909 – November 22, 1964) was an American film editor, born in Springfield, Massachusetts who had a decade long collaboration with director Alfred Hitchcock, editing nine of his movies between 1954-1964. Tomasini edited many of Hitchcock's best-known works, such as \"Rear Window\" (1954), \"Vertigo\" (1958), \"North by Northwest\" (1959), \"Psycho\" (1960), and \"The Birds\" (1963), as well as other well-received films such as \"Cape Fear\" (1962). On a 2012 listing of the 75 best edited films of all time, compiled by the Motion Picture Editors Guild based on a survey of its members, four films edited by Tomasini for Hitchcock appear. No other editor appeared more than three times on this listing. The listed films were \"Psycho\", \"Vertigo\", \"Rear Window\", and \"North by Northwest\".",
+          "semantic_score": 0.21319139003753662,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Mountain"
+    },
+    {
+      "step": 6,
+      "sub_question": "What city is that musician from?",
+      "retrieved": [
+        {
+          "id": "146",
+          "text": "Leslie West\nLeslie West (born Leslie Weinstein; October 22, 1945) is an American rock guitarist, vocalist, and songwriter. He is best known as a founding member of the hard rock band Mountain.",
+          "semantic_score": 0.5732646584510803,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "933",
+          "text": "Aurelio Valle\nAurelio Valle is an American singer, guitarist, composer and visual art residing in New York, New York born in Chicago, Illinois and raised in Kingsville, Texas. He is a founding member of the experimental rock group CALLA from New York City/Brooklyn, New York and is best known for his work with that group. The band was formed in New York City in 1997 along with Wayne Magruder and Sean Donovan, later adding member Peter Gannon.",
+          "semantic_score": 0.47570785880088806,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "151",
+          "text": "Climbing!\nClimbing!, also known as Mountain Climbing!, is the official debut studio album by American blues rock band Mountain. Released on March 7, 1970, the album featured the 'classic' Mountain lineup of Leslie West (guitar, vocals), Felix Pappalardi (bass, vocals, piano), Corky Laing (drums, percussion) and Steve Knight (keyboards) and followed the West solo album \"Mountain\" featuring Pappalardi and drummer Norman Smart, released in 1969 and often credited to the band. Produced by Pappalardi, the album reached number 17 on the American \"Billboard\" 200 albums chart and featured the band's best-known song, \"Mississippi Queen\". An early rendition of \"For Yasgur's Farm\" was actually performed at the Woodstock Festival in August 1969 as Who Am I But You And The Sun. It was subsequently recorded and retitled for the album.",
+          "semantic_score": 0.45721954107284546,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5354",
+          "text": "Zacarías Ferreíra\nZacarías Ferreira is a Bachata artist from the Dominican Republic. He was born in the 1970s in the Dominican Republic. He is the uncle of professional basketball player Karl-Anthony Towns, who currently plays on the Minnesota Timberwolves, of the NBA.",
+          "semantic_score": 0.419158011674881,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8932",
+          "text": "Brandon Keener\nBrandon James Keener (born October 1, 1974) is an American actor living in Los Angeles, California. He was born and raised in Fort Smith, Arkansas and graduated from University of Arkansas at Fayetteville, where he won an Irene Ryan scholarship for collegiate actors and performed at the Kennedy Center.",
+          "semantic_score": 0.4040828347206116,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "153",
+          "text": "The Leslie West Band\nThe Leslie West Band is the third album released by American rock guitarist Leslie West. The album, recorded at Electric Lady Studios in New York City, was released on Bud Prager's Phantom Records in 1976 and features Mick Jones of Foreigner on guitar.",
+          "semantic_score": 0.25735199451446533,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5352",
+          "text": "Karl-Anthony Towns\nKarl-Anthony Towns Jr. (born November 15, 1995) is a Dominican-American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA). He played college basketball for the University of Kentucky. Towns was named to the Dominican Republic national basketball team Olympic squad as a 16-year-old, although the Dominican Republic ultimately did not qualify for the 2012 Olympics. He was selected with the first overall pick in the 2015 NBA draft by the Minnesota Timberwolves, and went on to be named NBA Rookie of the Year for the 2015–16 season.",
+          "semantic_score": 0.20514948666095734,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3388",
+          "text": "José Aveiro\nJosé Raúl Aveiro Lamas (born 18 July 1936 in Asunción, Paraguay) is a retired Paraguayan footballer. He played for Sportivo Luqueño, Valencia CF and Elche CF.",
+          "semantic_score": 0.2351953089237213,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "New York City"
+    }
+  ],
+  "links": [
+    {
+      "source": "779",
+      "target": "151",
+      "reason": "Paragraph 779 identifies the 1959 Hitchcock film as North by Northwest; paragraph 151 identifies Mountain's debut album Climbing!, whose title matches the film's title, bridging the film title to the musician/band."
+    },
+    {
+      "source": "151",
+      "target": "146",
+      "reason": "Paragraph 151 names Leslie West as the guitarist/vocalist of Mountain, whose debut album is Climbing!; paragraph 146 identifies Leslie West as the musician, linking the album to the person whose city is sought."
+    },
+    {
+      "source": "146",
+      "target": "153",
+      "reason": "Paragraph 146 identifies Leslie West as the musician; paragraph 153 states his album was recorded at Electric Lady Studios in New York City, providing the city associated with him."
+    }
+  ],
+  "questions_seen": 79,
+  "_id": "5ab3b42c5542992ade7c6e4f",
+  "correct_answer": "Chicago, IL",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

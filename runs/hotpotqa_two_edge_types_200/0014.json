@@ -1,0 +1,299 @@
+{
+  "question": "Which 2009 animated film is from Japan, Summer Wars or The Secret of Kells?",
+  "answer": "Summer Wars",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is the country of origin for Summer Wars?",
+      "retrieved": [
+        {
+          "id": "142",
+          "text": "Summer Wars\nSummer Wars (Japanese: サマーウォーズ , Hepburn: Samā Wōzu ) is a 2009 Japanese animated science fiction film directed by Mamoru Hosoda, animated by Madhouse and distributed by Warner Bros. Pictures. The film's voice cast includes Ryunosuke Kamiki, Nanami Sakuraba, Mitsuki Tanimura, Sumiko Fuji and Ayumu Saitō. The film tells the story of Kenji Koiso, a timid eleventh-grade math genius who is taken to Ueda by twelfth-grade student Natsuki Shinohara to celebrate her great-grandmother's 90th birthday. However, he is falsely implicated in the hacking of a virtual world by a sadistic artificial intelligence named Love Machine. Kenji must repair the damage done to it and find a way to stop the rogue computer program from causing any further damage.",
+          "semantic_score": 0.41624176502227783,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3719",
+          "text": "Japanese destroyer Oite (1924)\nThe Japanese destroyer \"Oite\" (追風 , \"Tail Wind\" ) was one of nine \"Kamikaze\"-class destroyers built for the Imperial Japanese Navy during the 1920s.During the Pacific War, she participated in the Battle of Wake Island in December 1941 and the occupations of New Guinea and the Solomon Islands in early 1942.",
+          "semantic_score": 0.32259148359298706,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2786",
+          "text": "War Against War\nIn political philosophy and international relations especially in peace and conflict studies the concept of a war against war also known as war on war refers to the reification of armed conflicts.",
+          "semantic_score": 0.3186114430427551,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2787",
+          "text": "Queen Anne's War\nQueen Anne's War (1702–1713), as the North American theater of the War of the Spanish Succession was known in the British colonies, was the second in a series of French and Indian Wars fought between France and England, later Great Britain, in North America for control of the continent. The War of the Spanish Succession was primarily fought in Europe. In addition to the two main combatants, the war also involved numerous American Indian tribes allied with each nation, and Spain, which was allied with France. It was also known as the Third Indian War or in French as the Second Intercolonial War.",
+          "semantic_score": 0.3072022795677185,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2537",
+          "text": "Ipomoea sagittata\nIpomoea sagittata, commonly called the saltmarsh morning glory, is a species of flowering plant in the morning glory family. It is native to the Caribbean, Mexico, and the Southeastern United States where it is found in coastal areas. Its natural habitats are thickets on barrier islands, the edges of salt marshes, and in hammocks.",
+          "semantic_score": 0.30267250537872314,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3720",
+          "text": "Japanese destroyer Mochizuki\nThe Japanese destroyer \"Mochizuki\" (望月 , ”Full Moon” ) was one of twelve \"Mutsuki\"-class destroyer s, built for the Imperial Japanese Navy (IJN) during the 1920s. During the Pacific War, she participated in the Battle of Wake Island in December 1941 and the occupations of New Guinea and the Solomon Islands in early 1942.",
+          "semantic_score": 0.28164923191070557,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3723",
+          "text": "Japanese destroyer Yayoi (1925)\nThe Japanese destroyer \"Yayoi\" (弥生 , \"March\" ) was one of twelve \"Mutsuki\"-class destroyer s built for the Imperial Japanese Navy (IJN) during the 1920s. During the Pacific War, she participated in the Battle of Wake Island in December 1941 and the occupations of New Guinea and the Solomon Islands in early 1942.",
+          "semantic_score": 0.22181564569473267,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2529",
+          "text": "Ipomoea indica\nIpomoea indica is a species of flowering plant in the family Convolvulaceae, known by several common names, including blue morning glory, oceanblue morning glory, koali awa, and blue dawn flower.",
+          "semantic_score": 0.20602770149707794,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3716",
+          "text": "Japanese destroyer Yūzuki\nThe Japanese destroyer \"Yūzuki\" (夕月 , ”Evening Moon” ) was the last of twelve \"Mutsuki\"-class destroyer s built for the Imperial Japanese Navy (IJN) during the 1920s. During the Pacific War, she participated in the Battle of Guam in December 1941 and the occupations of New Guinea and the Solomon Islands in early 1942.",
+          "semantic_score": 0.24699772894382477,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2532",
+          "text": "Ipomoea carnea\nIpomoea carnea, the pink morning glory, is a species of morning glory. This flowering plant has heart-shaped leaves that are a rich green and 6 – long. It can be easily grown from seeds which are toxic and it can be hazardous to cattle; the toxicity is related to the swainsonine produced by endophytes and to bioaccumulation of selenium species in leaves but mostly in seeds",
+          "semantic_score": 0.19427740573883057,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Japan"
+    },
+    {
+      "step": 2,
+      "sub_question": "What is the country of origin for The Secret of Kells?",
+      "retrieved": [
+        {
+          "id": "139",
+          "text": "The Secret of Kells\nThe Secret of Kells is a 2009 French-Belgian-Irish animated fantasy film animated by Cartoon Saloon that premiered on 8 February 2009 at the 59th Berlin International Film Festival. It went into wide release in Belgium and France on 11 February, and Ireland on 3 March.",
+          "semantic_score": 0.5301558375358582,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2537",
+          "text": "Ipomoea sagittata\nIpomoea sagittata, commonly called the saltmarsh morning glory, is a species of flowering plant in the morning glory family. It is native to the Caribbean, Mexico, and the Southeastern United States where it is found in coastal areas. Its natural habitats are thickets on barrier islands, the edges of salt marshes, and in hammocks.",
+          "semantic_score": 0.38507136702537537,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "488",
+          "text": "Ringer Hut\nRinger Hut (リンガーハット ) is a Japanese chain of fast-food restaurants, specializing in Nagasaki dishes Champon and Sara udon. The Hamakatsu Co. of Nagasaki, founders of the chain in 1974, borrowed the name of the former Ringer House which had been purchased by Nagasaki City and opened as a tourist attraction in 1966. It is likely that the company borrowed the word \"hut\" from \"Pizza Hut.\" Ringer Hut operates over 550 restaurants in Japan, Taiwan, and San Jose, California along with 100 Hamakatsu Restaurants (tonkatsu restaurant chain). Ringer Hut has two headquarters located in Fukuoka and Tokyo.",
+          "semantic_score": 0.38043826818466187,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1823",
+          "text": "Unbeaten Tracks in Japan\nUnbeaten Tracks in Japan (日本奥地紀行 , Nihon Okuchi Kikō ) is a travel diary written by Isabella Bird of her trip to Japan in 1878, at the age of 47. It was first published in English in 1881 by G. P. Putnam's Sons. It was later translated into Japanese by Tsurukichi Itō.",
+          "semantic_score": 0.3434884548187256,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "370",
+          "text": "Kumanovo Clock Tower\nKumanovo Clock Tower (Macedonian: Саат Кула Куманово ) was a clock tower in Kumanovo, Ottoman Empire (today Republic of Macedonia). The tower is believed to have existed since the second half of the 18th century but there are now known historical facts. It was near Eski Mosque in the former Orta Bunar Neighborhood (Macedonian: Орта Бунар Маало ). It was demolished after the Second World War.",
+          "semantic_score": 0.33134981989860535,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2529",
+          "text": "Ipomoea indica\nIpomoea indica is a species of flowering plant in the family Convolvulaceae, known by several common names, including blue morning glory, oceanblue morning glory, koali awa, and blue dawn flower.",
+          "semantic_score": 0.2808281481266022,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "140",
+          "text": "Cartoon Saloon\nCartoon Saloon is an Irish animation film and television studio which provides illustration, design, film and TV services. The company is based in Kilkenny. The company developed the successful cartoon series \"Skunk Fu!\". It was nominated for a BAFTA Children's Award in October 2008. The company has also developed the animated film \"The Secret of Kells\". The film features the voice of Brendan Gleeson and is set in the 9th century AD when the Book of Kells was written. The film premiered on February 22, 2009 at the closing Gala of the Jameson Dublin International Film Festival. On February 2, 2010 \"The Secret of Kells\" was nominated in the category of best animated film at the 82nd Academy Awards.",
+          "semantic_score": 0.2651795446872711,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2532",
+          "text": "Ipomoea carnea\nIpomoea carnea, the pink morning glory, is a species of morning glory. This flowering plant has heart-shaped leaves that are a rich green and 6 – long. It can be easily grown from seeds which are toxic and it can be hazardous to cattle; the toxicity is related to the swainsonine produced by endophytes and to bioaccumulation of selenium species in leaves but mostly in seeds",
+          "semantic_score": 0.1803673505783081,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2535",
+          "text": "Ipomoea coccinea\nIpomoea coccinea is a flowering plant in the family Convolvulaceae known by several common names including red morning glory, redstar and (ambiguously) Mexican morning glory.",
+          "semantic_score": 0.22026774287223816,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2536",
+          "text": "Morning glory\nMorning glory (also written as morning-glory) is the common name for over 1,000 species of flowering plants in the family Convolvulaceae, whose current taxonomy and systematics are in flux. Morning glory species belong to many genera, some of which are:",
+          "semantic_score": 0.11680995672941208,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Ireland"
+    },
+    {
+      "step": 3,
+      "sub_question": "Which of these two films is a 2009 animated film from Japan?",
+      "retrieved": [
+        {
+          "id": "141",
+          "text": "2009 in anime\nAt the Mainichi Film Awards, \"Summer Wars\" won the Animation Film Award and \"Denshin-Bashira Elemi no Koi\" won the Ōfuji Noburō Award. \"Summer Wars\" also won the Japan Academy Prize for Animation of the Year. Internationally, \"The Sky Crawlers\", \"Summer Wars\" and \"First Squad\" were nominated for the Asia Pacific Screen Award for Best Animated Feature Film.",
+          "semantic_score": 0.49739977717399597,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9507",
+          "text": "Early Abstractions\nEarly Abstractions is a collection of seven short animated films created by Harry Everett Smith between 1939 and 1956. Each film is between two and six minutes long, and is named according to the chronological order in which it was made. The collection includes \"Numbers 1–5\", \"7\", and \"10\", while the missing \"Numbers 8\" and \"9\" are presumed to have been lost.",
+          "semantic_score": 0.46825110912323,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8624",
+          "text": "Disney Renaissance\nIn the history of The Walt Disney Company, the Disney Renaissance refers to the era from 1989 to 1999 during which Walt Disney Feature Animation (renamed Walt Disney Animation Studios in 2006) experienced a creative resurgence in producing successful animated films based on well-known stories, which restored public and critical interest in The Walt Disney Company as a whole. During this era, the studio produced and released ten animated films: \"The Little Mermaid\" (1989), \"The Rescuers Down Under\" (1990), \"Beauty and the Beast\" (1991), \"Aladdin\" (1992), \"The Lion King\" (1994), \"Pocahontas\" (1995), \"The Hunchback of Notre Dame\" (1996), \"Hercules\" (1997), \"Mulan\" (1998) and \"Tarzan\" (1999).",
+          "semantic_score": 0.4636137783527374,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "136",
+          "text": "Romance of the Three Kingdoms (2009 animation)\nRomance of the Three Kingdoms is a 2009 animated television series joint produced by the Beijing Huihuang Animation Company of China and Future Planet of Japan. It was broadcast in Japan starting April 2010.",
+          "semantic_score": 0.44630417227745056,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "140",
+          "text": "Cartoon Saloon\nCartoon Saloon is an Irish animation film and television studio which provides illustration, design, film and TV services. The company is based in Kilkenny. The company developed the successful cartoon series \"Skunk Fu!\". It was nominated for a BAFTA Children's Award in October 2008. The company has also developed the animated film \"The Secret of Kells\". The film features the voice of Brendan Gleeson and is set in the 9th century AD when the Book of Kells was written. The film premiered on February 22, 2009 at the closing Gala of the Jameson Dublin International Film Festival. On February 2, 2010 \"The Secret of Kells\" was nominated in the category of best animated film at the 82nd Academy Awards.",
+          "semantic_score": 0.4172038733959198,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "139",
+          "text": "The Secret of Kells\nThe Secret of Kells is a 2009 French-Belgian-Irish animated fantasy film animated by Cartoon Saloon that premiered on 8 February 2009 at the 59th Berlin International Film Festival. It went into wide release in Belgium and France on 11 February, and Ireland on 3 March.",
+          "semantic_score": 0.35838258266448975,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8623",
+          "text": "Sleeping Beauty (1959 film)\nSleeping Beauty is a 1959 American animated musical fantasy film produced by Walt Disney based on \"The Sleeping Beauty\" by Charles Perrault. The 16th Disney animated feature film, it was released to theaters on January 29, 1959, by Buena Vista Distribution. This was the last Disney adaptation of a fairy tale for some years because of its initial mixed critical reception and underperformance at the box office; the studio did not return to the genre until 30 years later, after Walt Disney died in 1966, with the release of \"The Little Mermaid\" (1989).",
+          "semantic_score": 0.2908783257007599,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "142",
+          "text": "Summer Wars\nSummer Wars (Japanese: サマーウォーズ , Hepburn: Samā Wōzu ) is a 2009 Japanese animated science fiction film directed by Mamoru Hosoda, animated by Madhouse and distributed by Warner Bros. Pictures. The film's voice cast includes Ryunosuke Kamiki, Nanami Sakuraba, Mitsuki Tanimura, Sumiko Fuji and Ayumu Saitō. The film tells the story of Kenji Koiso, a timid eleventh-grade math genius who is taken to Ueda by twelfth-grade student Natsuki Shinohara to celebrate her great-grandmother's 90th birthday. However, he is falsely implicated in the hacking of a virtual world by a sadistic artificial intelligence named Love Machine. Kenji must repair the damage done to it and find a way to stop the rogue computer program from causing any further damage.",
+          "semantic_score": 0.3031506836414337,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "525",
+          "text": "The Little Mermaid (TV series)\nDisney's The Little Mermaid is an American animated television series produced by Walt Disney Television Animation based on the 1989 Disney film of the same name. It features the adventures of Ariel as a mermaid prior to the events of the film. This series is the first Disney television series to be spun off from a major animated film. Some of the voice actors of the film reprise their roles in the series, among them Jodi Benson as Ariel, Samuel E. Wright as Sebastian, Kenneth Mars as King Triton and Pat Carroll as Ursula. Other voice actors include Edan Gross and Bradley Pierce as Flounder, and Jeff Bennett as Prince Eric.",
+          "semantic_score": 0.26158076524734497,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8618",
+          "text": "Hercules (1997 film)\nHercules is a 1997 American animated musical fantasy comedy film produced by Walt Disney Feature Animation for Walt Disney Pictures. The 35th Disney animated feature film, the film was directed by Ron Clements and John Musker. The film is loosely based on the legendary hero Heracles (known in the film by his Roman name, Hercules), the son of Zeus, in Greek mythology. The film also featured the first positive portrayal of African American women in a Disney animated film.",
+          "semantic_score": 0.2858153283596039,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Summer Wars"
+    }
+  ],
+  "links": [
+    {
+      "source": "142",
+      "target": "139",
+      "reason": "Directly contrasts the two candidate films' countries of origin: 142 identifies Summer Wars as a 2009 Japanese animated film, while 139 identifies The Secret of Kells as French-Belgian-Irish, jointly resolving which is from Japan."
+    },
+    {
+      "source": "142",
+      "target": "141",
+      "reason": "141 corroborates Summer Wars as a Japanese animated film by noting its Japan Academy Prize for Animation of the Year, reinforcing the country-of-origin answer."
+    },
+    {
+      "source": "139",
+      "target": "140",
+      "reason": "140 corroborates The Secret of Kells as an Irish production by describing Cartoon Saloon as an Irish studio that developed the film, supporting the non-Japanese origin conclusion."
+    }
+  ],
+  "questions_seen": 15,
+  "_id": "5a714dea5542994082a3e7a9",
+  "correct_answer": "Summer Wars",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "question": "What notable work from French music video director Yoann Lemoine features an apology and plea for forgiveness?",
+  "answer": "\"Back to December\"",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Yoann Lemoine (e.g., his profession and notable alias)?",
+      "retrieved": [
+        {
+          "id": "1867",
+          "text": "Yoann Lemoine\nYoann Lemoine (born 16 March 1983) is a French music video director, graphic designer and singer-songwriter. His most notable works include his music video direction for Katy Perry's \"Teenage Dream\", Taylor Swift's single \"Back to December\", Lana Del Rey's \"Born to Die\" and Mystery Jets' \"Dreaming of Another World\".",
+          "semantic_score": 0.4390401244163513,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4240",
+          "text": "Yodel (company)\nYodel is a delivery service company in the United Kingdom and is one of the largest couriers along with Royal Mail. It was originally known as the Home Delivery Network until it acquired the B2B and B2C operations of DHL Express UK and thereafter, re-branded itself as Yodel in May 2010. It is privately owned by the billionaire Barclay Brothers.",
+          "semantic_score": 0.4020976126194,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9027",
+          "text": "Yianni Agisilaou\nYianni Agisilaou (born 1978) is an Australian-born comedian based in the United Kingdom. His comedy is structured and erudite , and normally takes the form of an illustrated lecture on a single central theme. He is a master of comic analysis . Unlike the majority of comedians his shows involve detailed research.",
+          "semantic_score": 0.40125975012779236,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3687",
+          "text": "Adele King\nAdèle King (born Adèle Condron-King, 4 April 1951) is an Irish entertainer better known as Twink from her time as a member of a group called Maxi, Dick and Twink which was a girl band in Ireland in the late 1960s and 1970s. She is the mother of singer Chloë Agnew from the group Celtic Woman.",
+          "semantic_score": 0.39725109934806824,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1077",
+          "text": "Isabella II of Jerusalem\nIsabella II (121225 April 1228) also known as Yolande of Brienne, was a princess of French origin who became monarch of Jerusalem.",
+          "semantic_score": 0.3956395387649536,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3696",
+          "text": "Maxi, Dick and Twink\nMaxi, Dick and Twink were an all-girl singing trio in Ireland in the late 1960s and early 1970s. Maxi is Irene McCoubrey (born 23 February 1950), Dick is Barbara Dixon (born 4 April 1952) and Twink is Adele King (born 4 April 1951).",
+          "semantic_score": 0.31324663758277893,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3690",
+          "text": "Maxi (singer)\nMaxi (born 23 February 1950) is an Irish radio disc-jockey and producer; actress, journalist and singer. She came to fame in Ireland as part of the popular girl group, Maxi, Dick and Twink, in the late 1960s.",
+          "semantic_score": 0.3332127034664154,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3691",
+          "text": "Chloë Agnew\nChloë Alexandra Adele Emily Agnew (born 9 June 1989 in Dublin, Ireland) is an Irish singer and songwriter who is an original former member of the Celtic music group Celtic Woman, as well as its youngest member. She comes from Knocklyon, County Dublin where she lived with her mother Adele \"Twink\" King and younger sister, Naomi. She sings in English, Irish, Latin, Italian, and German. Agnew has a soprano vocal range.",
+          "semantic_score": 0.2622201144695282,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1872",
+          "text": "Blue Jeans (Lana Del Rey song)\n\"Blue Jeans\" is a song by American singer-songwriter Lana Del Rey for her second studio album \"Born to Die\" (2012). It was released on April 8, 2012, by Interscope Records as the third single from the record. Produced by Emile Haynie, the song was written by Del Rey, Haynie, and Dan Heath. It is a downtempo ballad with hip hop influences. A controversial performance of the song on \"SNL\" placed Del Rey under scrutiny and polarized opinion. Charting across Europe and Asia, \"Blue Jeans\" reached the top 10 in Belgium, Poland, and Israel. Two music videos were created for the song. The first was self-produced. The second was shot and directed by Yoann Lemoine, featuring film noir elements and crocodiles.",
+          "semantic_score": 0.14469489455223083,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1072",
+          "text": "Elisabeth of Bavaria, Queen of Germany\nElisabeth of Bavaria (  1227 – 9 October 1273), a member of the House of Wittelsbach, was Queen consort of Germany from 1246 to 1254 by her marriage to King Conrad IV of Germany.",
+          "semantic_score": 0.2067498117685318,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yoann Lemoine is a French music video director, graphic designer and singer-songwriter, known by his alias Woodkid."
+    },
+    {
+      "step": 2,
+      "sub_question": "What notable works has Yoann Lemoine directed or created in music videos?",
+      "retrieved": [
+        {
+          "id": "1867",
+          "text": "Yoann Lemoine\nYoann Lemoine (born 16 March 1983) is a French music video director, graphic designer and singer-songwriter. His most notable works include his music video direction for Katy Perry's \"Teenage Dream\", Taylor Swift's single \"Back to December\", Lana Del Rey's \"Born to Die\" and Mystery Jets' \"Dreaming of Another World\".",
+          "semantic_score": 0.5162908434867859,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1865",
+          "text": "Run Boy Run (song)\n\"Run Boy Run\" is a song by Yoann Lemoine, under his stage name Woodkid. It was released as the second single from his debut studio album, \"The Golden Age\" (2012). It was written by Lemoine and Ambroise Willaume from the French band Revolver. The single was released on 21 May 2012, becoming his highest-charting single.",
+          "semantic_score": 0.461323618888855,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4138",
+          "text": "Dana Blankstein\nDana Blankstein-Cohen (born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+          "semantic_score": 0.4251428544521332,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2724",
+          "text": "Sapan Chakraborty\nSapan Chakraborty, also variously cited as Swapan Chakraborty, Sapan Chakravorty, Sapan Chakravarty (Bengali: স্বপন চক্রবর্তী ) or simply Sapan, is a Bengali Indian music composer who composed music for Bollywood Hindi and Bengali films. He was also a music assistant of Rahul Dev Burman and an occasional playback singer. He also penned a number of lyrics for songs in Burman's Bengali film and Durga Puja special albums, along with those in films for which he was the composer. In terms of compositional style, the eclectic influences of his guru Rahul Dev Burman are present in his creations. Sapan Chakraborty is not to be confused with Sapan Dasgupta of the Sapan-Jagmohan composer duo.",
+          "semantic_score": 0.4228215217590332,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9324",
+          "text": "Ajit Varman\nAjit Singh Varman (Hindi: अजीत वर्मन ; 26 March 1947 – 15 December 2016), sometimes also credited as Ajit Verman, was an Indian film music composer. He started his career in the 1960s as a musician for the likes of Satyajit Ray, Mrinal Sen, Pankaj Mullick and Salil Chowdhury in Calcutta (now Kolkata) as well as Shankar Jaikishan and Laxmikant Pyarelal in the 1970s in Mumbai (then Bombay) till 1975 when he decided to make the transition to full-time music direction.",
+          "semantic_score": 0.4207111597061157,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9174",
+          "text": "Vijaya Bhaskar\nVijaya Bhaskar (; 1924–2002) was an Indian music director and composer who composed music for several mainstream and experimental feature films in the Kannada film industry. Scoring music for over 600 feature films, Bhaskar worked in Tamil, Telugu, Malayalam, Marathi, Tulu and Konkani language films as well. He was a part of all of popular Kannada film director KSL Swamy's (Ravi) movies and was also known for his association with acclaimed directors Puttanna Kanagal and Adoor Gopalakrishnan.",
+          "semantic_score": 0.32365962862968445,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8524",
+          "text": "Sathish Kalathil\nSathish Kalathil (മലയാളം: ) is an Indian film and documentary Director and Producer in malayalam. He is also Story Writer, and Lyricist. His experimental works are well known and appropriately discussed in Malayalam Cinema industry and his debut movie Jalachhayam (2010) was well discussed according to its experimental approach. Actually, his first venture was in 2008 named Veena Vaadanam, a documentary film about Art (Painting) and that was his first experimental entry in movie. In 2012, he directed Laloorinu Parayanullathu, a social committed documentary film about Municipal solid waste.",
+          "semantic_score": 0.3538314998149872,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7909",
+          "text": "Mansi Aggarwal\nMansi Aggarwal is an Indian choreographer who has choreographed dances in Bollywood movies. She is best known for choreographing the song, 'Bharat Mata ki Jai, from the movie Shanghai that starred actor Emraan Hashmi - the song gained a lot of popularity and became a 'hit' in India. She has worked with notable actors such as Sushant Singh Rajput in the award-winning movie, Kai Po Che, and with Abhay Deol in the movie Dev D. The song 'Suno Na Sangemarmar' that she choreographed was nominated for Stardust and Filmfare awards.",
+          "semantic_score": 0.2789250910282135,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Katy Perry's \"Teenage Dream\", Taylor Swift's \"Back to December\", Lana Del Rey's \"Born to Die\", and Mystery Jets' \"Dreaming of Another World\""
+    },
+    {
+      "step": 3,
+      "sub_question": "Which of those works features an apology and plea for forgiveness?",
+      "retrieved": [
+        {
+          "id": "1867",
+          "text": "Yoann Lemoine\nYoann Lemoine (born 16 March 1983) is a French music video director, graphic designer and singer-songwriter. His most notable works include his music video direction for Katy Perry's \"Teenage Dream\", Taylor Swift's single \"Back to December\", Lana Del Rey's \"Born to Die\" and Mystery Jets' \"Dreaming of Another World\".",
+          "semantic_score": 0.7347714304924011,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7638",
+          "text": "The Taylor Swift Holiday Collection\nThe Taylor Swift Holiday Collection, originally titled Sounds of the Season: The Taylor Swift Holiday Collection, is a Christmas EP by American singer Taylor Swift. The EP was first released on October 14, 2007 by Big Machine Records exclusively to Target stores in the United States and online. The release was originally a limited release for the 2007 holiday season, but was re-released to iTunes and Amazon.com on December 2, 2008 and again in October 2009 to Target stores. \"The Taylor Swift Holiday Collection\" features cover versions of Christmas songs and two original tracks written by Swift, \"Christmases When You Were Mine\" and \"Christmas Must Be Something More\", all of which have a country pop sound.",
+          "semantic_score": 0.5006579756736755,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1871",
+          "text": "Back to December\n\"Back to December\" is a song written and recorded by American singer/songwriter Taylor Swift for her third studio album \"Speak Now\" (2010). The song was sent to country radio in the United States on November 15, 2010, as the second single from \"Speak Now\". According to Swift, \"Back to December\" is the first time she ever apologizes to someone in a song. Critics speculate that the song is about Taylor Lautner, Swift's ex-boyfriend, which was later acknowledged by Lautner. \"Back to December\" is considered an orchestral country pop ballad and its lyrics are a remorseful plea for forgiveness for breaking up with a former lover.",
+          "semantic_score": 0.4810989201068878,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7641",
+          "text": "Liz Rose\nLiz Rose (born in Dallas, Texas) is an American country music songwriter best known for her work with Taylor Swift. She has co-written twenty of Swift's officially-released songs and singles, including \"White Horse,\" \"Teardrops on My Guitar,\" and \"You Belong with Me,\" which won her and Swift a Grammy Award in 2010.",
+          "semantic_score": 0.45910438895225525,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7635",
+          "text": "Picture to Burn\n\"Picture to Burn\" is a song recorded by American singer-songwriter Taylor Swift. It was co-written by Swift and Liz Rose, and produced by Nathan Chapman. It was released on February 3, 2008 by Big Machine Records as the fourth single from Swift's eponymous studio album, \"Taylor Swift\" (2006). It was inspired by the narcissistic and cocky nature of her former high school classmate and ex-boyfriend Jordan Alford with whom Swift never established a formal relationship. In retrospect, Swift has stated that she has evolved on a personal level and as a songwriter, claiming she processed emotions differently since \"Picture to Burn\". The song was chosen as a single based on the audience's reaction to it in concert. Musically, the track is of the country rock genre with prominent usage of guitar, banjo, and drums. The lyrics concern setting fire to photographs of a former boyfriend.",
+          "semantic_score": 0.4578799605369568,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7634",
+          "text": "You Belong with Me\n\"You Belong with Me\" is a song performed by American singer-songwriter Taylor Swift. The song was co-written by Swift and Liz Rose and produced by Nathan Chapman with Swift's aid. It was released on April 18, 2009, by Big Machine Records as the third single from Swift's second studio album, \"Fearless\" (2008). Swift was inspired to write \"You Belong with Me\" after overhearing a male friend of hers arguing with his girlfriend through a phone call; she continued to develop a story line afterward. The song contains many pop music elements and its lyrics have Swift desiring an out-of-reach love interest.",
+          "semantic_score": 0.2979007959365845,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7636",
+          "text": "Teardrops on My Guitar\n\"Teardrops on My Guitar\" is a song by American singer-songwriter Taylor Swift. The song was co-written by Swift, alongside Liz Rose and produced by Nathan Chapman with Swift's aid. \"Teardrops on My Guitar\" was released on February 19, 2007 by Big Machine Records, as the second single from Swift's eponymous debut album (2006). The song was later included on the international release of Swift's second studio album, \"Fearless\" (2008), and released as the second pop single from the album in the United Kingdom. It was inspired by Swift's experience with Drew Hardwick, a classmate of hers for whom she had feelings. He was completely unaware and continually spoke about his girlfriend to Swift, something she pretended to be endeared by. Years afterwards, Hardwick appeared at Swift's house, but Swift rejected him. Musically, the track is soft and is primarily guided by a gentle acoustic guitar. Critics have queried the song's classification as country music, with those in agreement (such as Grady Smith of \"Rolling Stone\") citing the themes and narrative style as country-influenced and those opposed (such as Roger Holland of \"PopMatters\") indicating the pop music production and instrumentation lack traditional country elements.",
+          "semantic_score": 0.4053013324737549,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7633",
+          "text": "White Horse (Taylor Swift song)\n\"White Horse\" is a song performed by American singer-songwriter Taylor Swift. The song was written by Swift and Liz Rose and produced by Nathan Chapman, with Swift's aid. The song was released on December 7, 2008 by Big Machine Records, as the second single from Swift's second studio album \"Fearless\" (2008). Swift and Rose composed the song about one of Swift's ex-boyfriends, when Swift discovered he was not what she had perceived of him. It focused on the moment where Swift accepted that the relationship was over. \"White Horse\" is, musically, a country song and uses sparse production to emphasize vocals. Lyrically, the track speaks of disillusionment and pain in a relationship, drawing references to fairytales.",
+          "semantic_score": 0.35925862193107605,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "\"Back to December\""
+    }
+  ],
+  "links": [
+    {
+      "source": "1867",
+      "target": "1871",
+      "reason": "Paragraph 1867 identifies Yoann Lemoine as the director of Taylor Swift's 'Back to December'; paragraph 1871 confirms that 'Back to December' is a remorseful apology and plea for forgiveness, bridging the director to the specific work."
+    }
+  ],
+  "questions_seen": 189,
+  "_id": "5a84ad3a5542992a431d1a8b",
+  "correct_answer": "Back to December",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

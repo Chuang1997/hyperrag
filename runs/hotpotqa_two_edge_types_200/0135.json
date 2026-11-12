@@ -1,0 +1,188 @@
+{
+  "question": "Red Bend Catholic College contributes 800 students of the 7,560 population of what central west region of south Wales, Australia town?",
+  "answer": "Forbes",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What town has a population of 7,560 in the central west region of New South Wales, Australia?",
+      "retrieved": [
+        {
+          "id": "1343",
+          "text": "North West Slopes\nThe North West Slopes region of New South Wales, Australia refers generally to the area west of the Northern Tablelands, to the north of the Central West region and to the east of the Far West region. The region corresponds generally to the Australian Bureau of Meteorology's forecast area of \"North West Slopes and Plains\".",
+          "semantic_score": 0.6402490735054016,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1345",
+          "text": "Far West (New South Wales)\nThe Far West region of New South Wales, Australia refers generally to a fairly flat and low-lying area in the western part of the state, which is too dry to support wheat or other crops or intensive pastoral endeavours. It is west of the North West Slopes, Central West and the Riverina. It is an area with limited rainfall, and the only major rivers found in it are the Darling River and the Murray River (on its southern edge), which originate in the Great Dividing Range to the east. The region corresponds to the combination of the Australian Bureau of Meteorology's forecast areas of \"Upper Western\" and \"Lower Western\". It also corresponds to the Western Division established under the New South Wales \"Western Lands Act 1901\".",
+          "semantic_score": 0.6265926361083984,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5721",
+          "text": "Lismore, New South Wales\nLismore is a city in northeastern New South Wales, Australia and the main population centre in the City of Lismore local government area; it is also a regional centre in the Northern Rivers region of the State. Lismore had an estimated urban population of 29,413 at June 2015.",
+          "semantic_score": 0.6220898032188416,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1347",
+          "text": "Forbes, New South Wales\nForbes is a town in the Central West region of New South Wales, Australia, located on the Newell Highway between Parkes and West Wyalong. At the 2011 census , Forbes had a population of 7,560. Forbes is probably named after Sir Francis Forbes, first Chief Justice of NSW.",
+          "semantic_score": 0.5809164643287659,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1305",
+          "text": "Division of Sydney\nThe Division of Sydney is an Australian electoral division in the state of New South Wales. The division draws it name from Sydney, the most populous city in Australia, which itself was named after former British Home Secretary Thomas Townshend, 1st Viscount Sydney. The division was proclaimed at the redistribution of 21 November 1968, replacing the old Division of Dalley, Division of East Sydney and Division of West Sydney, and was first contested at the 1969 election.",
+          "semantic_score": 0.5621753334999084,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7294",
+          "text": "Division of Phillip\nThe Division of Phillip was an Australian Electoral Division in the state of New South Wales. It was located in the Sydney's eastern suburbs, and was named after Captain Arthur Phillip, captain of the First Fleet and first Governor of New South Wales. The Division included the suburbs of Bondi, Coogee, Kensington and Randwick.",
+          "semantic_score": 0.47944748401641846,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7296",
+          "text": "Division of Cook (1906–55)\nThe Division of Cook was an Australian Electoral Division in New South Wales. The division was created in 1906 and abolished in 1955. The Division was named for James Cook, who discovered the east coast of Australia in 1770. It was located in the inner suburbs of Sydney, taking in the suburbs of Alexandria, Redfern and Surry Hills. It has been a safe seat for the Australian Labor Party, but in the 1930s and 1940s it was fiercely contested between Federal Labor and Lang Labor factions of the party.",
+          "semantic_score": 0.450484961271286,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7290",
+          "text": "Division of Bland\nThe Division of Bland was an Australian Electoral Division in New South Wales. The division was created in 1900 and was one of the original 75 divisions contested at the first federal election. It was abolished in 1906. It was named for Dr William Bland, a New South Wales colonial politician. Based in rural southern New South Wales, it included the towns of Narrandera, Young, Wagga Wagga and West Wyalong. Bland was held by Chris Watson, the first Leader of the federal parliamentary Labor Party and Australia's first Labor Prime Minister. When Bland was abolished in 1906, Watson transferred to South Sydney.",
+          "semantic_score": 0.36705687642097473,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Forbes"
+    },
+    {
+      "step": 2,
+      "sub_question": "Does Red Bend Catholic College, with 800 students, contribute to that town's population?",
+      "retrieved": [
+        {
+          "id": "1346",
+          "text": "Red Bend Catholic College\nRed Bend Catholic College is a Roman Catholic secondary, day and boarding co-educational school run by the Marist Brothers located in Forbes in the Central West region of New South Wales, Australia. Established in 1926, the College has enrolled approximately 800 students from Year 7 to Year 12.",
+          "semantic_score": 0.691299557685852,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1341",
+          "text": "Mary MacKillop College, Wakeley\nMary MacKillop Catholic College is a Catholic secondary school for girls located in Wakeley, New South Wales, Australia, providing Catholic education to the Smithfield, Fairfield, Cabramatta and Villawood parishes in the Fairfield area of Sydney. The school was founded as Rosary High School in 1946 in Fairfield, while the Sisters of St Joseph, a teaching order founded by Mary MacKillop, have been engaged in the area since 1931. In its current form the college was established in 1991, and is one of the newest schools in the Archdiocese of Sydney. Mary MacKillop Catholic Colleges emphasises community, and each of the school's houses - Arena, Crosio, Goolagong, Henderson, McCormack and O'Shane - are named after women the school sees as worthy role models for the students. To promote a sense of community across year groups, pastoral care groups incorporate students from Year 7 to Year 12. Mary MacKillop Catholic College offers core and elective courses for junior students and a range of HSC courses for senior students.",
+          "semantic_score": 0.3829415440559387,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "617",
+          "text": "United Negro College Fund\nThe United Negro College Fund, also known as UNCF or the United Fund, is an American philanthropic organization that funds scholarships for black students and general scholarship funds for 37 private historically black colleges and universities. UNCF was incorporated on April 25, 1944 by Frederick D. Patterson (then president of what is now Tuskegee University), Mary McLeod Bethune, and others. UNCF is headquartered at 1805 7th Street, NW in Washington, D.C. In 2005, UNCF supported approximately 65,000 students at over 900 colleges and universities with approximately $113 million in grants and scholarships. About 60% of these students are the first in their families to attend college, and 62% have annual family incomes of less than $25,000. UNCF also administers over 450 named scholarships.",
+          "semantic_score": 0.3441157937049866,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4585",
+          "text": "Red Flash\nRed Flash is a soft drink sold by The Coca-Cola Company in the Southwestern United States. It is designed to compete against Big Red brand soft drink that is found in the same market. It was introduced in 2000.",
+          "semantic_score": 0.3119083344936371,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6442",
+          "text": "Helene Fuld College of Nursing\nThe Helene Fuld College of Nursing is an American private, nonsectarian institution of higher learning that offers associate and comprehensive baccalaureate science degrees as continuing education to Licensed Practical and Registered Nurses who aspire to elevate their academic and professional credentials. The college is located in New York City in the East Harlem section of Manhattan in the Mount Morris Park Historic District at Marcus Garvey Park. It was founded years ago – in 1945.",
+          "semantic_score": 0.30923992395401,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6438",
+          "text": "Helene Fuld Health Trust\nThe Helene Fuld Health Trust is the largest charitable trust in the United States devoted exclusively to supporting student nurses and nursing education. The trust — which began as a foundation in 1935, but transferred its assets to the trust in 1969 — has provided grants, scholarships, and financial aid for the education, health, and welfare of student nurses.",
+          "semantic_score": 0.2719937562942505,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4594",
+          "text": "Big Red (drink)\nBig Red is a soft drink created in 1937 by Grover C. Thomsen and R.H. Roark in Waco, Texas and originally known as Sun Tang Red Cream Soda. It is generally classified as an American variety of cream soda, and it is the original \"red cream soda.\" The name was changed to \"Sun Tang Big Red Cream Soda\" in 1959, and to \"Big Red\" in 1969 by Harold Jansing, then president of the San Antonio bottling plant, after hearing a golf caddy refer to the soda by that name.",
+          "semantic_score": 0.2373538315296173,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4593",
+          "text": "Coca-Cola\nCoca-Cola, or Coke, is a carbonated soft drink produced by The Coca-Cola Company. Originally intended as a patent medicine, it was invented in the late 19th century by John Pemberton and was bought out by businessman Asa Griggs Candler, whose marketing tactics led Coca-Cola to its dominance of the world soft-drink market throughout the 20th century. The drink's name refers to two of its original ingredients, which were kola nuts (a source of caffeine) and coca leaves. The current formula of Coca-Cola remains a trade secret, although a variety of reported recipes and experimental recreations have been published.",
+          "semantic_score": 0.07684887200593948,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7892",
+          "text": "Christian Brothers College, St Kilda\nChristian Brothers College (CBC, St. Kilda) was founded in 1878 and is a Roman Catholic independent secondary college for boys. It is part of the Association of Edmund Rice schools. The school was originally founded by the Christian Brothers, the Brothers are no longer involved in the running the school. It is located in the Melbourne suburb of St Kilda East.",
+          "semantic_score": 0.29074499011039734,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8259",
+          "text": "Thurgood Marshall College Fund\nThe Thurgood Marshall College Fund (TMCF) is an American non-profit organization that supports and represents nearly 300,000 students attending its 47 member-schools that include public historically black colleges and universities (HBCUs), medical schools, and law schools. The Thurgood Marshall College Fund is named for the U.S. Supreme Court's first African-American Justice, Thurgood Marshall.",
+          "semantic_score": 0.2925615906715393,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "links": [
+    {
+      "source": "1347",
+      "target": "1346",
+      "reason": "Paragraph 1347 identifies Forbes as the Central West NSW town with a population of 7,560, while paragraph 1346 states Red Bend Catholic College is located in Forbes and has about 800 students, jointly answering the question."
+    }
+  ],
+  "questions_seen": 136,
+  "_id": "5ab281ec554299449642c8d1",
+  "correct_answer": "Forbes in the Central West region of New South Wales, Australia",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

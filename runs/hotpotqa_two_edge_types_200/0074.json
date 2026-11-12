@@ -1,0 +1,313 @@
+{
+  "question": "Where was the second World Junior Ice Hockey Championship in which Miroslav Přerost coached the men's national junior ice hockey team hosted?",
+  "answer": "Ufa, Russia",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Miroslav Přerost?",
+      "retrieved": [
+        {
+          "id": "742",
+          "text": "Miroslav Přerost\nMiroslav Přerost (born 1963) is a Czech former professional ice hockey forward who played with HC Plzen during the 1982–83 Czech Extraliga season. He is currently the head coach of the Czech Republic men's national junior ice hockey team. He coached the men's national junior ice hockey team at the 2012, 2013 and the 2014 World Junior Ice Hockey Championships.",
+          "semantic_score": 0.6998687982559204,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9217",
+          "text": "Elsad Zverotić\nElsad Zverotić (Montenegrin Cyrillic: Eлcaд Звepoтић, born 31 October 1986) is a Montenegrin professional footballer who plays for Swiss club FC Sion and the Montenegro national team as a defender or right midfielder. He is Montenegro's most-capped player of all time, with 59 caps since his debut in 2008.",
+          "semantic_score": 0.5405073165893555,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8582",
+          "text": "František Hossa\nFrantišek Hossa (born 13 September 1954) is a Slovak former ice hockey player and the current head coach of Spartak Moscow of the KHL. Both his sons, Marián and Marcel, are professional ice hockey players. As of 2002, he is also the assistant coach of the Slovakia men's national ice hockey team.",
+          "semantic_score": 0.492662638425827,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5749",
+          "text": "Robert Lewandowski\nRobert Lewandowski (] ; born 21 August 1988) is a Polish professional footballer who plays as a striker for Bundesliga club Bayern Munich, and captains the Poland national team.",
+          "semantic_score": 0.4906467795372009,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8584",
+          "text": "Jozef Golonka\nJozef Golonka (born January 6, 1938) is a former ice hockey player who played in the Czechoslovak Extraliga and was a member of the Czechoslovakia national ice hockey team. He won a bronze medal in the 1964 Winter Olympics in Innsbruck, Austria and won a silver medal in the 1968 Winter Olympics in Grenoble, France. He was inducted into the International Ice Hockey Federation Hall of Fame in 1998.",
+          "semantic_score": 0.4873190224170685,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8586",
+          "text": "Radek Ťoupal\nRadek Ťoupal (born August 16, 1966 in Písek, Czechoslovakia) is a former ice hockey player. His debut in Czechoslovak ice hockey league came in season 1982/1983, playing for HC České Budějovice, when he was only 16. During an army duty spent two years playing for Slovakian club HC Dukla Trenčín. He played on 1992 Bronze Medal winning Olympic ice hockey team for Czechoslovakia and also on Bronze Medal winning 1993 World Championships. Drafted 6th round draft choice of the Edmonton Oilers in 1987. Radek earned a university degree and is qualified to be a teacher. He left professional ice hockey in 2000.",
+          "semantic_score": 0.4220055937767029,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "740",
+          "text": "Nikita Ivanov\nNikita Vasilievich Ivanov (Russian: Никита Васильевич Иванов ; born March 31, 1989) is a Kazakhstani ice hockey forward currently playing for Sokol Krasnoyarsk of the Supreme Hockey League (VHL). He was a member of the Kazakhstan men's national junior ice hockey team at the 2009 World Junior Ice Hockey Championships.",
+          "semantic_score": 0.4455540180206299,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Miroslav Přerost is a Czech former professional ice hockey forward who played with HC Plzen during the 1982–83 Czech Extraliga season and is currently the head coach of the Czech Republic men's national junior ice hockey team."
+    },
+    {
+      "step": 2,
+      "sub_question": "In which World Junior Ice Hockey Championships did Miroslav Přerost coach the men's national junior ice hockey team?",
+      "retrieved": [
+        {
+          "id": "742",
+          "text": "Miroslav Přerost\nMiroslav Přerost (born 1963) is a Czech former professional ice hockey forward who played with HC Plzen during the 1982–83 Czech Extraliga season. He is currently the head coach of the Czech Republic men's national junior ice hockey team. He coached the men's national junior ice hockey team at the 2012, 2013 and the 2014 World Junior Ice Hockey Championships.",
+          "semantic_score": 0.9624803066253662,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8584",
+          "text": "Jozef Golonka\nJozef Golonka (born January 6, 1938) is a former ice hockey player who played in the Czechoslovak Extraliga and was a member of the Czechoslovakia national ice hockey team. He won a bronze medal in the 1964 Winter Olympics in Innsbruck, Austria and won a silver medal in the 1968 Winter Olympics in Grenoble, France. He was inducted into the International Ice Hockey Federation Hall of Fame in 1998.",
+          "semantic_score": 0.618030309677124,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8582",
+          "text": "František Hossa\nFrantišek Hossa (born 13 September 1954) is a Slovak former ice hockey player and the current head coach of Spartak Moscow of the KHL. Both his sons, Marián and Marcel, are professional ice hockey players. As of 2002, he is also the assistant coach of the Slovakia men's national ice hockey team.",
+          "semantic_score": 0.5911970138549805,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8586",
+          "text": "Radek Ťoupal\nRadek Ťoupal (born August 16, 1966 in Písek, Czechoslovakia) is a former ice hockey player. His debut in Czechoslovak ice hockey league came in season 1982/1983, playing for HC České Budějovice, when he was only 16. During an army duty spent two years playing for Slovakian club HC Dukla Trenčín. He played on 1992 Bronze Medal winning Olympic ice hockey team for Czechoslovakia and also on Bronze Medal winning 1993 World Championships. Drafted 6th round draft choice of the Edmonton Oilers in 1987. Radek earned a university degree and is qualified to be a teacher. He left professional ice hockey in 2000.",
+          "semantic_score": 0.5816371440887451,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "743",
+          "text": "Nikolai Safonov\nNikolay Safonov (born June 3, 1989) is a Kazakhstani ice hockey defenceman who was a member of the Kazakhstan men's national junior ice hockey team at the 2009 World Junior Ice Hockey Championships. He currently plays for Gornyak Rudny in the Kazakhstan Vyschaya Liga.",
+          "semantic_score": 0.541045606136322,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "740",
+          "text": "Nikita Ivanov\nNikita Vasilievich Ivanov (Russian: Никита Васильевич Иванов ; born March 31, 1989) is a Kazakhstani ice hockey forward currently playing for Sokol Krasnoyarsk of the Supreme Hockey League (VHL). He was a member of the Kazakhstan men's national junior ice hockey team at the 2009 World Junior Ice Hockey Championships.",
+          "semantic_score": 0.5026921033859253,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "735",
+          "text": "Eldar Abdulayev\nEldar Rasimovich Abdulayev (Russian: Эльдар Расимович Абдулаев ; born January 20, 1985) is a Kazakhstani professional ice hockey forward currently playing for HC Astana in the Kazakhstan Hockey Championship. He was a member of the Kazakhstan men's national junior ice hockey team at the 2005 World Junior Ice Hockey Championships.",
+          "semantic_score": 0.4594264626502991,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "2012, 2013 and 2014 World Junior Ice Hockey Championships"
+    },
+    {
+      "step": 3,
+      "sub_question": "Which of those championships was the second one in which he coached the team?",
+      "retrieved": [
+        {
+          "id": "737",
+          "text": "2013 World Junior Ice Hockey Championships\nThe 2013 IIHF World U20 Championship was the 37th World Junior Ice Hockey Championships (WJHC). It was hosted in Ufa, Russia. It began on December 26, 2012, and ended with the gold medal game played on January 5, 2013. The United States defeated defending-champion Sweden 3–1 to win their third title, their first one since 2010. American goalie John Gibson was named MVP of the tournament.",
+          "semantic_score": 0.6966758370399475,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "742",
+          "text": "Miroslav Přerost\nMiroslav Přerost (born 1963) is a Czech former professional ice hockey forward who played with HC Plzen during the 1982–83 Czech Extraliga season. He is currently the head coach of the Czech Republic men's national junior ice hockey team. He coached the men's national junior ice hockey team at the 2012, 2013 and the 2014 World Junior Ice Hockey Championships.",
+          "semantic_score": 0.5239318013191223,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "738",
+          "text": "Dean Blais\nDean Charles Blais (born January 18, 1951) is an American ice hockey coach. He was the head coach of the Omaha Mavericks, the men's team of the University of Nebraska Omaha, and also head coach of the United States men's national junior ice hockey team. He led Team USA to a gold medal in the IIHF 2010 World Junior Ice Hockey Championships in Saskatoon, Canada, held in late December 2009 through early January 2010.",
+          "semantic_score": 0.5196505188941956,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8578",
+          "text": "Jack Vivian\nJack R. Vivian (born May 14, 1941) is a Canadian former ice hockey player, college football player, ice hockey head coach, general manager, professional scout, and university administrator. He is most notable as the first head coach of the Bowling Green State University (BGSU) varsity ice hockey program and the then-youngest general manager in professional hockey with the Cleveland Crusaders of the World Hockey Association from 1973-76. He is a member of the Adrian College and Bowling Green State athletic hall of fames.",
+          "semantic_score": 0.46261271834373474,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "734",
+          "text": "Eduard Mazula\nEdward Mazula (born March 21, 1990) is a professional ice hockey forward currently playing for the HC Arystan. He was a member of the Kazakhstan men's national junior ice hockey team at the 2009 World Junior Ice Hockey Championships as well as at the 2010 World Junior Ice Hockey Championships.",
+          "semantic_score": 0.4557909667491913,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8582",
+          "text": "František Hossa\nFrantišek Hossa (born 13 September 1954) is a Slovak former ice hockey player and the current head coach of Spartak Moscow of the KHL. Both his sons, Marián and Marcel, are professional ice hockey players. As of 2002, he is also the assistant coach of the Slovakia men's national ice hockey team.",
+          "semantic_score": 0.445878803730011,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8584",
+          "text": "Jozef Golonka\nJozef Golonka (born January 6, 1938) is a former ice hockey player who played in the Czechoslovak Extraliga and was a member of the Czechoslovakia national ice hockey team. He won a bronze medal in the 1964 Winter Olympics in Innsbruck, Austria and won a silver medal in the 1968 Winter Olympics in Grenoble, France. He was inducted into the International Ice Hockey Federation Hall of Fame in 1998.",
+          "semantic_score": 0.4336138367652893,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8586",
+          "text": "Radek Ťoupal\nRadek Ťoupal (born August 16, 1966 in Písek, Czechoslovakia) is a former ice hockey player. His debut in Czechoslovak ice hockey league came in season 1982/1983, playing for HC České Budějovice, when he was only 16. During an army duty spent two years playing for Slovakian club HC Dukla Trenčín. He played on 1992 Bronze Medal winning Olympic ice hockey team for Czechoslovakia and also on Bronze Medal winning 1993 World Championships. Drafted 6th round draft choice of the Edmonton Oilers in 1987. Radek earned a university degree and is qualified to be a teacher. He left professional ice hockey in 2000.",
+          "semantic_score": 0.43138647079467773,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "741",
+          "text": "Norway men's national junior ice hockey team\nThe Norwegian men's national junior ice hockey team is the national junior ice hockey team in Norway. The team represents Norway at the International Ice Hockey Federation's IIHF World U20 Championship.",
+          "semantic_score": 0.4420618414878845,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "743",
+          "text": "Nikolai Safonov\nNikolay Safonov (born June 3, 1989) is a Kazakhstani ice hockey defenceman who was a member of the Kazakhstan men's national junior ice hockey team at the 2009 World Junior Ice Hockey Championships. He currently plays for Gornyak Rudny in the Kazakhstan Vyschaya Liga.",
+          "semantic_score": 0.39086565375328064,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "2013 World Junior Ice Hockey Championships"
+    },
+    {
+      "step": 4,
+      "sub_question": "Where was that second championship hosted?",
+      "retrieved": [
+        {
+          "id": "737",
+          "text": "2013 World Junior Ice Hockey Championships\nThe 2013 IIHF World U20 Championship was the 37th World Junior Ice Hockey Championships (WJHC). It was hosted in Ufa, Russia. It began on December 26, 2012, and ended with the gold medal game played on January 5, 2013. The United States defeated defending-champion Sweden 3–1 to win their third title, their first one since 2010. American goalie John Gibson was named MVP of the tournament.",
+          "semantic_score": 0.7318869233131409,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "736",
+          "text": "France men's national junior ice hockey team\nThe French men's national under 20 ice hockey team is the national under-20 ice hockey team in France. The team represents France at the International Ice Hockey Federation's IIHF World U20 Championship's World Junior Hockey Championship Division I. France made their first and only appearance at the top level at the 2002 World Junior Championships, when the French team defeated the likes of Germany, Ukraine, Austria, Norway, Latvia, and Poland, all of whom would eventually or saw top division competition. France defeated Ukraine 2-1 to secure a spot among the 10 national junior teams competing at the 25th IIHF-sanctioned World Junior Hockey Championships held in Pardubice, Czech-Republic in 2001-02. France opened their first game against Canada and lost 15-0, which still stands as their largest margin of defeat. The French would never recover with losses to Russia (5-1), Finland (8-0), Switzerland (8-0). France would automatically be sent down to the relegation round with back-to-back games against Belarus. France won the first game 3-2, but would end up losing 4-2 the following game sending France packing back to Division I.",
+          "semantic_score": 0.45989906787872314,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "741",
+          "text": "Norway men's national junior ice hockey team\nThe Norwegian men's national junior ice hockey team is the national junior ice hockey team in Norway. The team represents Norway at the International Ice Hockey Federation's IIHF World U20 Championship.",
+          "semantic_score": 0.4581701159477234,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "506",
+          "text": "Matthews Arena\nMatthews Arena, located in Boston, Massachusetts, is a basketball and ice hockey arena. Renovated several times, it is the oldest indoor ice hockey arena still being used for hockey — and is the oldest multi-purpose athletic building still in use in the world. It opened in 1910 on what is now the east end of Northeastern University's campus, and is currently owned by the university. It is the original home of the National Hockey League (NHL) Boston Bruins — the only team of the NHL's Original Six whose original home arena still exists for the sport of ice hockey at any level of competition — and the WHA New England Whalers (now the NHL Carolina Hurricanes), as well as the secondary home of the NBA Boston Celtics.",
+          "semantic_score": 0.45541784167289734,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2500",
+          "text": "2007 Ivan Hlinka Memorial Tournament\nThe 2007 Ivan Hlinka Memorial Tournament was an ice hockey tournament held in Hodonin, Czech Republic and Piešťany, Slovakia between August 14, 2007 and August 18, 2007. It was the 2007 installment of the Ivan Hlinka Memorial Tournament. Sweden defeated Finland 3-2 in the final to claim the gold medal, while Russia defeated Canada 5-4 to capture the bronze medal.",
+          "semantic_score": 0.4389761984348297,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "739",
+          "text": "Ukraine men's national junior ice hockey team\nThe Ukrainian men's national junior ice hockey team is the national under-20 ice hockey team in Ukraine. The team represents Ukraine at the International Ice Hockey Federation's World Junior Hockey Championship Division I.",
+          "semantic_score": 0.3469487130641937,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "192",
+          "text": "Boston Bruins\nThe Boston Bruins are a professional ice hockey team based in Boston, Massachusetts. They are members of the Atlantic Division of the Eastern Conference of the National Hockey League (NHL). The team has been in existence since 1924, and is the league's third-oldest team overall and the oldest in the United States. It is also an Original Six franchise, along with the Chicago Blackhawks, Detroit Red Wings, Montreal Canadiens, New York Rangers and Toronto Maple Leafs. The Bruins have won six Stanley Cup championships, tied for fourth most of all-time with the Blackhawks and tied second-most of any American NHL team also with the Blackhawks (behind the Red Wings, who have 11).",
+          "semantic_score": 0.3970867097377777,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Ufa, Russia"
+    }
+  ],
+  "links": [
+    {
+      "source": "742",
+      "target": "737",
+      "reason": "Paragraph 742 establishes Přerost coached the 2012, 2013, and 2014 World Juniors, making 2013 the second; paragraph 737 identifies the 2013 championship as hosted in Ufa, Russia."
+    }
+  ],
+  "questions_seen": 75,
+  "_id": "5a86b13f55429960ec39b6c3",
+  "correct_answer": "Ufa, Russia",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

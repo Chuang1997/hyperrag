@@ -1,0 +1,174 @@
+{
+  "question": "Which movie came out first, \"Bambi\" or \"Underdog\"?",
+  "answer": "Bambi",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "When was the movie \"Bambi\" released?",
+      "retrieved": [
+        {
+          "id": "1432",
+          "text": "Bambi\nBambi is a 1942 American animated film directed by David Hand (supervising a team of sequence directors), produced by Walt Disney and based on the book \"Bambi, a Life in the Woods\" by Austrian author Felix Salten. The film was released by RKO Radio Pictures on August 13, 1942, and is the fifth Disney animated feature film.",
+          "semantic_score": 0.7188966274261475,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3464",
+          "text": "Bichunmoo\nBichunmoo is a South Korean martial arts film written and directed by Kim Young-jun featuring Kim Hee-sun and Shin Hyun-joon. Originally released in 2000, it was at the time the most expensive film in Korean history (an honor it soon lost to \"Musa\").",
+          "semantic_score": 0.4125051498413086,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2795",
+          "text": "Babs (1920 film)\nBabs is a lost 1920 American silent film directed by Edward H. Griffith and starring Corinne Griffith. Griffith and the Vitagraph Company produced with Vitagraph distributing. The film was also called \"Bab's Candidate\" and had the working title \"Gumshoes 4-B\".",
+          "semantic_score": 0.4018774926662445,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8816",
+          "text": "Bruce Lee Fights Back from the Grave\nBruce Lee Fights Back From The Grave, released originally as Visitor of America (Hangul: 아메리카 방문객 ; Hanja: 아메리카 訪問客 ; RR: \"Amelika bangmungaeg \" ), is a 1976 Bruceploitation movie starring Bruce Lee impersonator and tae kwon do instructor Jun Chong (using the alias Bruce K.L. Lea). The film was directed by Lee Doo-yong, though persistent misinformation claims that the movie was directed by Italian horror director Umberto Lenzi. The poster's artwork was very common among exploitation films at the time.",
+          "semantic_score": 0.3853093087673187,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5583",
+          "text": "Big Bug Man\nBig Bug Man is an American animated movie starring Brendan Fraser and Marlon Brando. The movie is a Studio-Free Studios Production, and it was originally to be released between 2006 and 2008, but there is now no news on its release or distribution. The movie is Marlon Brando's last known film work.",
+          "semantic_score": 0.35609665513038635,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3465",
+          "text": "Shadowless Sword\nShadowless Sword () is a 2005 South Korean film starring Lee Seo-jin, Yoon So-yi, and Shin Hyun-joon. A martial arts epic filmed in China, the film follows the exploits of the last prince of the Balhae Kingdom, who hides his identity in a small village until he is called to battle invaders from Khitan. It was released in North America, the United Kingdom and Ireland by New Line Cinema on DVD as The Legend of the Shadowless Sword.",
+          "semantic_score": 0.23839281499385834,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6532",
+          "text": "The Jungle Book (1994 film)\nRudyard Kipling's The Jungle Book is a 1994 live-action American adventure film co-written and directed by Stephen Sommers, produced by Edward S. Feldman and Raju Patel, from a story by Ronald Yanover and Mark Geldman. It is the second film adaptation by The Walt Disney Company of the Mowgli stories from \"The Jungle Book\" and \"The Second Jungle Book\" by Rudyard Kipling.",
+          "semantic_score": 0.33945178985595703,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9275",
+          "text": "Snake in the Eagle's Shadow\nSnake in the Eagle's Shadow () is a 1978 Hong Kong martial arts action film directed by Yuen Woo-ping in his directorial debut, and starring Jackie Chan, Hwang Jang Lee and Yuen Woo-ping's real life father, Yuen Siu Tien.",
+          "semantic_score": 0.2768295109272003,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "August 13, 1942"
+    },
+    {
+      "step": 2,
+      "sub_question": "When was the movie \"Underdog\" released?",
+      "retrieved": [
+        {
+          "id": "1433",
+          "text": "Underdog (film)\nUnderdog is a 2007 American family superhero comedy film based on the 1960s cartoon series of the same name. Directed by Frederik Du Chau and written by Joe Piscatella, Adam Rifkin, and Craig A. Williams, the film stars Jim Belushi, Peter Dinklage, John Slattery, and Patrick Warburton with the voice talents of Jason Lee, Amy Adams, and Brad Garrett. Unlike the TV series, the Underdog character is portrayed as a regular dog rather than an anthropomorphic one. Underdog, voiced by Jason Lee, was played by a lemon beagle named Leo sporting a red sweater and a blue cape. The film grossed $65.3 million worldwide.",
+          "semantic_score": 0.5567653775215149,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "392",
+          "text": "The Year of the Dog (film)\nThe Year of the Dog (Russian: Год собаки , \"God sobaki \" ) is a 1994 Russian drama film directed by Semyon Aranovich. It was entered into the 44th Berlin International Film Festival where it won the Silver Bear for an outstanding artistic contribution.",
+          "semantic_score": 0.41408970952033997,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6239",
+          "text": "Beneath (2007 film)\nBeneath is a straight-to-DVD thriller-horror film co-produced in a first time partnership between Paramount Classics (a Viacom subsidiary) and MTV Films (although both co-purchased the rights to \"Hustle & Flow\" in 2005). The film is directed by the newcomer Dagen Merrill, who co-wrote the script with Kevin Burke, and the list of producers include Sean Covel and Chris Wyatt (\"Napoleon Dynamite\", \"Think Tank\"), as well as Troy Craig Poon. In Paramount Classics's first horror movie, which marks the company's expansion from acquisitions into the production arena, the cast includes Nora Zehetner (\"Brick\", \"May\", \"R.S.V.P.\", \"Everwood\") and Matthew Settle (\"U-571\", \"Band of Brothers\"). Shooting started 2005 in Vancouver, the film was released on DVD August 7, 2007. It was the first direct-to-video title produced by MTV Films.",
+          "semantic_score": 0.3959336280822754,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3412",
+          "text": "Straw Dogs (2011 film)\nStraw Dogs is a 2011 American psychological thriller film directed, produced, and written by Rod Lurie. It is a remake of Sam Peckinpah's 1971 film \"Straw Dogs\", itself lightly based on the Gordon Williams novel \"The Siege of Trencher's Farm\". It stars James Marsden and Kate Bosworth.",
+          "semantic_score": 0.36867737770080566,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1429",
+          "text": "Anthem for the Underdog\nAnthem for the Underdog is the third album by the rock band 12 Stones. It was released on August 14, 2007. The first single \"Lie to Me\", was made available on 12 Stones' MySpace and official website along with the second single \"Anthem For The Underdog\", which was used in the movie \"Never Back Down\". Both singles charted in the top 30 on the Mainstream Rock Tracks chart, while \"It Was You\" charted in the top 10 on Christian Rock charts. The third single, \"Adrenaline\", was the theme song for the Met-Rx World's Strongest Man competition in 2007. \"Anthem for the Underdog\" debuted at No. 53 on the \"Billboard\" 200, and stayed on the chart for four weeks.",
+          "semantic_score": 0.3588608205318451,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4402",
+          "text": "Barking Dogs Never Bite\nBarking Dogs Never Bite (Korean: 플란다스의 개 , also known as \"A Higher Animal\" and \"Dog of Flanders\") is a 2000 South Korean dark comedy-drama film. The film's original Korean title is a satirical take on \"A Dog of Flanders\", a European pet story that is very popular in parts of East Asia. It is also the directorial debut of Bong Joon-ho, who would later go on to direct \"Memories of Murder\" in 2003, \"The Host\" in 2006, and \"Snowpiercer\" in 2013.",
+          "semantic_score": 0.2593207359313965,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6830",
+          "text": "Oscar the Grouch (dog)\nOscar The Grouch is a dog that was featured in a two-part series on the front page of the Wall St. Journal as the dog to root for at the Westminster Kennel Club Dog Show. Living in New York City, Oscar was able to walk to the dog show. Also seen on the opening promo for the Dog Show on the USA Network and on Bloomberg, Oscar is a top-ranked Greater Swiss Mountain Dog. Oscar is currently Facebook's top show dog with over 55,000 followers.",
+          "semantic_score": 0.16833586990833282,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6244",
+          "text": "Hustle &amp; Flow\nHustle & Flow is a 2005 American independent drama film written and directed by Craig Brewer and produced by John Singleton and Stephanie Allain. It was released on July 22, 2005. Terrence Howard stars as a Memphis hustler and pimp who faces his aspiration to become a rapper. The film is dedicated to Sun Records founder Sam Phillips.",
+          "semantic_score": 0.15003769099712372,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "August 3, 2007"
+    }
+  ],
+  "links": [
+    {
+      "source": "1432",
+      "target": "1433",
+      "reason": "Paragraph 1432 gives Bambi's release date (August 13, 1942) and paragraph 1433 gives Underdog's release year (2007), which together establish that Bambi came out first."
+    }
+  ],
+  "questions_seen": 145,
+  "_id": "5a729fa15542994cef4bc397",
+  "correct_answer": "Bambi",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

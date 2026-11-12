@@ -1,0 +1,87 @@
+{
+  "question": "What year did Fifty Shades of Grey release?",
+  "answer": "2011",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What year did Fifty Shades of Grey release?",
+      "retrieved": [
+        {
+          "id": "851",
+          "text": "Fifty Shades Freed (film)\nFifty Shades Freed is an upcoming American erotic romantic drama film directed by James Foley and written by Niall Leonard, based on the novel of same name by E. L. James. It is the final film in the \"Fifty Shades\" trilogy, and a sequel to \"Fifty Shades of Grey\" (2015) and \"Fifty Shades Darker\" (2017). The film stars Dakota Johnson and Jamie Dornan as Anastasia Steele and Christian Grey, respectively.",
+          "semantic_score": 0.6442878246307373,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5328",
+          "text": "Fifty Shades (film series)\nFifty Shades is an American film series that consists of three erotic romantic drama films, based on the \" Fifty Shades\" trilogy by English author E. L. James. It is distributed by Universal Studios and stars Dakota Johnson and Jamie Dornan as the lead roles Anastasia Steele and Christian Grey, respectively. Sam Taylor-Johnson directed the first film and initially she was slated to be the director of the sequels as well, however subsequently the second and third films were directed by James Foley.",
+          "semantic_score": 0.6292420029640198,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "847",
+          "text": "Fifty Shades Darker (film)\nFifty Shades Darker is a 2017 American erotic romantic drama film directed by James Foley and written by Niall Leonard, based on E. L. James's novel of the same name. The second film in the \"Fifty Shades\" film series, it is the sequel to the 2015 film \"Fifty Shades of Grey\". The film stars Dakota Johnson and Jamie Dornan as Anastasia Steele and Christian Grey, respectively, with Eric Johnson, Eloise Mumford, Bella Heathcote, Rita Ora, Luke Grimes, Victor Rasuk, Kim Basinger and Marcia Gay Harden in supporting roles.",
+          "semantic_score": 0.6240516304969788,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "849",
+          "text": "Fifty Shades Freed\nFifty Shades Freed is the third and final installment of the erotic romance \"Fifty Shades Trilogy\" by British author E. L. James. After accepting entrepreneur CEO Christian Grey's proposal in \"Fifty Shades Darker\", Anastasia Steele must adjust not only to married life but to her new husband's wealthy lifestyle and controlling nature. The paperback edition was first published in April 2012.",
+          "semantic_score": 0.6144189834594727,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "845",
+          "text": "Fifty Shades (novel series)\nThe \"Fifty Shades\" trilogy is a series of erotic novels by E. L. James. The trilogy consists of \"Fifty Shades of Grey\" (2011), \"Fifty Shades Darker\" and \"Fifty Shades Freed\" (2012). The trilogy traces the deepening relationship between a college graduate, Anastasia Steele, and a young business magnate, Christian Grey.",
+          "semantic_score": 0.6010131239891052,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "844",
+          "text": "Fifty Shades Darker\nFifty Shades Darker is a 2012 erotic romance novel by British author E. L. James. It is the second instalment in the \"Fifty Shades\" trilogy that traces the deepening relationship between a college graduate, Anastasia Steele, and a young business magnate, Christian Grey. The first and third volumes, \"Fifty Shades of Grey\" and \"Fifty Shades Freed\", were published in 2011 and 2012. The novel is published by Vintage Books and reached No. 1 on the \"USA Today\" best seller list.",
+          "semantic_score": 0.5701606869697571,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "2011"
+    }
+  ],
+  "links": [
+    {
+      "source": "845",
+      "target": "844",
+      "reason": "Paragraph 845 states the novel 'Fifty Shades of Grey' was published in 2011, while paragraph 844 independently confirms the first volume 'Fifty Shades of Grey' was published in 2011, jointly corroborating the answer year."
+    }
+  ],
+  "questions_seen": 86,
+  "_id": "5ae1d32a554299492dc91b9c",
+  "correct_answer": "2011",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

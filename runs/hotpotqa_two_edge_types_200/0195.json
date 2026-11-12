@@ -1,0 +1,458 @@
+{
+  "question": "The king deposed in the Glorious Revolution of 1688 was supported by the grandson of what Viscount Barnewall?",
+  "answer": "Nicholas Barnewall, 1st Viscount Barnewall",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Identify the king deposed in the Glorious Revolution of 1688.",
+      "retrieved": [
+        {
+          "id": "1944",
+          "text": "Glorious Revolution in Scotland\nThe Glorious Revolution in Scotland was part of a wider change of regime, known as the Glorious Revolution or Revolution of 1688, in the British kingdoms of the Stuart monarchy in 1688–89. It began in England and saw the removal of the Catholic James VII of Scotland and II of England from the thrones of England, Scotland and Ireland and his replacement with his Protestant daughter Mary and her husband William of Orange.",
+          "semantic_score": 0.706506609916687,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1936",
+          "text": "Habeas Corpus Suspension Acts of 1688\nThe Habeas Corpus Suspension Acts of 1688 were three Acts of the Parliament of England (1 Will. & Mar. cc. 2, 7 & 19) which temporarily suspended the right of \"habeas corpus\" in England until 17 April, 25 May and 23 October 1689 respectively. They were passed in the wake of the Glorious Revolution, in which King James II had recently been deposed.",
+          "semantic_score": 0.5387371182441711,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1942",
+          "text": "James II of England\nJames II and VII (14 October 1633 – 16 September 1701) was King of England and Ireland as James II and King of Scotland as James VII, from 6 February 1685 until he was deposed in the Glorious Revolution of 1688. He was the last Roman Catholic monarch of England, Scotland and Ireland.",
+          "semantic_score": 0.5043601393699646,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1935",
+          "text": "James Francis Edward Stuart\nJames Francis Edward, Prince of Wales (10 June 1688 – 1 January 1766), nicknamed the Old Pretender, was the son of King James II and VII, the monarch of the three kingdoms of England, Scotland and Ireland, and his second wife Mary of Modena. His Catholic father was deposed in the Glorious Revolution of 1688 only months after his birth, and his Protestant older half-sister Mary II and her husband William III of Orange became king and queen. The Bill of Rights 1689 and Act of Succession 1701 excluded Catholics from the British throne, and James was raised in exile.",
+          "semantic_score": 0.4994381368160248,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1937",
+          "text": "Admiralty in the 18th century\nThe Glorious Revolution of 1688 rearranged the political map of Europe, and led to a series of wars with France that lasted well over a century. This was the classic age of sail; while the ships themselves evolved in only minor ways, technique and tactics were honed to a high degree, and the battles of the Napoleonic Wars entailed feats that would have been impossible for the fleets of the 17th century. Because of parliamentary opposition, James II fled the country. The landing of William III and the Glorious Revolution itself was a gigantic effort involving 100 warships and 400 transports carrying 11,000 infantry and 4,000 horses. It was not opposed by the English or Scottish fleets.",
+          "semantic_score": 0.475104957818985,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8261",
+          "text": "Charles Edward Stuart\nCharles Edward Louis John Casimir Sylvester Severino Maria Stuart (31 December 1720 – 31 January 1788), commonly known in Britain during his lifetime as The Young Pretender and The Young Chevalier, and often known in retrospective accounts as Bonnie Prince Charlie, was the second Jacobite pretender to the thrones of England, Scotland, France and Ireland (as Charles III) from the death of his father in 1766. This claim was based on his status as the eldest son of James Francis Edward Stuart, himself the son of James VII and II. Charles is perhaps best known as the instigator of the unsuccessful Jacobite uprising of 1745, in which he led an insurrection to restore his family to the throne of Great Britain. The uprising ended in defeat at the Battle of Culloden, effectively terminating the Jacobite cause. Jacobites supported the Stuart claim because they hoped for religious toleration for Roman Catholics and because they believed in the divine right of kings. Charles's flight from Scotland after the uprising has rendered him a romantic figure of heroic failure in some later representations. In 1759 he was involved in a French plan to invade Britain, which was abandoned after British naval victories.",
+          "semantic_score": 0.3423323631286621,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "James II of England (James VII of Scotland)"
+    },
+    {
+      "step": 2,
+      "sub_question": "Determine who supported that king (specifically, find the grandson of a Viscount Barnewall who supported him).",
+      "retrieved": [
+        {
+          "id": "1942",
+          "text": "James II of England\nJames II and VII (14 October 1633 – 16 September 1701) was King of England and Ireland as James II and King of Scotland as James VII, from 6 February 1685 until he was deposed in the Glorious Revolution of 1688. He was the last Roman Catholic monarch of England, Scotland and Ireland.",
+          "semantic_score": 0.6297677755355835,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1940",
+          "text": "Viscount Barnewall\nViscount Barnewall, of Kingsland in the Parish of Donabate in the County of Dublin, was a title in the Peerage of Ireland. It was created on 29 June 1646 for Nicholas Barnewall, who had earlier represented County Dublin in the Irish House of Commons. The Kingsland Barnewalls were a junior branch of the family of Baron Trimleston; Nicholas's great-grandfather Sir Patrick Barnewall had achieved political prominence through his friendship with Thomas Cromwell and done well out of the Dissolution of the Monasteries . Nicholas was made Baron Turvey at the same time, also in the Peerage of Ireland. His grandson, the third Viscount, was a supporter of James II and outlawed. However, he was restored under the Treaty of Limerick. His son, the fourth Viscount, was a Roman Catholic and consequently disqualified from taking his seat in the Irish House of Lords. He was childless and was succeeded by his nephew, the fifth Viscount. He was the son of the Honourable George Barnewall, younger son of the third Viscount. He died unmarried in 1800 when the titles became dormant. They were successfully claimed in 1814 by Matthew Barnewall, who became the sixth Viscount. He was the great-grandson of the Honourable Richard Barnewall, younger son of the first Viscount. However, he had no surviving male issue and on his death in 1834 the titles are considered to have become extinct.",
+          "semantic_score": 0.5819080471992493,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1935",
+          "text": "James Francis Edward Stuart\nJames Francis Edward, Prince of Wales (10 June 1688 – 1 January 1766), nicknamed the Old Pretender, was the son of King James II and VII, the monarch of the three kingdoms of England, Scotland and Ireland, and his second wife Mary of Modena. His Catholic father was deposed in the Glorious Revolution of 1688 only months after his birth, and his Protestant older half-sister Mary II and her husband William III of Orange became king and queen. The Bill of Rights 1689 and Act of Succession 1701 excluded Catholics from the British throne, and James was raised in exile.",
+          "semantic_score": 0.5428299307823181,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1943",
+          "text": "Patrick Barnewall (Solicitor General)\nPatrick Barnewall (c. 1500–1552) was a leading figure in the Irish Government of the 1530s and 1540s, due to his close links with Thomas Cromwell. He sat in the Irish House of Commons, and held the offices of Solicitor General for Ireland and Master of the Rolls in Ireland. Today he is mainly remembered for his role in founding the King's Inns. He belonged to a junior branch of the family of Lord Trimlestown: his own descendants held the title Viscount Barnewall of Kingsland.",
+          "semantic_score": 0.48344773054122925,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "32",
+          "text": "Adam Gordon of Auchindoun\nAdam Gordon of Auchindoun (1545–1580), Scottish knight, younger brother of the Earl of Huntly and military leader during the Marian civil war on behalf of Mary, Queen of Scots in north west Scotland. In Scottish ballad lore, Adam became known as Edom o'Gordon.",
+          "semantic_score": 0.4680684208869934,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1938",
+          "text": "Nicholas Barnewall, 3rd Viscount Barnewall\nNicholas Barnewall, 3rd Viscount Barnewall (15 April 1668 – 14 June 1725) was an Irish nobleman.",
+          "semantic_score": 0.438403457403183,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1941",
+          "text": "Nicholas Barnewall, 1st Viscount Barnewall\nNicholas Barnewall, 1st Viscount Barnewall (1592 – 20 August 1663), was an Irish landowner and politician.",
+          "semantic_score": 0.4366328716278076,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Nicholas Barnewall, 3rd Viscount Barnewall"
+    },
+    {
+      "step": 3,
+      "sub_question": "Identify who that grandson was.",
+      "retrieved": [
+        {
+          "id": "1938",
+          "text": "Nicholas Barnewall, 3rd Viscount Barnewall\nNicholas Barnewall, 3rd Viscount Barnewall (15 April 1668 – 14 June 1725) was an Irish nobleman.",
+          "semantic_score": 0.819492518901825,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1941",
+          "text": "Nicholas Barnewall, 1st Viscount Barnewall\nNicholas Barnewall, 1st Viscount Barnewall (1592 – 20 August 1663), was an Irish landowner and politician.",
+          "semantic_score": 0.807275116443634,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1940",
+          "text": "Viscount Barnewall\nViscount Barnewall, of Kingsland in the Parish of Donabate in the County of Dublin, was a title in the Peerage of Ireland. It was created on 29 June 1646 for Nicholas Barnewall, who had earlier represented County Dublin in the Irish House of Commons. The Kingsland Barnewalls were a junior branch of the family of Baron Trimleston; Nicholas's great-grandfather Sir Patrick Barnewall had achieved political prominence through his friendship with Thomas Cromwell and done well out of the Dissolution of the Monasteries . Nicholas was made Baron Turvey at the same time, also in the Peerage of Ireland. His grandson, the third Viscount, was a supporter of James II and outlawed. However, he was restored under the Treaty of Limerick. His son, the fourth Viscount, was a Roman Catholic and consequently disqualified from taking his seat in the Irish House of Lords. He was childless and was succeeded by his nephew, the fifth Viscount. He was the son of the Honourable George Barnewall, younger son of the third Viscount. He died unmarried in 1800 when the titles became dormant. They were successfully claimed in 1814 by Matthew Barnewall, who became the sixth Viscount. He was the great-grandson of the Honourable Richard Barnewall, younger son of the first Viscount. However, he had no surviving male issue and on his death in 1834 the titles are considered to have become extinct.",
+          "semantic_score": 0.7817155718803406,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1943",
+          "text": "Patrick Barnewall (Solicitor General)\nPatrick Barnewall (c. 1500–1552) was a leading figure in the Irish Government of the 1530s and 1540s, due to his close links with Thomas Cromwell. He sat in the Irish House of Commons, and held the offices of Solicitor General for Ireland and Master of the Rolls in Ireland. Today he is mainly remembered for his role in founding the King's Inns. He belonged to a junior branch of the family of Lord Trimlestown: his own descendants held the title Viscount Barnewall of Kingsland.",
+          "semantic_score": 0.6252773404121399,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7687",
+          "text": "Nicholas Ashley-Cooper, 12th Earl of Shaftesbury\nNicholas Edmund Anthony Ashley-Cooper, 12th Earl of Shaftesbury Bt, (born 3 June 1979) also known as Nick Ashley-Cooper, is an English peer, landowner and philanthropist. He succeeded his brother as Earl of Shaftesbury in 2005. The 12th Earl of Shaftesbury is the godson of Gerald Grosvenor, 6th Duke of Westminster, and Simon Elliot, brother-in-law of Charles, Prince of Wales.",
+          "semantic_score": 0.5052669048309326,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7688",
+          "text": "Francis Grosvenor, 8th Earl of Wilton\nFrancis Egerton Grosvenor, 8th Earl of Wilton (born 8 February 1934) is a British aristocrat, financier and academic. He is the eldest son of Robert Egerton Grosvenor, 5th Baron Ebury and his first wife Anne Acland-Troyte. He succeeded his father as 6th Baron Ebury in 1957, and his fourth cousin, Seymour William Arthur John Egerton, 7th Earl of Wilton, to the earldom in 1999.",
+          "semantic_score": 0.4128858745098114,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Nicholas Barnewall, 3rd Viscount Barnewall"
+    },
+    {
+      "step": 4,
+      "sub_question": "Find out whose grandson he was — i.e., identify the Viscount Barnewall in question.",
+      "retrieved": [
+        {
+          "id": "1938",
+          "text": "Nicholas Barnewall, 3rd Viscount Barnewall\nNicholas Barnewall, 3rd Viscount Barnewall (15 April 1668 – 14 June 1725) was an Irish nobleman.",
+          "semantic_score": 0.7433231472969055,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1940",
+          "text": "Viscount Barnewall\nViscount Barnewall, of Kingsland in the Parish of Donabate in the County of Dublin, was a title in the Peerage of Ireland. It was created on 29 June 1646 for Nicholas Barnewall, who had earlier represented County Dublin in the Irish House of Commons. The Kingsland Barnewalls were a junior branch of the family of Baron Trimleston; Nicholas's great-grandfather Sir Patrick Barnewall had achieved political prominence through his friendship with Thomas Cromwell and done well out of the Dissolution of the Monasteries . Nicholas was made Baron Turvey at the same time, also in the Peerage of Ireland. His grandson, the third Viscount, was a supporter of James II and outlawed. However, he was restored under the Treaty of Limerick. His son, the fourth Viscount, was a Roman Catholic and consequently disqualified from taking his seat in the Irish House of Lords. He was childless and was succeeded by his nephew, the fifth Viscount. He was the son of the Honourable George Barnewall, younger son of the third Viscount. He died unmarried in 1800 when the titles became dormant. They were successfully claimed in 1814 by Matthew Barnewall, who became the sixth Viscount. He was the great-grandson of the Honourable Richard Barnewall, younger son of the first Viscount. However, he had no surviving male issue and on his death in 1834 the titles are considered to have become extinct.",
+          "semantic_score": 0.742608368396759,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1941",
+          "text": "Nicholas Barnewall, 1st Viscount Barnewall\nNicholas Barnewall, 1st Viscount Barnewall (1592 – 20 August 1663), was an Irish landowner and politician.",
+          "semantic_score": 0.7138723134994507,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1943",
+          "text": "Patrick Barnewall (Solicitor General)\nPatrick Barnewall (c. 1500–1552) was a leading figure in the Irish Government of the 1530s and 1540s, due to his close links with Thomas Cromwell. He sat in the Irish House of Commons, and held the offices of Solicitor General for Ireland and Master of the Rolls in Ireland. Today he is mainly remembered for his role in founding the King's Inns. He belonged to a junior branch of the family of Lord Trimlestown: his own descendants held the title Viscount Barnewall of Kingsland.",
+          "semantic_score": 0.5839088559150696,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7687",
+          "text": "Nicholas Ashley-Cooper, 12th Earl of Shaftesbury\nNicholas Edmund Anthony Ashley-Cooper, 12th Earl of Shaftesbury Bt, (born 3 June 1979) also known as Nick Ashley-Cooper, is an English peer, landowner and philanthropist. He succeeded his brother as Earl of Shaftesbury in 2005. The 12th Earl of Shaftesbury is the godson of Gerald Grosvenor, 6th Duke of Westminster, and Simon Elliot, brother-in-law of Charles, Prince of Wales.",
+          "semantic_score": 0.5161450505256653,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7688",
+          "text": "Francis Grosvenor, 8th Earl of Wilton\nFrancis Egerton Grosvenor, 8th Earl of Wilton (born 8 February 1934) is a British aristocrat, financier and academic. He is the eldest son of Robert Egerton Grosvenor, 5th Baron Ebury and his first wife Anne Acland-Troyte. He succeeded his father as 6th Baron Ebury in 1957, and his fourth cousin, Seymour William Arthur John Egerton, 7th Earl of Wilton, to the earldom in 1999.",
+          "semantic_score": 0.43794721364974976,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Nicholas Barnewall, 3rd Viscount Barnewall"
+    },
+    {
+      "step": 5,
+      "sub_question": "Who was the king deposed in the Glorious Revolution of 1688?",
+      "retrieved": [
+        {
+          "id": "1938",
+          "text": "Nicholas Barnewall, 3rd Viscount Barnewall\nNicholas Barnewall, 3rd Viscount Barnewall (15 April 1668 – 14 June 1725) was an Irish nobleman.",
+          "semantic_score": 0.7699657678604126,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1940",
+          "text": "Viscount Barnewall\nViscount Barnewall, of Kingsland in the Parish of Donabate in the County of Dublin, was a title in the Peerage of Ireland. It was created on 29 June 1646 for Nicholas Barnewall, who had earlier represented County Dublin in the Irish House of Commons. The Kingsland Barnewalls were a junior branch of the family of Baron Trimleston; Nicholas's great-grandfather Sir Patrick Barnewall had achieved political prominence through his friendship with Thomas Cromwell and done well out of the Dissolution of the Monasteries . Nicholas was made Baron Turvey at the same time, also in the Peerage of Ireland. His grandson, the third Viscount, was a supporter of James II and outlawed. However, he was restored under the Treaty of Limerick. His son, the fourth Viscount, was a Roman Catholic and consequently disqualified from taking his seat in the Irish House of Lords. He was childless and was succeeded by his nephew, the fifth Viscount. He was the son of the Honourable George Barnewall, younger son of the third Viscount. He died unmarried in 1800 when the titles became dormant. They were successfully claimed in 1814 by Matthew Barnewall, who became the sixth Viscount. He was the great-grandson of the Honourable Richard Barnewall, younger son of the first Viscount. However, he had no surviving male issue and on his death in 1834 the titles are considered to have become extinct.",
+          "semantic_score": 0.7223941683769226,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1941",
+          "text": "Nicholas Barnewall, 1st Viscount Barnewall\nNicholas Barnewall, 1st Viscount Barnewall (1592 – 20 August 1663), was an Irish landowner and politician.",
+          "semantic_score": 0.7188647985458374,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1943",
+          "text": "Patrick Barnewall (Solicitor General)\nPatrick Barnewall (c. 1500–1552) was a leading figure in the Irish Government of the 1530s and 1540s, due to his close links with Thomas Cromwell. He sat in the Irish House of Commons, and held the offices of Solicitor General for Ireland and Master of the Rolls in Ireland. Today he is mainly remembered for his role in founding the King's Inns. He belonged to a junior branch of the family of Lord Trimlestown: his own descendants held the title Viscount Barnewall of Kingsland.",
+          "semantic_score": 0.6157826781272888,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1944",
+          "text": "Glorious Revolution in Scotland\nThe Glorious Revolution in Scotland was part of a wider change of regime, known as the Glorious Revolution or Revolution of 1688, in the British kingdoms of the Stuart monarchy in 1688–89. It began in England and saw the removal of the Catholic James VII of Scotland and II of England from the thrones of England, Scotland and Ireland and his replacement with his Protestant daughter Mary and her husband William of Orange.",
+          "semantic_score": 0.5004278421401978,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1942",
+          "text": "James II of England\nJames II and VII (14 October 1633 – 16 September 1701) was King of England and Ireland as James II and King of Scotland as James VII, from 6 February 1685 until he was deposed in the Glorious Revolution of 1688. He was the last Roman Catholic monarch of England, Scotland and Ireland.",
+          "semantic_score": 0.3697633743286133,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "James II of England (James VII of Scotland)"
+    },
+    {
+      "step": 6,
+      "sub_question": "Which grandson of a Viscount Barnewall supported this king?",
+      "retrieved": [
+        {
+          "id": "1942",
+          "text": "James II of England\nJames II and VII (14 October 1633 – 16 September 1701) was King of England and Ireland as James II and King of Scotland as James VII, from 6 February 1685 until he was deposed in the Glorious Revolution of 1688. He was the last Roman Catholic monarch of England, Scotland and Ireland.",
+          "semantic_score": 0.6628910303115845,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1940",
+          "text": "Viscount Barnewall\nViscount Barnewall, of Kingsland in the Parish of Donabate in the County of Dublin, was a title in the Peerage of Ireland. It was created on 29 June 1646 for Nicholas Barnewall, who had earlier represented County Dublin in the Irish House of Commons. The Kingsland Barnewalls were a junior branch of the family of Baron Trimleston; Nicholas's great-grandfather Sir Patrick Barnewall had achieved political prominence through his friendship with Thomas Cromwell and done well out of the Dissolution of the Monasteries . Nicholas was made Baron Turvey at the same time, also in the Peerage of Ireland. His grandson, the third Viscount, was a supporter of James II and outlawed. However, he was restored under the Treaty of Limerick. His son, the fourth Viscount, was a Roman Catholic and consequently disqualified from taking his seat in the Irish House of Lords. He was childless and was succeeded by his nephew, the fifth Viscount. He was the son of the Honourable George Barnewall, younger son of the third Viscount. He died unmarried in 1800 when the titles became dormant. They were successfully claimed in 1814 by Matthew Barnewall, who became the sixth Viscount. He was the great-grandson of the Honourable Richard Barnewall, younger son of the first Viscount. However, he had no surviving male issue and on his death in 1834 the titles are considered to have become extinct.",
+          "semantic_score": 0.6469727754592896,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1935",
+          "text": "James Francis Edward Stuart\nJames Francis Edward, Prince of Wales (10 June 1688 – 1 January 1766), nicknamed the Old Pretender, was the son of King James II and VII, the monarch of the three kingdoms of England, Scotland and Ireland, and his second wife Mary of Modena. His Catholic father was deposed in the Glorious Revolution of 1688 only months after his birth, and his Protestant older half-sister Mary II and her husband William III of Orange became king and queen. The Bill of Rights 1689 and Act of Succession 1701 excluded Catholics from the British throne, and James was raised in exile.",
+          "semantic_score": 0.5569853186607361,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1943",
+          "text": "Patrick Barnewall (Solicitor General)\nPatrick Barnewall (c. 1500–1552) was a leading figure in the Irish Government of the 1530s and 1540s, due to his close links with Thomas Cromwell. He sat in the Irish House of Commons, and held the offices of Solicitor General for Ireland and Master of the Rolls in Ireland. Today he is mainly remembered for his role in founding the King's Inns. He belonged to a junior branch of the family of Lord Trimlestown: his own descendants held the title Viscount Barnewall of Kingsland.",
+          "semantic_score": 0.5138089060783386,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1938",
+          "text": "Nicholas Barnewall, 3rd Viscount Barnewall\nNicholas Barnewall, 3rd Viscount Barnewall (15 April 1668 – 14 June 1725) was an Irish nobleman.",
+          "semantic_score": 0.4832950234413147,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1941",
+          "text": "Nicholas Barnewall, 1st Viscount Barnewall\nNicholas Barnewall, 1st Viscount Barnewall (1592 – 20 August 1663), was an Irish landowner and politician.",
+          "semantic_score": 0.4715130627155304,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Nicholas Barnewall, 3rd Viscount Barnewall"
+    },
+    {
+      "step": 7,
+      "sub_question": "Who was the Viscount Barnewall that was the grandfather of this supporter?",
+      "retrieved": [
+        {
+          "id": "1941",
+          "text": "Nicholas Barnewall, 1st Viscount Barnewall\nNicholas Barnewall, 1st Viscount Barnewall (1592 – 20 August 1663), was an Irish landowner and politician.",
+          "semantic_score": 0.8362639546394348,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1938",
+          "text": "Nicholas Barnewall, 3rd Viscount Barnewall\nNicholas Barnewall, 3rd Viscount Barnewall (15 April 1668 – 14 June 1725) was an Irish nobleman.",
+          "semantic_score": 0.8318808674812317,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1940",
+          "text": "Viscount Barnewall\nViscount Barnewall, of Kingsland in the Parish of Donabate in the County of Dublin, was a title in the Peerage of Ireland. It was created on 29 June 1646 for Nicholas Barnewall, who had earlier represented County Dublin in the Irish House of Commons. The Kingsland Barnewalls were a junior branch of the family of Baron Trimleston; Nicholas's great-grandfather Sir Patrick Barnewall had achieved political prominence through his friendship with Thomas Cromwell and done well out of the Dissolution of the Monasteries . Nicholas was made Baron Turvey at the same time, also in the Peerage of Ireland. His grandson, the third Viscount, was a supporter of James II and outlawed. However, he was restored under the Treaty of Limerick. His son, the fourth Viscount, was a Roman Catholic and consequently disqualified from taking his seat in the Irish House of Lords. He was childless and was succeeded by his nephew, the fifth Viscount. He was the son of the Honourable George Barnewall, younger son of the third Viscount. He died unmarried in 1800 when the titles became dormant. They were successfully claimed in 1814 by Matthew Barnewall, who became the sixth Viscount. He was the great-grandson of the Honourable Richard Barnewall, younger son of the first Viscount. However, he had no surviving male issue and on his death in 1834 the titles are considered to have become extinct.",
+          "semantic_score": 0.8091777563095093,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1943",
+          "text": "Patrick Barnewall (Solicitor General)\nPatrick Barnewall (c. 1500–1552) was a leading figure in the Irish Government of the 1530s and 1540s, due to his close links with Thomas Cromwell. He sat in the Irish House of Commons, and held the offices of Solicitor General for Ireland and Master of the Rolls in Ireland. Today he is mainly remembered for his role in founding the King's Inns. He belonged to a junior branch of the family of Lord Trimlestown: his own descendants held the title Viscount Barnewall of Kingsland.",
+          "semantic_score": 0.6520530581474304,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7687",
+          "text": "Nicholas Ashley-Cooper, 12th Earl of Shaftesbury\nNicholas Edmund Anthony Ashley-Cooper, 12th Earl of Shaftesbury Bt, (born 3 June 1979) also known as Nick Ashley-Cooper, is an English peer, landowner and philanthropist. He succeeded his brother as Earl of Shaftesbury in 2005. The 12th Earl of Shaftesbury is the godson of Gerald Grosvenor, 6th Duke of Westminster, and Simon Elliot, brother-in-law of Charles, Prince of Wales.",
+          "semantic_score": 0.4713432788848877,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7688",
+          "text": "Francis Grosvenor, 8th Earl of Wilton\nFrancis Egerton Grosvenor, 8th Earl of Wilton (born 8 February 1934) is a British aristocrat, financier and academic. He is the eldest son of Robert Egerton Grosvenor, 5th Baron Ebury and his first wife Anne Acland-Troyte. He succeeded his father as 6th Baron Ebury in 1957, and his fourth cousin, Seymour William Arthur John Egerton, 7th Earl of Wilton, to the earldom in 1999.",
+          "semantic_score": 0.3844527006149292,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Nicholas Barnewall, 1st Viscount Barnewall"
+    }
+  ],
+  "links": [
+    {
+      "source": "1942",
+      "target": "1940",
+      "reason": "1942 identifies James II as the king deposed in 1688; 1940 states the third Viscount Barnewall (grandson of the first Viscount) was a supporter of James II, bridging the deposed king to the Barnewall grandson."
+    },
+    {
+      "source": "1940",
+      "target": "1941",
+      "reason": "1940 says the first Viscount's grandson (the third Viscount) supported James II; 1941 identifies that grandfather as Nicholas Barnewall, 1st Viscount Barnewall."
+    },
+    {
+      "source": "1940",
+      "target": "1938",
+      "reason": "1940 refers to the third Viscount as the grandson who supported James II; 1938 names him as Nicholas Barnewall, 3rd Viscount Barnewall."
+    }
+  ],
+  "questions_seen": 196,
+  "_id": "5ab3d2b7554299233954ffb8",
+  "correct_answer": "Nicholas Barnewall",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

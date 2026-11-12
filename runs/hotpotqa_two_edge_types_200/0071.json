@@ -1,0 +1,182 @@
+{
+  "question": "The producer of \"Live By NIght\" began his film career playing what role in \"Critters 3\"?",
+  "answer": "Leonardo DiCaprio",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is the producer of \"Live By Night\"?",
+      "retrieved": [
+        {
+          "id": "8221",
+          "text": "SNL Studios\nSNL Studios is a production company, founded in July 1997 as a joint venture between \"Saturday Night Live\" executive producer Lorne Michaels and NBC Studios (now Universal Television, the production arm of NBCUniversal). While this venture also initially included Paramount Pictures, it was dissolved following NBC's merger with Universal Studios. On the television side, SNL Studios produces \"Saturday Night Live\" in association with Broadway Video. Film productions, typically offshoots of Saturday Night Live' sketches, include, among others, \"A Night at the Roxbury\" and \"Superstar\".",
+          "semantic_score": 0.5346867442131042,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2173",
+          "text": "Seth Meyers\nSeth Adam Meyers (born December 28, 1973) is an American comedian, writer, political commentator, actor, and television host. He hosts \"Late Night with Seth Meyers\", a late-night talk show that airs on NBC. Prior to that, he was a head writer for NBC's \"Saturday Night Live\" (2001–2014) and hosted the show's news parody segment, \"Weekend Update\".",
+          "semantic_score": 0.49072057008743286,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4452",
+          "text": "The Nights\n\"The Nights\" is a song by Swedish DJ and music producer Avicii. It features uncredited vocals by Nicholas Furlong, who co-wrote the song with Jordan Suecof, Gabriel Benjamin, and John Feldmann. On 1 December 2014, it was released as a digital download by PRMD Music and Universal Island on Avicii's \"The Days / Nights\", then on 11 January 2015 in the United Kingdom. The song peaked at number 6 on the UK Singles Chart and number 1 on the UK Dance Chart. On 23 January 2015, Avicii released \"The Nights (Avicii by Avicii)\", his own remix of the song. The song appears on the UK version of Avicii's second studio album \"Stories\" (2015).",
+          "semantic_score": 0.4703389108181,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8229",
+          "text": "Kristen Wiig\nKristen Carroll Wiig ( ; born August 22, 1973) is an American actress, comedian, writer, and producer. She is known for her work on the NBC sketch comedy series \"Saturday Night Live\" (2005–12), and such films as \"Bridesmaids\", \"The Martian\", and \"Ghostbusters\".",
+          "semantic_score": 0.46587809920310974,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2169",
+          "text": "Gail Matthius\nGail Matthius (born December 14, 1953) is an American actress, voice actress and comedian. She was a cast member of NBC's \"Saturday Night Live\" during its critical and ratings low point at the time (the 1980–1981 season headed by Jean Doumanian), and co-anchored the Weekend Update segment with Charles Rocket in 1981.",
+          "semantic_score": 0.460079550743103,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8226",
+          "text": "List of Saturday Night Live guests\n\"Saturday Night Live\" (abbreviated as SNL) is a late-night sketch comedy and variety show created by Lorne Michaels. It premiered on NBC, a terrestrial television network, on October 11, 1975 under the title \"NBC's Saturday Night\". The show often satirizes contemporary American popular culture and politics. \"Saturday Night Live\" features a two-tiered cast: the repertory members, also known as the \"Not Ready for Prime-Time Players\", and newer cast members, known as \"Featured Players.\"",
+          "semantic_score": 0.4245797395706177,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7372",
+          "text": "The Late Late Show with Craig Ferguson\nThe Late Late Show with Craig Ferguson is an American late-night talk show hosted by Scottish American comedian Craig Ferguson. It was the third iteration of the \"Late Late Show\" franchise, airing from 2005 to 2014. It followed the \"Late Show with David Letterman\" in the CBS late-night lineup, airing weekdays in the U.S. at 12:37 a.m. Taped in front of a live studio audience from Monday to Friday at CBS Television City in Los Angeles, California, directly above the Bob Barker Studio (Studio 33), it was produced by David Letterman's production company Worldwide Pants Incorporated and CBS Television Studios.",
+          "semantic_score": 0.3566577434539795,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3835",
+          "text": "Paul Feig\nPaul Samuel Feig ( ; born September 17, 1962) is an American actor, film director, producer, and screenwriter. He is best known for directing the 2011 film \"Bridesmaids\", featuring Kristen Wiig and Melissa McCarthy and the 2016 film \"Ghostbusters\" also starring Wiig and McCarthy. Feig also directed the comedy films \"The Heat\" (2013) starring McCarthy and Sandra Bullock, and \"Spy\" (2015) which stars McCarthy, Jason Statham, and Jude Law.",
+          "semantic_score": 0.3040745258331299,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2041",
+          "text": "David Letterman\nDavid Michael Letterman (born April 12, 1947) is an American television host, comedian, writer, and producer. He hosted a late night television talk show for 33 years, beginning with the February 1, 1982 debut of \"Late Night with David Letterman\" on NBC, and ending with the May 20, 2015 broadcast of \"Late Show with David Letterman\" on CBS. In total, Letterman hosted 6,028 episodes of \"Late Night\" and \"Late Show\", surpassing friend and mentor Johnny Carson as the longest-serving late night talk show host in American television history. In 1996 Letterman was ranked 45th on \"TV Guide\"' s 50 Greatest TV Stars of All Time.",
+          "semantic_score": 0.3001399636268616,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2043",
+          "text": "Late-night talk show\nA late-night talk show is a genre of talk show popular in the United States, where the format originated. It is generally structured around humorous monologues about the day's news, guest interviews, comedy sketches and music performances. The late-night talk show format was popularized, though not invented, by Johnny Carson with \"The Tonight Show Starring Johnny Carson\" on NBC. Typically the show's host conducts interviews from behind a desk, while the guest is seated on a couch. Many late night talk shows feature a house band which generally performs cover songs for the studio audience during commercial breaks and occasionally will back up a guest artist.",
+          "semantic_score": 0.3832865059375763,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Jennifer Todd"
+    },
+    {
+      "step": 2,
+      "sub_question": "What role did that producer play in \"Critters 3\" during the beginning of his film career?",
+      "retrieved": [
+        {
+          "id": "709",
+          "text": "Critters 3\nCritters 3 is a 1991 American science fiction horror comedy film and is the third installment of the \"Critters\" series, directed by Kristine Peterson, and is also Leonardo DiCaprio's film debut. Cary Elwes mentioned on the commentary for the uncut edition DVD of \"Saw\" that he passed on the role of Josh. It was shot simultaneously",
+          "semantic_score": 0.5769609808921814,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "712",
+          "text": "Aimee Brooks\nAimee Brooks (born November 19, 1974) is an American actress. She is mostly known for her roles in horror movies, including the lead protagonist in \"Critters 3\". Her most recent film is \"Closed for the Season\" in 2010. Aimee Brooks also appeared in the television series \"Valerie\", \"Blossom\", \"Eerie, Indiana\", \"Brooklyn Bridge\", \"Criminal Minds\", \"Shark\" and was a series regular in the sitcom \"Muddling Through\".",
+          "semantic_score": 0.5419874787330627,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1952",
+          "text": "Todd Field\nWilliam Todd Field (born February 24, 1964) is an American actor and three-time Academy Award nominated filmmaker.",
+          "semantic_score": 0.4943804144859314,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4112",
+          "text": "David Forman\nDavid Forman is an English internet entrepreneur who has played several suit roles in Jim Henson's Creature Shop, notably as the character of Leonardo in the \"Teenage Mutant Ninja Turtles\" film (1990). He also served as a stunt performer for \"The Bear\" (1988), \"The NeverEnding Story III\" (1994), \"The Flintstones\" (1994) and \"Muppet Treasure Island\" (1996).",
+          "semantic_score": 0.48251235485076904,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4391",
+          "text": "Jennifer Kent\nJennifer Kent is an Australian actress, writer and director, best known for her horror film \"The Babadook\" (2014), which was her directorial debut. She is currently filming her second film, \"The Nightingale\".",
+          "semantic_score": 0.4086300730705261,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4389",
+          "text": "The Babadook\nThe Babadook is a 2014 Australian psychological horror film written and directed by Jennifer Kent in her directorial debut, and produced by Kristina Ceyton and Kristian Moliere. The film stars Essie Davis, Noah Wiseman, Daniel Henshall, Hayley McElhinney, Barbara West, and Ben Winspear. It is based on the 2005 short film \"Monster\", also written and directed by Kent.",
+          "semantic_score": 0.2599582076072693,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4107",
+          "text": "Bill Barretta\nWilliam Paul \"Bill\" Barretta (born June 19, 1964) is an American puppeteer and producer who has been performing with The Muppets since 1991, when he puppeteered the body of Sinclair family patriarch, Earl Sinclair on \"Dinosaurs\". He later developed several new characters on \"Muppets Tonight\", including Pepe the King Prawn, Johnny Fiama, Big Mean Carl and Bobo the Bear. Along with having his own Muppet characters, Barretta has taken over several of Jim Henson's roles, such as Dr. Teeth, Rowlf the Dog, Mahna Mahna and Swedish Chef, and briefly took over Jerry Nelson's role of Lew Zealand. His film debut as a principal puppeteer was in 1996's \"Muppet Treasure Island\" as Clueless Morgan. In addition, Barretta has produced two of the Muppets' television films, \"It's a Very Merry Muppet Christmas Movie\" (2002) and \"The Muppets' Wizard of Oz\" (2005). Barretta also provides additional voices on \"Kim Possible\". His most recent film performance was in Disney's \"Muppets Most Wanted\", where he also served as a co-producer. Barretta also served as an executive producer on the ABC series, \"The Muppets\".",
+          "semantic_score": 0.22909903526306152,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4110",
+          "text": "Muppet Treasure Island\nMuppet Treasure Island is a 1996 American musical adventure comedy film based on Robert Louis Stevenson's \"Treasure Island\". It is the fifth feature film to star The Muppets, and was directed by Brian Henson.",
+          "semantic_score": 0.2708719074726105,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Producer"
+    }
+  ],
+  "links": [],
+  "questions_seen": 72,
+  "_id": "5ab545d3554299494045ef5c",
+  "correct_answer": "Josh",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

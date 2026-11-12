@@ -1,0 +1,275 @@
+{
+  "question": "What type of diary did one of the founders of the John Bishop Memorial Hospital in Srinagar write?",
+  "answer": "Travel diary",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who were the founders of the John Bishop Memorial Hospital in Srinagar?",
+      "retrieved": [
+        {
+          "id": "1825",
+          "text": "Isabella Bird\nIsabella Lucy Bird, married name Bishop {'1': \", '2': \", '3': \", '4': \"} (15 October 1831 – 7 October 1904), was a nineteenth-century English explorer, writer, photographer, and naturalist. With Fanny Jane Butler she founded the John Bishop Memorial hospital in Srinagar. She was the first woman to be elected Fellow of the Royal Geographical Society.",
+          "semantic_score": 0.5770183205604553,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1826",
+          "text": "Fanny Jane Butler\nDr. Fanny Jane Butler (5 October 1850 – 26 October 1889) was a medical missionary from England who was among the first female doctors to travel to India and the first fully trained doctor from England to do so. Prior to her work in Kashmir and other parts of India, Butler was a part of the first class of the London School of Medicine for Women, becoming a member of the forefront of female doctors. Butler spent seven years in India until her death in 1889 and opened medical dispensaries in Srinagar and Bhagalpur, where no medical facilities had previously existed. Butler also initiated the building of the first hospital in Srinagar in 1888 called the John Bishop Memorial Hospital and provided necessary medical care for Indian women, for whom little care had been available.",
+          "semantic_score": 0.5477105975151062,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1827",
+          "text": "Kamla Nehru Memorial Hospital\nKamala Nehru Memorial Hospital (KNMH) is a not-for-profit hospital in Allahabad, Uttar Pradesh, India. The hospital had its beginnings in 1931 as a dispensary founded by Smt. Kamala Nehru in her ancestral house Swaraj Bhawan. Gandhiji laid the foundation stone of Kamala Nehru Memorial Hospital in 1939. KNMH is the only hospital in the country for which he had collected donations. Mahatma Gandhi inaugurated this hospital in the memory of Late Smt Kamala Nehru on the 28th February 1941, the date she had died in 1936. Since 1994, the Oncology Department of the hospital is a Regional Cancer Centre, recognized by Government of India.",
+          "semantic_score": 0.4695611894130707,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1824",
+          "text": "NewYork–Presbyterian/Queens\nNew York–Presbyterian Hospital Queens, stylized as NewYork–Presbyterian/Queens (NYP/Q or NYP/Queens), is a not-for-profit acute care and teaching hospital in the Flushing neighborhood of Queens in New York City. Formerly operating as Booth Memorial Hospital and New York Hospital Queens (NYHQ), it is located on the northeast corner of Main Street and Booth Memorial Avenue. The NewYork–Presbyterian Healthcare System had assumed control of the Booth Memorial Hospital until 2015, when the NewYork–Presbyterian Hospital, headquartered in Manhattan, assumed control and made the Booth Memorial Hospital a Queens campus.",
+          "semantic_score": 0.45799246430397034,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1822",
+          "text": "Memorial Hospital (Chattanooga)\nMemorial Hospital is a hospital located in Chattanooga, Tennessee. It was officially opened on January 2, 1952. Memorial Hospital is a member of The American Hospital Association, The Tennessee Hospital Association, The Catholic Hospital Association, The Chattanooga Area Hospital Council, and The Chattanooga Area Safety Council. Memorial Hospital has grown tremendously since 1952. In 1952, Memorial Hospital had 200 beds. Today, the hospital has 365 hospital beds. It has nearly doubled in size over the 62 years since it opened. Memorial is a general hospital that has a wide variety of specialties. They have surgical, cardiac, interventional, cancer, orthopedic, and general care services. Memorial is known as a leader in Cardiology. Memorial is not a teaching hospital but they are a leader in new technology.",
+          "semantic_score": 0.4568067491054535,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4348",
+          "text": "Nehru Memorial Museum &amp; Library\nThe Nehru Memorial Museum & Library (NMML) is a museum and library in New Delhi, India, which aims to preserve and reconstruct the history of the Indian independence movement. Housed within the Teen Murti House complex, it is an autonomous institution under the Indian Ministry of Culture, and was founded in 1964 after the death of India's first prime minister, Jawaharlal Nehru. It aims to foster academic research on modern and contemporary history. Today, the Nehru Memorial Library is the world’s leading resource centre on India’s first prime minister and its archives contain the bulk of Mahatma Gandhi's writings apart from private papers of C. Rajagopalachari, B. C. Roy, Jayaprakash Narayan, Charan Singh, Sarojini Naidu and Rajkumari Amrit Kaur. In March 2010 it launched a digitization project of its archives, under which by June 2011, 867,000 pages of manuscripts and 29,807 photographs were scanned and 500,000 pages uploaded on the digital library website. Amongst noted publications of the NMML are \"Selected Works of Jawaharlal Nehru\", \"Man of Destiny\" by Ruskin Bond, \"Nehru Anthology \" (1980) and \"Nehru Anthology\".",
+          "semantic_score": 0.28632134199142456,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1821",
+          "text": "Sutter General Hospital\nSutter General Hospital, part of the Sutter Health network, is located in midtown, Sacramento next to the historic Sutter's Fort State Park. It is also directly adjacent to the Capital City Freeway (Business Route 80). The hospital is housed in a five-story building. It is one of two acute-care hospitals that are part of Sutter Medical Center, Sacramento, which also consists of Sutter Memorial Hospital, which is located just 2 miles away in East Sacramento and has been called \"the baby hospital\" because more than 300,000 babies have been born there. Sutter General Hospital has 306 beds. The hospital focuses on general acute medical/surgical care as well as a medical base to advanced services for cancer, orthopedics, spine, and neurology and neurosurgery. Sutter Memorial Hospital houses cardiac care. Sutter Medical Center, Sacramento is currently undergoing a major expansion which is detailed here: Sutter Hospital Expansion.",
+          "semantic_score": 0.29726558923721313,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1819",
+          "text": "Newberry County Memorial Hospital\nNewberry County Memorial Hospital is a historic hospital building located at Newberry, Newberry County, South Carolina. Newberry County Hospital was built in 1924–1925, and is a two-story, Colonial Revival style brick building. Upon opening, the hospital's capacity was 25 beds. It was dedicated on December 22, 1925. Additions were made to the original building about 1949. Also on there are the former Nurse’s Home (c. 1937, c. 1949), the Laundry/Boiler Plant (c. 1925, c. 1949) and storage buildings dating to the 1950s. On May 30, 1950, the hospital's name was changed to Newberry County Memorial Hospital to honor the men and women who served in World War II. In January 1952, the People's Hospital merged with NCMH. In 1963, the north wing was added, increasing the capacity to 72 beds. The hospital moved to a new facility at 2669 Kinard Street in May 1976 with a capacity of 102 beds.",
+          "semantic_score": 0.3309253454208374,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Isabella Bird and Fanny Jane Butler"
+    },
+    {
+      "step": 2,
+      "sub_question": "Which of those founders wrote a diary?",
+      "retrieved": [
+        {
+          "id": "1825",
+          "text": "Isabella Bird\nIsabella Lucy Bird, married name Bishop {'1': \", '2': \", '3': \", '4': \"} (15 October 1831 – 7 October 1904), was a nineteenth-century English explorer, writer, photographer, and naturalist. With Fanny Jane Butler she founded the John Bishop Memorial hospital in Srinagar. She was the first woman to be elected Fellow of the Royal Geographical Society.",
+          "semantic_score": 0.5326739549636841,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3258",
+          "text": "Maya Angelou\nMaya Angelou ( ; born Marguerite Annie Johnson; April 4, 1928 – May 28, 2014) was an American poet, memoirist, and civil rights activist. She published seven autobiographies, three books of essays, several books of poetry, and was credited with a list of plays, movies, and television shows spanning over 50 years. She received dozens of awards and more than 50 honorary degrees. Angelou is best known for her series of seven autobiographies, which focus on her childhood and early adult experiences. The first, \"I Know Why the Caged Bird Sings\" (1969), tells of her life up to the age of 17 and brought her international recognition and acclaim.",
+          "semantic_score": 0.42075616121292114,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3257",
+          "text": "Alice Dunbar Nelson\nAlice Ruth Moore Dunbar Nelson (July 19, 1875 – September 18, 1935) was an American poet, journalist and political activist. Among the first generation born free in the South after the Civil War, she was one of the prominent African Americans involved in the artistic flourishing of the Harlem Renaissance. Her first husband was the poet Paul Laurence Dunbar; she then married physician Henry A. Callis; and last married Robert J. Nelson, a poet and civil rights activist.",
+          "semantic_score": 0.40427568554878235,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5919",
+          "text": "Claudia Durst Johnson\nClaudia Durst Johnson is a literary scholar best known for her work on the novel \"To Kill a Mockingbird\", introducing the idea of the novel's gothicism and gothic satire. In the process of her research she befriended the author, Harper Lee. When the city of Chicago organized a One City One Book program in 2001 based on \"To Kill a Mockingbird\", Lee was unavailable to speak, so Johnson was invited to Chicago to present the book to the city.",
+          "semantic_score": 0.3976699411869049,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1195",
+          "text": "Michele Serros\nMichele Marie Serros (February 10, 1966 – January 4, 2015) was an American author, poet and comedic social commentator. Hailed as “a Woman to Watch in the New Century” by \"Newsweek\", She wrote several books and regularly contributed original commentaries to National Public Radio.",
+          "semantic_score": 0.3938904106616974,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1826",
+          "text": "Fanny Jane Butler\nDr. Fanny Jane Butler (5 October 1850 – 26 October 1889) was a medical missionary from England who was among the first female doctors to travel to India and the first fully trained doctor from England to do so. Prior to her work in Kashmir and other parts of India, Butler was a part of the first class of the London School of Medicine for Women, becoming a member of the forefront of female doctors. Butler spent seven years in India until her death in 1889 and opened medical dispensaries in Srinagar and Bhagalpur, where no medical facilities had previously existed. Butler also initiated the building of the first hospital in Srinagar in 1888 called the John Bishop Memorial Hospital and provided necessary medical care for Indian women, for whom little care had been available.",
+          "semantic_score": 0.27701902389526367,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7928",
+          "text": "Nina Simone\nNina Simone ( ; born Eunice Kathleen Waymon; February 21, 1933 – April 21, 2003) was an American singer, songwriter, pianist, arranger, and activist in the Civil Rights Movement. Simone employed a broad range of musical styles including classical, jazz, blues, folk, R&B, gospel, and pop.",
+          "semantic_score": 0.3326251208782196,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3251",
+          "text": "Septima Poinsette Clark\nSeptima Poinsette Clark (May 3, 1898 – December 15, 1987) was an American educator and civil rights activist. Clark developed the literacy and citizenship workshops that played an important role in the drive for voting rights and civil rights for African Americans in the Civil Rights Movement. Septima Clark's work was commonly under appreciated by Southern male activists. She became known as the \"Queen mother\" or \"Grandmother\" of the Civil Rights Movement in the United States. Martin Luther King, Jr. commonly referred to Clark as \"The Mother of the Movement\". Clark's argument for her position in the Civil Rights Movement was one that claimed \"knowledge could empower marginalized groups in ways that formal legal equality couldn't.\"",
+          "semantic_score": 0.287624716758728,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3250",
+          "text": "Myrlie Evers-Williams\nMyrlie Louise Evers–Williams (née Beasley; born March 17, 1933) is an American civil rights activist of the Civil Rights Movement and journalist who worked for over three decades to seek justice for the murder of her civil rights activist husband Medgar Evers in 1963. She was also chairwoman of the NAACP, and published several books on topics related to civil rights and her husband’s legacy. On January 21, 2013, she delivered the invocation at the second inauguration of Barack Obama.",
+          "semantic_score": 0.28659114241600037,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8810",
+          "text": "Woman's Era\nWoman's Era is a fortnightly women interest magazine published in English in India. It was started in 1973 by Vishwanath under his publishing house, the Delhi Press. The magazine is owned by the Delhi Press. Divesh Nath has been the managing editor of the magazine since 2002.",
+          "semantic_score": 0.22847802937030792,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Isabella Bird"
+    },
+    {
+      "step": 3,
+      "sub_question": "What type of diary did that founder write?",
+      "retrieved": [
+        {
+          "id": "1825",
+          "text": "Isabella Bird\nIsabella Lucy Bird, married name Bishop {'1': \", '2': \", '3': \", '4': \"} (15 October 1831 – 7 October 1904), was a nineteenth-century English explorer, writer, photographer, and naturalist. With Fanny Jane Butler she founded the John Bishop Memorial hospital in Srinagar. She was the first woman to be elected Fellow of the Royal Geographical Society.",
+          "semantic_score": 0.517959475517273,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3258",
+          "text": "Maya Angelou\nMaya Angelou ( ; born Marguerite Annie Johnson; April 4, 1928 – May 28, 2014) was an American poet, memoirist, and civil rights activist. She published seven autobiographies, three books of essays, several books of poetry, and was credited with a list of plays, movies, and television shows spanning over 50 years. She received dozens of awards and more than 50 honorary degrees. Angelou is best known for her series of seven autobiographies, which focus on her childhood and early adult experiences. The first, \"I Know Why the Caged Bird Sings\" (1969), tells of her life up to the age of 17 and brought her international recognition and acclaim.",
+          "semantic_score": 0.453898161649704,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4829",
+          "text": "The Birds on the Trees\nThe Birds on the Trees is a novel by Nina Bawden first published in 1970 about a middle-class English family whose 19-year-old son does not live up to his parents' expectations.",
+          "semantic_score": 0.4526120126247406,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1823",
+          "text": "Unbeaten Tracks in Japan\nUnbeaten Tracks in Japan (日本奥地紀行 , Nihon Okuchi Kikō ) is a travel diary written by Isabella Bird of her trip to Japan in 1878, at the age of 47. It was first published in English in 1881 by G. P. Putnam's Sons. It was later translated into Japanese by Tsurukichi Itō.",
+          "semantic_score": 0.4503006935119629,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1195",
+          "text": "Michele Serros\nMichele Marie Serros (February 10, 1966 – January 4, 2015) was an American author, poet and comedic social commentator. Hailed as “a Woman to Watch in the New Century” by \"Newsweek\", She wrote several books and regularly contributed original commentaries to National Public Radio.",
+          "semantic_score": 0.4001055061817169,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1826",
+          "text": "Fanny Jane Butler\nDr. Fanny Jane Butler (5 October 1850 – 26 October 1889) was a medical missionary from England who was among the first female doctors to travel to India and the first fully trained doctor from England to do so. Prior to her work in Kashmir and other parts of India, Butler was a part of the first class of the London School of Medicine for Women, becoming a member of the forefront of female doctors. Butler spent seven years in India until her death in 1889 and opened medical dispensaries in Srinagar and Bhagalpur, where no medical facilities had previously existed. Butler also initiated the building of the first hospital in Srinagar in 1888 called the John Bishop Memorial Hospital and provided necessary medical care for Indian women, for whom little care had been available.",
+          "semantic_score": 0.13543374836444855,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1109",
+          "text": "Birds of America (stories)\nBirds of America (1998) is a collection of short stories by American writer Lorrie Moore. The stories in this collection originally appeared in \"The New Yorker\", \"Elle\", \"The New York Times\", and \"The Paris Review\". The story \"People Like That Are the Only People Here\" won an O. Henry Award in 1998. The book became a \"New York Times\" bestseller, a rarity for a short story collection. The book was included in the \"New York Times Book Review\" books of the year list in 1998. Winner of the Irish Times international fiction prize. A Village Voice book of the year (1998). Winner of the Salon Book Award.",
+          "semantic_score": 0.3740074038505554,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "866",
+          "text": "Winter Trees\nWinter Trees is a 1971 posthumous collection of poetry by Sylvia Plath, published by her husband Ted Hughes. Along with \"Crossing the Water\" it provides the remainder of the poems that Plath had written during her state of elevated creativity prior to her suicide.",
+          "semantic_score": 0.319546103477478,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8810",
+          "text": "Woman's Era\nWoman's Era is a fortnightly women interest magazine published in English in India. It was started in 1973 by Vishwanath under his publishing house, the Delhi Press. The magazine is owned by the Delhi Press. Divesh Nath has been the managing editor of the magazine since 2002.",
+          "semantic_score": 0.2517297863960266,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7695",
+          "text": "Amy Newman\nAmy Newman is an American poet, critic and professor. She is the author of five collections of poems, most recently \"On This Day in Poetry History\" (Persea Books). Her other books include \"Dear Editor\", winner of the Lexi Rudnitsky Editor's Choice Award, \"fall\", \"Camera Lyrica,\" winner of the Beatrice Hawley Award, and her first book, \"Order, or Disorder,\" which received the Cleveland State University Poetry Center Prize. Newman has received fellowships in poetry from the MacDowell Colony and the Ohio and Illinois Arts Councils. Her poems have appeared in literary journals and magazines, including \"The Kenyon Review\", \"The Missouri Review\", \"Hotel Amerika\", \"The Ohio Review\", \"Colorado Review\", \"Denver Quarterly\", \"The Gettysburg Review\", \"Hayden's Ferry Review\", \"Willow Springs\", \"Indiana Review\", \"The Carolina Quarterly\", and \"The Connecticut Poetry Review\", and in anthologies, including \"The Iowa Anthology of New American Poetries\", \"The Rose Metal Press Field Guide to Prose Poetry: Contemporary Poets In Discussion and Practice\", \"An Introduction To The Prose Poem\", \"Lit from Inside: 40 Years of Poetry from Alice James Books\", and \"The Hide-and-Seek Muse: Annotations of Contemporary Poetry\". Her poetry has been translated and published in Italy and Romania.",
+          "semantic_score": 0.3122883439064026,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Travel diary"
+    }
+  ],
+  "links": [
+    {
+      "source": "1825",
+      "target": "1823",
+      "reason": "Paragraph 1825 identifies Isabella Bird as a co-founder of the John Bishop Memorial Hospital in Srinagar; paragraph 1823 states that Isabella Bird wrote a travel diary, Unbeaten Tracks in Japan, directly answering what type of diary she wrote."
+    }
+  ],
+  "questions_seen": 184,
+  "_id": "5ae600325542992663a4f237",
+  "correct_answer": "a travel diary",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "question": "Which American singer and songwriter has a mezzo-soprano vocal range, Tim Armstrong or Tori Amos?",
+  "answer": "Tori Amos",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Is Tim Armstrong an American singer and songwriter with a mezzo-soprano vocal range?",
+      "retrieved": [
+        {
+          "id": "1090",
+          "text": "Tim Armstrong\nTimothy Ross “Tim” Armstrong (born on November 25, 1965) is an American musician, singer, songwriter, producer, and actor. He is best known as the singer/guitarist for the punk rock band Rancid and hip hop/punk rock supergroup the Transplants. Prior to forming Rancid, Armstrong was in the influential ska punk band Operation Ivy. In 1997, along with Brett Gurewitz of the band Bad Religion and owner of Epitaph Records, Armstrong founded Hellcat Records. In 2012, through his website, Armstrong started releasing music that influenced him, along with stripped-down cover songs of his own work under the name Tim Timebomb. He has released at least one song per week since late 2012. Armstrong is also a songwriter for other artists. Armstrong won a Grammy Award for his work with Jimmy Cliff and Pink and he has also worked with Joe Walsh.",
+          "semantic_score": 0.5349193215370178,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4764",
+          "text": "Tim Urban\nTim Suburban Urban (born May 1, 1989) is an American singer-songwriter and actor who was the seventh place finalist on the ninth season of \"American Idol\". Urban's debut album and EP titled \"Heart of Me\" was released on November 8, 2010 through iTunes.",
+          "semantic_score": 0.48972082138061523,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "933",
+          "text": "Aurelio Valle\nAurelio Valle is an American singer, guitarist, composer and visual art residing in New York, New York born in Chicago, Illinois and raised in Kingsville, Texas. He is a founding member of the experimental rock group CALLA from New York City/Brooklyn, New York and is best known for his work with that group. The band was formed in New York City in 1997 along with Wayne Magruder and Sean Donovan, later adding member Peter Gannon.",
+          "semantic_score": 0.4623524844646454,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "451",
+          "text": "Alfio\nAlfio (born Alfio Bonanno, 24 October 1976) is an Australian-Italian tenor, songwriter, musician, and composer. He began singing at a very early age and started singing professionally at the age of 17, concentrating on recorded music and concerts so far. Alfio has performed in Australia, the United States, Europe, and Asia.",
+          "semantic_score": 0.4437975585460663,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3608",
+          "text": "Meredith D'Ambrosio\nMeredith D'Ambrosio (born 1941) is an American jazz singer born in Boston, Massachusetts.",
+          "semantic_score": 0.4378680884838104,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9141",
+          "text": "Epitaph Records\nEpitaph Records is a Hollywood-based independent record label owned by Bad Religion guitarist Brett Gurewitz. The label was originally \"just a logo and a P.O. box\" created in the 1980s for the purpose of selling Bad Religion records, but has evolved into a large independent record label. Gurewitz took the name from a King Crimson song of the same name. Throughout the 1980s and 1990s most of the bands on Epitaph were punk and pop punk groups, while there are many post-hardcore and bands signed to the label as well. A large portion of the record label, known as Hellcat Records, is owned by Tim Armstrong, frontman of the punk rock band Rancid. Several sister-labels also exist, such as ANTI-, Burning Heart Records, Fat Possum Records, Hellcat Records and Heart & Skull Records that have signed other types of bands. The label has recently been added to the Forza Horizon franchise as a radio station.",
+          "semantic_score": 0.2973957359790802,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "753",
+          "text": "Audioslave\nAudioslave was an American rock supergroup formed in Los Angeles in 2001. The four-piece band consisted of Soundgarden lead singer/rhythm guitarist Chris Cornell and Rage Against the Machine members Tom Morello (lead guitar), Tim Commerford (bass/backing vocals), and Brad Wilk (drums). Critics first described Audioslave as a combination of Soundgarden and Rage Against the Machine, but by the band's second album, \"Out of Exile\", it was noted that they had established a separate identity. Audioslave's sound was created by blending 1970s hard rock with 1990s alternative rock. Moreover, Morello incorporated his well-known, unconventional guitar solos into the mix. As with Rage Against the Machine, the band prided themselves on the fact that all sounds on their albums were produced using only guitar, bass, drums, and vocals.",
+          "semantic_score": 0.29055219888687134,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3612",
+          "text": "Carol Sloane\nCarol Sloane (born March 5, 1937) is an American jazz singer born in Providence, Rhode Island, who has been singing professionally since she was 14, although for a time in the 1970s she worked as a legal secretary in Raleigh, North Carolina. In addition, between September 1967 and May 1968, she occasionally wrote album reviews for \"Down Beat\". She currently lives in Stoneham, Massachusetts.",
+          "semantic_score": 0.31983789801597595,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8558",
+          "text": "The Replacements (band)\nThe Replacements were an American rock band formed in Minneapolis, Minnesota, in 1979. Initially a punk rock band, they are considered pioneers of alternative rock. The band was composed of the guitarist and vocalist Paul Westerberg, guitarist Bob Stinson, bass guitarist Tommy Stinson and drummer Chris Mars for most of its career. Following several acclaimed albums, including \"Let It Be\" and \"Tim\", Bob Stinson left the band in 1986, and Slim Dunlap joined as lead guitarist. Steve Foley replaced Mars in 1990. Towards the end of the band's career, Westerberg exerted more control over the creative output. The group disbanded in 1991, with the members eventually pursuing various projects. A reunion was announced on October 3, 2012. The Replacements never had significant commercial success, except for \"I'll Be You\", which hit number 1 on the \"Billboard\" Alt Rock chart, but they influenced numerous alternative rock acts.",
+          "semantic_score": 0.25515615940093994,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8776",
+          "text": "Automato\nAutomato is a Brooklyn, New York-based hip hop sextet formed in 1995. Its members are Nick Millhiser (drums), Jesse Levine (vocals), Morgan Wiley (guitar), Andrew Raposo (bass), Alex Frankel (keyboards), and Ben Fries (vocals). All six of its members are from New York City except for Wiley, who was born in Lagos, Nigeria and moved to Las Vegas, Nevada in his youth. Their admiration of multiple artists from disparate genres led them to DFA Records' Tim Goldsworthy and James Murphy. The group released their self-titled debut album on the Coup de grâce label in 2004, and it was produced by Goldsworthy and Murphy (d/b/a/ DFA).",
+          "semantic_score": 0.3285979926586151,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "No"
+    },
+    {
+      "step": 2,
+      "sub_question": "Is Tori Amos an American singer and songwriter with a mezzo-soprano vocal range?",
+      "retrieved": [
+        {
+          "id": "1097",
+          "text": "Tori Amos\nTori Amos (born Myra Ellen Amos, August 22, 1963 ) is an American singer-songwriter, pianist and composer. She is a classically trained musician with a mezzo-soprano vocal range.",
+          "semantic_score": 0.7613693475723267,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1094",
+          "text": "Tori Amos discography\nTori Amos is an American pianist and singer-songwriter whose musical career began in 1980, at the age of seventeen, when she and her brother co-wrote the song \"Baltimore\". The song was selected as the winning song in a contest for the Baltimore Orioles and was recorded and pressed locally as a 7\" single. From 1984–89, Amos fronted the synthpop band Y Kant Tori Read, which released one self-titled album with Atlantic Records in 1988 before breaking up. Shortly thereafter, Amos began writing and recording material that would serve as the debut of her solo career. Still signed with Atlantic, and its UK counterpart East West, Amos' initial solo material was rejected by the label in 1990. Under the guidance of co-producers Eric Rosse, Davitt Sigerson and Ian Stanley, a second version of the album was created and accepted by the label the following year.",
+          "semantic_score": 0.5918115377426147,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1089",
+          "text": "Tori Amos: Live from New York\nTori Amos: Live from New York is a benefit concert performed by American singer and songwriter Tori Amos on January 23, 1997. The concert was performed at the Madison Square Garden Theater in New York to launch \"Unlock the Silence\", a year-long promotional and fund-raising campaign sponsored by cK Calvin Klein to raise awareness of the work undertaken by RAINN, the Rape, Abuse and Incest National Network, a non-profit organization offering support and counseling to survivors of sexual assault. The performance included compositions from her first three albums, including \"Silent All These Years\" from her debut album \"Little Earthquakes\" (1992), which served as the touchstone track for the \"Unlock the Silence\" campaign.",
+          "semantic_score": 0.5541121959686279,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1098",
+          "text": "From the Choirgirl Hotel\nFrom the Choirgirl Hotel is the fourth studio album by American singer and songwriter Tori Amos, released on May 5, 1998. A departure from her previous albums, it was more a heavily produced project featuring a full rock band sound (instead of Amos's usual minimalist piano sound). The album debuted at number 5 on the \"Billboard\" 200 and number 6 in the UK. While falling short of the number 2 debut for her previous album, \"Boys for Pele\" (1996), \"From the Choirgirl Hotel\" is Amos's strongest debut to date in US sales, selling 153,000 copies in the first week. In 1999, Amos received two Grammy nominations: Alternative Music Performance, and Female Rock Vocal Performance for \"Raspberry Swirl\".",
+          "semantic_score": 0.5473042130470276,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1095",
+          "text": "Datura (song)\n\"Dātura\" or \"Datura\" is a song written and recorded by American singer Tori Amos. It is the ninth song of Amos's fifth record \"To Venus and Back\", which was released in September 1999. It is included in the first disc of the double album subtitled \"Orbiting\" that contains eleven original studio recordings. The song lists the names of the plants found in Amos's garden and was created during the recording sessions of \"To Venus and Back\". The song's title refers to datura, a plant known for its toxic and hallucinogenic properties. Amos has never performed the song live due to its complex structure and time signatures which makes it hard to reproduce with a live band. However, in 2011 Amos incorporated the \"room in my heart\" bridge when performing \"Take to the Sky\" during her concert in Brussels on October 29, 2011 Video on YouTube . She also performed the song in a similar fashion throughout the Unrepentant Geraldines Tour.",
+          "semantic_score": 0.47996118664741516,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "links": [
+    {
+      "source": "1090",
+      "target": "1097",
+      "reason": "Paragraph 1090 establishes Tim Armstrong as an American singer/songwriter but gives no mezzo-soprano range, while 1097 establishes Tori Amos as an American singer-songwriter with a mezzo-soprano vocal range; together they resolve the comparison in favor of Tori Amos."
+    }
+  ],
+  "questions_seen": 111,
+  "_id": "5a817f6655429938b6142349",
+  "correct_answer": "Tori Amos",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

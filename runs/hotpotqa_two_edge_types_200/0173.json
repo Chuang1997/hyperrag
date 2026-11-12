@@ -1,0 +1,254 @@
+{
+  "question": "What occupation do Anita Loos and Grace Metalious share? ",
+  "answer": "Author",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is Anita Loos's occupation?",
+      "retrieved": [
+        {
+          "id": "1718",
+          "text": "Mary Loos\nMary Loos (May 6, 1910 – October 11, 2004) was an American actress, screenwriter and novelist. She was occasionally credited under her full name, Mary Anita Loos.",
+          "semantic_score": 0.6688050031661987,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1727",
+          "text": "R. Beers Loos\nRichard Beers Loos (October 4, 1860 – March 6, 1944), was an American journalist and newspaper publisher. Loos was the father of Anita Loos, a famous American playwright and author who wrote, among other titles, \"Gentlemen Prefer Blondes\". Loos most often used the shortened form of his name for official work: R. Beers Loos. Anita Loos was born to Richard Beers Loos and Minnie Ellen Smith while the family lived near Sisson, California (today Mount Shasta). At that time, Loos owned a local newspaper called the \"Sisson Mascot\".",
+          "semantic_score": 0.529419481754303,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1719",
+          "text": "John Emerson (filmmaker)\nJohn Emerson (born Clifton Paden on May 29, 1874 – March 7, 1956) was an American stage actor, playwright, producer, and director of silent films (many featuring Douglas Fairbanks). Emerson was married to Anita Loos from June 15, 1919 until his death; prior to that they had functioned as a writing team for motion pictures and would continue to be credited jointly, even as Loos pursued independent projects.",
+          "semantic_score": 0.4124008119106293,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3901",
+          "text": "Anita Berber\nAnita Berber (10 June 1899 – 10 November 1928) was a German dancer, actress, and writer who was the subject of an Otto Dix painting. She lived during the Weimar period.",
+          "semantic_score": 0.4075552225112915,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1720",
+          "text": "Anita Loos\nAnita Loos (April 26, 1889 – August 18, 1981) was an American screenwriter, playwright and author, best known for her blockbuster comic novel, \"Gentlemen Prefer Blondes\". She wrote film scripts from 1912, and became arguably the first-ever staff scriptwriter, when D.W. Griffith put her on the payroll at Triangle Film Corporation. She went on to write many of the Douglas Fairbanks films, as well as the stage adaptation of Colette’s \"Gigi\".",
+          "semantic_score": 0.4040902853012085,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1726",
+          "text": "Gentlemen Prefer Blondes (musical)\nGentlemen Prefer Blondes is a musical with a book by Joseph Fields and Anita Loos, lyrics by Leo Robin, and music by Jule Styne, based on the best-selling novel of the same name by Loos. The story involves an American woman's voyage to Paris to perform in a nightclub.",
+          "semantic_score": 0.35857680439949036,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1721",
+          "text": "Gentlemen Prefer Blondes (novel)\nGentlemen Prefer Blondes: The Intimate Diary of a Professional Lady is a comic novel written by Anita Loos, first published in 1925. It is one of several famous novels published that year to chronicle the so-called Jazz Age, including Fitzgerald's \"The Great Gatsby\" and Van Vechten's \"Firecrackers\". Loos was inspired to write the book after watching a sexy blonde turn intellectual H. L. Mencken into a lovestruck schoolboy. Mencken, a close friend, actually enjoyed the work and saw to it that it was published. Originally published as a magazine series in \"Harper's Bazaar\", it was published as a book by Boni & Liveright in 1925 and became a runaway best seller, becoming the second best selling title of 1926 and earning the praise of no less than Edith Wharton who dubbed it \"The Great American Novel.\"",
+          "semantic_score": 0.35881638526916504,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Screenwriter, playwright and author"
+    },
+    {
+      "step": 2,
+      "sub_question": "What is Grace Metalious's occupation?",
+      "retrieved": [
+        {
+          "id": "1725",
+          "text": "Grace Metalious\nGrace Metalious (September 8, 1924 – February 25, 1964) was an American author known for her controversial novel \"Peyton Place\", one of the best-selling works in publishing history.",
+          "semantic_score": 0.6445767879486084,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6347",
+          "text": "Christopher Oscar Peña\nChristopher Oscar Peña is a playwright, screenwright, actor and educator who resides in New York City. He teaches theater at NYU's Tisch School of Arts and is a member of the Playwrights Unit at Goodman Theatre in Chicago. He also has had work commissioned by Yale Repertory Theatre. Peña is the co-writer of the Golden Globe nominated TV series, Jane the Virgin and was on the \"Future Broadway Power List,\" by Backstage (magazine) in 2014.",
+          "semantic_score": 0.41566967964172363,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8276",
+          "text": "What's So Amazing About Grace?\nWhat's So Amazing About Grace? is a 1997 book by Philip Yancey, an American journalist and editor-at-large for \"Christianity Today\". The book examines grace in Christianity, contending that people crave grace and that it is central to the gospel, but that many local churches ignore grace and instead seek to exterminate immorality. \"What's So Amazing About Grace?\" includes Bible stories, anecdotes from Yancey's life, accounts of historical events and other stories. These include a modern retelling of the Parable of the Prodigal Son, an account of Yancey's friendship with Mel White who came out as homosexual, a comparison of the teachings of early Christians Pelagius and Augustine of Hippo, and a summary of Karen Blixen's short story \"Babette's Feast\".",
+          "semantic_score": 0.3977380096912384,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2901",
+          "text": "Christopher Lee (writer)\nChristopher David Lee (born 28 March 1947) is an Australian scriptwriter who has been an Australian Associated Press journalist and foreign correspondent and has worked as a script consultant in New Zealand, Singapore and New York City. He has won an AFI Award and four AWGIE Awards and is the recipient of a Centenary Medal and a Queensland Premier's Literary Award.",
+          "semantic_score": 0.37631717324256897,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7274",
+          "text": "Deborah S. Esquenazi\nDeborah S. Esquenazi is documentary filmmaker, writer, radio producer, instructor, and investigative journalist. She is a native Texan and currently resides in Austin, Texas with her wife and two children. She is the acclaimed director of the award winning documentary \"Southwest of Salem: The Story of the San Antonio Four\", as well as half a dozen short films and essays. Her work focuses on the intersections of mythology & justice, and identity & power. Esquenazi is a Rockwood JustFilms Ford Foundation Fellow, Sundance Creative Producing Lab Fellow (2015), Firelight Media Producers’ Lab Fellow (2015), IFP Spotlight on Docs (2015), Artist on two Artplace America commissions (2015), and Sundance Documentary Film Fellow (2014). She has also received funding from Humanities Texas, Sundance Institute⎹ John D. and Catherine T. MacArthur Fund, Chicken & Egg Pictures, Astraea Global Arts Fund, Paul Robeson Fund for Independent media, and several others.",
+          "semantic_score": 0.36371517181396484,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1723",
+          "text": "Return to Peyton Place (film)\nReturn to Peyton Place is a 1961 drama film produced by Jerry Wald and directed by José Ferrer. The screenplay by Ronald Alexander is based on the 1959 novel \"Return to Peyton Place\" by Grace Metalious. The film is a sequel to \"Peyton Place\".",
+          "semantic_score": 0.1643042415380478,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9549",
+          "text": "Stephen Lee (chemist)\nStephen Lee (born 25 October 1955) is an American chemist. He is the son of Tsung-Dao Lee, the winner of the 1957 Nobel Prize in Physics. He is currently a professor at Cornell University.",
+          "semantic_score": 0.17400434613227844,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4328",
+          "text": "Cid Ricketts Sumner\nCid Ricketts Sumner (September 27, 1890 – October 15, 1970) was a novelist from the United States whose works inspired several Hollywood films. She also taught English at a Jackson, Mississippi, high school and French at Millsaps College.",
+          "semantic_score": 0.2366069108247757,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Author"
+    },
+    {
+      "step": 3,
+      "sub_question": "What occupation do they share?",
+      "retrieved": [
+        {
+          "id": "3640",
+          "text": "Barrie Pettman\nBarrie Owen Pettman, Baron of Bombie (22 February 1944 – 2 June 2017) was a British author, publisher, and philanthropist. He was the co-founder and chairman emeritus of Emerald Group Publishing. A professor emeritus at the University of Hull, he was the author of a dozen books on industrial relations. He was president emeritus of \"Burke's Peerage\" and a patron of opera in England and New Zealand.",
+          "semantic_score": 0.42367076873779297,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2007",
+          "text": "Herbert Lottman\nHerbert Lottman (August 16, 1927, Brooklyn - August 27, 2014, Paris) was an American author who specialized in writing biographies on French subjects. An influential biographer, he published 17 biographies, 15 of which were related to French culture, commerce, or politics; including works on Albert Camus, Colette, Gustave Flaubert, Henri Philippe Pétain, Jules Verne, and the Rothschild banking family of France. He wrote that, just before dying, Albert Camus was pledged to marry. Camus's estate tried to block his book, partly because of this controversial statement.",
+          "semantic_score": 0.4057111144065857,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9114",
+          "text": "Comics artist\nA comics artist (also comic book artist or graphic novel artist, comic book producer, comic book illustrator, comic book writer, and comic book author) is a person working within the comics medium on comic strips, comic books, or graphic novels. The term may refer to any number of artists who contribute to produce a work in the comics form, from those who oversee all aspects of the work to those who contribute only a part.",
+          "semantic_score": 0.38951411843299866,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3246",
+          "text": "Harold Robbins\nHarold Robbins (May 21, 1916 – October 14, 1997) was an American author of popular novels. One of the best-selling writers of all time, he penned over 25 best-sellers, selling over 750 million copies in 32 languages.",
+          "semantic_score": 0.38613811135292053,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4031",
+          "text": "William Leavitt (artist)\nWilliam Leavitt (born 1941) is a conceptual artist known for paintings, photographs, installations, and performance works that examine \"the vernacular culture of L.A. through the filter of the entertainment industry...drawing on 'stock environments' and designs of films as well as the literature of the place.\" A critical figure in the West Coast conceptual art movement of the late 60s, Leavitt himself has managed to maintain a low profile. \"Over the last 40 years, William Leavitt has made a name for himself as an influential artist while staying so far out of fame's spotlight that his hard-to-categorize works have been all but invisible to the public,\" wrote the \"LA Times\". While his work is collected by high profile artists such as John Baldessari and Mike Kelley (who donated Leavitt works to the Museum of Contemporary Art, Los Angeles), Leavitt himself has eschewed celebrity.",
+          "semantic_score": 0.38281452655792236,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3241",
+          "text": "The Dream Merchants\nThe Dream Merchants is an American novel written by Harold Robbins and published in 1949. Set in the early 20th century, the book is a \"rags-to-riches\" story of a penniless young man who goes to Hollywood and builds a great film studio. A former Universal Studios employee, author Harold Robbins based the main character on Universal's founder, Carl Laemmle. With the Hollywood history in the backdrop, it is a love story.",
+          "semantic_score": 0.30433499813079834,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7198",
+          "text": "François Ricard\nFrançois Ricard (born June 4, 1947 in Shawinigan, Quebec) is a Canadian writer and academic from Quebec. He has been a professor of French literature at McGill University since 1980, including a special but not exclusive focus on the work of Milan Kundera and Gabrielle Roy, and has published numerous works of non-fiction.",
+          "semantic_score": 0.3320325016975403,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1124",
+          "text": "Bob Oksner\nBob Oksner (October 14, 1916 in Paterson, New Jersey – February 18, 2007) was an American comics artist known for both adventure comic strips and for superhero and humor comic books, primarily at DC Comics.",
+          "semantic_score": 0.2668779492378235,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7190",
+          "text": "Milan Kundera\nMilan Kundera (] ; born 1 April 1929) is a Czech-born French writer who went into exile in France in 1975, and became a naturalised French citizen in 1981. He \"sees himself as a French writer and insists his work should be studied as French literature and classified as such in book stores\".",
+          "semantic_score": 0.3432898223400116,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4880",
+          "text": "Jean-Luc Bitton\nJean-Luc Bitton (born in 1959 in Lyon, France) is a writer, journalist and author. Together with Raymond Cousse and Jean-Yves Reuzeau, he wrote \"Emmanuel Bove : La Vie Comme une Ombre\", a biography of the writer Emmanuel Bove. He also participated in the creation of the Bove segment on the television series \"A Century of Writers\" (1997) and has created a website devoted entirely to Bove. He will also be the first biographer of French poet Jacques Rigaut, in a forthcoming book scheduled for publication in 2014. He has published articles in the journals Jungle, Perpendicular, The Series, the Nouvelle Revue Française and Rue Saint Ambrose.",
+          "semantic_score": 0.2746288478374481,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Author"
+    }
+  ],
+  "links": [
+    {
+      "source": "1720",
+      "target": "1725",
+      "reason": "Paragraph 1720 identifies Anita Loos as an American author (among other roles), and paragraph 1725 identifies Grace Metalious as an American author, directly bridging the shared occupation of author."
+    }
+  ],
+  "questions_seen": 174,
+  "_id": "5a7fd7a25542992e7d278dc3",
+  "correct_answer": "American author",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

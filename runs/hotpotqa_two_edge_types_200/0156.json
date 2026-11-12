@@ -1,0 +1,188 @@
+{
+  "question": "Who is the writer of this song that was inspired by words on a tombstone and was the first track on the box set Back to Mono?",
+  "answer": "Phil Spector",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What song was inspired by words on a tombstone and was the first track on the box set Back to Mono?",
+      "retrieved": [
+        {
+          "id": "7285",
+          "text": "Honky Tonks and Cheap Motels\nHonky Tonks and Cheap Motels is the first studio album by Whitey Morgan and the 78's.",
+          "semantic_score": 0.4621027708053589,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1550",
+          "text": "Back to Mono (1958–1969)\nBack to Mono (1958–1969) is a box set (4 compact discs or 5 vinyl LPs) compilation of the recorded work of record producer Phil Spector, through the 1960s, released in 1991 by ABKCO as #7118-2. The first track, \"To Know Him Is to Love Him,\" released in 1958, features Spector performing as part of the group the Teddy Bears. Initially a vinyl album-sized package, the box contained a booklet with photographs, complete song lyrics, discographical information, and a reproduction of the essay on Spector by Tom Wolfe, \"The First Tycoon of Teen.\" The package also contained a small, round, red \"Back to Mono\" pin.",
+          "semantic_score": 0.43895044922828674,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1552",
+          "text": "Nashville Rebel (box set)\nNashville Rebel is a box set by Waylon Jennings, released on RCA Records through Legacy Recordings in 2006. According to Allmusic's Stephen Thomas Erlewine, it is \"\"the first comprehensive, multi-label Waylon Jennings retrospective ever assembled\", comprising ninety-two songs recorded between 1958 and 1994, with selections from the majority of the singer's recording career. The first track of the box set is the Buddy Holly-produced \"Jole Blon,\" released in 1958, while the last is \"I Do Believe,\" a song produced by Don Was that was included on The Highwaymen's 1995 release, \"The Road Goes on Forever\". The other material on the box set covers Jennings' career chronologically, with songs ranging from his years on RCA's roster to later compositions from his short-lived stay at Epic Records; it ignores, however, the tracks from Jennings albums released on independent labels. The majority of the singer's charting singles are included in the package, as are collaborations such as \"Mamas Don't Let Your Babies Grow Up to Be Cowboys\" with Willie Nelson and \"Highwayman\" with The Highwaymen. A notable addition is the previously unreleased \"The Greatest Cowboy of Them All,\" a 1978 duet with Johnny Cash which was later recorded by Cash alone for \"A Believer Sings the Truth\" (1979) and \"The Mystery of Life\" (1991); two others, \"It's Sure Been Fun\" and \"People in Dallas Got Hair,\" had never been released in the United States. \"Nashville Rebel\" was released on four CDs, with a 140-page booklet and liner notes by Rich Keinzle and Lenny Kaye.",
+          "semantic_score": 0.4244905114173889,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1554",
+          "text": "Mono Masters\nMono Masters is a compilation album by the Beatles, and is an alternate, all-mono version of the album \"Past Masters\". \"Mono Masters\" was originally a two-CD set included as part of \"The Beatles in Mono\" box set. The premise of this box set was to compile only Beatles material which was released or prepared for release with a dedicated mono mix (the set excludes later material mixed and released only in stereo, and material whose mono version was simply created as an equal mix of the two channels of the stereo version). As a result, the track listing for \"Mono Masters\" differs from \"Past Masters\" on the second half of disc two, omitting some later songs that never had a mono mix (\"Old Brown Shoe\", \"The Ballad of John and Yoko\" and \"Let It Be\"), and adding several songs released on stereo-only albums that had unreleased mono mixes. Tracks 9–12 and 15 were prepared in March 1969 for release as a 7\" mono \"Yellow Submarine\" EP, two months after the release of the similarly titled soundtrack album, but the project was scrapped, although the EP was mastered. Subsequently, the tracks were only released in stereo (and in an electronically produced mono mixdown, or \"fold-down\", of the stereo mix), while the true mono mixes remained unreleased. \"Get Back\" (with B-side \"Don't Let Me Down\") was the final Beatles single mixed for mono format. It was released in the UK in mono, though the US release was in stereo. Thus, the songs that were originally released on stereo singles in the UK are omitted on this release.",
+          "semantic_score": 0.41749268770217896,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6775",
+          "text": "Creedence Clearwater Revival: Box Set\nCreedence Clearwater Revival: Box Set is a box set by Creedence Clearwater Revival, released in 2001. It contains all of their complete studio albums, two complete live albums, and material recorded by the band under their previous names \"The Golliwogs\" and \"The Blue Velvets\". In November 2013 the box set was reissued with different artwork. This box set spans their career, and contains all of their complete materials.",
+          "semantic_score": 0.41360655426979065,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6772",
+          "text": "Creedence Clearwater Revival (album)\nCreedence Clearwater Revival is the debut studio album by the American rock band Creedence Clearwater Revival, released in 1968.",
+          "semantic_score": 0.3697184920310974,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6773",
+          "text": "Creedence Clearwater Revival Covers the Classics\nCreedence Clearwater Revival Covers the Classics is a compilation album by Creedence Clearwater Revival. Released in 2009, the album contains cover versions of songs as recorded by the band.",
+          "semantic_score": 0.3970208764076233,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7286",
+          "text": "Whitey Morgan and the 78's\nWhitey Morgan and the 78's are an American honky tonk country band, based in Flint, Michigan, United States. In 2010, they signed a recording contract with Chicago-based Bloodshot Records.",
+          "semantic_score": 0.2929443120956421,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6776",
+          "text": "Creedence Clearwater Revisited\nCreedence Clearwater Revisited is an American rock band formed in 1995 by two former members of Creedence Clearwater Revival – a much more well-known band with a very similar name. It is known for playing the music that was originally made famous by Creedence Clearwater Revival. The two common band members are Stu Cook (bass) and Doug \"Cosmo\" Clifford (drums).",
+          "semantic_score": 0.3274635970592499,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2665",
+          "text": "Honky Tonk Angels\nHonky Tonk Angels is a collaborative studio album by American country music artists Dolly Parton, Loretta Lynn, and Tammy Wynette. It was released on November 2, 1993, by Columbia Records.",
+          "semantic_score": 0.3125635087490082,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "\"To Know Him Is to Love Him\""
+    },
+    {
+      "step": 2,
+      "sub_question": "Who is the writer of that song?",
+      "retrieved": [
+        {
+          "id": "1556",
+          "text": "To Know Him Is to Love Him\n\"To Know Him Is to Love Him\" is a song written by Phil Spector, inspired by words on his father's tombstone, \"To Know Him Was To Love Him.\" It was first recorded by the only vocal group of which he was a member, the Teddy Bears. Their recording spent three weeks at No. 1 on the \"Billboard\" Hot 100 singles chart in 1958, while reaching No. 2 on UK's \"New Musical Express\" chart. Peter & Gordon and Bobby Vinton later had hits with the song, with its title and lyrics changed to \"To Know You Is to Love You\". In 1987, the song was resurrected by Dolly Parton, Linda Ronstadt and Emmylou Harris, whose \"Trio\" recording topped the U.S. country singles charts. The song is in 12/8 time.",
+          "semantic_score": 0.6679250597953796,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3014",
+          "text": "Love Is Love Is Love\n\"Love Is Love Is Love\" (stylized as \"LovE Is LovE Is LovE\") is a song recorded by American singer LeAnn Rimes, and the fourth release from her sixteenth studio album, \"Remnants\". Rimes co-produced the track with Darrell Brown, Mark Batson, and Niko Bolas, and co-wrote the song with Darrell Brown, Lindy Robbins and Toby Gad. The single will be featured in the 2017 American film \"Lucky Logan\", in which Rimes will have a cameo.",
+          "semantic_score": 0.4460098445415497,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1688",
+          "text": "I Know Him So Well\n\"I Know Him So Well\" is a duet from the concept album and subsequent musical \"Chess\" by Tim Rice, Benny Andersson and Björn Ulvaeus. It was originally sung by Elaine Paige (as Florence) and Barbara Dickson (as Svetlana). In this duet, two women – Svetlana, the Russian chess champion's estranged wife, and Florence, his mistress – express their bittersweet feelings for him and at seeing their relationships fall apart.",
+          "semantic_score": 0.4266246259212494,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1745",
+          "text": "Paul Williams (songwriter)\nPaul Hamilton Williams, Jr. (born September 19, 1940) is an American composer, singer, songwriter and actor. He is perhaps best known for writing popular songs performed by a number of acts in the 1970s, including Three Dog Night's \"An Old Fashioned Love Song\" and \"Out in the Country\", Helen Reddy's \"You and Me Against the World\", David Bowie's \"Fill Your Heart\", and the Carpenters' \"We've Only Just Begun\" and \"Rainy Days and Mondays\", as well as for his contributions to films, such as writing the lyrics to the #1 chart-topping \"Evergreen\", the love theme from \"A Star Is Born\", starring Barbra Streisand, for which he won a Grammy for Song of the Year and an Academy Award for Best Original Song; and \"Rainbow Connection\" from \"The Muppet Movie\". He also wrote the lyrics to the opening theme for \"The Love Boat\", with music previously composed by Charles Fox, which was originally sung by Jack Jones and, later, by Dionne Warwick.",
+          "semantic_score": 0.40777701139450073,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6890",
+          "text": "Corey Chorus\nCorey Gibson, known professionally as Corey Chorus, is an American songwriter, record producer, vocal producer, sound engineer and publisher, known for having written songs such as Cheers (Drink to That) of Rihanna, Chica Bomb by Dan Balan, Made in the USA by Demi Lovato.",
+          "semantic_score": 0.4043532609939575,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3013",
+          "text": "Commitment (song)\n\"Commitment\" is a song written by Tony Colton, Tony Marty and Bobby Wood, and recorded by American country music artist LeAnn Rimes. It was released in April 1998 as the lead single from her album \"Sittin' on Top of the World\". The song placed at number 4 on the US country charts, number 38 in the UK. It was later featured on Rimes' \"Greatest Hits\" and its international version, \"The Best of LeAnn Rimes\".",
+          "semantic_score": 0.2974128723144531,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8193",
+          "text": "There Will Be Love There (Ai no Aru Basho)\nThere Will Be Love There (Ai no Aru Basho) (愛のある場所 , Place with Love , pronounced \"Zea Uiru Bī Rabu Zea Ai no Aru Basho\") is The Brilliant Green's third single, released on May 13, 1998. It was their first number-one single on Oricon charts. It was used as the drama Love Again's theme song.",
+          "semantic_score": 0.33084771037101746,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1741",
+          "text": "The Muppets (soundtrack)\nThe Muppets: An Original Walt Disney Records Soundtrack is a soundtrack album released by Walt Disney Records on November 22, 2011 for the musical comedy film \"The Muppets\". The soundtrack features five original songs, four re-recordings and remasterings of popular Muppet songs (\"The Muppet Show Theme\", \"Rainbow Connection\", and \"Mah Nà Mah Nà\"), two cover versions of existing songs (Cee Lo Green's \"Forget You\" and Nirvana's \"Smells Like Teen Spirit\"), two standalone songs (Paul Simon's \"Me and Julio Down by the Schoolyard\" and Starship's \"We Built This City\"), and fifteen dialogue tracks. It also features the song \"Man or Muppet\", which won the Academy Award for Best Original Song. The soundtrack was also nominated for Best Compilation Soundtrack for Visual Media at the 55th Grammy Awards.",
+          "semantic_score": 0.1703462153673172,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Phil Spector"
+    }
+  ],
+  "links": [
+    {
+      "source": "1550",
+      "target": "1556",
+      "reason": "Paragraph 1550 identifies 'To Know Him Is to Love Him' as the first track on the Back to Mono box set, while paragraph 1556 identifies the same song as written by Phil Spector and inspired by his father's tombstone, jointly answering the full question."
+    }
+  ],
+  "questions_seen": 157,
+  "_id": "5ab859a955429934fafe6d7b",
+  "correct_answer": "Phil Spector",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

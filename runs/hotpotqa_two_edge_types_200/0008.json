@@ -1,0 +1,188 @@
+{
+  "question": "Are Colocasia and Coronilla both flowering plants?",
+  "answer": "Yes",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Is Colocasia a flowering plant?",
+      "retrieved": [
+        {
+          "id": "83",
+          "text": "Colocasia\nColocasia is a genus of flowering plants in the family Araceae, native to southeastern Asia and the Indian subcontinent. Some species are widely cultivated and naturalized in other tropical and subtropical regions. Common names include tarul, karkala ko ganu, elephant-ear, taro, cocoyam, dasheen, chembu, champadhumpa, shavige gadde, and eddoe. Elephant-ear and cocoyam are also used for some other large-leaved genera in the Araceae, notably \"Xanthosoma\" and \"Caladium\". The generic name is derived from the ancient Greek word \"kolokasion\", which in the Greek botanist Dioscorides (1st century AD) meant the edible roots of both \"Colocasia esculenta\" and \"Nelumbo nucifera\". It is thought that the edible roots of \"Colocasia esculenta\" have been cultivated in Asia for more than ten thousand years. The species \"Colocasia esculenta\" is an invasive species in wetlands along the American Gulf coast, where it threatens to displace native wetland plants.",
+          "semantic_score": 0.6116358041763306,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2535",
+          "text": "Ipomoea coccinea\nIpomoea coccinea is a flowering plant in the family Convolvulaceae known by several common names including red morning glory, redstar and (ambiguously) Mexican morning glory.",
+          "semantic_score": 0.5637737512588501,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "82",
+          "text": "Coronilla\nThe genus Coronilla contains about 20 species of flowering plants native to Europe and North Africa.",
+          "semantic_score": 0.5498917698860168,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4920",
+          "text": "Maianthemum\nMaianthemum (Latin \"Māia \" \"May\" and Greek \"ánthemon \" \"flower\"; including former \"Smilacina\") is a genus of rhizomatous, herbaceous, perennial flowering plants, native to the understory of woodlands. It is widespread across much of North America, Europe and Asia.",
+          "semantic_score": 0.5376755595207214,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2529",
+          "text": "Ipomoea indica\nIpomoea indica is a species of flowering plant in the family Convolvulaceae, known by several common names, including blue morning glory, oceanblue morning glory, koali awa, and blue dawn flower.",
+          "semantic_score": 0.5368071794509888,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2532",
+          "text": "Ipomoea carnea\nIpomoea carnea, the pink morning glory, is a species of morning glory. This flowering plant has heart-shaped leaves that are a rich green and 6 – long. It can be easily grown from seeds which are toxic and it can be hazardous to cattle; the toxicity is related to the swainsonine produced by endophytes and to bioaccumulation of selenium species in leaves but mostly in seeds",
+          "semantic_score": 0.4786660075187683,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2537",
+          "text": "Ipomoea sagittata\nIpomoea sagittata, commonly called the saltmarsh morning glory, is a species of flowering plant in the morning glory family. It is native to the Caribbean, Mexico, and the Southeastern United States where it is found in coastal areas. Its natural habitats are thickets on barrier islands, the edges of salt marshes, and in hammocks.",
+          "semantic_score": 0.48577848076820374,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2530",
+          "text": "Ipomoea wrightii\nIpomea wrightii, or Wright's morning glory, is a species of morning glory.It is generally described as an annual, perennial vine or forb or herb. Wright's morning glory is not native to the United States and is considered as an invasive species. It is found growing in the Southeastern part of the United States.",
+          "semantic_score": 0.3700883388519287,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "step": 2,
+      "sub_question": "Is Coronilla a flowering plant?",
+      "retrieved": [
+        {
+          "id": "82",
+          "text": "Coronilla\nThe genus Coronilla contains about 20 species of flowering plants native to Europe and North Africa.",
+          "semantic_score": 0.7785192131996155,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2535",
+          "text": "Ipomoea coccinea\nIpomoea coccinea is a flowering plant in the family Convolvulaceae known by several common names including red morning glory, redstar and (ambiguously) Mexican morning glory.",
+          "semantic_score": 0.5914396047592163,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8996",
+          "text": "Couroupita\nCouroupita is a genus of flowering plants of Lecythidaceae family first described as a genus in 1775. It is native to tropical South America and Central America.",
+          "semantic_score": 0.5428107380867004,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6718",
+          "text": "Dahlia\nDahlia ( or ) is a genus of bushy, tuberous, herbaceous perennial plants native to Mexico. A member of the Asteraceae (or Compositae), dicotyledonous plants, related species include the sunflower, daisy, chrysanthemum, and zinnia. There are 42 species of dahlia, with hybrids commonly grown as garden plants. Flower forms are variable, with one head per stem; these can be as small as 2 in diameter or up to 1 ft (\"dinner plate\"). This great variety results from dahlias being octoploids—that is, they have eight sets of homologous chromosomes, whereas most plants have only two. In addition, dahlias also contain many transposons—genetic pieces that move from place to place upon an allele—which contributes to their manifesting such great diversity.",
+          "semantic_score": 0.4921826124191284,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2034",
+          "text": "Stauntonia\nStauntonia is a genus of flowering plant in the Lardizabalaceae family. It is named after George Staunton, who brought it to Britain from China in the 19th Century.",
+          "semantic_score": 0.48887693881988525,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2529",
+          "text": "Ipomoea indica\nIpomoea indica is a species of flowering plant in the family Convolvulaceae, known by several common names, including blue morning glory, oceanblue morning glory, koali awa, and blue dawn flower.",
+          "semantic_score": 0.4715545177459717,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6717",
+          "text": "List of Dahlia cultivars\nThe horticultural cultivation of the dahlia plant has resulted in over 57,000 registered cultivars of dahlia. Several of them are listed below.",
+          "semantic_score": 0.29577744007110596,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6713",
+          "text": "List of Dahlia species\nThere are 42 accepted species in the \"Dahlia\" genus, according to The Plant List. The sectional classification of \"Dahlia \" \"sensu\" Sørensen (1969) as updated by Saar \"et al.\" (2003) and Hansen (2004) and (2008) is as follows (excluding infraspecific taxa);",
+          "semantic_score": 0.3056730329990387,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6722",
+          "text": "Dahlia pinnata\nDahlia pinnata (\"D. x pinnata\") is a species in the genus \"Dahlia\", family Asteraceae, with the common name garden dahlia. It is the type species of the genus and is widely cultivated.",
+          "semantic_score": 0.40665531158447266,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8994",
+          "text": "Couroupita guianensis\nCouroupita guianensis, known by a variety of common names including cannonball tree, is a deciduous tree in the family Lecythidaceae, which also includes the Brazil nut (\"Bertholletia excelsa\") and Paradise nut \"Lecythis zabucajo\". It is native to the rainforests of Central and South America, and it is cultivated in many other tropical areas throughout the world because of its beautiful, fragrant flowers and large, interesting fruits. There are medicinal uses for many parts of \"Couroupita guianensis\", and the tree has cultural and religious significance in India, Sri Lanka, and Southeast Asia.",
+          "semantic_score": 0.45639926195144653,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "links": [
+    {
+      "source": "83",
+      "target": "82",
+      "reason": "Paragraph 83 states Colocasia is a genus of flowering plants, and paragraph 82 states Coronilla contains species of flowering plants; together they establish that both genera are flowering plants, directly answering the original question."
+    }
+  ],
+  "questions_seen": 9,
+  "_id": "5adcd4325542994d58a2f6ed",
+  "correct_answer": "yes",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

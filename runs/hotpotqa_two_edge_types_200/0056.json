@@ -1,0 +1,167 @@
+{
+  "question": "La Machine a ecirire was written by what French writer, designer, playright, artist, and filmmaker, who is known for his novel, \"Les Enfants Terribles\"?",
+  "answer": "Jean Cocteau",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who wrote \"La Machine à écrire\"?",
+      "retrieved": [
+        {
+          "id": "558",
+          "text": "La Machine à écrire\nLa Machine à écrire is a three-act play written by French dramatist Jean Cocteau, premiered on 29 April 1941 at the Théâtre Hébertot in Paris.",
+          "semantic_score": 0.7419652938842773,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3006",
+          "text": "Se La\n\"Se La\" is a track from Lionel Richie's 1986 album \"Dancing on the Ceiling\". The song was written by Richie and Greg Phillinganes, and produced by Richie and James Anthony Carmichael. It was released in 1987 as the final single from the album, and was Richie's last single of the 1980s.",
+          "semantic_score": 0.4491235911846161,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4880",
+          "text": "Jean-Luc Bitton\nJean-Luc Bitton (born in 1959 in Lyon, France) is a writer, journalist and author. Together with Raymond Cousse and Jean-Yves Reuzeau, he wrote \"Emmanuel Bove : La Vie Comme une Ombre\", a biography of the writer Emmanuel Bove. He also participated in the creation of the Bove segment on the television series \"A Century of Writers\" (1997) and has created a website devoted entirely to Bove. He will also be the first biographer of French poet Jacques Rigaut, in a forthcoming book scheduled for publication in 2014. He has published articles in the journals Jungle, Perpendicular, The Series, the Nouvelle Revue Française and Rue Saint Ambrose.",
+          "semantic_score": 0.3987439274787903,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8092",
+          "text": "Emmanuel Chabrier\nAlexis Emmanuel Chabrier (] ; January 18, 1841September 13, 1894) was a French Romantic composer and pianist. Although known primarily for two of his orchestral works, \"España\" and \"Joyeuse marche\", he left an important corpus of operas (including \"L'étoile\"), songs, and piano music. He was admired by composers as diverse as Debussy, Ravel, Richard Strauss, Satie, Schmitt, Stravinsky, and the group of composers known as Les six. Stravinsky alluded to \"España\" in his ballet \"Petrushka\"; Gustav Mahler called \"España\" \"the beginnings of modern music\" and alluded to the \"Dance Villageoise\" in the \"Rondo Burleske\" movement of his Ninth Symphony. Ravel wrote that the opening bars of \"Le roi malgré lui\" changed the course of harmony in France, Poulenc wrote a biography of the composer, and Richard Strauss conducted the first staged performance of Chabrier's incomplete opera \"Briséïs\".",
+          "semantic_score": 0.3721303641796112,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1652",
+          "text": "List of compositions by Béla Bartók\nThis aspires to be a complete list of compositions by Béla Bartók. The catalogue numbering by András Szőllősy (Sz.), László Somfai (BB.) and Denijs Dille (DD.) are provided, as well as Bartók's own opus numbers. Note that Bartók started three times anew with opus numbers, here indicated with \"(list 1)\", \"(list 2)\" and \"(list 3)\" respectively. The pieces from the third listing are by far best known; opus lists 1 and 2 are early works. The year of composition and instrumentation (including voice) are included. See the main article on Béla Bartók for more details.",
+          "semantic_score": 0.3579700291156769,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3008",
+          "text": "Dancing on the Ceiling (Lionel Richie song)\n\"Dancing on the Ceiling\" is a song by American recording artist Lionel Richie. It was written by Richie, Mike Frenchik, and Carlos Rios for his third studio album of the same name (1986), while production was helmed by Richie and James Anthony Carmichael. Released as the album's leading single, it became a worldwide top ten hit, reaching the top five in Sweden, the United States, and the Flemish region of Belgium as well as peaking on the top spot on the national singles chart in Norway.",
+          "semantic_score": 0.2225608378648758,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1654",
+          "text": "Suite, Op. 14 (Bartók)\nThe Suite, Op. 14, Sz. 62, BB 70 is a piece for solo piano written by Béla Bartók. It was written in February 1916, published in 1918, and debuted by the composer on April 21, 1919, in Budapest. The Suite is one of Bartók's most significant works for piano, only comparable with his 1926 Piano Sonata. Though much of Bartók's work makes frequent use of Eastern European folk music, this suite is one of the few pieces without melodies of folk origin. However, Romanian, Arabic, and North African rhythmic influences can still be found in some movements. Originally intending the suite to be a five-movement work, Bartók later decided against the idea and discarded the second movement, the \"Andante\", which was published only posthumously in the October 1955 issue of \"Új Zenei Szemle\" (New Musical Review).",
+          "semantic_score": 0.3096771836280823,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3002",
+          "text": "Dancing on the Ceiling\nDancing on the Ceiling is the third solo studio album by Lionel Richie, released on August 5, 1986. The album was originally to be titled \"Say You, Say Me\", after the Academy Award-winning track of the same name, but it was renamed to a different track's title after Richie rewrote the album. The album was released to generally positive reviews and warm sales, peaking at No. 1 on the \"Billboard\" 200 and selling 4 million copies. Following the album's release Richie went on a long hiatus, releasing his first album of entirely new material ten years later.",
+          "semantic_score": 0.1967584490776062,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1650",
+          "text": "List of string quartets by Béla Bartók\nThe Hungarian composer Béla Bartók wrote six string quartets, each for the usual forces of two violins, viola and cello. Notable composers who have been influenced by them include Benjamin Britten, particularly in the Sonata in C for Cello and Piano (; ), Elliott Carter, who refers in the opening of his own First String Quartet to Bartók’s Sixth Quartet , Chen Yi , Edison Denisov, whose Second Quartet is closely related to Bartók’s Fifth Quartet , Franco Donatoni, who was deeply impressed when he heard a broadcast of Bartók's Fourth Quartet , Robert Fripp, who mentions them as an influence upon King Crimson , Miloslav Ištvan , György Kurtág, whose Opp. 1 and 28 both owe a great deal to Bartók's quartets (; ), György Ligeti, whose two string quartets both owe a great deal to Bartók’s quartets (; ), Bruno Maderna , George Perle, who credits the Bartók Fourth and Fifth Quartets as precedents for his use of arrays of chords related to one another by different types of symmetry , Walter Piston (; ), Kim Dzmitrïyevich Tsesakow , Wilfried Westerlinck , Stefan Wolpe, who explained in a public lecture how he had derived ideas from Bartók’s Fourth Quartet , and Xu Yongsan .",
+          "semantic_score": 0.18213702738285065,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3000",
+          "text": "Tuskegee (album)\nTuskegee is the tenth studio album by American singer Lionel Richie, released on March 5, 2012 through Mercury Records. The album consists entirely of reinterpretations of previously released songs by Richie, each performed with a different guest artist. It became Richie's third number-one album on the \"Billboard\" 200 and his first since \"Dancing on the Ceiling\" in 1986. \"Tuskegee\" also became Richie's first album to sell more than a million copies in the United States since \"Dancing on the Ceiling\".",
+          "semantic_score": 0.18796803057193756,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Jean Cocteau"
+    },
+    {
+      "step": 2,
+      "sub_question": "Which French writer, designer, playwright, artist, and filmmaker is known for the novel \"Les Enfants Terribles\"?",
+      "retrieved": [
+        {
+          "id": "560",
+          "text": "Jean Cocteau\nJean Maurice Eugène Clément Cocteau (] ; 5 July 1889 – 11 October 1963) was a French writer, designer, playwright, artist and filmmaker. Cocteau is best known for his novel \"Les Enfants Terribles\" (1929), and the films \"The Blood of a Poet\" (1930), \"Les Parents Terribles\" (1948), \"Beauty and the Beast\" (1946) and \"Orpheus\" (1949). His circle of associates, friends and lovers included Kenneth Anger, Pablo Picasso, Gertrude Stein, Jean Hugo, Jean Marais, Henri Bernstein, Yul Brynner, Marlene Dietrich, Coco Chanel, Erik Satie, Albert Gleizes, Igor Stravinsky, Marie Laurencin, María Félix, Édith Piaf, Panama Al Brown, Colette, Jean Genet, and Raymond Radiguet.",
+          "semantic_score": 0.7605184316635132,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "557",
+          "text": "Les Enfants Terribles\nLes Enfants Terribles is a 1929 novel by Jean Cocteau, published by Editions Bernard Grasset. It concerns two siblings, Elisabeth and Paul, who isolate themselves from the world as they grow up, an isolation which is shattered by the stresses of their adolescence. It was first translated into English by Samuel Putnam in 1930 and published by Brewer & Warren Inc. A later English translation was made by Rosamond Lehmann in 1955, and published by New Directions (ISBN  ) in the U.S., and Mclelland & Stewart in Canada in 1966, with the title translated as \"The Holy Terrors\". The book is illustrated by the author's own drawings.",
+          "semantic_score": 0.7015036344528198,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "555",
+          "text": "Les Enfants Terribles (film)\nLes Enfants Terribles (\"The terrible children\") is a 1950 French film directed by Jean-Pierre Melville and based on Jean Cocteau's novel of the same name. The first feature film of Melville, \"Le Silence de la Mer\" (1949), attracted the attention of Jean Cocteau, who commissioned him to direct the film version of \"Les Enfants Terribles\".",
+          "semantic_score": 0.6966794729232788,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "556",
+          "text": "Les Enfants Terribles (Theatre Company)\nLes Enfants Terribles (LET) is a theatre ensemble based out of Chicago, Illinois. They practice the traditional French clowning style of bouffon.",
+          "semantic_score": 0.5646644234657288,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "561",
+          "text": "Les Enfants Terribles (disambiguation)\nLes Enfants Terribles is a phrase in French that translates as \"the terrible children\" or \"the holy terrors\", and may refer to:",
+          "semantic_score": 0.5129900574684143,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Jean Cocteau"
+    }
+  ],
+  "links": [
+    {
+      "source": "558",
+      "target": "560",
+      "reason": "Paragraph 558 identifies Jean Cocteau as the writer of 'La Machine à écrire'; paragraph 560 identifies Jean Cocteau as the French writer/designer/playwright/artist/filmmaker known for 'Les Enfants Terribles', directly bridging the two sub-questions to the same person."
+    }
+  ],
+  "questions_seen": 57,
+  "_id": "5abcf14f55429959677d6b5b",
+  "correct_answer": "Jean Maurice Eugène Clément Cocteau",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "question": "What screenplay was worked on by both Edward Carfagno and Miklos Rozsa?",
+  "answer": "The Europeans",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What screenplays did Edward Carfagno work on?",
+      "retrieved": [
+        {
+          "id": "53",
+          "text": "Edward Carfagno\nEdward Carfagno (November 28, 1907 – December 28, 1996) was an art director who established himself in the 1950s with his Oscar-winning work on such films as Vincente Minnelli's \"The Bad and the Beautiful\" (1952), Joseph Mankiewicz's \"Julius Caesar\" (1953) and William Wyler's \"Ben-Hur\" (1959). Carfagno went on to work consistently on a variety of films, including five collaborations with Clint Eastwood including \"Tightrope\" (1984) and \"Heartbreak Ridge\" (1987).",
+          "semantic_score": 0.5497354865074158,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2202",
+          "text": "Francis Ford Coppola\nFrancis Ford Coppola ( ; born April 7, 1939), also credited as Francis Coppola, is a semi-retired American film director, producer, screenwriter and film composer. He was a central figure in the New Hollywood wave of filmmaking.",
+          "semantic_score": 0.5362970232963562,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2798",
+          "text": "Edward H. Griffith\nEdward H. Griffith (August 23, 1888 – March 3, 1975) (\"Also Known As: E H Griffith, Lieut. Edward H. Griffith, Edward Griffith, E. H. Griffith\") was an American motion picture director, screenwriter, and producer. He directed 61 films from 1917 to 1946.",
+          "semantic_score": 0.4737987816333771,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7479",
+          "text": "Albert Capellani\nAlbert Capellani (23 August 1874 – 26 September 1931) was a French film director and screenwriter of the silent era. He directed films between 1905 and 1922. One of his brother was the actor-sculptor Paul Capellani. and another the film director Roger Capellani.",
+          "semantic_score": 0.4627622663974762,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1535",
+          "text": "Michelangelo Sosnowitz\nMichelangelo Sosnowitz (born August 21, 1973) is an American music composer. His works include ballet, musical theater, electronic and popular music, as well as commercial, television and film. His feature film scores include A Novel Romance, winner Best Film at the NYC International Independent Film Festival, the Dan Fogler directorial debut Hysterical Psycho and the Deborah Kampmeier film Split. His original ballet 'Petrouchka' won Best Choreography at NYMF 2010. He wrote the opening theme music to The History Channel show Battles BC and original theme music for ENTV, Deadline Hollywood BlackTreeMedia and other PMC programming. He also wrote the score and theme music to the Colin Quinn Web series COP SHOW. Original Off-Broadway musicals include Crazy Head Space and Love in the MIddle Ages.",
+          "semantic_score": 0.4449498653411865,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7478",
+          "text": "Paul Capellani\nPaul Capellani (September 9, 1877 – November 7, 1960) was a noted French silent film actor. His brother was the director Albert Capellani and his uncle the film director Roger Capellani who died May 1940 at the Battle of Dunkirk.",
+          "semantic_score": 0.35369619727134705,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7483",
+          "text": "Roger Capellani\nRoger Capellani (31 January 1905 – 30 May 1940) was a French film director, the son of film director and screenwriter Albert Capellani and the nephew of the actor Paul Capellani.",
+          "semantic_score": 0.35583484172821045,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2205",
+          "text": "Francis Ford Coppola Presents\nFrancis Ford Coppola Presents is a lifestyle brand created by Francis Ford Coppola, under which he markets goods from companies he owns or controls. It includes films and videos, resorts, cafes, a literary magazine and a winery.",
+          "semantic_score": 0.3482024669647217,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2197",
+          "text": "Eleanor Coppola\nEleanor Coppola (born May 4, 1936) is an American documentary filmmaker, artist, and writer. She is married to director Francis Ford Coppola. She is most known for her 1991 documentary film \"\" as well as other documentaries chronicling the films of her husband and children. Coppola currently lives on her family's winery in Napa Valley, California.",
+          "semantic_score": 0.36807116866111755,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2198",
+          "text": "Anton Coppola\nAntonio Coppola (born March 21, 1917) is an American opera conductor and composer. He is the uncle of film director Francis Ford Coppola and actress Talia Shire, as well as the grand-uncle of Nicolas Cage, Sofia Coppola, Gian-Carlo Coppola, Jason Schwartzman and Robert Schwartzman, and is the younger brother of American composer and musician Carmine Coppola.",
+          "semantic_score": 0.41524165868759155,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Edward Carfagno was an art director, not a screenwriter, so he did not work on screenplays."
+    },
+    {
+      "step": 2,
+      "sub_question": "What screenplays did Miklos Rozsa work on?",
+      "retrieved": [
+        {
+          "id": "9509",
+          "text": "Vladimir Danilevich\nVladimir Petrovich Danilevich (Russian: Владимир Петрович Данилевич ; 4 September 1924 — 9 October 2001) was well-known Soviet and Russian Animator: who successfully worked as the film director, the screenwriter, the art director and the animator.",
+          "semantic_score": 0.4807335436344147,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9443",
+          "text": "Yasuzo Masumura\nYasuzo Masumura (増村 保造 , Masumura Yasuzō , August 25, 1924 – November 23, 1986) was a Japanese film director.",
+          "semantic_score": 0.4565865099430084,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5273",
+          "text": "Merchant Ivory Productions\nMerchant Ivory Productions is a film company founded in 1961 by producer Ismail Merchant (d. 2005) and director James Ivory. Their films were for the most part produced by Merchant, directed by Ivory, and 23 (of the 44 total films) were scripted by Ruth Prawer Jhabvala (d. 2013) in some capacity, all but two of those with solo credit. The films were often based upon novels or short stories, particularly the work of Henry James, E. M. Forster, and two novels by Jhabvala herself.",
+          "semantic_score": 0.4491206407546997,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3413",
+          "text": "Anja Salomonowitz\nAnja Salomonowitz (born in Vienna) is an Austrian film director and screenwriter, specialised on documentary films with political or social background.",
+          "semantic_score": 0.4458545446395874,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2202",
+          "text": "Francis Ford Coppola\nFrancis Ford Coppola ( ; born April 7, 1939), also credited as Francis Coppola, is a semi-retired American film director, producer, screenwriter and film composer. He was a central figure in the New Hollywood wave of filmmaking.",
+          "semantic_score": 0.44335490465164185,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2205",
+          "text": "Francis Ford Coppola Presents\nFrancis Ford Coppola Presents is a lifestyle brand created by Francis Ford Coppola, under which he markets goods from companies he owns or controls. It includes films and videos, resorts, cafes, a literary magazine and a winery.",
+          "semantic_score": 0.20879876613616943,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2197",
+          "text": "Eleanor Coppola\nEleanor Coppola (born May 4, 1936) is an American documentary filmmaker, artist, and writer. She is married to director Francis Ford Coppola. She is most known for her 1991 documentary film \"\" as well as other documentaries chronicling the films of her husband and children. Coppola currently lives on her family's winery in Napa Valley, California.",
+          "semantic_score": 0.31257733702659607,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2198",
+          "text": "Anton Coppola\nAntonio Coppola (born March 21, 1917) is an American opera conductor and composer. He is the uncle of film director Francis Ford Coppola and actress Talia Shire, as well as the grand-uncle of Nicolas Cage, Sofia Coppola, Gian-Carlo Coppola, Jason Schwartzman and Robert Schwartzman, and is the younger brother of American composer and musician Carmine Coppola.",
+          "semantic_score": 0.3326980769634247,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "388",
+          "text": "Semyon Aranovich\nSemyon Davidovich Aranovich (Ukrainian: Семён Аранович, 23 July 1934, Derazhnya, Ukraine, Soviet Union – 8 September 1996, Hamburg, Germany) was a Soviet and Russian film director.",
+          "semantic_score": 0.3610229790210724,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2200",
+          "text": "Gia Coppola\nGian-Carla \"Gia\" Coppola (born January 1, 1987) is an American film director, screenwriter, and actress. She is a granddaughter of Francis Ford Coppola, the daughter of Gian-Carlo Coppola and the niece of Roman Coppola and Sofia Coppola.",
+          "semantic_score": 0.33748143911361694,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Miklos Rozsa was a composer, not a screenwriter, so he did not work on screenplays."
+    },
+    {
+      "step": 3,
+      "sub_question": "Which screenplay appears in both lists?",
+      "retrieved": [
+        {
+          "id": "1181",
+          "text": "Hans Zimmer\nHans Florian Zimmer (] ; born 12 September 1957) is a German film score composer and record producer. Since the 1980s, he has composed music for over 150 films. His works include \"The Lion King\", for which he won the Academy Award for Best Original Score in 1995, the \"Pirates of the Caribbean\" series, \"The Thin Red Line\", \"Gladiator\", \"The Last Samurai\", \"The Dark Knight Trilogy\", \"Inception\", \"Interstellar\" and \"Dunkirk\".",
+          "semantic_score": 0.43455544114112854,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5273",
+          "text": "Merchant Ivory Productions\nMerchant Ivory Productions is a film company founded in 1961 by producer Ismail Merchant (d. 2005) and director James Ivory. Their films were for the most part produced by Merchant, directed by Ivory, and 23 (of the 44 total films) were scripted by Ruth Prawer Jhabvala (d. 2013) in some capacity, all but two of those with solo credit. The films were often based upon novels or short stories, particularly the work of Henry James, E. M. Forster, and two novels by Jhabvala herself.",
+          "semantic_score": 0.43133804202079773,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1535",
+          "text": "Michelangelo Sosnowitz\nMichelangelo Sosnowitz (born August 21, 1973) is an American music composer. His works include ballet, musical theater, electronic and popular music, as well as commercial, television and film. His feature film scores include A Novel Romance, winner Best Film at the NYC International Independent Film Festival, the Dan Fogler directorial debut Hysterical Psycho and the Deborah Kampmeier film Split. His original ballet 'Petrouchka' won Best Choreography at NYMF 2010. He wrote the opening theme music to The History Channel show Battles BC and original theme music for ENTV, Deadline Hollywood BlackTreeMedia and other PMC programming. He also wrote the score and theme music to the Colin Quinn Web series COP SHOW. Original Off-Broadway musicals include Crazy Head Space and Love in the MIddle Ages.",
+          "semantic_score": 0.42409005761146545,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9509",
+          "text": "Vladimir Danilevich\nVladimir Petrovich Danilevich (Russian: Владимир Петрович Данилевич ; 4 September 1924 — 9 October 2001) was well-known Soviet and Russian Animator: who successfully worked as the film director, the screenwriter, the art director and the animator.",
+          "semantic_score": 0.42374685406684875,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8677",
+          "text": "Eisenstein (film)\nEisenstein is a 2000 Canadian film about Sergei Eisenstein, directed by Renny Bartlett and starring Simon McBurney, Raymond Coulthard and Jacqueline McKenzie. It was nominated for five Genie Awards including Best Picture, Best Director, and Best Screenplay.",
+          "semantic_score": 0.410040020942688,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "388",
+          "text": "Semyon Aranovich\nSemyon Davidovich Aranovich (Ukrainian: Семён Аранович, 23 July 1934, Derazhnya, Ukraine, Soviet Union – 8 September 1996, Hamburg, Germany) was a Soviet and Russian film director.",
+          "semantic_score": 0.36701783537864685,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5269",
+          "text": "The Europeans (film)\nThe Europeans is a 1979 British Merchant Ivory film, directed by James Ivory, produced by Ismail Merchant, and with a screenplay by Ruth Prawer Jhabvala, based on Henry James's novel by the same name.",
+          "semantic_score": 0.27928289771080017,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3170",
+          "text": "Interstellar (soundtrack)\nInterstellar: Original Motion Picture Soundtrack is the soundtrack album to the 2014 film \"Interstellar\" directed by Christopher Nolan. The film score is composed by Hans Zimmer who previously scored Nolan's \"Batman\" film trilogy and \"Inception\". The soundtrack garnered critical acclaim. Prior to its digital release, it was nominated for an Academy Award and Original Score at the Hollywood Music in Media Awards. The soundtrack was released on November 17, 2014 via the WaterTower label.",
+          "semantic_score": 0.25831347703933716,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3759",
+          "text": "Giorgio Ferroni\nGiorgio Ferroni (April 12, 1908 - August 17, 1981), sometimes credited as Calvin Jackson Padget or Calvin J. Padget, was an Italian film director, film editor and a screenwriter.",
+          "semantic_score": 0.3268524706363678,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The Europeans"
+    }
+  ],
+  "links": [],
+  "questions_seen": 6,
+  "_id": "5ade9c9c5542997c77adee8c",
+  "correct_answer": "Julius Caesar",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

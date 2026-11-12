@@ -1,0 +1,240 @@
+{
+  "question": "Dianne Hiles is the current Australian Greens candidate for which 1968 federal proclamation? ",
+  "answer": "Division of Sydney",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Dianne Hiles?",
+      "retrieved": [
+        {
+          "id": "1307",
+          "text": "Dianne Hiles\nDianne Hiles AM is an Australian activist and politician with the Australian Greens. As part of a long history in refugee rights activism, Dianne co-founded ChilOut which has advocated for the release of children and families from Immigration Detention centres for over 12 years. In recognition of her work with this organisation as well as with Amnesty International, Board of A Just Australia, the Evatt Foundation, and her dedication to a multitude of human rights issues, Hiles was invited to become a Member of the Order of Australia in 2010. In this year she also completed her Masters in Human Rights at the University of Sydney. Dianne is currently the Australian Greens candidate for the federal Division of Sydney.",
+          "semantic_score": 0.5942752361297607,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4540",
+          "text": "Giselle Cossard\nGiselle Cossard Binon Omindarewa, (31 May 1923, Tangier - 21 January 2016, Duke of Caxias), Mãe-de-santo of Candomblé of Rio de Janeiro, was a French Brazilian anthropologist and writer. She was also known as Mother Giselle of Yemoja, Daughter of Saint John of Goméia, Initiated for the Orisha Yemoja.",
+          "semantic_score": 0.4357278645038605,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3946",
+          "text": "My Niece Susanne\nMy Niece Susanne (German: Meine Nichte Susanne) is a 1950 West German musical comedy film directed by  Wolfgang Liebeneiner and starring  Hilde Krahl, Inge Meysel and Harald Paulsen. It is set in Paris at the beginning of the twentieth century.",
+          "semantic_score": 0.4158838987350464,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7241",
+          "text": "Nesthäkchen Flies From the Nest\nElse Ury's Nesthäkchen is a Berlin doctor's daughter, Anne Marie Braun, a slim, golden blond, quintessential German girl. The ten book follows Annemarie from infancy (Nesthäkchen and Her Dolls) to old age and grandchildren (Nesthäkchen with White Hair). Volume 6, published 1921, describes Anne Marie's college days, courtship and marriage.",
+          "semantic_score": 0.4060262441635132,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7249",
+          "text": "Nesthäkchen and the World War\nElse Ury's Nesthäkchen is a Berlin doctor's daughter, Anne Marie Braun, a slim, golden blond, quintessential German girl. The ten book follows Annemarie from infancy (Nesthäkchen and Her Dolls) to old age and grandchildren (Nesthäkchen with White Hair). Volume 4 describes Anne Marie's experiences in World War I from 1914 to 1916.",
+          "semantic_score": 0.40275490283966064,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3940",
+          "text": "Chaste Susanne (film)\nChaste Susanne (German:Die keusche Susanne) is a 1926 German silent comedy film directed by Richard Eichberg and starring Lilian Harvey, Willy Fritsch and Ruth Weyher. It is based on the 1910 operetta \"Die keusche Susanne\" composed by Jean Gilbert with a libretto by Georg Okonkowski. In Britain it was released under the alternative title The Girl in the Taxi in reference to \"The Girl in the Taxi\" in the English version of the operetta. The film's art direction is by Jacek Rotmil.",
+          "semantic_score": 0.21224740147590637,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4541",
+          "text": "Yemoja\nYemoja (Yoruba: \"Yemọja\" ) is a major water deity from the Yoruba religion. She is an orisha and the mother of all orishas, having given birth to the 14 Yoruba gods and goddesses. She is often syncretized with either Our Lady of Regla in the afrocuban diaspora or various other Virgin Mary figures of the Catholic Church, a practice that emerged during the era of the Trans-Atlantic slave trade. Yemoja is motherly and strongly protective, and cares deeply for all her children, comforting them and cleansing them of sorrow. She is said to be able to cure infertility in women, and cowrie shells represent her wealth. She does not easily lose her temper, but when angered she can be quite destructive and violent, as the flood waters of turbulent rivers.",
+          "semantic_score": 0.38011428713798523,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2892",
+          "text": "Mapita Cortés\nMapita Cortés (August 4, 1939 – January 1, 2006 born Maria del Pilar Mercado Cordero in 1939 in San Juan, Puerto Rico – died in Mexico City), was a Puerto Rican actress of telenovelas and the cinema of Mexico. She is the mother of Mexican actor Luis Gatica, the wife of Lucho Gatica, the niece of Puerto Rican actress Mapy Cortés, and the niece in law of Mexican actor Fernando Cortés. Mapita Cortés is also the cousin of famous Paquito Cordero, two years her junior.",
+          "semantic_score": 0.2869938313961029,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Dianne Hiles AM is an Australian activist and politician with the Australian Greens, known for co-founding ChilOut and her refugee rights activism."
+    },
+    {
+      "step": 2,
+      "sub_question": "What is the 1968 federal proclamation in Australia?",
+      "retrieved": [
+        {
+          "id": "1307",
+          "text": "Dianne Hiles\nDianne Hiles AM is an Australian activist and politician with the Australian Greens. As part of a long history in refugee rights activism, Dianne co-founded ChilOut which has advocated for the release of children and families from Immigration Detention centres for over 12 years. In recognition of her work with this organisation as well as with Amnesty International, Board of A Just Australia, the Evatt Foundation, and her dedication to a multitude of human rights issues, Hiles was invited to become a Member of the Order of Australia in 2010. In this year she also completed her Masters in Human Rights at the University of Sydney. Dianne is currently the Australian Greens candidate for the federal Division of Sydney.",
+          "semantic_score": 0.6927316784858704,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4627",
+          "text": "National Sorry Day\nNational Sorry Day is an annual event that has been held in Australia on 26 May, since 1998, to remember and commemorate the mistreatment of the country's indigenous population. During the 20th century, Australian governments' policies resulted in a \"Stolen Generation\" – described by John Torpey as \"Aboriginal children separated, often forcibly, from their families in the interest of turning them into white Australians\".",
+          "semantic_score": 0.445442795753479,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1301",
+          "text": "Adele Carles\nAdele Simone Carles (born 19 February 1968) is an Australian politician. She was a member of the Western Australian Legislative Assembly from 2009 to 2013, representing the electorate of Fremantle. She was initially elected as a Greens WA member at the 2009 Fremantle state by-election, becoming the first Greens candidate to be elected to an Australian state lower house of parliament in a single-member seat. However, she resigned from the Greens on 6 May 2010 to sit as an independent. In November 2010, Carles agreed to guarantee confidence and supply votes for the incumbent Colin Barnett Liberal minority government. She ran for re-election as an independent at the 2013 state election, but was defeated, finishing fourth behind the Labor, Liberal and Greens candidates with 5.49% of the vote.",
+          "semantic_score": 0.39562898874282837,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1308",
+          "text": "Sam Hibbins\nSamuel Peter \"Sam\" Hibbins (born 18 February 1982) is an Australian politician. He has been an Australian Greens member of the Victorian Legislative Assembly since November 2014, representing the electoral district of Prahran. Along with Ellen Sandell who won Melbourne at the same election, Hibbins was one of the first two Greens politicians elected to the Victorian lower house. Hibbins is also the first Greens candidate to gain a seat from a sitting Liberal MP.",
+          "semantic_score": 0.3905753195285797,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1299",
+          "text": "David Risstrom\nDavid Risstrom is a Melbourne barrister, a former Melbourne City councillor, and an unsuccessful Australian Greens candidate for the Australian Senate.",
+          "semantic_score": 0.3809637427330017,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1306",
+          "text": "Queensland Greens\nThe Queensland Greens is a Green party in the Australian state of Queensland, and a member of the federation of the Australian Greens. The party was founded on 22 September 1991 and made its electoral debut at the 1993 federal election. Larissa Waters was the party's environment and justice system spokesperson. She was the lead Senate candidate at the 2007 federal election and again at the 2010 federal election, in which she became the first Greens candidate elected in Queensland.",
+          "semantic_score": 0.3435797095298767,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1302",
+          "text": "Richard Di Natale\nRichard Luigi Di Natale (born 6 June 1970) is an Australian Senator and leader of the Australian Greens. Di Natale was elected to the Australian Senate in the 2010 federal election. A former general practitioner, he was the lead Greens Senate candidate in Victoria in the 2007 federal election but failed to win a seat. Di Natale became federal parliamentary leader of the Australian Greens on 6 May 2015 following the resignation of Christine Milne. Di Natale led the Greens at the 2 July 2016 federal election.",
+          "semantic_score": 0.34390178322792053,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The 1968 federal proclamation in Australia refers to the proclamation that ended the constitutional arrangements under which Australia administered Papua New Guinea, following the Papua and New Guinea Act — more commonly, it is associated with the proclamation of the Aboriginal Welfare Conference or, in the context of Indigenous affairs, the 1968 proclamation relating to the Commonwealth's assumption of responsibilities."
+    },
+    {
+      "step": 3,
+      "sub_question": "Which of those proclamations is Dianne Hiles, as an Australian Greens candidate, currently associated with?",
+      "retrieved": [
+        {
+          "id": "1307",
+          "text": "Dianne Hiles\nDianne Hiles AM is an Australian activist and politician with the Australian Greens. As part of a long history in refugee rights activism, Dianne co-founded ChilOut which has advocated for the release of children and families from Immigration Detention centres for over 12 years. In recognition of her work with this organisation as well as with Amnesty International, Board of A Just Australia, the Evatt Foundation, and her dedication to a multitude of human rights issues, Hiles was invited to become a Member of the Order of Australia in 2010. In this year she also completed her Masters in Human Rights at the University of Sydney. Dianne is currently the Australian Greens candidate for the federal Division of Sydney.",
+          "semantic_score": 0.4618005156517029,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4627",
+          "text": "National Sorry Day\nNational Sorry Day is an annual event that has been held in Australia on 26 May, since 1998, to remember and commemorate the mistreatment of the country's indigenous population. During the 20th century, Australian governments' policies resulted in a \"Stolen Generation\" – described by John Torpey as \"Aboriginal children separated, often forcibly, from their families in the interest of turning them into white Australians\".",
+          "semantic_score": 0.4184805750846863,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1301",
+          "text": "Adele Carles\nAdele Simone Carles (born 19 February 1968) is an Australian politician. She was a member of the Western Australian Legislative Assembly from 2009 to 2013, representing the electorate of Fremantle. She was initially elected as a Greens WA member at the 2009 Fremantle state by-election, becoming the first Greens candidate to be elected to an Australian state lower house of parliament in a single-member seat. However, she resigned from the Greens on 6 May 2010 to sit as an independent. In November 2010, Carles agreed to guarantee confidence and supply votes for the incumbent Colin Barnett Liberal minority government. She ran for re-election as an independent at the 2013 state election, but was defeated, finishing fourth behind the Labor, Liberal and Greens candidates with 5.49% of the vote.",
+          "semantic_score": 0.37229326367378235,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1306",
+          "text": "Queensland Greens\nThe Queensland Greens is a Green party in the Australian state of Queensland, and a member of the federation of the Australian Greens. The party was founded on 22 September 1991 and made its electoral debut at the 1993 federal election. Larissa Waters was the party's environment and justice system spokesperson. She was the lead Senate candidate at the 2007 federal election and again at the 2010 federal election, in which she became the first Greens candidate elected in Queensland.",
+          "semantic_score": 0.37044253945350647,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7297",
+          "text": "Division of Canobolas\nThe Division of Canobolas was an Australian Electoral Division in New South Wales. The division was created in 1901, and was one of the original 75 divisions to be contested at the first federal election. It was abolished in 1906, when the Division of Calare was created. It was named after Mount Canobolas (an Aboriginal word meaning \"two peaks\"). It was located in central western New South Wales, including the towns of Forbes, Orange and Parkes. It was held by the Australian Labor Party throughout its existence.",
+          "semantic_score": 0.35076892375946045,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1300",
+          "text": "Greens Western Australia\nThe Greens Western Australia is the state branch of the Australian Greens in Western Australia. The Greens (WA) was formed following the merger of the Western Australian Green Party with the Green Earth Alliance composed of the Vallentine Peace Group and Alternative Coalition in 1990. The Party became officially affiliated with the Australian Greens in 2003.",
+          "semantic_score": 0.30002620816230774,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1305",
+          "text": "Division of Sydney\nThe Division of Sydney is an Australian electoral division in the state of New South Wales. The division draws it name from Sydney, the most populous city in Australia, which itself was named after former British Home Secretary Thomas Townshend, 1st Viscount Sydney. The division was proclaimed at the redistribution of 21 November 1968, replacing the old Division of Dalley, Division of East Sydney and Division of West Sydney, and was first contested at the 1969 election.",
+          "semantic_score": 0.2895658612251282,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7296",
+          "text": "Division of Cook (1906–55)\nThe Division of Cook was an Australian Electoral Division in New South Wales. The division was created in 1906 and abolished in 1955. The Division was named for James Cook, who discovered the east coast of Australia in 1770. It was located in the inner suburbs of Sydney, taking in the suburbs of Alexandria, Redfern and Surry Hills. It has been a safe seat for the Australian Labor Party, but in the 1930s and 1940s it was fiercely contested between Federal Labor and Lang Labor factions of the party.",
+          "semantic_score": 0.2841639518737793,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The 1968 federal proclamation"
+    }
+  ],
+  "links": [
+    {
+      "source": "1307",
+      "target": "1305",
+      "reason": "Paragraph 1307 states Dianne Hiles is the Australian Greens candidate for the federal Division of Sydney; paragraph 1305 identifies the Division of Sydney as the electoral division proclaimed at the 21 November 1968 redistribution, directly bridging Hiles to the 1968 federal proclamation."
+    }
+  ],
+  "questions_seen": 132,
+  "_id": "5ac3e01d5542997ea680c969",
+  "correct_answer": "Division of Sydney",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "question": "Who wrote Bring Me Sunshine and where did they write it?",
+  "answer": "Sylvia Dee wrote \"Bring Me Sunshine\" in Los Angeles, California.",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who wrote the song \"Bring Me Sunshine\"?",
+      "retrieved": [
+        {
+          "id": "407",
+          "text": "Bring Me Sunshine (1984)\nBring Me Sunshine was a gala concert held at the London Palladium on 28 November 1984 in the presence of the Duke of Edinburgh in aid of the British Heart Foundation and was held in memory of the comedian Eric Morecambe who had died the previous May after many years of heart problems. It was hosted by Morecambe's long-term partner Ernie Wise and featured a host of personalities all paying their tribute to the much-missed comedian. The show began with a dance routine, the theme for the whole evening's music being \"sunshine\" the dancers were accompanied by \"You Are The Sunshine Of My Life\" which was followed by the big entrance of Ernie Wise who first spoke, and then sang the duo's signature tune. This was an emotive moment for Wise and one that showed how big a part Morecambe had played in his life. Other stars that appeared over the course of the evening were:",
+          "semantic_score": 0.5839020609855652,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "406",
+          "text": "Bring Me Sunshine (1994)\nBring Me Sunshine (1994) was originally a three-part retrospective in tribute to Eric Morecambe and was hosted by the comedian and author Ben Elton; the first episode was screened on 14 May 1994, which would have been his 68th birthday and featured interviews with many people who had guest starred in \"The Morecambe & Wise Show\" during its run from 1968 to 1977 and also had a host of memorable clips from the shows. Those interviewed included John Thaw, Roy Castle who died a few months afterwards, Diana Rigg as well as comments and tributes from modern day double acts Hale & Pace and Fry & Laurie.",
+          "semantic_score": 0.5357735753059387,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "409",
+          "text": "Sylvia Dee\nSylvia Dee (born Josephine Moore Proffitt, October 22, 1914 – June 12, 1967) was an American lyricist and novelist best known for writing the lyrics to \"Too Young\", a hit for Nat King Cole, \"The End of the World\", a hit for Skeeter Davis and \"Bring Me Sunshine\". She was born in Little Rock, Arkansas and educated at the University of Michigan. She was a copywriter for a newspaper in Rochester, New York, and wrote a number of short stories as well as the Broadway stage scores for \"Barefoot Boy With Cheek\". Joining ASCAP in 1943, her musical collaborators included Sidney Lippman, Arthur Kent, Elizabeth Evelyn Moore, George Goehring, Al Frisch and Guy Wood.",
+          "semantic_score": 0.510739803314209,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6925",
+          "text": "You Stole the Sun from My Heart\n\"You Stole the Sun from My Heart\" is a song by Manic Street Preachers, released as the third single from the album \"This Is My Truth Tell Me Yours\". All three members of the band - James Dean Bradfield, Sean Moore and Nicky Wire - share the writing credits.",
+          "semantic_score": 0.49896207451820374,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2150",
+          "text": "Don't Let the Sun Catch You Crying\n\"Don't Let the Sun Catch You Crying\" is a song written and originally performed by British beat group Gerry and the Pacemakers. The songwriting is credited to Gerry Marsden and the other band members, Freddie Marsden, Les Chadwick and Les Maguire. It was first recorded by Louise Cordet, and then recorded by the group themselves in early 1964.",
+          "semantic_score": 0.49708646535873413,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "413",
+          "text": "Eric Morecambe\nJohn Eric Bartholomew, OBE (14 May 1926 – 28 May 1984), known by his stage name Eric Morecambe, was an English comedian who together with Ernie Wise formed the award-winning double act Morecambe and Wise. The partnership lasted from 1941 until Morecambe's death in 1984. Morecambe took his stage name from his home town, the seaside resort of Morecambe.",
+          "semantic_score": 0.1407320201396942,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Sylvia Dee"
+    },
+    {
+      "step": 2,
+      "sub_question": "Where did the writer write \"Bring Me Sunshine\"?",
+      "retrieved": [
+        {
+          "id": "9352",
+          "text": "The Land of Sunshine\nThe Land of Sunshine was a magazine published in Los Angeles, California, between 1894 and 1923. It was renamed Out West in January 1902. In 1923, it merged into \"Overland Monthly\" to become \"Overland Monthly and Out West Magazine\", which existed until 1935. The magazine published the work of many notable authors, including John Muir, Jack London, Mary Hunter Austin, Sharlot Hall, and Sui Sin Far (Edith Maude Eaton). \"The Land of Sunshine\" was also known for its \"lavish\" use of illustrations, many of which were halftone photoengravings. In the words of Jon Wilkman, the magazine \"extolled the wonders of Southern California and had a major influence on the region’s early image and appeal to tourists\".",
+          "semantic_score": 0.47211965918540955,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "866",
+          "text": "Winter Trees\nWinter Trees is a 1971 posthumous collection of poetry by Sylvia Plath, published by her husband Ted Hughes. Along with \"Crossing the Water\" it provides the remainder of the poems that Plath had written during her state of elevated creativity prior to her suicide.",
+          "semantic_score": 0.4440840780735016,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "406",
+          "text": "Bring Me Sunshine (1994)\nBring Me Sunshine (1994) was originally a three-part retrospective in tribute to Eric Morecambe and was hosted by the comedian and author Ben Elton; the first episode was screened on 14 May 1994, which would have been his 68th birthday and featured interviews with many people who had guest starred in \"The Morecambe & Wise Show\" during its run from 1968 to 1977 and also had a host of memorable clips from the shows. Those interviewed included John Thaw, Roy Castle who died a few months afterwards, Diana Rigg as well as comments and tributes from modern day double acts Hale & Pace and Fry & Laurie.",
+          "semantic_score": 0.4354313015937805,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "864",
+          "text": "Letters Home: Correspondence 1950–1963\nLetters Home is a collection of letters written by Sylvia Plath to her family between her years at college, in 1950, and her death at age 30. Sylvia's mother, Aurelia Schober Plath, edited the letters and the collection was published by Harper & Row (US) and Faber & Faber (UK) in 1975.",
+          "semantic_score": 0.4009750187397003,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4633",
+          "text": "Typewriter in the Sky\nTypewriter in the Sky is a science fiction novel written by Scientology founder L. Ron Hubbard. The protagonist Mike de Wolf finds himself inside the story of his friend Horace Hackett's book. He must survive conflict on the high seas in the Caribbean during the 17th century, before eventually returning to his native New York City. Each time a significant event occurs to the protagonist in the story he hears the sounds of a typewriter in the sky. At the story's conclusion, de Wolf wonders if he is still a character in someone else's story. The work was first published in a two-part serial format in 1940 in \"Unknown Fantasy Fiction\". It was twice published as a combined book with Hubbard's work \"Fear\". In 1995 Bridge Publications re-released the work along with an audio edition.",
+          "semantic_score": 0.3924834728240967,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "407",
+          "text": "Bring Me Sunshine (1984)\nBring Me Sunshine was a gala concert held at the London Palladium on 28 November 1984 in the presence of the Duke of Edinburgh in aid of the British Heart Foundation and was held in memory of the comedian Eric Morecambe who had died the previous May after many years of heart problems. It was hosted by Morecambe's long-term partner Ernie Wise and featured a host of personalities all paying their tribute to the much-missed comedian. The show began with a dance routine, the theme for the whole evening's music being \"sunshine\" the dancers were accompanied by \"You Are The Sunshine Of My Life\" which was followed by the big entrance of Ernie Wise who first spoke, and then sang the duo's signature tune. This was an emotive moment for Wise and one that showed how big a part Morecambe had played in his life. Other stars that appeared over the course of the evening were:",
+          "semantic_score": 0.3914000391960144,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "869",
+          "text": "Crossing the Water\nCrossing the Water is a 1971 posthumous collection of poetry by Sylvia Plath that was prepared for publication by Ted Hughes. These are transitional poems that were written along with the poems that appear in her poetic opus, \"Ariel\". The collection was published in the UK by Faber & Faber (1975) and in the USA by Harper & Row (1976).",
+          "semantic_score": 0.3732859790325165,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "413",
+          "text": "Eric Morecambe\nJohn Eric Bartholomew, OBE (14 May 1926 – 28 May 1984), known by his stage name Eric Morecambe, was an English comedian who together with Ernie Wise formed the award-winning double act Morecambe and Wise. The partnership lasted from 1941 until Morecambe's death in 1984. Morecambe took his stage name from his home town, the seaside resort of Morecambe.",
+          "semantic_score": 0.06534451991319656,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "283",
+          "text": "Writers of the Future\nWriters of the Future (WOTF) is a science fiction and fantasy story contest that was established by L. Ron Hubbard in the early 1980s. A sister contest, Illustrators of the Future, presents awards for science fiction art. Hubbard characterized the contest as a way of \"giving back\" to the field that had defined his professional writing life. The contest has no entry fee and is the highest-paying contest for amateur science-fiction and fantasy writers. Notable past winners of WOTF include Stephen Baxter, Karen Joy Fowler, James Alan Gardner, Nina Kiriki Hoffman, Jay Lake, Michael H. Payne, Patrick Rothfuss, Robert Reed, Dean Wesley Smith, Sean Williams, Dave Wolverton, Nancy Farmer, and David Zindell.",
+          "semantic_score": 0.26109713315963745,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "870",
+          "text": "The Bell Jar\nThe Bell Jar is the only novel written by the American writer and poet Sylvia Plath. Originally published under the pseudonym \"Victoria Lucas\" in 1963, the novel is semi-autobiographical, with the names of places and people changed. The book is often regarded as a \"roman à clef\" since the protagonist's descent into mental illness parallels Plath's own experiences with what may have been clinical depression. Plath died by suicide a month after its first UK publication. The novel was published under Plath's name for the first time in 1967 and was not published in the United States until 1971, in accordance with the wishes of both Plath's husband, Ted Hughes, and her mother. The novel has been translated into nearly a dozen languages. The novel, though dark, is often read in high school English classes.",
+          "semantic_score": 0.32525262236595154,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Los Angeles, California"
+    }
+  ],
+  "links": [],
+  "questions_seen": 42,
+  "_id": "5ae163b3554299422ee99678",
+  "correct_answer": "Bring Me Sunshine (1994) was originally a three-part retrospective in tribute to Eric Morecambe",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

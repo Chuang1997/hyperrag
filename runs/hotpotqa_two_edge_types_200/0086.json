@@ -1,0 +1,261 @@
+{
+  "question": "The ghetto that George Kadish documented held how many people at its peak?",
+  "answer": "29,000",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who was George Kadish?",
+      "retrieved": [
+        {
+          "id": "856",
+          "text": "George Kadish\nGeorge Kadish, born Zvi (Hirsh) Kadushin (died September 1997), was a Lithuanian Jewish photographer who documented life in the Kovno Ghetto during the Holocaust, the period of the Nazi German genocide against Jews.",
+          "semantic_score": 0.6388399004936218,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4131",
+          "text": "Roger la Zouch\nSir Roger la Zouch was the instigator of the assassination of the corrupt Baron of the Exchequer Roger de Beler and also MP for Leicestershire in 1324, 1331 and 1337 and Sheriff of Warwickshire and Leicestershire during the 1330s.",
+          "semantic_score": 0.40255075693130493,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3394",
+          "text": "Mir Jafar Dasni\nMir Jafar bin Mir Hasan Dasni (Kurdish: Mîr Ceferê Dasnî‎ , Arabic: الأمير جعفر بن الأمير حسن الداسني‎ ‎ ), also known as Jafar bin Faharjis, was a Yazidi and was member of the ethno-religious group of the Yazidis leader who in 838 launched an uprising against Abbasid Caliph al-Mutasim in the area north of Mosul. After being defeated at Babagesh he resided in castles in Dasin. Mutasim in response sent an army under command of Abdullah bin Ans al-Azdi, resulting in an armed confrontation between the Arab army and Kurds. Due to the difficulty of the terrain, the Arab army proved unsuccessful, suffered heavy casualties and a number of its commanders including Abdullah's uncle Ishaq bin Ans and his father-in-law were killed.",
+          "semantic_score": 0.3917272388935089,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4028",
+          "text": "Georgy Kiesewalter\nGeorgy Kiesewalter (Russian: Георгий Кизевальтер, b. 1955 in Moscow) is a Russian conceptual artist, photographer and essayist. As an artist, he uses a wide range of media to communicate his concepts to the public —– from painting to graphic art, from installations to conceptual photography and digital art.",
+          "semantic_score": 0.3803272247314453,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1361",
+          "text": "George Chapman (murderer)\nGeorge Chapman (14 December 1865 – 7 April 1903) was a Polish serial killer known as the Borough Poisoner. Born Seweryn Antonowicz Kłosowski in Congress Poland, he moved as an adult to England, where he committed his crimes. He was convicted and executed after poisoning three women, but is remembered today mostly because some police officers suspected him of being the notorious serial killer Jack the Ripper.",
+          "semantic_score": 0.3737989664077759,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4135",
+          "text": "Robert de Hellewell\nSir Robert de Hellewell was a member of the Folville Gang that slew the corrupt Baron of the Exchequer, Sir Roger de Beler and was Rutland's MP in 1340.",
+          "semantic_score": 0.29590415954589844,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3392",
+          "text": "Jafar Khan Jamali\nMir Jafar Khan Jamali was a prominent politician, tribal leader and a Muslim League veteran from Balochistan province, Pakistan. He was a close friend of Quaid-e-Azam Mohammad Ali Jinnah.«a href=\"http%3A//www.storyofpakistan.com/person.asp%3Fperid%3DP085%26amp%3BPg%3D2\">Mir Zafarullah Khan Jamali</ref> He belongs to the Jamali tribe, a powerful and influential Baloch tribe. He actively participated in the struggle of creation of Pakistan from British India rules. He was uncle and family leader of former Prime Minister of Pakistan Mir Zafarullah Khan Jamali.",
+          "semantic_score": 0.23636701703071594,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8775",
+          "text": "Kehinde Wiley\nKehinde Wiley (born 1977) is a New York-based portrait painter who is known for his highly naturalistic paintings of black people in heroic poses. The Columbus Museum of Art, which hosted an exhibition of his work in 2007, describes his work with the following: \"Kehinde Wiley has gained recent acclaim for his heroic portraits which address the image and status of young African-American men in contemporary culture.\"",
+          "semantic_score": 0.24707305431365967,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4027",
+          "text": "Vadim Zakharov (artist)\nVadim Zakharov (born 1959 in Dushanbe, Tajikistan) is an internationally exhibited Russian conceptual artist living and working in Moscow and Cologne, Germany. He created the work for the Russian pavilion at the 2013 55th edition of the Venice Biennale. His instillation therein marked the first time an artist's work occupied both levels of the structure. Zahkarov is a graduate of the Moscow State Teachers Training Institute.",
+          "semantic_score": 0.19958224892616272,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5387",
+          "text": "Imad Mughniyah\nImad Fayez Mughniyeh (Arabic: عماد فايز مغنية‎ ‎ ; 7 December 1962 – 12 February 2008), alias al-Hajj Radwan (الحاج رضوان), was a senior member of Lebanon's Islamic Jihad Organization and Hezbollah. Information about Mughniyeh is limited, but he is generally understood to have been a principal leader and operative for a number of years within Hezbollah's military, intelligence, and security apparatuses. He may also have been among the founders of Hezbollah in the 1980s. He has been described as \"a sort of 'super chief of staff'\" within Hezbollah, who once saw himself as the probable successor to Hassan Nasrallah as the leader of Hezbollah.",
+          "semantic_score": 0.276322603225708,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "George Kadish was a Lithuanian Jewish photographer who documented life in the Kovno Ghetto during the Holocaust."
+    },
+    {
+      "step": 2,
+      "sub_question": "Which ghetto did George Kadish document?",
+      "retrieved": [
+        {
+          "id": "856",
+          "text": "George Kadish\nGeorge Kadish, born Zvi (Hirsh) Kadushin (died September 1997), was a Lithuanian Jewish photographer who documented life in the Kovno Ghetto during the Holocaust, the period of the Nazi German genocide against Jews.",
+          "semantic_score": 0.7937687635421753,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "859",
+          "text": "Kovno Ghetto\nThe Kovno ghetto was a ghetto established by Nazi Germany to hold the Lithuanian Jews of Kaunas during the Holocaust. At its peak, the Ghetto held 29,000 people, most of whom were later sent to concentration and extermination camps, or were shot at the Ninth Fort. About 500 Jews escaped from work details and directly from the Ghetto, and joined Soviet partisan forces in the distant forests of southeast Lithuania and Belarus.",
+          "semantic_score": 0.5903328061103821,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "863",
+          "text": "Częstochowa Ghetto\nThe Częstochowa Ghetto was a World War II ghetto set up by Nazi Germany for the purpose of persecution and exploitation of local Jews in the city of Częstochowa during the German occupation of Poland. The approximate number of people confined to the ghetto was around 40,000 at the beginning and in late 1942 at its peak – right before mass deportations – 48,000. Most ghetto inmates were delivered by the Holocaust trains to their deaths at the Treblinka extermination camp. In June 1943, the remaining ghetto inhabitants launched the Częstochowa Ghetto uprising, which was extinguished by the \"SS\" after a few days of fighting.",
+          "semantic_score": 0.4235192537307739,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4951",
+          "text": "Black Book (World War II)\nThe Black Book: The Ruthless Murder of Jews by German-Fascist Invaders Throughout the Temporarily-Occupied Regions of the Soviet Union and in the German Nazi Death Camps established on occupied Polish soil during the War 1941–1945 alternatively The Black Book of the Holocaust, or simply The Black Book (Russian: Чёрная Книга , \"Chornaya Kniga\"; Yiddish: דאָס שוואַרצע בוך‎ , \"Dos shvartse bukh\"), was a result of the collaborative effort by the Jewish Anti-Fascist Committee (JAC) and members of the American Jewish community to document the anti-Jewish crimes of the Holocaust and the participation of Jews in the fighting and the resistance movement against the Nazis during World War II.",
+          "semantic_score": 0.423493891954422,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3748",
+          "text": "Zapruder film\nThe Zapruder film is a silent, color motion picture sequence shot by private citizen Abraham Zapruder with a home-movie camera, as U.S. President John F. Kennedy's motorcade passed through Dealey Plaza in Dallas, Texas, on November 22, 1963, thereby unexpectedly capturing the President's assassination.",
+          "semantic_score": 0.38652321696281433,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3751",
+          "text": "Abraham Zapruder\nAbraham Zapruder (May 15, 1905 – August 30, 1970) was a Russian-born American clothing manufacturer who witnessed the assassination of President John F. Kennedy in Dallas, Texas, on November 22, 1963. Zapruder unexpectedly captured the event in a home movie while filming the presidential limousine and motorcade as it traveled through Dealey Plaza.",
+          "semantic_score": 0.3496226370334625,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3750",
+          "text": "Marilyn Sitzman\nMarilyn Sitzman (December 14, 1939 – August 11, 1993) was an American receptionist and a witness to the assassination of U.S. President John F. Kennedy in Dallas, Texas on November 22, 1963. She was with her boss, Abraham Zapruder, as he made the Zapruder film, the most studied record of the assassination.",
+          "semantic_score": 0.3324076533317566,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4953",
+          "text": "Black Book (novel)\nBlack Book (Dutch: Zwartboek ) is a Dutch-language 2006 thriller novel by Laurens Abbink Spaink. It is the novelization of the Dutch film \"Black Book\" (2006). It tells the story of a young Jewish woman, Rachel Stein, and her struggle for survival during and after the Second World War. The book has a photo section, and an afterword by Paul Verhoeven and Gerard Soeteman.",
+          "semantic_score": 0.23697254061698914,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Kovno Ghetto"
+    },
+    {
+      "step": 3,
+      "sub_question": "What was the peak population of that ghetto?",
+      "retrieved": [
+        {
+          "id": "859",
+          "text": "Kovno Ghetto\nThe Kovno ghetto was a ghetto established by Nazi Germany to hold the Lithuanian Jews of Kaunas during the Holocaust. At its peak, the Ghetto held 29,000 people, most of whom were later sent to concentration and extermination camps, or were shot at the Ninth Fort. About 500 Jews escaped from work details and directly from the Ghetto, and joined Soviet partisan forces in the distant forests of southeast Lithuania and Belarus.",
+          "semantic_score": 0.7239609360694885,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "863",
+          "text": "Częstochowa Ghetto\nThe Częstochowa Ghetto was a World War II ghetto set up by Nazi Germany for the purpose of persecution and exploitation of local Jews in the city of Częstochowa during the German occupation of Poland. The approximate number of people confined to the ghetto was around 40,000 at the beginning and in late 1942 at its peak – right before mass deportations – 48,000. Most ghetto inmates were delivered by the Holocaust trains to their deaths at the Treblinka extermination camp. In June 1943, the remaining ghetto inhabitants launched the Częstochowa Ghetto uprising, which was extinguished by the \"SS\" after a few days of fighting.",
+          "semantic_score": 0.5757287740707397,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "861",
+          "text": "Außenarbeitslager Gerdauen\nAußenarbeitslager Gerdauen was a subcamp of the Stutthof concentration camp in nowaday's Zheleznodorozhny, Kaliningrad Oblast. Most of the prisoners in the subcamps of the Stutthoff camp contained Jewish women from Hungary and from the Łódź Ghetto, and there were also some Jewish men from Lithuania. While a labor camp rather than a death camp, many people died - of 100 Jewish girls at the camp only three survived the war.",
+          "semantic_score": 0.38275834918022156,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "856",
+          "text": "George Kadish\nGeorge Kadish, born Zvi (Hirsh) Kadushin (died September 1997), was a Lithuanian Jewish photographer who documented life in the Kovno Ghetto during the Holocaust, the period of the Nazi German genocide against Jews.",
+          "semantic_score": 0.3811679184436798,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6694",
+          "text": "Old Bazaar, Gjakova\nThe Old Bazaar (Albanian: \"Pazari i vjetër\" ; Serbian: Стари базар / \"Stari bazar\" ) in Gjakova is the oldest bazaar in Kosovo (also known as \"Çarshia e Madhe\" (Grand Bazaar) or \"Dakovica\". Mëhalla e Hadumit, the historical neighborhood where it is located also houses the city's oldest mosque, the Hadum Mosque (\"), which dates from the 15th century.",
+          "semantic_score": 0.3468951880931854,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6702",
+          "text": "Bazaar of Pristina\nThe Bazaar of Pristina (Albanian: \"Çarshia e Prishtinës\" ; Serbian: Базар у Приштини / \"Bazar u Prištini\" ), Kosovo , was the core merchandising center of the Old Pristina since the 15th century, when it was built. It played a significant role in the physical, economic, and social development of Pristina. The Old Bazaar was destroyed during the 1950s and 1960s, following the modernization slogan of \"Destroy the old, build the new\". In its place, buildings of Kosovo Assembly, Municipality of Prishtina, PTT, and Brotherhood and Unity socialist square were built. Nowadays, instead of PTT building resides the Government of Kosovo building. Only few historical buildings, such as the Bazaar Mosque and ruins of the Bazaar Hammam have remained from the Bazaar complex. Since then, Pristina has lost part of its identity, and its cultural heritage has been scattered.",
+          "semantic_score": 0.299671471118927,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6701",
+          "text": "Bazaar of Peć\nBazaar of Peć (Albanian: \"Çarshia e Pejës\" ; Serbian: Базар у Пећи / \"Bazar u Peći\" ) or Peć market is a market place in the center of the city of Peć, in Kosovo . It was established during Ottoman rule and is located near the Pećka Bistrica river, between parallel residence zones. The market historically housed blacksmiths and carpenters but also facilitated the agricultural market. The market place was completely destroyed at least twice, once during the Italian occupation in 1943, and once during the Kosovo War (1998–99). The market was fully rebuilt after the Kosovo War, according to the historical Ottoman architecture, and serves as the main market in the city of Peć, and is one of the many monuments which are under protection by the Republic of Kosovo. The main street of the market is known in Albanian as Çarshia e Gjatë (English: Long Bazaar ).",
+          "semantic_score": 0.3137921392917633,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6693",
+          "text": "Grand Bazaar, Isfahan\nThe Grand Bazaar (in Persian: Bazar Bozorg, بازار بزرگ) is a historical market located in Isfahan, Iran, also known as \"Qeysarriyeh Bazaar\" (in Persian: بازار قيصريه).",
+          "semantic_score": 0.2714160084724426,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "29,000"
+    }
+  ],
+  "links": [
+    {
+      "source": "856",
+      "target": "859",
+      "reason": "Paragraph 856 identifies the ghetto Kadish documented as the Kovno Ghetto, and paragraph 859 provides that ghetto's peak population of 29,000, directly bridging the question to its answer."
+    }
+  ],
+  "questions_seen": 87,
+  "_id": "5ae12aa6554299422ee99617",
+  "correct_answer": "29,000",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

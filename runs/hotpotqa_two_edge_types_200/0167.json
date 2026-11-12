@@ -1,0 +1,153 @@
+{
+  "question": "Who was the architect of a Dutch museum dedicated to the arts and history in Amsterdam, located at the Museum Square?",
+  "answer": "Pierre Cuypers",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Which Dutch museum in Amsterdam is dedicated to the arts and history and located at the Museum Square?",
+      "retrieved": [
+        {
+          "id": "1658",
+          "text": "Rijksmuseum\nThe Rijksmuseum (] ; English: National Museum ) is a Dutch national museum dedicated to arts and history in Amsterdam. The museum is located at the Museum Square in the borough Amsterdam South, close to the Van Gogh Museum, the Stedelijk Museum Amsterdam, and the Concertgebouw.",
+          "semantic_score": 0.8153350949287415,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1664",
+          "text": "Van Gogh Museum\nThe Van Gogh Museum (] ) is an art museum dedicated to the works of Vincent van Gogh and his contemporaries in Amsterdam in the Netherlands. It is located at the Museum Square in the borough Amsterdam South, close to the Stedelijk Museum, the Rijksmuseum, and the Concertgebouw.",
+          "semantic_score": 0.810539186000824,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1667",
+          "text": "Museumplein\nThe Museumplein (] ; English: Museum Square ) is a public space in the Museumkwartier neighbourhood of the Amsterdam-Zuid borough in Amsterdam, Netherlands. Located at the Museumplein are three major museums – the Rijksmuseum, Van Gogh Museum, and Stedelijk Museum – and the concert hall Concertgebouw.",
+          "semantic_score": 0.8094817996025085,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1659",
+          "text": "Official Museums of Amsterdam\nOfficial Museums of Amsterdam (OAM) is a consulting association of museums in Amsterdam. The organisation has existed since the eighties but it was formally founded in 1994. The organization contains both private and public museums, all of which are registered as members of De Museumvereniging, the Dutch Museum Association.",
+          "semantic_score": 0.7040699124336243,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1661",
+          "text": "Museum van Bommel van Dam\nMuseum van Bommel van Dam is a Dutch museum of modern art in Venlo in the southeast Netherlands. The museum belongs to the German/Dutch cooperation Crossart, a partnership between 7 German museums in Westfalen and 4 Dutch museums in Gelderland and Limburg. Exhibitions are held of paintings or drawings, sculpture or photography.",
+          "semantic_score": 0.6798326969146729,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1665",
+          "text": "Stedelijk Museum 's-Hertogenbosch\nThe Stedelijk Museum 's-Hertogenbosch (SM's) is a museum for modern art in 's-Hertogenbosch, The Netherlands. It focusses on contemporary visual arts and design, and is specialised in ceramics and jewelry. The museum is a member of the International Council of Museums and the Dutch Museum Organisation (Nederlandse Museumvereniging).",
+          "semantic_score": 0.631566047668457,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Rijksmuseum"
+    },
+    {
+      "step": 2,
+      "sub_question": "Who was the architect of that museum?",
+      "retrieved": [
+        {
+          "id": "1658",
+          "text": "Rijksmuseum\nThe Rijksmuseum (] ; English: National Museum ) is a Dutch national museum dedicated to arts and history in Amsterdam. The museum is located at the Museum Square in the borough Amsterdam South, close to the Van Gogh Museum, the Stedelijk Museum Amsterdam, and the Concertgebouw.",
+          "semantic_score": 0.7124518752098083,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1667",
+          "text": "Museumplein\nThe Museumplein (] ; English: Museum Square ) is a public space in the Museumkwartier neighbourhood of the Amsterdam-Zuid borough in Amsterdam, Netherlands. Located at the Museumplein are three major museums – the Rijksmuseum, Van Gogh Museum, and Stedelijk Museum – and the concert hall Concertgebouw.",
+          "semantic_score": 0.5742393732070923,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1663",
+          "text": "Pierre Cuypers\nPetrus Josephus Hubertus (Pierre) Cuypers (16 May 1827 – 3 March 1921) was a Dutch architect. His name is most frequently associated with the Amsterdam Central Station (1881–1889) and the Rijksmuseum (1876–1885), both in Amsterdam. More representative for his oeuvre, however, are numerous churches, of which he designed more than 100. Moreover, he restored a large number of monuments.",
+          "semantic_score": 0.5561385750770569,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1664",
+          "text": "Van Gogh Museum\nThe Van Gogh Museum (] ) is an art museum dedicated to the works of Vincent van Gogh and his contemporaries in Amsterdam in the Netherlands. It is located at the Museum Square in the borough Amsterdam South, close to the Stedelijk Museum, the Rijksmuseum, and the Concertgebouw.",
+          "semantic_score": 0.5407610535621643,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1659",
+          "text": "Official Museums of Amsterdam\nOfficial Museums of Amsterdam (OAM) is a consulting association of museums in Amsterdam. The organisation has existed since the eighties but it was formally founded in 1994. The organization contains both private and public museums, all of which are registered as members of De Museumvereniging, the Dutch Museum Association.",
+          "semantic_score": 0.5185593962669373,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1661",
+          "text": "Museum van Bommel van Dam\nMuseum van Bommel van Dam is a Dutch museum of modern art in Venlo in the southeast Netherlands. The museum belongs to the German/Dutch cooperation Crossart, a partnership between 7 German museums in Westfalen and 4 Dutch museums in Gelderland and Limburg. Exhibitions are held of paintings or drawings, sculpture or photography.",
+          "semantic_score": 0.46804723143577576,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1665",
+          "text": "Stedelijk Museum 's-Hertogenbosch\nThe Stedelijk Museum 's-Hertogenbosch (SM's) is a museum for modern art in 's-Hertogenbosch, The Netherlands. It focusses on contemporary visual arts and design, and is specialised in ceramics and jewelry. The museum is a member of the International Council of Museums and the Dutch Museum Organisation (Nederlandse Museumvereniging).",
+          "semantic_score": 0.4728364646434784,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Pierre Cuypers"
+    }
+  ],
+  "links": [
+    {
+      "source": "1658",
+      "target": "1663",
+      "reason": "Paragraph 1658 identifies the Rijksmuseum as the Dutch museum dedicated to arts and history at Museum Square; paragraph 1663 names Pierre Cuypers as the architect associated with the Rijksmuseum, bridging the museum to its architect."
+    }
+  ],
+  "questions_seen": 168,
+  "_id": "5a7183575542994082a3e85e",
+  "correct_answer": "Petrus Josephus Hubertus (Pierre) Cuypers",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "question": "What where both Hawker Hurricane and No. 1455 Flight apart of?",
+  "answer": "The Royal Air Force (RAF)",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What was the Hawker Hurricane a part of?",
+      "retrieved": [
+        {
+          "id": "891",
+          "text": "Sindlinger Hawker Hurricane\nThe Sindlinger HH-1 Hawker Hurricane is a ⅝ scale homebuilt design based on the Hawker Hurricane. Designed by Fred Sindlinger for amateur construction, the prototype was built between 1969 and 1972.",
+          "semantic_score": 0.7014647126197815,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "892",
+          "text": "Hawker Hurricane\nThe Hawker Hurricane is a British single-seat fighter aircraft of the 1930s–1940s that was designed and predominantly built by Hawker Aircraft Ltd for the Royal Air Force (RAF). Although overshadowed by the Supermarine Spitfire, the aircraft became renowned during the Battle of Britain, accounting for 60 percent of the RAF air victories in the battle, and served in all the major theatres of the Second World War.",
+          "semantic_score": 0.6330561637878418,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "890",
+          "text": "Hawker Tornado\nThe Hawker Tornado was a British single-seat fighter aircraft design of World War II for the Royal Air Force as a replacement for the Hawker Hurricane. The planned production of Tornados was cancelled after the engine it was designed to use—the Rolls-Royce Vulture—proved unreliable in service. A parallel airframe with the Napier Sabre continued into production as the Hawker Typhoon.",
+          "semantic_score": 0.5983239412307739,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "886",
+          "text": "Hawker Typhoon\nThe Hawker Typhoon (Tiffy in RAF slang), is a British single-seat fighter-bomber, produced by Hawker Aircraft. It was intended to be a medium–high altitude interceptor, as a replacement for the Hawker Hurricane but several design problems were encountered and it never completely satisfied this requirement.",
+          "semantic_score": 0.5798683762550354,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "885",
+          "text": "Flying Legend Hawker Hurricane Replica\nThe Flying Legend Hawker Hurricane Replica is an Italian light-sport aircraft, designed and produced by Flying Legend of Caltagirone and introduced at the AERO Friedrichshafen show in 2011. The aircraft, a 72% scale replica of the British Hawker Hurricane Second World War fighter, is supplied as a kit for amateur construction or as a complete ready-to-fly-aircraft.",
+          "semantic_score": 0.5582139492034912,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The Royal Air Force (RAF)"
+    },
+    {
+      "step": 2,
+      "sub_question": "What was No. 1455 Flight a part of?",
+      "retrieved": [
+        {
+          "id": "889",
+          "text": "No. 1455 Flight RAF\nNo. 1455 (Fighter) Flight was formed at RAF Tangmere, West Sussex on 7 July 1941, equipped with Turbinlite Douglas Boston and Douglas Havoc aircraft. On operations they co-operated with the Hawker Hurricanes of 1 Squadron and 3 Squadron. The flight was replaced with 534 Squadron on 2 September 1942.",
+          "semantic_score": 0.7986264228820801,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "888",
+          "text": "No. 1300 Flight RAF\nNo. 1300 (Meteorological) Flight was formed on 31 July 1943 at RAF Alipore, West Bengal, British India, by re-designating No. 1 Meteorological Flight RAF. The flight, strength of which had been reduced to three Hawker Hurricane Mk.IIs by this time, was disbanded on 30 May 1946 at RAF Kallang, Malaya, as No. 1300 (Meteorological THUM) Flight, THUM standing for Temperature and Humidity.",
+          "semantic_score": 0.5502347350120544,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "893",
+          "text": "Battle of Britain Memorial Flight\nThe Battle of Britain Memorial Flight (BBMF) is a Royal Air Force flight which provides an aerial display group usually comprising an Avro Lancaster, a Supermarine Spitfire and a Hawker Hurricane. The aircraft are regularly seen at events commemorating the Second World War and upon British State occasions, notably Trooping the Colour, celebrating Queen Elizabeth II's 80th birthday in 2006, as well as the wedding of Prince William, Duke of Cambridge and Catherine Middleton in 2011 and at air displays throughout the United Kingdom and Europe.",
+          "semantic_score": 0.4479302167892456,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "892",
+          "text": "Hawker Hurricane\nThe Hawker Hurricane is a British single-seat fighter aircraft of the 1930s–1940s that was designed and predominantly built by Hawker Aircraft Ltd for the Royal Air Force (RAF). Although overshadowed by the Supermarine Spitfire, the aircraft became renowned during the Battle of Britain, accounting for 60 percent of the RAF air victories in the battle, and served in all the major theatres of the Second World War.",
+          "semantic_score": 0.3958529829978943,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9335",
+          "text": "No. 3 Squadron RAAF\nNo. 3 Squadron is a Royal Australian Air Force (RAAF) fighter squadron, headquartered at RAAF Base Williamtown, near Newcastle, New South Wales. Established in 1916, it was one of four combat squadrons of the Australian Flying Corps during World War I, and operated on the Western Front in France before being disbanded in 1919. It was re-raised as a permanent squadron of the RAAF in 1925, and during World War II operated in the Mediterranean Theatre. The Cold War years saw the squadron disbanded and re-raised twice. It was based at RAAF Butterworth during the Malayan Emergency and the Indonesia–Malaysia \"Konfrontasi\". Equipped with McDonnell Douglas F/A-18 Hornet multi-role fighters from 1986, the squadron deployed to Diego Garcia in 2002 to provide local air defence, and the following year contributed aircraft and crews to the invasion of Iraq as part of Operation Falconer. In April 2016, it deployed to the Middle East as part of the military intervention against ISIL.",
+          "semantic_score": 0.39055201411247253,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "890",
+          "text": "Hawker Tornado\nThe Hawker Tornado was a British single-seat fighter aircraft design of World War II for the Royal Air Force as a replacement for the Hawker Hurricane. The planned production of Tornados was cancelled after the engine it was designed to use—the Rolls-Royce Vulture—proved unreliable in service. A parallel airframe with the Napier Sabre continued into production as the Hawker Typhoon.",
+          "semantic_score": 0.282192200422287,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9331",
+          "text": "No. 2 Squadron RAAF\nNo. 2 Squadron is a Royal Australian Air Force (RAAF) squadron that operates from RAAF Base Williamtown, near Newcastle, New South Wales. From its formation in 1916 as part of the Australian Flying Corps, it has flown a variety of aircraft types including fighters, bombers, and Airborne Early Warning & Control (AEW&C). During World War I, the squadron operated on the Western Front conducting fighter sweeps and ground-attack missions. It was disbanded in mid-1919, following the end of hostilities. The squadron was briefly re-raised in 1922 as part of the newly independent RAAF, but was disbanded after only a couple of months and not reformed until 1937. It saw action as a bomber unit in the South West Pacific theatre of World War II and, equipped with English Electric Canberra jets, in the Malayan Emergency and the Vietnam War. The squadron was again disbanded in 1982, following the retirement of the Canberra. It was re-formed in 2000 to operate the Boeing 737 AEW&C \"Wedgetail\". One of the six Boeing 737s was deployed to the Middle East in September 2014, as part of Australia's contribution to the military coalition against ISIS.",
+          "semantic_score": 0.3379771411418915,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "886",
+          "text": "Hawker Typhoon\nThe Hawker Typhoon (Tiffy in RAF slang), is a British single-seat fighter-bomber, produced by Hawker Aircraft. It was intended to be a medium–high altitude interceptor, as a replacement for the Hawker Hurricane but several design problems were encountered and it never completely satisfied this requirement.",
+          "semantic_score": 0.3188208341598511,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9333",
+          "text": "No. 81 Wing RAAF\nNo. 81 Wing is responsible for operating the McDonnell Douglas F/A-18 Hornet multi-role fighters of the Royal Australian Air Force (RAAF). Headquartered at RAAF Base Williamtown, New South Wales, the wing comprises three combat units, Nos. 3 and 77 Squadrons based at Williamtown and No. 75 Squadron at RAAF Base Tindal, Northern Territory, as well as an operational conversion unit at Williamtown. No. 81 Wing headquarters oversees squadron training in air-to-air and air-to-ground tactics, and support for the Australian Army and Royal Australian Navy. Tasked with offensive and defensive counter-air operations, the Hornets have been deployed to Diego Garcia in 2001–02, when they provided local air defence, to Iraq in 2003, when they saw action flying fighter escort and close air support missions in concert with Coalition forces, and to the Middle East in 2015–16, when they undertook strike operations during the military intervention against ISIL. They have also been employed to patrol high-profile events in Australia, including the Commonwealth Games and visits by foreign dignitaries.",
+          "semantic_score": 0.35452333092689514,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9326",
+          "text": "No. 26 Squadron RAAF\nNo. 26 (City of Newcastle) Squadron RAAF is a Royal Australian Air Force reserve squadron, headquartered at RAAF Base Williamtown in New South Wales, Australia. The squadron's role is to provide trained personnel to regular RAAF units during operations. It was formed on 1 July 1981 and is responsible for air force reservists in the Hunter Region of New South Wales.",
+          "semantic_score": 0.367583304643631,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The Royal Air Force (RAF)"
+    }
+  ],
+  "links": [
+    {
+      "source": "892",
+      "target": "889",
+      "reason": "Paragraph 892 establishes the Hawker Hurricane as a Royal Air Force (RAF) aircraft, while paragraph 889 establishes No. 1455 Flight as an RAF flight; together they show both were part of the RAF."
+    }
+  ],
+  "questions_seen": 90,
+  "_id": "5adcdf455542994ed6169c11",
+  "correct_answer": "Royal Air Force",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

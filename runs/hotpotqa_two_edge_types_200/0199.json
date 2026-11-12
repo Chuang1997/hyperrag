@@ -1,0 +1,174 @@
+{
+  "question": "Are Mirpur University of Science and Technology and University of Debrecen both Universities located outside of the United States?",
+  "answer": "Yes",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Is Mirpur University of Science and Technology a university located outside of the United States?",
+      "retrieved": [
+        {
+          "id": "1984",
+          "text": "Mirpur University of Science and Technology\nMirpur University of Science & Technology (میرپور یونیورسٹی براۓ سائنس اور ٹیکنولوجی) (MUST) was formerly a constituent college of University of Azad Jammu and Kashmir as University College of Engineering & Technology Mirpur (UCET Mirpur). It is a state university and the President of Azad Jammu & Kashmir is the Chancellor of the university. The Vice-Chancellor is the executive head and manages the university functions.",
+          "semantic_score": 0.6675127148628235,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7671",
+          "text": "Inner Mongolia University of Technology\nInner Mongolia University of Technology (IMUT)() is a university in Inner Mongolia, People's Republic of China, under the authority of the Autonomous Region government. It was founded in 1951 and was originally known as the Suiyuan Higher Technical School (绥远省高级工业学校) and then after 1958 the Inner Mongolia Polytechnic Institute (内蒙古工学院) before changing to its current name in 1993. It is located in north part of Hohhot, the capital city of Inner Mongolia Autonomous Region.",
+          "semantic_score": 0.5231663584709167,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2183",
+          "text": "Massachusetts Institute of Technology\nThe Massachusetts Institute of Technology (MIT) is a private research university in Cambridge, Massachusetts. It is often ranked as one of the world's most prestigious universities.",
+          "semantic_score": 0.5061546564102173,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7667",
+          "text": "Inner Mongolia Medical University\nInner Mongolia Medical University (内蒙古医科大学) is a university in Inner Mongolia, China under the authority of the Autonomous Region government. It is located in Hohhot, the capital city of Inner Mongolia Autonomous Region. It was renamed from Inner Mongolia Medical College in 2012.",
+          "semantic_score": 0.4826216697692871,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1983",
+          "text": "Education in Hyderabad\nHyderabad is an important seat of learning in southern India. The city hosts two central universities, three deemed universities, and six state universities. Osmania University is one of the oldest universities in India. Many institutes for education like University of Hyderabad, Jawaharlal Nehru Technological University, Hyderabad, International Institute of Information Technology, Indian Institute of Technology, Hyderabad, Tata Institute of Fundamental Research,Hyderabad, Icfai University, Birla Institute of Technology and Science, Pilani – Hyderabad and medical colleges like Nizam's Institute of Medical Sciences are located there. Also based in the city are the Institute of Public Enterprise and the National Academy of Legal Studies & Research (NALSAR). Hyderabad has various research institutes such as the Indian Institute of Chemical Technology, Centre for Cellular and Molecular Biology. It is also the home of Maulana Azad National Urdu University as well as Dr. B.R. Ambedkar Open University. This educational infrastructure attracts students from all over India and some international students (especially from Africa and the Middle East). Most prolific business school in India Nmims is also expanding its roots in Hyderabad.",
+          "semantic_score": 0.4740731418132782,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2560",
+          "text": "Harvard College\nHarvard College is the undergraduate liberal arts college of Harvard University. Founded in 1636 in Cambridge, Massachusetts, it is the oldest institution of higher learning in the United States and one of the most prestigious in the world.",
+          "semantic_score": 0.3287588953971863,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7665",
+          "text": "Inner Mongolia First Machinery Group Corporation\nInner Mongolia First Machinery Group Corporation (内蒙古第一机械集团有限公司, abbrev. 一机), previously First Inner Mongolia Machinery Factory, is a military manufacturing company in China. It is a facility in Inner Mongolia and supplier of various military equipment to the PLA Army. It has also been known as Factory 617 (六一七厂) and the Baotou Tank Plant.",
+          "semantic_score": 0.2398080676794052,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1978",
+          "text": "Massachusetts International Academy\nMassachusetts International Academy (Simplified Chinese: 美国麻省国际学院, Traditional Chinese: 美國麻省國際學院, Pinyin: \"Měiguó Máshěng Guójì Xuéyuàn\") is a college preparatory school positioning high school and university graduates from China for success in United States’ colleges and universities located in Marlborough, Massachusetts. It was the first boarding school designed for Chinese students who intend to attend U.S. universities.",
+          "semantic_score": 0.4399646520614624,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "step": 2,
+      "sub_question": "Is University of Debrecen a university located outside of the United States?",
+      "retrieved": [
+        {
+          "id": "1975",
+          "text": "University of Debrecen\nThe University of Debrecen (Hungarian: \"Debreceni Egyetem\" ) is a university located in Debrecen, Hungary. It is the oldest continuously operating institution of higher education in Hungary (since 1538). The university has a well established programme in the English language for international students, particularly in the Medical field, which first established education in English in 1986. There are nearly 4000 international students studying at the university.",
+          "semantic_score": 0.6702672243118286,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4221",
+          "text": "Florida International University\nFlorida International University (FIU) is an American metropolitan public research university in Greater Miami, Florida, United States. FIU has two major campuses in Miami-Dade County, with its main campus in University Park. Florida International University is classified as a research university with highest research activity by the Carnegie Foundation and a research university by the Florida Legislature.",
+          "semantic_score": 0.42115023732185364,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8253",
+          "text": "University of the District of Columbia\nThe University of the District of Columbia (UDC) is the only public university in the U.S. capital of Washington, D.C. UDC is one of the few urban land-grant universities in the country and a member school of the Thurgood Marshall College Fund.",
+          "semantic_score": 0.41819727420806885,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1979",
+          "text": "List of universities in Venezuela\nVenezuela has a wide array of universities, offering courses in a broad variety of subjects, spread between a total 23 public and 24 private universities located across several states. As a result of a Royal Decree signed by Philip V of Spain, the Central University of Venezuela—the country's oldest—was founded in 1721 as \"Universidad Real y Pontificia de Caracas\". The campus was originally at the now-known \"Palacio de las Academias\" but, in 1944, president Isaías Medina Angarita relocated it to the University City of Caracas.",
+          "semantic_score": 0.412835955619812,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4218",
+          "text": "University of Groningen\nThe University of Groningen (abbreviated as UG; Dutch: \"Rijksuniversiteit Groningen\" , abbreviated as \"RUG\") is a public research university in the city of Groningen in the Netherlands. The university was founded in 1614 and is one of the oldest universities in the Netherlands as well as one of its largest. Since its inception more than 200,000 students have graduated. It is a member of the distinguished international Coimbra Group of European universities.",
+          "semantic_score": 0.41004258394241333,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5394",
+          "text": "Florida City, Florida\nFlorida City is a city in Miami-Dade County, Florida, United States and is the southernmost municipality in the South Florida metropolitan area. Florida City is primarily a Miami suburb and a major agricultural area.",
+          "semantic_score": 0.0829319879412651,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2438",
+          "text": "Albanian University in Berat\nThe University of Berat is a private institution, independent and secular Higher Education, which operates the state fee. Licensed by the Council of Ministers, no. 697 dated 18.06.2009, he opened the doors in the academic year 2009- 2010, offering programs in two faculties: Faculty of Social Sciences Programs in Science Teaching Legal, Political Science and Psychology General Administration and the Faculty of Economics with Learning programs in Banking and Finance-Business Administration. During the first academic year, about 1,000 students attended studies. A year later, this new institution offering undergraduate degrees in study programs: Preschool Teacher Education, Primary Education Teacher, English Language, Nursing, Engineering Computer and Information Technology, thus finalizing the 2010-2011 academic year with the opening of two new faculties: Faculty of Medical Sciences and the Faculty of Architecture and Inxhinierive. Academic Year 2010-2011 finds the University Berat with about 2600 students in the first cycle of study. Since the first year of its inception, the institution pointed at the center of academic life, the promotion of intellectual product and melting learning and research. Through presentations, research and exchange, the University directs and encourages the identification and development of projects that will once again consolidate its primary purpose, scientific development, and research toward better quality.",
+          "semantic_score": 0.3393181562423706,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "250",
+          "text": "University of Northern Philippines\nThe University of Northern Philippines (UNP) is a university in Barangay Tamag, in the City of Vigan in the province of Ilocos Sur, Philippines. It is the first and oldest state university in Northern Luzon which offers low tuition fee, tracing its roots to 1906, which is older than the University of the Philippines by two years. It is the only state university in the province aimed for less-fortunate people and one of three state-owned educational institutions of higher learning operating in Ilocos Sur (with the Ilocos Sur Polytechnic State College and the Northern Luzon Polytechnic State College, a former branch of the university).",
+          "semantic_score": 0.38457274436950684,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "links": [
+    {
+      "source": "1984",
+      "target": "1975",
+      "reason": "Paragraph 1984 establishes MUST is a state university in Azad Jammu & Kashmir (outside the US), and paragraph 1975 establishes University of Debrecen is in Hungary (outside the US); together they jointly support the conclusion that both universities are located outside the United States."
+    }
+  ],
+  "questions_seen": 200,
+  "_id": "5adfec5f55429942ec259b8d",
+  "correct_answer": "yes",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

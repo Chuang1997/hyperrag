@@ -1,0 +1,275 @@
+{
+  "question": "Are Benjamin Britten and Béla Bartók from the same country?",
+  "answer": "No",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What country is Benjamin Britten from?",
+      "retrieved": [
+        {
+          "id": "1657",
+          "text": "Benjamin Britten\nEdward Benjamin Britten, Baron Britten {'1': \", '2': \", '3': \", '4': \"} (22 November 1913 – 4 December 1976) was an English composer, conductor and pianist. He was a central figure of 20th-century British classical music, with a range of works including opera, other vocal music, orchestral and chamber pieces. His best-known works include the opera \"Peter Grimes\" (1945), the \"War Requiem\" (1962) and the orchestral showpiece \"The Young Person's Guide to the Orchestra\" (1945).",
+          "semantic_score": 0.6054354906082153,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5551",
+          "text": "Mark Britten\nMark Britten is an American comedian from Arlington, Texas, whose chosen stage name is \"The Chinaman\". Born of a Chinese-American mother and a Caucasian father, his act employs material from his \"dysfunctional background\" and skews ethnic stereotypes of all kinds. He has been a performing stand-up comic for ten years, and is known for his voice impersonations, parodies of rock singers and other vocalists and biting anecdotes about the foibles of ethnic and cultural stereotypes. \"The Austin Chronicle\" describes him as \"a rock star trapped in a comic’s body.\" He is a member of the American Federation of Television and Radio Artists.",
+          "semantic_score": 0.5513262152671814,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6764",
+          "text": "David Alden\nDavid Alden (born 1949 in New York City) is a prolific theater and film director known for his post-modernist settings of opera. He is the twin brother of Christopher Alden, also an opera director in the revisionist mold. The two brothers have covered much of the same repertoire in their long careers, but whereas Christopher's operatic settings place greater emphasis on his characters' emotional range, David's protagonists are more broadly caricatured and his productions far more politically charged. Another distinguishing feature between them is that David has been more active in Europe throughout his career, having enjoyed a particularly close creative partnership with Sir Peter Jonas for more than two decades, at both the English National Opera and the Bavarian State Opera.",
+          "semantic_score": 0.3917434811592102,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "451",
+          "text": "Alfio\nAlfio (born Alfio Bonanno, 24 October 1976) is an Australian-Italian tenor, songwriter, musician, and composer. He began singing at a very early age and started singing professionally at the age of 17, concentrating on recorded music and concerts so far. Alfio has performed in Australia, the United States, Europe, and Asia.",
+          "semantic_score": 0.37694311141967773,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2992",
+          "text": "Søren Solkær\nSøren Solkær (born 3 September 1969 and formerly known as Søren Solkær Starbird), is a Danish photographer best known for his portraits of musicians. He is most recognised as the man responsible for various iconic images of Björk, The White Stripes, Franz Ferdinand, David Lynch, Arctic Monkeys, R.E.M. and U2.",
+          "semantic_score": 0.35619956254959106,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7223",
+          "text": "Søren Rasted\nSøren Nystrøm Rasted (born Søren Rasted on 13 June 1969 in Blovstrød, Denmark) is a Danish musician, singer, songwriter and record producer. He plays keyboard, guitar and sings backing vocals. He is one of the four members of Danish eurodance group Aqua, and was married to the Aqua vocalist Lene Nystrøm.",
+          "semantic_score": 0.20932285487651825,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6484",
+          "text": "Birgitte Hjort Sørensen\nBirgitte Hjort Sørensen (born 16 January 1982) is a Danish actress. She has been nominated for three Robert Awards and one Bodil Award. Born in Hillerød and raised in Birkerød, Sørensen aspired to an acting career after watching the West End production of the musical \"Chicago\" while at school. She graduated from the Danish National School of Performing Arts. Her acting debut was in a minor role in the television series \"The Eagle\" in 2005. She followed this by playing Roxie Hart in a Copenhagen production of \"Chicago\", and later on the West End. Sørensen's breakthrough role was as journalist Katrine Fønsmark in the television political drama \"Borgen\" (2010–2013).",
+          "semantic_score": 0.08088654279708862,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1925",
+          "text": "Karl-Birger Blomdahl\nKarl-Birger Blomdahl (19 October 1916 – 14 June 1968) was a Swedish composer and conductor born in Växjö. He was educated in biochemistry, but was primarily active in music and by his experimental compositions he became one of the big names in Swedish modernism. His teachers included Hilding Rosenberg. He died in Kungsängen, Stockholm.",
+          "semantic_score": 0.25862956047058105,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7370",
+          "text": "Pete Johansson\nPeter (Pete) Johansson (born November 6, 1973) is a Canadian comedian, writer and actor. He has a number of notable television appearances, including \"Comedy Central's Premium Blend\", CTV's \"Comedy Now\", CBC's \"Comics!\" and CBS's \"The Late Late Show with Craig Kilborn\". He has also appeared at the prestigious Just for Laughs festival and HBO's Aspen Comedy Arts festival.",
+          "semantic_score": 0.17852140963077545,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3552",
+          "text": "Marcell Ozuna\nMarcell Ozuna Idelfonso (born November 12, 1990) is a Dominican professional baseball left fielder for the Miami Marlins of Major League Baseball (MLB). He made his MLB debut in 2013.",
+          "semantic_score": 0.19707666337490082,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "England"
+    },
+    {
+      "step": 2,
+      "sub_question": "What country is Béla Bartók from?",
+      "retrieved": [
+        {
+          "id": "1648",
+          "text": "Béla Bartók Music High School\nBéla Bartók Music High School (Bartók Béla Zeneművészeti Szakközépiskola) is situated in the Palace of Music (Zenepalota) in Bartók square Miskolc, Hungary.It is a famous Music school named after the famous Hungarian composer Béla Bartók.It was founded in 1966.",
+          "semantic_score": 0.5115697979927063,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1656",
+          "text": "Béla Bartók\nBéla Viktor János Bartók ( ; ] ; 25 March 1881 – 26 September 1945) was a Hungarian composer, pianist and an ethnomusicologist. He is considered one of the most important composers of the 20th century; he and Liszt are regarded as Hungary's greatest composers . Through his collection and analytical study of folk music, he was one of the founders of comparative musicology, which later became ethnomusicology.",
+          "semantic_score": 0.44400453567504883,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5469",
+          "text": "Félix Vallotton\nFélix Edouard Vallotton (December 28, 1865December 29, 1925) was a Swiss/French painter and printmaker associated with \"Les Nabis\". He was an important figure in the development of the modern woodcut.",
+          "semantic_score": 0.3996397852897644,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2992",
+          "text": "Søren Solkær\nSøren Solkær (born 3 September 1969 and formerly known as Søren Solkær Starbird), is a Danish photographer best known for his portraits of musicians. He is most recognised as the man responsible for various iconic images of Björk, The White Stripes, Franz Ferdinand, David Lynch, Arctic Monkeys, R.E.M. and U2.",
+          "semantic_score": 0.3975576162338257,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3264",
+          "text": "Régis Laguesse\nRégis Laguesse (born Montreuil-Bellay 6 January 1950) is a French football coach and former player. He played for Angers SCO, SC Bastia and Stade Lavallois in the 1970s. He coached Thailand Premier League side BEC Tero Sasana in 2007, until he was replaced by another Frenchman Christophe Larrouilh. As of 2014, Laguesse was working as a coach in Congo's Katumbi Académie, a football academy owned by TP Mazembe owner Moïse Katumbi Chapwe.",
+          "semantic_score": 0.3783755898475647,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1651",
+          "text": "Palace of Music (Miskolc)\nThe Palace of Music (\"Zenepalota\") is a building in Bartók square, Miskolc, Hungary. It is the building of the Béla Bartók Secondary School and the Béla Bartók Music Institute (a faculty of the University of Miskolc.) The Palace was designed by Gyula Waelder in Neo-baroque style and was built between 1926 and 1927. The construction was financed from USA loans, just like that of the Hotel Palace in Lillafüred and the Market Hall on Búza tér.",
+          "semantic_score": 0.28901800513267517,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5473",
+          "text": "Édouard Vuillard\nJean-Édouard Vuillard (] ; 11 November 186821 June 1940) was a French painter and printmaker associated with the Nabis.",
+          "semantic_score": 0.22327908873558044,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5477",
+          "text": "Pierre Bonnard\nPierre Bonnard (] ; 3 October 1867 — 23 January 1947) was a French painter and printmaker, as well as a founding member of the Post-Impressionist group of avant-garde painters Les Nabis. Bonnard preferred to work from memory, using drawings as a reference, and his paintings are often characterized by a dreamlike quality. The intimate domestic scenes, for which he is perhaps best known, often include his wife Marthe de Meligny.",
+          "semantic_score": 0.24048225581645966,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Hungary"
+    },
+    {
+      "step": 3,
+      "sub_question": "Are these two countries the same?",
+      "retrieved": [
+        {
+          "id": "5896",
+          "text": "Flag of Hungary\nThe flag of Hungary (Hungarian: \"Magyarország zászlaja\" ) is a horizontal tricolour of red, white and green. In this exact form, it has been the official flag of Hungary since May 23, 1957. The flag's form originates from national republican movements of the 18th and 19th centuries, while its colours are from the Middle Ages. The current Hungarian tricolour flag is the same as the republican movement flag of the United Kingdom (used since 1816).",
+          "semantic_score": 0.5188685059547424,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "28",
+          "text": "Gordon Bajnai\nGyörgy Gordon Bajnai (] ; born 5 March 1968) is a Hungarian entrepreneur and economist, who served as the seventh Prime Minister of Hungary from 2009 to 2010. In March 2009, following Prime Minister Ferenc Gyurcsány's announced resignation, Bajnai was nominated by the ruling Hungarian Socialist Party (MSZP) to become Hungary's next prime minister. Bajnai became prime minister when the parliament passed a constructive motion of no-confidence against Ferenc Gyurcsány on 14 April 2009.",
+          "semantic_score": 0.3900282680988312,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3185",
+          "text": "Parno Graszt\nParno Graszt is a Roma (i.e. \"Gypsy\") music ensemble from Paszab, Hungary founded in 1987. \"Parno Grast\" means \"white horse\" in the Romany language, with \"graszt\" using the Hungarian orthography 'sz' for 's'. In the Roma culture white is symbol of purity and horse is a symbol of freedom. Their debut album \"Hit the piano\" reached Number 7 on the World Music Chart Europe in October 2002. Hungarian Television and the BBC produced in 2004 a music documentary about Parno Graszt. After their second album, \"Járom az utam\" (2004), Parno Graszt was voted in the top 10 for \"best artist of year\", 2005, by the Swiss music magazine \"Vibrations\". In 2016, they competed in A Dal, the national final selection for Hungary in the Eurovision Song Contest with the song \"Már nem szédülök\", and reached the final.",
+          "semantic_score": 0.3779686689376831,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "954",
+          "text": "Krucze Mountains\nThe Krucze Mountains (Czech: \"Vraní hory\" , German: \"Rabengebirge\" Polish: \"Góry Krucze\" ) are the Eastern part of the Stone Mountains, which belong to the Central Sudetes on the border of the Czech Republic and Poland. To the West and North-Western part the mountain range borders the Lubawska Plateau and the Karkonosze Mountains, to the North-Eastern part they border the mountain range Czarny Las, from the East they border the sediment basin Kotlina Krzeszowska and the Zawory mountain range and to the South the mountain range borders the Czech part of the Stołowe Mountains. To the Southern ridge of mountain range is the Polish-Czech border. The border crossing for cars is in Lubawka and for tourists is in Okrzeszyn.",
+          "semantic_score": 0.37080278992652893,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "967",
+          "text": "Bruckneudorf\nBruckneudorf (Hungarian: \"Királyhida\" ) is a small town in the district of Neusiedl am See in the federal state of Burgenland in Austria, neighbouring Bruck an der Leitha (\"Leitha Bridge\"). Its name means \"bridge new village\", whereas the Hungarian version means \"royal bridge\", and the \"royal\" refers to King Francis I. Historically and geographically, Bruckneudorf represents the extension of the Austrian town of Bruck an der Leitha over the Austrian border into Hungary. This border, symbolised by the river Leitha, separated the Austrian Empire from the Kingdom of Hungary (\"Cisleithania\" and \"Transleithania\"). Its main current national significance derives from the Bruckneudorf military exercise ground of the Austrian federal army. Currently it is also the site of Bruck an der Leitha railway station, an important railway station near the borders with Hungary and Slovakia, a stop for nearly all the international trains that pass through it.",
+          "semantic_score": 0.3512997329235077,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5894",
+          "text": "Pan-Slavic colors\nThe Pan-Slavic colors — red, blue and white — were defined by the Prague Slavic Congress, 1848, based on the flag of Russia, which was introduced in the late 17th century. The tricolour flag of Russia was itself inspired by the flag of the Netherlands. Historically, many Slavic nations and states adopted flags and other national symbols that used some combination of those three colors, but rarely all three of them. List of Slavic countries that use or have used the colors include: Russia, Yugoslavia, Czechoslovakia, Czech Republic, Montenegro, Slovakia, Croatia, Serbia and Slovenia. Bosnia and Herzegovina, Belarus, Bulgaria, Macedonia, Poland and Ukraine have never adopted the colors.",
+          "semantic_score": 0.31894195079803467,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5900",
+          "text": "Flag of Ireland\nThe national flag of Ireland (Irish: \"bratach na hÉireann\" ) – frequently referred to as the Irish tricolour (\"trídhathach na hÉireann\") – is the national flag and ensign of the Republic of Ireland. The flag itself is a vertical tricolour of green (at the hoist), white and orange.",
+          "semantic_score": 0.21183733642101288,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5892",
+          "text": "Tricolour (flag)\nA tricolour or tricolor is a type of flag or banner design with a triband design which originated in the 16th century as a symbol of republicanism, liberty or indeed revolution. The flags of France, Italy, Romania, Mexico, and Ireland were all first adopted with the formation of an independent republic in the period of the French Revolution to the Revolutions of 1848, with the exception of the Irish tricolour, which dates from 1848 but was not popularised until the Easter Rising in 1916 and adopted in 1919.",
+          "semantic_score": 0.16531962156295776,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5897",
+          "text": "Flag of Azerbaijan\nThe flag of Azerbaijan (Azerbaijani: \"Azərbaycan bayrağı\" ) is a horizontal tricolour featuring three equally sized fesses of blue, red, and green, with a white crescent and an eight-pointed star in the center. The tricolour replaced an earlier design used by the Azerbaijan SSR. The blue symbolizes Azerbaijan's Turkic heritage, the red stands for progress, and the green represents Islam. The official colors and size were adopted on February 5, 1991. This flag was used from November 9, 1918 to 1920, when Azerbaijan was independent, and it was revived with slight variations on February 5, 1991. The nickname for the flag is Üçrəngli Bayraq, which means The Tricolour Flag.",
+          "semantic_score": 0.17891564965248108,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5891",
+          "text": "Flag of Thailand\nThe flag of the Kingdom of Thailand (Thai: ธงไตรรงค์ , \"Thong Trairong\", meaning \"tricolour flag”) shows five horizontal stripes in the colours red, white, blue, white and red, with the central blue stripe being twice as wide as each of the other four. The design was adopted on 28 September 1917, according to the royal decree issued by Rama VI that year. Since 2016, that day is a national holiday in Thailand celebrating the nation's flag.",
+          "semantic_score": 0.21536800265312195,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "No"
+    }
+  ],
+  "links": [
+    {
+      "source": "1657",
+      "target": "1656",
+      "reason": "Paragraph 1657 identifies Benjamin Britten as English (country: England), while paragraph 1656 identifies Béla Bartók as Hungarian (country: Hungary), providing the two nationality facts needed to compare whether they are from the same country."
+    }
+  ],
+  "questions_seen": 167,
+  "_id": "5ae12bcc5542997b2ef7d11a",
+  "correct_answer": "no",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

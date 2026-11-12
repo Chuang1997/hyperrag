@@ -1,0 +1,161 @@
+{
+  "question": "Which group of outlaws from the 1890s shares a name with a Yugoslav rock band?",
+  "answer": "Azra",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What Yugoslav rock bands exist?",
+      "retrieved": [
+        {
+          "id": "1785",
+          "text": "Korni Grupa\nKorni Grupa (Serbian Cyrillic: Корни Група, trans. \"Korni Group\") was a Yugoslav rock band from Belgrade, also known as the Kornelyans, the name which they used during a short-lived foray into the international market. Formed in 1968, Korni Grupa was one of the first Yugoslav rock bands to achieve major mainstream popularity, and the first Yugoslav supergroup. Korni Grupa is considered to be one of the most prominent and influential bands in the history of rock music in Yugoslavia.",
+          "semantic_score": 0.6131206154823303,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1780",
+          "text": "Riblja Čorba\nRiblja Čorba (Serbian Cyrillic: Рибља Чорба, pronounced ] ; translation: \"Fish Stew\") is a Serbian and Yugoslav rock band from Belgrade. The band was one of the most popular and most influential acts of the Yugoslav rock scene.",
+          "semantic_score": 0.5637820363044739,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1781",
+          "text": "Iskre\nIskre (Serbian Cyrillic: Искре, trans. \"The Sparks\") was a former Yugoslav rock band. The band is notable for being one of the pioneers of the former Yugoslav rock scene.",
+          "semantic_score": 0.5559821724891663,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1784",
+          "text": "Smak\nSmak (Serbian Cyrillic: Смак; trans. \"The end time\") is a Serbian and former Yugoslav rock band from Kragujevac. The group reached the peak of popularity in the 1970s when it was one of the most notable acts of the former Yugoslav rock scene. The band's leader, guitarist Radomir Mihailović, nicknamed Točak (\"The Wheel\"), is considered one of the most influential guitarists on the former Yugoslav rock scene.",
+          "semantic_score": 0.5333484411239624,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3561",
+          "text": "Azra\nAzra was a rock band that was popular across Yugoslavia in the 1980s. Azra was formed in 1977 by its frontman Branimir \"Johnny\" Štulić. The other two members of the original line-up were Mišo Hrnjak (bass) and Boris Leiner (drums). The band is named after a verse from \"Der Asra\" by Heinrich Heine. They are considered to be one of the most influential bands from the former Yugoslav new wave rock era and the Yugoslav rock scene in general.",
+          "semantic_score": 0.5148769021034241,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1778",
+          "text": "Bajaga i Instruktori\nBajaga i Instruktori (Serbian Cyrillic: Бајага и Инструктори; trans. \"Bajaga and the Instructors\") are a highly popular Serbian and former Yugoslav rock band. Founded in Belgrade in 1984 by composer, lyricist and guitarist Momčilo Bajagić \"Bajaga\", the group possesses a rich discography and a plethora of hit songs that placed them at the top of the former Yugoslav rock scene, alongside other mega-selling bands such as Bijelo Dugme and Riblja Čorba.",
+          "semantic_score": 0.47490182518959045,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1783",
+          "text": "Bele Višnje\nBele Višnje (Serbian Cyrillic: Беле Вишње, trans. \"White Sour Cherries\") was a Serbian and former Yugoslav rock band. The band is notable for being one of the pioneers of the former Yugoslav rock scene.",
+          "semantic_score": 0.5110339522361755,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1782",
+          "text": "S Vremena Na Vreme\nS Vremena Na Vreme (Serbian Cyrillic: С Времена На Време, trans. \"From Time To Time\") is a Serbian and former Yugoslav rock band from Belgrade. S Vremena Na Vreme were one of the pioneers of the Serbian acoustic rock scene, and one of the pioneers in incorporating folk music elements into rock music on the former Yugoslav rock scene.",
+          "semantic_score": 0.513812243938446,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Korni Grupa, Riblja Čorba, Iskre, Smak, Azra, Bajaga i Instruktori, Bele Višnje, S Vremena Na Vreme"
+    },
+    {
+      "step": 2,
+      "sub_question": "Which of these bands shares its name with a group of 1890s outlaws?",
+      "retrieved": [
+        {
+          "id": "1785",
+          "text": "Korni Grupa\nKorni Grupa (Serbian Cyrillic: Корни Група, trans. \"Korni Group\") was a Yugoslav rock band from Belgrade, also known as the Kornelyans, the name which they used during a short-lived foray into the international market. Formed in 1968, Korni Grupa was one of the first Yugoslav rock bands to achieve major mainstream popularity, and the first Yugoslav supergroup. Korni Grupa is considered to be one of the most prominent and influential bands in the history of rock music in Yugoslavia.",
+          "semantic_score": 0.5842702984809875,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1778",
+          "text": "Bajaga i Instruktori\nBajaga i Instruktori (Serbian Cyrillic: Бајага и Инструктори; trans. \"Bajaga and the Instructors\") are a highly popular Serbian and former Yugoslav rock band. Founded in Belgrade in 1984 by composer, lyricist and guitarist Momčilo Bajagić \"Bajaga\", the group possesses a rich discography and a plethora of hit songs that placed them at the top of the former Yugoslav rock scene, alongside other mega-selling bands such as Bijelo Dugme and Riblja Čorba.",
+          "semantic_score": 0.5450267195701599,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3561",
+          "text": "Azra\nAzra was a rock band that was popular across Yugoslavia in the 1980s. Azra was formed in 1977 by its frontman Branimir \"Johnny\" Štulić. The other two members of the original line-up were Mišo Hrnjak (bass) and Boris Leiner (drums). The band is named after a verse from \"Der Asra\" by Heinrich Heine. They are considered to be one of the most influential bands from the former Yugoslav new wave rock era and the Yugoslav rock scene in general.",
+          "semantic_score": 0.5112420320510864,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1783",
+          "text": "Bele Višnje\nBele Višnje (Serbian Cyrillic: Беле Вишње, trans. \"White Sour Cherries\") was a Serbian and former Yugoslav rock band. The band is notable for being one of the pioneers of the former Yugoslav rock scene.",
+          "semantic_score": 0.4954208731651306,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1780",
+          "text": "Riblja Čorba\nRiblja Čorba (Serbian Cyrillic: Рибља Чорба, pronounced ] ; translation: \"Fish Stew\") is a Serbian and Yugoslav rock band from Belgrade. The band was one of the most popular and most influential acts of the Yugoslav rock scene.",
+          "semantic_score": 0.483542263507843,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1781",
+          "text": "Iskre\nIskre (Serbian Cyrillic: Искре, trans. \"The Sparks\") was a former Yugoslav rock band. The band is notable for being one of the pioneers of the former Yugoslav rock scene.",
+          "semantic_score": 0.40913403034210205,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1784",
+          "text": "Smak\nSmak (Serbian Cyrillic: Смак; trans. \"The end time\") is a Serbian and former Yugoslav rock band from Kragujevac. The group reached the peak of popularity in the 1970s when it was one of the most notable acts of the former Yugoslav rock scene. The band's leader, guitarist Radomir Mihailović, nicknamed Točak (\"The Wheel\"), is considered one of the most influential guitarists on the former Yugoslav rock scene.",
+          "semantic_score": 0.36652007699012756,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Azra"
+    }
+  ],
+  "links": [],
+  "questions_seen": 180,
+  "_id": "5a8b7cb95542995d1e6f13bb",
+  "correct_answer": "Dalton Gang",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

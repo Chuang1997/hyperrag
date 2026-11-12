@@ -1,0 +1,233 @@
+{
+  "question": "Is the Marsilea or the Brabejum the genus of more individual species of plants?",
+  "answer": "Marsilea",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "How many individual species of plants belong to the genus Marsilea?",
+      "retrieved": [
+        {
+          "id": "1916",
+          "text": "Marsilea\nMarsilea is a genus of approximately 65 species of aquatic ferns of the family Marsileaceae. The name honours Italian naturalist Luigi Ferdinando Marsili (1656–1730).",
+          "semantic_score": 0.7300295233726501,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1921",
+          "text": "Marsileaceae\nThe Marsileaceae are a small family of heterosporous aquatic and semi-aquatic ferns, though at first sight they do not physically resemble other ferns. The group is commonly known as the \"pepperwort family\" or as the \"water-clover family\" because the leaves of the genus \"Marsilea\" superficially resemble the leaves of a four-leaf clover (a flowering plant). Leaves of this fern have sometimes been used to substitute for clover leaves on Saint Patrick's Day. In all, the family contains 3 genera and 50 to 80 species with most of those belonging to \"Marsilea\".",
+          "semantic_score": 0.6506432294845581,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1924",
+          "text": "Marsilea minuta\nMarsilea minuta, or dwarf waterclover is a species of aquatic fern in the Marsileaceae family. Not to be confused with \"Marsilea minuta\" , which is a synonym for \"Marsilea vestita\". Other common names include gelid waterklawer, small water clover, airy pepperwort, and pepperwort, though the lattermost also applies to plants in the genus Lepidium. In French it is called",
+          "semantic_score": 0.6067322492599487,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6943",
+          "text": "Phylica\nPhylica is a genus of plants in the family Rhamnaceae. It contains about 150 species, the majority of which are restricted to South Africa, where they form part of the \"fynbos \". A few species occur in other parts of southern Africa, and on islands including Madagascar, the Mascarene Islands, Île Amsterdam, Saint Helena, Tristan da Cunha, and Gough Island.",
+          "semantic_score": 0.5148271322250366,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8996",
+          "text": "Couroupita\nCouroupita is a genus of flowering plants of Lecythidaceae family first described as a genus in 1775. It is native to tropical South America and Central America.",
+          "semantic_score": 0.49119341373443604,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8994",
+          "text": "Couroupita guianensis\nCouroupita guianensis, known by a variety of common names including cannonball tree, is a deciduous tree in the family Lecythidaceae, which also includes the Brazil nut (\"Bertholletia excelsa\") and Paradise nut \"Lecythis zabucajo\". It is native to the rainforests of Central and South America, and it is cultivated in many other tropical areas throughout the world because of its beautiful, fragrant flowers and large, interesting fruits. There are medicinal uses for many parts of \"Couroupita guianensis\", and the tree has cultural and religious significance in India, Sri Lanka, and Southeast Asia.",
+          "semantic_score": 0.36072590947151184,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2481",
+          "text": "Pseudopontia\nPseudopontia is a genus of butterflies found only in wet forests of tropical Africa. It is the only genus in the subfamily Pseudopontiinae. It was traditionally thought to contain only one species (monotypic), \"Pseudopontia paradoxa\". However, a recent study showed there are at least five species of \"Pseudopontia\" which can be distinguished genetically and by details of wing veins. Each is found primarily in a different part of Africa, though several of the species have overlapping geographic distributions.",
+          "semantic_score": 0.4241073727607727,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Approximately 65 species."
+    },
+    {
+      "step": 2,
+      "sub_question": "How many individual species of plants belong to the genus Brabejum?",
+      "retrieved": [
+        {
+          "id": "1919",
+          "text": "Brabejum\nBrabejum is a genus of a single species of large evergreen tree, Brabejum stellatifolium in the Proteaceae, commonly called wild almond, bitter almond or ghoeboontjie. It is restricted in the wild to South Africa's Western Cape Province, where it grows in thickets along the banks of streams. The plant is of botanical interest as being Africa's only member of the large grevilleoid subfamily. It is a bushy small tree with branches widely at ground level and numerous erect vigorous stems. Leaves to 6 in (15 cm) long, narrow and bluntly toothed, appear at intervals along the branches, mostly in whorls of 6. In summer, the plant bears white flowers densely crowded on spikes arising from rusty buds at the leaf axils. The fruits to 2 in (5 cm) long, magenta to reddish brown, similar to an almond, appear in autumn. The nut is too bitter to eat; however, in earlier times it was boiled, roasted, and ground to make a \"coffee\" drink.",
+          "semantic_score": 0.6066819429397583,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2480",
+          "text": "Bupleurum\nBupleurum is a large genus of annual or perennial herbs or woody shrubs, with about one hundred and ninety species, belonging to the Apiaceae family. The full size of its species may vary between a few cm to up to 3 m high. Their compound umbels of small flowers are adorned with bracteoles that are sometimes large and may play a role in attracting pollinators. Rare among Apiaceae are the simple leaves, bracts (if present) and bracteoles. The genus is almost exclusively native in the Old World Northern Hemisphere, with one species native to North America and one species native to southern Africa.",
+          "semantic_score": 0.5754287838935852,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6340",
+          "text": "Caladenia\nCaladenia, commonly known as spider orchids, is a genus of 350 species of plants in the orchid family, Orchidaceae. Spider orchids are terrestrial herbs with a single hairy leaf and a hairy stem. The labellum is fringed or toothed in most species and there are small projections called calli on the labellum. The flowers have adaptations to attract particular species of insects for pollination. The genus is divided into three groups on the basis of flower shape, broadly, spider orchids, zebra orchids and cowslip orchids, although other common names are often used. Although they occur in other countries, most are Australian and 136 species occur in Western Australia, making it the most species-rich orchid genus in that state.",
+          "semantic_score": 0.44823673367500305,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6713",
+          "text": "List of Dahlia species\nThere are 42 accepted species in the \"Dahlia\" genus, according to The Plant List. The sectional classification of \"Dahlia \" \"sensu\" Sørensen (1969) as updated by Saar \"et al.\" (2003) and Hansen (2004) and (2008) is as follows (excluding infraspecific taxa);",
+          "semantic_score": 0.44800707697868347,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "82",
+          "text": "Coronilla\nThe genus Coronilla contains about 20 species of flowering plants native to Europe and North Africa.",
+          "semantic_score": 0.441756010055542,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6717",
+          "text": "List of Dahlia cultivars\nThe horticultural cultivation of the dahlia plant has resulted in over 57,000 registered cultivars of dahlia. Several of them are listed below.",
+          "semantic_score": 0.37983402609825134,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6718",
+          "text": "Dahlia\nDahlia ( or ) is a genus of bushy, tuberous, herbaceous perennial plants native to Mexico. A member of the Asteraceae (or Compositae), dicotyledonous plants, related species include the sunflower, daisy, chrysanthemum, and zinnia. There are 42 species of dahlia, with hybrids commonly grown as garden plants. Flower forms are variable, with one head per stem; these can be as small as 2 in diameter or up to 1 ft (\"dinner plate\"). This great variety results from dahlias being octoploids—that is, they have eight sets of homologous chromosomes, whereas most plants have only two. In addition, dahlias also contain many transposons—genetic pieces that move from place to place upon an allele—which contributes to their manifesting such great diversity.",
+          "semantic_score": 0.42664989829063416,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6722",
+          "text": "Dahlia pinnata\nDahlia pinnata (\"D. x pinnata\") is a species in the genus \"Dahlia\", family Asteraceae, with the common name garden dahlia. It is the type species of the genus and is widely cultivated.",
+          "semantic_score": 0.344745397567749,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6342",
+          "text": "Calochilus\nCalochilus, commonly known as beard orchids, is a genus of about 30 species of plants in the orchid family, Orchidaceae. Beard orchids are terrestrial, herbs with a single leaf at the base of the plant, or no leaves. Their most striking feature is a densely hairy labellum, giving rise to their common name. Beard orchids, unlike some other Australian orchids, do not reproduce using daughter tubers, but self-pollinate when cross-pollination has not occurred. Most species occur in Australia but some are found in New Zealand, New Guinea and New Caledonia.",
+          "semantic_score": 0.410703182220459,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6720",
+          "text": "Dahlia imperialis\nDahlia imperialis or Bell tree dahlia is an 8-10 metre tall member of the Dahlia genus native to Mexico, Central America and Colombia. It is a plant of the uplands and mountains, occurring at elevations of 1500 - , and its leaves are used as a dietary supplement by the Q'eqchi' people of San Pedro Carchá in Alta Verapaz, Guatemala.",
+          "semantic_score": 0.27619946002960205,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1"
+    },
+    {
+      "step": 3,
+      "sub_question": "Which genus has more individual species of plants, Marsilea or Brabejum?",
+      "retrieved": [
+        {
+          "id": "1916",
+          "text": "Marsilea\nMarsilea is a genus of approximately 65 species of aquatic ferns of the family Marsileaceae. The name honours Italian naturalist Luigi Ferdinando Marsili (1656–1730).",
+          "semantic_score": 0.5866854190826416,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2480",
+          "text": "Bupleurum\nBupleurum is a large genus of annual or perennial herbs or woody shrubs, with about one hundred and ninety species, belonging to the Apiaceae family. The full size of its species may vary between a few cm to up to 3 m high. Their compound umbels of small flowers are adorned with bracteoles that are sometimes large and may play a role in attracting pollinators. Rare among Apiaceae are the simple leaves, bracts (if present) and bracteoles. The genus is almost exclusively native in the Old World Northern Hemisphere, with one species native to North America and one species native to southern Africa.",
+          "semantic_score": 0.5602431297302246,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1919",
+          "text": "Brabejum\nBrabejum is a genus of a single species of large evergreen tree, Brabejum stellatifolium in the Proteaceae, commonly called wild almond, bitter almond or ghoeboontjie. It is restricted in the wild to South Africa's Western Cape Province, where it grows in thickets along the banks of streams. The plant is of botanical interest as being Africa's only member of the large grevilleoid subfamily. It is a bushy small tree with branches widely at ground level and numerous erect vigorous stems. Leaves to 6 in (15 cm) long, narrow and bluntly toothed, appear at intervals along the branches, mostly in whorls of 6. In summer, the plant bears white flowers densely crowded on spikes arising from rusty buds at the leaf axils. The fruits to 2 in (5 cm) long, magenta to reddish brown, similar to an almond, appear in autumn. The nut is too bitter to eat; however, in earlier times it was boiled, roasted, and ground to make a \"coffee\" drink.",
+          "semantic_score": 0.5543028712272644,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1924",
+          "text": "Marsilea minuta\nMarsilea minuta, or dwarf waterclover is a species of aquatic fern in the Marsileaceae family. Not to be confused with \"Marsilea minuta\" , which is a synonym for \"Marsilea vestita\". Other common names include gelid waterklawer, small water clover, airy pepperwort, and pepperwort, though the lattermost also applies to plants in the genus Lepidium. In French it is called",
+          "semantic_score": 0.5217791795730591,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1921",
+          "text": "Marsileaceae\nThe Marsileaceae are a small family of heterosporous aquatic and semi-aquatic ferns, though at first sight they do not physically resemble other ferns. The group is commonly known as the \"pepperwort family\" or as the \"water-clover family\" because the leaves of the genus \"Marsilea\" superficially resemble the leaves of a four-leaf clover (a flowering plant). Leaves of this fern have sometimes been used to substitute for clover leaves on Saint Patrick's Day. In all, the family contains 3 genera and 50 to 80 species with most of those belonging to \"Marsilea\".",
+          "semantic_score": 0.5181909203529358,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Marsilea"
+    }
+  ],
+  "links": [
+    {
+      "source": "1916",
+      "target": "1919",
+      "reason": "Paragraph 1916 states Marsilea has approximately 65 species, while 1919 states Brabejum has a single species; together these counts directly support comparing which genus has more species."
+    }
+  ],
+  "questions_seen": 194,
+  "_id": "5ac289ff5542996366519a02",
+  "correct_answer": "Marsilea",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

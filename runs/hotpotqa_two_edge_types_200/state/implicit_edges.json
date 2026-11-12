@@ -1,0 +1,1858 @@
+[
+  {
+    "source": "7",
+    "target": "6626",
+    "reason": "Paragraph 7 identifies Chris Evans as a star of The Newcomers, while paragraph 6626 describes Chris Pontius as a Jackass cast member; both concern 'Chris' stars but do not bridge to the same person, so no valid link.",
+    "kind": "implicit",
+    "question": "what is one of the stars of  The Newcomers known for",
+    "question_number": 1
+  },
+  {
+    "source": "13",
+    "target": "18",
+    "reason": "Paragraph 13 identifies the detective in 'The Adventure of the Seven Clocks' as Sherlock Holmes, while paragraph 18 confirms Sherlock Holmes is a fictional private detective, bridging the sub-questions about the detective's identity and the story's authorship.",
+    "kind": "implicit",
+    "question": "The fictional private detective that appears in \"The Adventure of the Seven Clocks\" what written by whom?",
+    "question_number": 2
+  },
+  {
+    "source": "25",
+    "target": "26",
+    "reason": "Paragraph 25 identifies Clement Attlee as the prime minister whose government passed the Distribution of Industry Act 1950; paragraph 26 supplies Attlee's prime ministerial tenure (1945–1951), directly answering when that man was prime minister.",
+    "kind": "implicit",
+    "question": "The Distribution of Industry act was passed by a man who was prime minister when? ",
+    "question_number": 3
+  },
+  {
+    "source": "35",
+    "target": "39",
+    "reason": "Paragraph 35 identifies Mary's escape from Loch Leven Castle with the help of her gaoler's family, while paragraph 39 identifies that same escape as the event that sparked the Marian civil war, bridging the cause-and-effect chain.",
+    "kind": "implicit",
+    "question": "Sparking the Marian civil war, who helped the recently abdicated queen to escape her imprisonment?",
+    "question_number": 4
+  },
+  {
+    "source": "35",
+    "target": "37",
+    "reason": "Paragraph 35 supplies the specific detail that Mary escaped Loch Leven with her gaoler's family's help, and paragraph 37 confirms Mary was imprisoned at Loch Leven and escaped in early May 1568, linking the imprisonment/escape to the Battle of Langside and start of the civil war.",
+    "kind": "implicit",
+    "question": "Sparking the Marian civil war, who helped the recently abdicated queen to escape her imprisonment?",
+    "question_number": 4
+  },
+  {
+    "source": "37",
+    "target": "39",
+    "reason": "Paragraph 37 states the Battle of Langside can be regarded as the start of the Marian civil war, while paragraph 39 defines the Marian civil war as following Mary's abdication and escape from Loch Leven, jointly establishing the spark of the conflict.",
+    "kind": "implicit",
+    "question": "Sparking the Marian civil war, who helped the recently abdicated queen to escape her imprisonment?",
+    "question_number": 4
+  },
+  {
+    "source": "46",
+    "target": "49",
+    "reason": "Paragraph 46 identifies Hammerfest as Raymond Robertsen's birthplace; paragraph 49 states Hammerfest is a municipality in Finnmark county, Norway, bridging the birth town to its county.",
+    "kind": "implicit",
+    "question": "In which county is the town in which Raymond Robertsen was born ?",
+    "question_number": 5
+  },
+  {
+    "source": "64",
+    "target": "63",
+    "reason": "Paragraph 64 gives the 1975 production year for The Apple Dumpling Gang, while paragraph 63 gives the 1983 production year for Something Wicked This Way Comes; together they directly support comparing which film was produced first.",
+    "kind": "implicit",
+    "question": "Which Walt Disney film was produced first, The Apple Dumpling Gang or Something Wicked This Way Comes?",
+    "question_number": 7
+  },
+  {
+    "source": "76",
+    "target": "75",
+    "reason": "Paragraph 76 states Bethpage State Parkway begins at a trumpet interchange with the Southern State Parkway; paragraph 75 confirms the Southern State Parkway is a limited-access highway on Long Island, directly answering the question.",
+    "kind": "implicit",
+    "question": "Bethpage State Parkway begins with an interchange at which Long Island-based limited access highway?",
+    "question_number": 8
+  },
+  {
+    "source": "83",
+    "target": "82",
+    "reason": "Paragraph 83 states Colocasia is a genus of flowering plants, and paragraph 82 states Coronilla contains species of flowering plants; together they establish that both genera are flowering plants, directly answering the original question.",
+    "kind": "implicit",
+    "question": "Are Colocasia and Coronilla both flowering plants?",
+    "question_number": 9
+  },
+  {
+    "source": "91",
+    "target": "85",
+    "reason": "Paragraph 91 identifies Marlon Samuels as the Jamaican cricketer who made his ODI debut in the 2000 ICC KnockOut Trophy; paragraph 85 confirms Samuels is a Jamaican cricketer and states he is a right-handed batsman, directly answering the final sub-question.",
+    "kind": "implicit",
+    "question": "The 2000 ICC KnockOut Trophy was the debut of a Jamaican cricketer who is a right-handed what?",
+    "question_number": 10
+  },
+  {
+    "source": "101",
+    "target": "95",
+    "reason": "Paragraph 101 identifies Bytham Castle as being in the village of Castle Bytham; paragraph 95 identifies Castle Bytham as a civil parish and states it has around 300 houses, directly bridging the castle's location to the house count.",
+    "kind": "implicit",
+    "question": "Bytham Castle is a castle in the civil parish of how many houses?",
+    "question_number": 11
+  },
+  {
+    "source": "108",
+    "target": "107",
+    "reason": "Paragraph 108 establishes Southwell Minster is in Southwell, Nottinghamshire, while paragraph 107 establishes Truro Cathedral is in Truro, Cornwall; together they directly resolve which cathedral is in Cornwall.",
+    "kind": "implicit",
+    "question": "Which is located in Cornwall, Southwell Minster or Truro Cathedral?",
+    "question_number": 12
+  },
+  {
+    "source": "120",
+    "target": "119",
+    "reason": "Paragraph 120 states Forbidden Creatures focuses on exotic animal ownership and smuggling, while paragraph 119 states No Animals Were Harmed focuses on the line between using animals for entertainment and abusing them; together they directly supply the contrast needed to answer how the two books differ.",
+    "kind": "implicit",
+    "question": "How do the Peter Laufer books Forbidden Creatures and No Animals Were Harmed differ in their focus on animals?",
+    "question_number": 13
+  },
+  {
+    "source": "124",
+    "target": "132",
+    "reason": "Paragraph 124 identifies Allan McNish as a winner of the 2013 6 Hours of Silverstone; paragraph 132 states that Allan McNish has been a co-commentator for BBC Formula One coverage, bridging the race winner to the co-commentary role.",
+    "kind": "implicit",
+    "question": "Who is a winner of the 2013 6 Hours of Silverstone a co-commentator for?",
+    "question_number": 14
+  },
+  {
+    "source": "142",
+    "target": "139",
+    "reason": "Directly contrasts the two candidate films' countries of origin: 142 identifies Summer Wars as a 2009 Japanese animated film, while 139 identifies The Secret of Kells as French-Belgian-Irish, jointly resolving which is from Japan.",
+    "kind": "implicit",
+    "question": "Which 2009 animated film is from Japan, Summer Wars or The Secret of Kells?",
+    "question_number": 15
+  },
+  {
+    "source": "142",
+    "target": "141",
+    "reason": "141 corroborates Summer Wars as a Japanese animated film by noting its Japan Academy Prize for Animation of the Year, reinforcing the country-of-origin answer.",
+    "kind": "implicit",
+    "question": "Which 2009 animated film is from Japan, Summer Wars or The Secret of Kells?",
+    "question_number": 15
+  },
+  {
+    "source": "139",
+    "target": "140",
+    "reason": "140 corroborates The Secret of Kells as an Irish production by describing Cartoon Saloon as an Irish studio that developed the film, supporting the non-Japanese origin conclusion.",
+    "kind": "implicit",
+    "question": "Which 2009 animated film is from Japan, Summer Wars or The Secret of Kells?",
+    "question_number": 15
+  },
+  {
+    "source": "150",
+    "target": "146",
+    "reason": "Paragraph 150 identifies Steve Perry as a lead singer, and paragraph 146 identifies Leslie West as a vocalist, together establishing that both are singers.",
+    "kind": "implicit",
+    "question": "Are Steve Perry and Leslie West both singers?",
+    "question_number": 16
+  },
+  {
+    "source": "162",
+    "target": "160",
+    "reason": "Paragraph 162 identifies Andre Iguodala as a Golden State player in the Cavaliers–Warriors rivalry; paragraph 160 states he was named NBA Finals MVP in 2015, bridging the rivalry player to the MVP year.",
+    "kind": "implicit",
+    "question": "In what year was the Golden State NBA player, who was part of the Cavaliers-Warriors rivalry, named NBA Finals Most Valuable Player?",
+    "question_number": 17
+  },
+  {
+    "source": "160",
+    "target": "154",
+    "reason": "Paragraph 160 says Iguodala was named Finals MVP in 2015; paragraph 154 independently confirms the 2015 NBA Finals MVP was Andre Iguodala, jointly establishing the year.",
+    "kind": "implicit",
+    "question": "In what year was the Golden State NBA player, who was part of the Cavaliers-Warriors rivalry, named NBA Finals Most Valuable Player?",
+    "question_number": 17
+  },
+  {
+    "source": "162",
+    "target": "154",
+    "reason": "Paragraph 162 establishes the Cavaliers–Warriors rivalry began with the 2014–15 Finals; paragraph 154 identifies that 2015 Finals and its MVP, connecting the rivalry context to the MVP year.",
+    "kind": "implicit",
+    "question": "In what year was the Golden State NBA player, who was part of the Cavaliers-Warriors rivalry, named NBA Finals Most Valuable Player?",
+    "question_number": 17
+  },
+  {
+    "source": "165",
+    "target": "164",
+    "reason": "Paragraph 165 identifies Anthony Rapp as the memoir author; paragraph 164 identifies Anthony Rapp as the actor who originated Mark Cohen in Broadway's Rent, jointly bridging both criteria.",
+    "kind": "implicit",
+    "question": "What is the name of the actor who wrote the memoir Without you: A memoir of love, loss, and the Musical Rent and also stared as Mark Cohen in the Broadway production of \"Rent\"?",
+    "question_number": 18
+  },
+  {
+    "source": "177",
+    "target": "176",
+    "reason": "Paragraph 177 identifies the Bank of China Tower as the building that succeeded One Raffles Place as tallest outside North America; paragraph 176 states that the Bank of China Tower is located in Central, Hong Kong, bridging the successor building to its city.",
+    "kind": "implicit",
+    "question": "One Raffles Place is one of the tallest skyscrapers in the city of Singapore and tallest in the wolrd outside North America until it was succeeded by a Building in city?",
+    "question_number": 19
+  },
+  {
+    "source": "188",
+    "target": "192",
+    "reason": "Paragraph 188 identifies Zdeno Chára as captain of the Boston Bruins; paragraph 192 states the Boston Bruins are based in Boston, Massachusetts, directly bridging the team to its location.",
+    "kind": "implicit",
+    "question": "Where is the ice hockey team based that Zdeno Chára currently serving as captain of?",
+    "question_number": 20
+  },
+  {
+    "source": "200",
+    "target": "195",
+    "reason": "Paragraph 200 identifies Sand Mountain as part of the southern tip of the Appalachian mountain chain, while paragraph 195 defines the Appalachian Mountains as a system in eastern North America, bridging the chain to its North American location.",
+    "kind": "implicit",
+    "question": "Sand Mountainis part of the southern tip of a mountain chain in which part of North America ?",
+    "question_number": 21
+  },
+  {
+    "source": "207",
+    "target": "213",
+    "reason": "Paragraph 207 identifies the Little Dipper as the wooden coaster now at Six Flags Great America that previously operated at Kiddieland Amusement Park; paragraph 213 identifies Kiddieland's location at the corner of North Avenue and First Avenue, bridging the coaster to the intersection.",
+    "kind": "implicit",
+    "question": "At what intersection was the former home of the wooden roller coaster now located at Six Flags Great America in Gurnee, Illinois located?",
+    "question_number": 22
+  },
+  {
+    "source": "216",
+    "target": "217",
+    "reason": "Paragraph 216 states 'Heartbreak Hurricane' was recorded by Ricky Skaggs, while paragraph 217 identifies Ricky Skaggs as the professional name of Rickie Lee Skaggs, bridging the song to the artist's full name.",
+    "kind": "implicit",
+    "question": "\"Heartbreak Hurricane\" was recorded by which country artist, that also goes by the name Ricky Skaggs?",
+    "question_number": 23
+  },
+  {
+    "source": "225",
+    "target": "224",
+    "reason": "Paragraph 225 identifies Lit as the band behind The View from the Bottom; paragraph 224 identifies Lit as best known for the hit song 'My Own Worst Enemy', directly bridging the album to the hit song answer.",
+    "kind": "implicit",
+    "question": "The View from the Bottom is the fifth studio album by an American rock band best known for what hit song?",
+    "question_number": 24
+  },
+  {
+    "source": "242",
+    "target": "235",
+    "reason": "Paragraph 242 lists Howie Long among The Experts Network sports analysts, identifying the analyst; paragraph 235 confirms Howie Long was inducted into the Pro Football Hall of Fame in 2000 and played 13 NFL seasons, directly answering both sub-questions.",
+    "kind": "implicit",
+    "question": "This Experts Network sports analysts was inducted into the Pro Football Hall of Fame in 2000 and played in the NFL for how many seasons?",
+    "question_number": 25
+  },
+  {
+    "source": "249",
+    "target": "251",
+    "reason": "Paragraph 249 gives PUP's founding (1904 as Manila Business School), while 251 gives Cal Poly's founding (1901 as a vocational high school); together they directly compare the two institutions' origins to answer which was founded as a vocational high school.",
+    "kind": "implicit",
+    "question": "In between  Polytechnic University of the Philippines and California Polytechnic State University which was founded as a vocational high school?",
+    "question_number": 26
+  },
+  {
+    "source": "257",
+    "target": "259",
+    "reason": "Paragraph 257 explicitly identifies Giuseppe Verdi as an Italian opera composer, while paragraph 259 identifies Ambroise Thomas as a French composer best known for his operas, jointly establishing that both are opera composers.",
+    "kind": "implicit",
+    "question": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
+    "question_number": 27
+  },
+  {
+    "source": "269",
+    "target": "268",
+    "reason": "Paragraph 269 identifies Russian Ark as a historical drama filmed entirely in the Winter Palace of the Hermitage, and paragraph 268 identifies Sergey Dreyden as a star of Russian Ark, jointly answering which such film stars him.",
+    "kind": "implicit",
+    "question": "Which historical drama filmed in the Winter Palace of the Russian State Hermitage Museum stars Sergey Dreyden?",
+    "question_number": 28
+  },
+  {
+    "source": "279",
+    "target": "274",
+    "reason": "Paragraph 279 gives Karen Joy Fowler's birth date (February 7, 1950) and paragraph 274 gives Bruce Chatwin's birth date (13 May 1940), enabling direct comparison to determine who was born first.",
+    "kind": "implicit",
+    "question": "Who was born first, Karen Joy Fowler or Bruce Chatwin?",
+    "question_number": 29
+  },
+  {
+    "source": "292",
+    "target": "291",
+    "reason": "Paragraph 292 identifies Jeremy Hammond as a WikiLeaks-linked hacker who founded HackThisSite; paragraph 291 confirms HackThisSite is the hacking organization with over 1,800,000 users, bridging the whistleblower to the notable user-base fact.",
+    "kind": "implicit",
+    "question": "What WikiLeaks using whistleblower is notable for having a hacking organization with a user base of over 1,800,000?",
+    "question_number": 30
+  },
+  {
+    "source": "302",
+    "target": "298",
+    "reason": "302 places Egremont Castle in the town of Egremont; 298 identifies Egremont as the market town, civil parish, and two electoral wards (North and South) in Copeland, Cumbria, directly supplying the requested town/parish/wards.",
+    "kind": "implicit",
+    "question": "Egremont Castle is located in what market town, civil parish, and two electoral wards in the Borough of Copeland in Cumbria, England?",
+    "question_number": 31
+  },
+  {
+    "source": "294",
+    "target": "298",
+    "reason": "294 states Egremont is a civil parish in Copeland and that Egremont Castle is its oldest listed building; 298 confirms Egremont is the civil parish and names the two electoral wards, bridging the castle to the parish and wards.",
+    "kind": "implicit",
+    "question": "Egremont Castle is located in what market town, civil parish, and two electoral wards in the Borough of Copeland in Cumbria, England?",
+    "question_number": 31
+  },
+  {
+    "source": "308",
+    "target": "304",
+    "reason": "Paragraph 308 states La jolie fille de Perth has four acts, while paragraph 304 states Mitridate, re di Ponto has three acts; together they directly support the comparison that La jolie fille de Perth has more acts.",
+    "kind": "implicit",
+    "question": "Which opera has more acts, La jolie fille de Perth or Mitridate, re di Ponto?",
+    "question_number": 32
+  },
+  {
+    "source": "319",
+    "target": "321",
+    "reason": "Paragraph 319 identifies China Airlines as the largest airline of Taiwan and lists Mandarin Airlines as one of its subsidiaries; paragraph 321 confirms Mandarin Airlines' parent company is China Airlines and states its main hub is Taichung Airport, bridging the subsidiary to the hub.",
+    "kind": "implicit",
+    "question": "What subsidiary of the largest airline of the Republic of China (Taiwan) has a main hub at Taichung Airport?",
+    "question_number": 33
+  },
+  {
+    "source": "321",
+    "target": "318",
+    "reason": "Paragraph 321 states Mandarin Airlines has a main hub at Taichung Airport; paragraph 318 identifies Taichung International Airport as the airport in Taichung, Taiwan, confirming the hub location referenced.",
+    "kind": "implicit",
+    "question": "What subsidiary of the largest airline of the Republic of China (Taiwan) has a main hub at Taichung Airport?",
+    "question_number": 33
+  },
+  {
+    "source": "329",
+    "target": "327",
+    "reason": "Paragraph 329 establishes that the MGM Grand Garden Arena was originally the MGM Grand Garden Special Events Center, while paragraph 327 confirms the Mayweather-Ortiz fight took place at the MGM Grand Garden Arena, bridging the former name to the fight venue.",
+    "kind": "implicit",
+    "question": "What is the name of the former MGM Grand Garden Special Events Center where the Mayweather-Ortiz fight took place?",
+    "question_number": 34
+  },
+  {
+    "source": "334",
+    "target": "336",
+    "reason": "Paragraph 334 identifies the NBC sitcom featuring Bo Thompson as 'Superstore'; paragraph 336 identifies the creator of 'Superstore' as Justin Spitzer, bridging the character to the creator.",
+    "kind": "implicit",
+    "question": "Who created the NBC sitcom that Johnny Pemberton appears in as the character Bo Thompson?",
+    "question_number": 35
+  },
+  {
+    "source": "347",
+    "target": "346",
+    "reason": "Paragraph 347 identifies the General Dynamics F-16 as the aircraft with over 4,500 built; paragraph 346 states the Pratt & Whitney F100 powers the F-16 Fighting Falcon, directly bridging the aircraft to its engine.",
+    "kind": "implicit",
+    "question": "Which aircraft engine powers a General Dynamics aircraft of which over 4500 have been built?",
+    "question_number": 36
+  },
+  {
+    "source": "355",
+    "target": "362",
+    "reason": "Paragraph 355 identifies Johnny Herbert as the winner of the 1999 European Grand Prix for Stewart Grand Prix, while paragraph 362 confirms Herbert is a British racing driver who raced in Formula One for 7 different teams, jointly answering both sub-questions.",
+    "kind": "implicit",
+    "question": "Which British racing driver has raced for 7 different teams and won the European Grand Prix in 1999?",
+    "question_number": 37
+  },
+  {
+    "source": "372",
+    "target": "367",
+    "reason": "Paragraph 372 states the Nusretiye Clock Tower is in Istanbul, Turkey; paragraph 367 states the Eski Imaret Mosque is the only documented 11th-century church in Istanbul, jointly establishing that both landmarks are in the same city.",
+    "kind": "implicit",
+    "question": "In what city can a person find both the Nusretiye Clock Tower and the Eski Imaret Mosque be found?",
+    "question_number": 38
+  },
+  {
+    "source": "376",
+    "target": "383",
+    "reason": "Paragraph 376 identifies George Harrison as the English musician behind 'See Yourself' and explicitly notes that its lyrics recall themes from the Beatles track 'Within You Without You'; paragraph 383 identifies George Harrison as the writer of 'Within You Without You', together establishing the same musician for both songs.",
+    "kind": "implicit",
+    "question": "Which English musician is known for both the songs \"See Yourself\" and \"Withing You Without You\"?",
+    "question_number": 39
+  },
+  {
+    "source": "390",
+    "target": "386",
+    "reason": "Paragraph 390 identifies Semyon Gershgorin as a mathematician but gives no paper count, while paragraph 386 states Pavel Alexandrov wrote about three hundred papers; together they support comparing the two mathematicians' output for the question.",
+    "kind": "implicit",
+    "question": "Who has written more than 300 papers, Semyon Aranovich Gershgorin or Pavel Alexandrov?",
+    "question_number": 40
+  },
+  {
+    "source": "395",
+    "target": "400",
+    "reason": "Paragraph 395 identifies Tandy Corporation as the company that acquired RadioShack in 1963; paragraph 400 identifies DeskMate as a software application originally made for Tandy's TRS-DOS/TRS-80 line, bridging the acquisition answer to the software answer.",
+    "kind": "implicit",
+    "question": "Which software application was originally made for the company that acquired RadioShack in 1963?",
+    "question_number": 41
+  },
+  {
+    "source": "416",
+    "target": "423",
+    "reason": "Paragraph 416 identifies John John Florence as the American professional surfer born 18 October 1992, while paragraph 423 states that John John Florence won the Rip Curl Pro Portugal in 2016, jointly answering the question.",
+    "kind": "implicit",
+    "question": "What American professional Hawaiian surfer born 18 October 1992 won the Rip Curl Pro Portugal?",
+    "question_number": 43
+  },
+  {
+    "source": "431",
+    "target": "428",
+    "reason": "Paragraph 431 identifies Bill Nelson's shuttle as Columbia; paragraph 428 states Columbia first launched in 1981, bridging the two sub-questions to the final answer.",
+    "kind": "implicit",
+    "question": "Bill Nelson flew as a Payload Specialist on a Space Shuttle launched for the first time in what year?",
+    "question_number": 44
+  },
+  {
+    "source": "431",
+    "target": "425",
+    "reason": "Paragraph 431 says Nelson flew as a Payload Specialist on Columbia; paragraph 425 confirms the specific mission STS-61-C included Representative Bill Nelson aboard Columbia.",
+    "kind": "implicit",
+    "question": "Bill Nelson flew as a Payload Specialist on a Space Shuttle launched for the first time in what year?",
+    "question_number": 44
+  },
+  {
+    "source": "441",
+    "target": "438",
+    "reason": "441 identifies Heather Morris's role as Brittany S. Pierce in Glee; 438 confirms the same character/series and states Morris was upgraded to a series regular in the second season, directly bridging the series to the season answer.",
+    "kind": "implicit",
+    "question": "The actress and singer Heather Morris is best known for her role in which series, becoming a regular character in the second season?",
+    "question_number": 45
+  },
+  {
+    "source": "448",
+    "target": "447",
+    "reason": "Paragraph 448 identifies San Antonio as the seventh-most populous U.S. city; paragraph 447 states Georgia Middleman sang from age ten at the Texas Star Inn in San Antonio, bridging the city identification to her starting age.",
+    "kind": "implicit",
+    "question": "What age was Georgia Middleman when she started singing in the seventh-most populated city in the United States?",
+    "question_number": 46
+  },
+  {
+    "source": "460",
+    "target": "459",
+    "reason": "Paragraph 460 states Stokely Webster's paintings are in Gracie Mansion; paragraph 459 identifies Gracie Mansion as the official residence of the Mayor of New York, bridging the painter to the mayoral home.",
+    "kind": "implicit",
+    "question": "Stockely Webster has paintings hanging in what home (that serves as the residence for the Mayor of New York)?",
+    "question_number": 47
+  },
+  {
+    "source": "460",
+    "target": "458",
+    "reason": "Paragraph 460 lists Gracie Mansion among collections holding Webster's paintings; paragraph 458 confirms Gracie Mansion serves as the residence of the Mayor of New York City, connecting the two facts.",
+    "kind": "implicit",
+    "question": "Stockely Webster has paintings hanging in what home (that serves as the residence for the Mayor of New York)?",
+    "question_number": 47
+  },
+  {
+    "source": "481",
+    "target": "483",
+    "reason": "Paragraph 481 identifies Naomi Watts as the actress playing the title character in Ellie Parker; paragraph 483 identifies Naomi Watts as the English actress whose screen debut was in the Australian drama film For Love Alone, bridging the two sub-questions.",
+    "kind": "implicit",
+    "question": "Ellie Parker is a 2005 American drama-comedy film whose title character is played by an English actress who made her screen debut in what Australian drama film?",
+    "question_number": 49
+  },
+  {
+    "source": "485",
+    "target": "484",
+    "reason": "Paragraph 485 identifies the strip search phone call scam (male caller impersonating police, targeting small-town fast-food restaurants), and paragraph 484 states the film Compliance is based on that exact scam, bridging the scam to the movie's name.",
+    "kind": "implicit",
+    "question": "A scam involving a male calling small town fast-food restaurants and pretending to be a police officer to have them strip search employees was turned into a movie of what name?",
+    "question_number": 50
+  },
+  {
+    "source": "501",
+    "target": "496",
+    "reason": "Paragraph 501 states Goldy was fired over an interview on 'The Krypto Report,' a podcast produced by The Daily Stormer; paragraph 496 identifies The Daily Stormer's editor as Andrew Anglin, bridging the interview site to the editor named in the question.",
+    "kind": "implicit",
+    "question": "Faith Goldy got fired after an interview she gave on what production site edited by Andrew Anglin?",
+    "question_number": 51
+  },
+  {
+    "source": "505",
+    "target": "513",
+    "reason": "Paragraph 505 identifies Chris Summers as playing for the Pittsburgh Penguins, and paragraph 513 states the Penguins' current home arena is PPG Paints Arena, directly bridging the team to its arena.",
+    "kind": "implicit",
+    "question": "What is the current home arena of the NHL team Chris Summers plays for?",
+    "question_number": 52
+  },
+  {
+    "source": "521",
+    "target": "519",
+    "reason": "Paragraph 521 identifies the BBC as the broadcaster of Tenko; paragraph 519 states the BBC's headquarters location, directly bridging the sub-questions.",
+    "kind": "implicit",
+    "question": "Where is the headquarters for the service broadcaster the show Tenko is on?",
+    "question_number": 53
+  },
+  {
+    "source": "529",
+    "target": "533",
+    "reason": "Paragraph 529 identifies Meghan Strange's role as Robin in 'Sofia the First,' while paragraph 533 describes 'Darkwing Duck' as a Disney Channel animated series; together they help evaluate whether the series in question is the one featuring her Robin role.",
+    "kind": "implicit",
+    "question": "Meghan Strange is an American actress and voice actress, known for her role as Robin on what American animated television series produced for Disney Channel?",
+    "question_number": 54
+  },
+  {
+    "source": "543",
+    "target": "539",
+    "reason": "Paragraph 543 identifies Sam Mendes as a stage and film director; paragraph 539 identifies Ruby Yang as a filmmaker, providing the complementary evidence needed to conclude they share the profession of filmmaker/director.",
+    "kind": "implicit",
+    "question": "Sam Mendes and Ruby Yang share what profession?",
+    "question_number": 55
+  },
+  {
+    "source": "549",
+    "target": "548",
+    "reason": "Paragraph 549 identifies 'Bart Sells His Soul' as the fourth episode of season 7 and describes its soul-selling plot; paragraph 548 explicitly states that this episode can be interpreted as having a spiritual theme, directly bridging the episode to the answer.",
+    "kind": "implicit",
+    "question": "The fourth episode The Simpsons' seventh season has what kind of theme?",
+    "question_number": 56
+  },
+  {
+    "source": "558",
+    "target": "560",
+    "reason": "Paragraph 558 identifies Jean Cocteau as the writer of 'La Machine à écrire'; paragraph 560 identifies Jean Cocteau as the French writer/designer/playwright/artist/filmmaker known for 'Les Enfants Terribles', directly bridging the two sub-questions to the same person.",
+    "kind": "implicit",
+    "question": "La Machine a ecirire was written by what French writer, designer, playright, artist, and filmmaker, who is known for his novel, \"Les Enfants Terribles\"?",
+    "question_number": 57
+  },
+  {
+    "source": "566",
+    "target": "569",
+    "reason": "Paragraph 566 states the song can be heard in Irish pubs; paragraph 569 defines an Irish pub as an establishment licensed to serve alcoholic drinks for consumption on the premises, bridging the song to the license type.",
+    "kind": "implicit",
+    "question": "Gleanntáin Ghlas' Ghaoth Dobhair is a song that can be heard in pubs licensed to serve what?",
+    "question_number": 58
+  },
+  {
+    "source": "1696",
+    "target": "1690",
+    "reason": "Paragraph 1696 identifies 'Anthem' as a song from the musical Chess by Tim Rice, Benny Andersson and Björn Ulvaeus; paragraph 1690 confirms Chess is a musical with music by Benny Andersson and Björn Ulvaeus, bridging the song to its composers.",
+    "kind": "implicit",
+    "question": "In what year was the composer of \"Anthem\" born?",
+    "question_number": 59
+  },
+  {
+    "source": "587",
+    "target": "589",
+    "reason": "Paragraph 587 identifies Raj Kapoor as an Indian film actor, producer and director; paragraph 589 identifies Mike Cahill as an American film director and screenwriter. Together they establish the shared profession: film director.",
+    "kind": "implicit",
+    "question": "What profession do Raj Kapoor and Mike Cahill share?",
+    "question_number": 60
+  },
+  {
+    "source": "601",
+    "target": "596",
+    "reason": "Paragraph 601 states Wexner fellows show potential to become leaders; paragraph 596 defines leadership as the ability to lead or guide other individuals, teams, or organizations, bridging the fellowship's leadership criterion to the question's 'lead or guide whom' phrasing.",
+    "kind": "implicit",
+    "question": "Wexner Graduate Fellowships are given to students who show an ability of an individual to \"lead\" or guide who?",
+    "question_number": 61
+  },
+  {
+    "source": "612",
+    "target": "607",
+    "reason": "Paragraph 612 establishes that Zymer Bytyqi's youngest-player record was broken by Martin Ødegaard, identifying Ødegaard as the record-holder; paragraph 607 then supplies Ødegaard's birthdate (17 December 1998), directly answering the question.",
+    "kind": "implicit",
+    "question": "What is the birthdate of this Norwegian professional footballer who plays as an attacking midfielder and who broke the record for the youngest player that has ever played in the Norwegian top league?",
+    "question_number": 62
+  },
+  {
+    "source": "621",
+    "target": "622",
+    "reason": "Paragraph 621 states Varis's works are in the Albertina Museum collection; paragraph 622 identifies the Albertina and states it houses approximately 65,000 drawings, directly bridging the artist to the museum's holdings.",
+    "kind": "implicit",
+    "question": "Works by Hanna Leena Kristiina Varis are part of a collection in a museum that houses approximately 65,000 what?",
+    "question_number": 63
+  },
+  {
+    "source": "632",
+    "target": "631",
+    "reason": "Paragraph 632 identifies Supersuckers as the band behind Devil's Food, and paragraph 631 provides the answer about the country-show names used by that same band.",
+    "kind": "implicit",
+    "question": "Devil's Food is a singles compilation by an American rock and roll band that has also been known to play country shows under what?",
+    "question_number": 64
+  },
+  {
+    "source": "639",
+    "target": "641",
+    "reason": "639 identifies Leuwerik's best-known role as Maria von Trapp in The Trapp Family films; 641 states those films inspired the Broadway musical The Sound of Music, bridging the role/films to the musical.",
+    "kind": "implicit",
+    "question": "What musical was inspired by the films that included Ruth Leuwerik's best known role?",
+    "question_number": 65
+  },
+  {
+    "source": "654",
+    "target": "661",
+    "reason": "Paragraph 654 identifies the HBO show as Sex and the City and gives its 1998–2004 run; paragraph 661 states that this same show's original run had 94 episodes, directly bridging the character/show identification to the episode count.",
+    "kind": "implicit",
+    "question": "How many episodes were in the original run of the HBO show that Kristin Davis played the character Charlotte York Goldenblatt?",
+    "question_number": 67
+  },
+  {
+    "source": "656",
+    "target": "661",
+    "reason": "Paragraph 656 establishes Charlotte York Goldenblatt as a character on HBO's Sex and the City; paragraph 661 provides the total episode count for the original run of Sex and the City, linking the character to the requested number.",
+    "kind": "implicit",
+    "question": "How many episodes were in the original run of the HBO show that Kristin Davis played the character Charlotte York Goldenblatt?",
+    "question_number": 67
+  },
+  {
+    "source": "671",
+    "target": "673",
+    "reason": "Paragraph 671 identifies GE Appliances as the Louisville-headquartered appliance company owned by Haier; paragraph 673 specifies that Haier has North American rights to Hotpoint through its purchase of GE Appliances, bridging the company identification to the rights question.",
+    "kind": "implicit",
+    "question": "Haier has North American rights to which appliance company headquartered in Louisville, Kentucky?",
+    "question_number": 68
+  },
+  {
+    "source": "684",
+    "target": "686",
+    "reason": "Paragraph 684 identifies the 2006 film as The Prestige (Ron Perkins as hotel manager), and paragraph 686 states that The Prestige was directed by Christopher Nolan, bridging the film to its director.",
+    "kind": "implicit",
+    "question": "Who directed a 2006 film where Ron Perkins character plays the manager of a hotel?",
+    "question_number": 70
+  },
+  {
+    "source": "696",
+    "target": "701",
+    "reason": "Paragraph 696 lists The Interview (2014) among Chris Duesterdiek's works; paragraph 701 confirms The Interview was directed by Seth Rogen and Evan Goldberg, bridging the two sub-questions to the answer.",
+    "kind": "implicit",
+    "question": "What movie did Chris Duesterdiek work on that was directed by Seth Rogen and Evan Goldberg?",
+    "question_number": 71
+  },
+  {
+    "source": "722",
+    "target": "723",
+    "reason": "Paragraph 722 identifies Keokuk Falls as being in Pottawatomie County, and paragraph 723 states that Shawnee is the county seat of Pottawatomie County, directly bridging the two sub-questions.",
+    "kind": "implicit",
+    "question": "What is the county seat of the county in which Keokuk Falls, Oklahoma is loated?",
+    "question_number": 73
+  },
+  {
+    "source": "733",
+    "target": "728",
+    "reason": "733 establishes Christine McCarthy is CFO of The Walt Disney Company; 728 establishes Bob Iger was president of ABC Television and is now chairman/CEO of The Walt Disney Company, bridging the same-company and former-ABC-president conditions.",
+    "kind": "implicit",
+    "question": "What former president of ABC television is a high ranking officer in the same company as Christine Mccarthy?",
+    "question_number": 74
+  },
+  {
+    "source": "742",
+    "target": "737",
+    "reason": "Paragraph 742 establishes Přerost coached the 2012, 2013, and 2014 World Juniors, making 2013 the second; paragraph 737 identifies the 2013 championship as hosted in Ufa, Russia.",
+    "kind": "implicit",
+    "question": "Where was the second World Junior Ice Hockey Championship in which Miroslav Přerost coached the men's national junior ice hockey team hosted?",
+    "question_number": 75
+  },
+  {
+    "source": "753",
+    "target": "750",
+    "reason": "Paragraph 753 states Audioslave formed in 2001; paragraph 750 states Bodyjar formed in 1990, providing the two formation dates needed to compare which band formed earlier.",
+    "kind": "implicit",
+    "question": "Between two bands Audioslave and Bodyjar, which group formed earlier?",
+    "question_number": 76
+  },
+  {
+    "source": "763",
+    "target": "759",
+    "reason": "Paragraph 763 identifies John Mayer as the singer of The Search for Everything: Wave One; paragraph 759 states that John Mayer attended Berklee College of Music, directly bridging the singer to the school.",
+    "kind": "implicit",
+    "question": "What music school did the singer of The Search for Everything: Wave One attend?",
+    "question_number": 77
+  },
+  {
+    "source": "767",
+    "target": "773",
+    "reason": "Paragraph 767 lists IWC among the firms Gérald Genta designed for, and paragraph 773 identifies IWC as the luxury Swiss watch manufacturer founded by Florentine Ariosto Jones, bridging Genta to the founded-by-Jones manufacturer.",
+    "kind": "implicit",
+    "question": "Gérald Genta, a Swiss jewelllery designer, worked with what luxury Swiss watch manufacturer which was founded by American Watch,aker Florentine Ariosts Jones?",
+    "question_number": 78
+  },
+  {
+    "source": "779",
+    "target": "151",
+    "reason": "Paragraph 779 identifies the 1959 Hitchcock film as North by Northwest; paragraph 151 identifies Mountain's debut album Climbing!, whose title matches the film's title, bridging the film title to the musician/band.",
+    "kind": "implicit",
+    "question": "What city did the musician whose debut album shares its title with the 1959 Alfred Hitchcock hail from?",
+    "question_number": 79
+  },
+  {
+    "source": "151",
+    "target": "146",
+    "reason": "Paragraph 151 names Leslie West as the guitarist/vocalist of Mountain, whose debut album is Climbing!; paragraph 146 identifies Leslie West as the musician, linking the album to the person whose city is sought.",
+    "kind": "implicit",
+    "question": "What city did the musician whose debut album shares its title with the 1959 Alfred Hitchcock hail from?",
+    "question_number": 79
+  },
+  {
+    "source": "146",
+    "target": "153",
+    "reason": "Paragraph 146 identifies Leslie West as the musician; paragraph 153 states his album was recorded at Electric Lady Studios in New York City, providing the city associated with him.",
+    "kind": "implicit",
+    "question": "What city did the musician whose debut album shares its title with the 1959 Alfred Hitchcock hail from?",
+    "question_number": 79
+  },
+  {
+    "source": "789",
+    "target": "785",
+    "reason": "Paragraph 789 identifies the Office Depot Center as the venue for the 53rd NHL All-Star Game; paragraph 785 states that the same arena (under its later name BB&T Center, formerly Office Depot Center) was completed in 1998, directly bridging the venue to its completion year.",
+    "kind": "implicit",
+    "question": "The 53rd National Hockey League All-Star Game took place at the indoor arena that was completed in what year?",
+    "question_number": 80
+  },
+  {
+    "source": "794",
+    "target": "796",
+    "reason": "Paragraph 794 identifies Terrence Jones as Damon Stoudamire's cousin; paragraph 796 confirms that same Terrence Jones played college basketball for the University of Kentucky, bridging the cousin identification to the Kentucky criterion.",
+    "kind": "implicit",
+    "question": "Which of Damon Stoudamire's cousins once played college basketball for the University of Kentucky?",
+    "question_number": 81
+  },
+  {
+    "source": "813",
+    "target": "805",
+    "reason": "Paragraph 813 states Johnny Majors finished second to Paul Hornung in the 1956 Heisman voting, identifying Hornung as the winner; paragraph 805 gives Paul Hornung's birth year as 1935, directly answering the question.",
+    "kind": "implicit",
+    "question": "The player who defeated Johnny Majors for the Heisman Trophy in 1956 was born in what year?",
+    "question_number": 82
+  },
+  {
+    "source": "818",
+    "target": "823",
+    "reason": "818 establishes Coleman was elected to the Senate in 2002 as a Republican; 823 identifies that election as the 2002 Minnesota Senate race and states it is the last Minnesota Senate election won by a Republican as of 2017, directly answering the question.",
+    "kind": "implicit",
+    "question": "In which election did Norm Coleman won to become the last republican elected as of 2017?",
+    "question_number": 83
+  },
+  {
+    "source": "826",
+    "target": "827",
+    "reason": "Paragraph 826 identifies Mary's husband as Frederik, Crown Prince of Denmark, which is the person whose mother paragraph 827 identifies as Queen Margrethe II.",
+    "kind": "implicit",
+    "question": "Who is the mother of Mary, Crown Princess of Denmark's husband?",
+    "question_number": 84
+  },
+  {
+    "source": "834",
+    "target": "842",
+    "reason": "Paragraph 834 identifies Wet 'n Wild Orlando as America's first water park founded by SeaWorld creator George Millay and states it was replaced by Universal's Volcano Bay; paragraph 842 confirms Volcano Bay replaced Wet 'n Wild, directly bridging the creator, the original water park, and its replacement.",
+    "kind": "implicit",
+    "question": "What park replaced American's first waterpark designed by the creator of seaworld?",
+    "question_number": 85
+  },
+  {
+    "source": "845",
+    "target": "844",
+    "reason": "Paragraph 845 states the novel 'Fifty Shades of Grey' was published in 2011, while paragraph 844 independently confirms the first volume 'Fifty Shades of Grey' was published in 2011, jointly corroborating the answer year.",
+    "kind": "implicit",
+    "question": "What year did Fifty Shades of Grey release?",
+    "question_number": 86
+  },
+  {
+    "source": "856",
+    "target": "859",
+    "reason": "Paragraph 856 identifies the ghetto Kadish documented as the Kovno Ghetto, and paragraph 859 provides that ghetto's peak population of 29,000, directly bridging the question to its answer.",
+    "kind": "implicit",
+    "question": "The ghetto that George Kadish documented held how many people at its peak?",
+    "question_number": 87
+  },
+  {
+    "source": "865",
+    "target": "870",
+    "reason": "Paragraph 865 states the poem's villanelle form and that it is included in the biographical note appended to The Bell Jar; paragraph 870 identifies The Bell Jar as Sylvia Plath's novel, together answering both the form and its appearance in the novel.",
+    "kind": "implicit",
+    "question": "In which poetic form is Mad Girl's Love Song written and appears in the novel The Bell Jar by Sylvia Plath?",
+    "question_number": 88
+  },
+  {
+    "source": "882",
+    "target": "881",
+    "reason": "Paragraph 882 identifies A Kid in King Arthur's Court as a Disney family film, while paragraph 881 identifies The Great Locomotive Chase as a Walt Disney Productions film, jointly establishing Disney/Walt Disney Productions as the common production company.",
+    "kind": "implicit",
+    "question": "Which production company was involved with both of the movies A Kid in King Arthur's Court and The Great Locomotive Chase?",
+    "question_number": 89
+  },
+  {
+    "source": "892",
+    "target": "889",
+    "reason": "Paragraph 892 establishes the Hawker Hurricane as a Royal Air Force (RAF) aircraft, while paragraph 889 establishes No. 1455 Flight as an RAF flight; together they show both were part of the RAF.",
+    "kind": "implicit",
+    "question": "What where both Hawker Hurricane and No. 1455 Flight apart of?",
+    "question_number": 90
+  },
+  {
+    "source": "895",
+    "target": "894",
+    "reason": "Paragraph 895 identifies Kadeem Jack's league as the NBA G League; paragraph 894 states that this league (as the NBDL) started with eight teams, directly bridging the two sub-questions.",
+    "kind": "implicit",
+    "question": "Kadeem Jack is a player in a league that started with how many teams?",
+    "question_number": 91
+  },
+  {
+    "source": "917",
+    "target": "922",
+    "reason": "917 lists Fred M. Vinson among Truman's four Supreme Court appointees; 922 identifies Vinson as the 53rd Treasury Secretary and 13th Chief Justice, bridging the candidate list to the specific individual.",
+    "kind": "implicit",
+    "question": "Of four Harry S. Truman Supreme Court candidates, who was the 53rd United States Secretary of the Treasury and the 13th Chief Justice of the United States?",
+    "question_number": 93
+  },
+  {
+    "source": "927",
+    "target": "926",
+    "reason": "Paragraph 927 identifies the crashed flight (EgyptAir Flight 990) and states the probable cause was the relief first officer; paragraph 926 names that relief first officer as Gameel Al-Batouti and gives his birth date, bridging the flight to the person whose birth month is asked.",
+    "kind": "implicit",
+    "question": "In what month was the relief first officer of the flight that crashed on its way to Cairo with a stop in New York Born?",
+    "question_number": 94
+  },
+  {
+    "source": "938",
+    "target": "941",
+    "reason": "Paragraph 938 identifies The Datsuns as a hard rock band, while paragraph 941 identifies The Black Crowes as an American rock band, together establishing that both are rock bands.",
+    "kind": "implicit",
+    "question": "Are The Datsuns and The Black Crowes both rock bands?",
+    "question_number": 95
+  },
+  {
+    "source": "948",
+    "target": "947",
+    "reason": "948 identifies the novella as by Jim Harrison, and 947 confirms Harrison wrote the 1979 novella and describes him as a writer of poetry and fiction, bridging the film to the author's identity.",
+    "kind": "implicit",
+    "question": " Legends of the Fall was based on a novella by what poetry and fiction writer?",
+    "question_number": 96
+  },
+  {
+    "source": "955",
+    "target": "956",
+    "reason": "Paragraph 955 states Rimo I lies in the Rimo Muztagh, a subrange of the Karakoram range; paragraph 956 states Passu Sar lies in the Batura Muztagh, a sub-range of the Karakoram mountain range. Together they establish that both peaks belong to the Karakoram range.",
+    "kind": "implicit",
+    "question": "Rimo I and Passu Sar are both part of which mountain range?",
+    "question_number": 97
+  },
+  {
+    "source": "969",
+    "target": "966",
+    "reason": "Paragraph 969 identifies Viktor Schauberger as the Austrian forest caretaker/naturalist/pseudoscientist and gives his birthplace as Holzschlag; paragraph 966 confirms Holzschlag as the village and states it lies on Austria's border with the Czech Republic, bridging the person to the border country.",
+    "kind": "implicit",
+    "question": "What was the country which has border with the village where an Austrian forest caretaker, naturalist, pseudoscientistref>Ronald Engert: \"Die Forellenturbine als Prinzip der kostenlosen Energiegewinnung born?",
+    "question_number": 98
+  },
+  {
+    "source": "979",
+    "target": "974",
+    "reason": "Paragraph 979 identifies Joe Buck's father as Jack Buck, while paragraph 974 states that Jack Buck was the St. Louis Cardinals radio broadcaster, together answering which team the father broadcast for.",
+    "kind": "implicit",
+    "question": "Which team did Joe Buck's father broadcast for?",
+    "question_number": 99
+  },
+  {
+    "source": "988",
+    "target": "985",
+    "reason": "Paragraph 988 identifies Margianḗ as the Greek name for Margiana, centered on the oasis of Merv; paragraph 985 identifies Merv as the city formerly called the Achaemenid Satrapy of Margiana, located near today's Mary, directly bridging the region to the city.",
+    "kind": "implicit",
+    "question": "What is the name of the city located near the historical region known as Margianḗ in Greek?",
+    "question_number": 100
+  },
+  {
+    "source": "995",
+    "target": "998",
+    "reason": "Paragraph 995 identifies Ivan Zammit's birth city as Valletta, Malta; paragraph 998 describes Valletta's eastern coast as being in the Grand Harbour, bridging the birth city to the body of water on its eastern coast.",
+    "kind": "implicit",
+    "question": "The eastern coast of Ivan Zammit's birth city is located along what body of water? ",
+    "question_number": 101
+  },
+  {
+    "source": "1025",
+    "target": "1032",
+    "reason": "Paragraph 1025 identifies Eli Manning as the first overall pick in the 2004 NFL Draft; paragraph 1032 states Manning Field is named after the Manning family including Eli Manning, bridging the two sub-questions to the same player.",
+    "kind": "implicit",
+    "question": "What player was the first overall pick in the 2004 NFL draft and had the Manning Field named after him?",
+    "question_number": 104
+  },
+  {
+    "source": "1042",
+    "target": "1035",
+    "reason": "Paragraph 1042 identifies Gustavus Adolphus as the man who led Sweden to military supremacy in the Thirty Years' War; paragraph 1035 states that Gustavus Adolphus founded the Åbo court (hovrätt) in 1623, directly answering what he founded that year.",
+    "kind": "implicit",
+    "question": "What did  the man who  led Sweden to military supremacy during the Thirty Years' War found in 1623?",
+    "question_number": 105
+  },
+  {
+    "source": "1044",
+    "target": "1048",
+    "reason": "1044 identifies Cliburn station as on the Eden Valley Railway; 1048 defines that railway's route between Clifton Junction near Penrith and Kirkby Stephen via Appleby-in-Westmorland, directly answering the question.",
+    "kind": "implicit",
+    "question": " Cliburn railway station was a station situated on This railway that  ran between Clifton Junction near Penrith and Kirkby Stephen via what?",
+    "question_number": 106
+  },
+  {
+    "source": "1048",
+    "target": "1051",
+    "reason": "1048 states the Eden Valley Railway ran via Appleby-in-Westmorland; 1051 confirms Appleby East station was on the Eden Valley Railway between Kirkby Stephen East and Penrith, corroborating the via point.",
+    "kind": "implicit",
+    "question": " Cliburn railway station was a station situated on This railway that  ran between Clifton Junction near Penrith and Kirkby Stephen via what?",
+    "question_number": 106
+  },
+  {
+    "source": "1057",
+    "target": "1059",
+    "reason": "1057 identifies Pajottenland's historic beer as Lambic and notes it is produced in the Zenne valley; 1059 explains Lambic is fermented by wild yeasts native to the Zenne valley, bridging Pajottenland's beer to the valley source.",
+    "kind": "implicit",
+    "question": "Pajottenland has historically provided beers that include are fermented through yeasts native to what valley?",
+    "question_number": 107
+  },
+  {
+    "source": "1063",
+    "target": "1066",
+    "reason": "Paragraph 1063 identifies APB as a Scottish band (Scotland is in Britain), and paragraph 1066 identifies Sleeper as an English Britpop band formed in London (England is in Britain), together establishing that both are British bands.",
+    "kind": "implicit",
+    "question": "APB and Sleeper are both from britain?",
+    "question_number": 108
+  },
+  {
+    "source": "1071",
+    "target": "1072",
+    "reason": "1071 identifies Conrad IV of Germany and his parentage; 1072 identifies Elisabeth of Bavaria as his wife, bridging the marriage sub-question.",
+    "kind": "implicit",
+    "question": "Which  princess of French origin did Conrad IV of Germany married to ",
+    "question_number": 109
+  },
+  {
+    "source": "1071",
+    "target": "1077",
+    "reason": "1071 states Conrad IV's mother was Queen Isabella II of Jerusalem; 1077 identifies Isabella II as a princess of French origin, connecting Conrad's family to the French-origin princess.",
+    "kind": "implicit",
+    "question": "Which  princess of French origin did Conrad IV of Germany married to ",
+    "question_number": 109
+  },
+  {
+    "source": "1072",
+    "target": "1077",
+    "reason": "1072 names Elisabeth of Bavaria as Conrad IV's wife; 1077 identifies Isabella II of Jerusalem as a princess of French origin, allowing comparison of the candidate wives to answer which was French-origin.",
+    "kind": "implicit",
+    "question": "Which  princess of French origin did Conrad IV of Germany married to ",
+    "question_number": 109
+  },
+  {
+    "source": "1084",
+    "target": "1079",
+    "reason": "1084 identifies the book's subject as the Museum of Jurassic Technology; 1079 states that this museum is located in Los Angeles, bridging the book to the city answer.",
+    "kind": "implicit",
+    "question": "Mr. Wilson's Cabinet of Wonder: Pronged Ants, Horned Humans, Mice on Toast, and Other Marvels of Jurassic Technology is a book about a museum that is located in which city ?",
+    "question_number": 110
+  },
+  {
+    "source": "1086",
+    "target": "1079",
+    "reason": "1086 links the book to David Wilson and the Museum of Jurassic Technology in Los Angeles; 1079 independently confirms the museum's Los Angeles location, providing complementary evidence for the city.",
+    "kind": "implicit",
+    "question": "Mr. Wilson's Cabinet of Wonder: Pronged Ants, Horned Humans, Mice on Toast, and Other Marvels of Jurassic Technology is a book about a museum that is located in which city ?",
+    "question_number": 110
+  },
+  {
+    "source": "1090",
+    "target": "1097",
+    "reason": "Paragraph 1090 establishes Tim Armstrong as an American singer/songwriter but gives no mezzo-soprano range, while 1097 establishes Tori Amos as an American singer-songwriter with a mezzo-soprano vocal range; together they resolve the comparison in favor of Tori Amos.",
+    "kind": "implicit",
+    "question": "Which American singer and songwriter has a mezzo-soprano vocal range, Tim Armstrong or Tori Amos?",
+    "question_number": 111
+  },
+  {
+    "source": "1103",
+    "target": "1101",
+    "reason": "1103 identifies Arrow as the CW show developed by Greg Berlanti; 1101 identifies Matt Letscher as an actor in Gods and Generals who also portrayed Eobard Thawne in The Flash/Legends of Tomorrow, bridging the show to the actor.",
+    "kind": "implicit",
+    "question": "When was the actor in the CW show developed by Greg Berlanti who also appears in \"Gods and Generals\" born?",
+    "question_number": 112
+  },
+  {
+    "source": "1101",
+    "target": "1108",
+    "reason": "1101 states Matt Letscher appeared in Gods and Generals and played Eobard Thawne; 1108 confirms Matt Letscher appears in The Flash, a CW series developed by Greg Berlanti, linking the actor to the CW show.",
+    "kind": "implicit",
+    "question": "When was the actor in the CW show developed by Greg Berlanti who also appears in \"Gods and Generals\" born?",
+    "question_number": 112
+  },
+  {
+    "source": "1101",
+    "target": "1105",
+    "reason": "1101 says Matt Letscher portrayed Eobard Thawne in Legends of Tomorrow; 1105 confirms Legends of Tomorrow is a CW series developed by Greg Berlanti, connecting the actor to the show.",
+    "kind": "implicit",
+    "question": "When was the actor in the CW show developed by Greg Berlanti who also appears in \"Gods and Generals\" born?",
+    "question_number": 112
+  },
+  {
+    "source": "1101",
+    "target": "1100",
+    "reason": "1101 gives Matt Letscher's birth date (June 26, 1970); 1100 establishes Greg Berlanti as the developer behind The CW's Arrowverse, providing the final birth-date answer for the actor linked to Berlanti's CW shows.",
+    "kind": "implicit",
+    "question": "When was the actor in the CW show developed by Greg Berlanti who also appears in \"Gods and Generals\" born?",
+    "question_number": 112
+  },
+  {
+    "source": "1125",
+    "target": "1119",
+    "reason": "Paragraph 1125 identifies Vixen as the character created by Gerry Conway and Bob Oksner; paragraph 1119 shows that Mari Jiwe McCabe / Vixen became a star in the Arrowverse, bridging the creation to the 'became a star' sub-question.",
+    "kind": "implicit",
+    "question": "Who beacme a star as a comic book character created by Gerry Conway and Bob Oksner?",
+    "question_number": 114
+  },
+  {
+    "source": "1131",
+    "target": "1136",
+    "reason": "Paragraph 1131 states Paradise Creek is a tributary of Brodhead Creek; paragraph 1136 states Brodhead Creek is a tributary of the Delaware River, completing the chain from Paradise Creek to the Delaware River.",
+    "kind": "implicit",
+    "question": "The creek of which Paradise Creek is a tributary is a tributary of what river?",
+    "question_number": 115
+  },
+  {
+    "source": "1148",
+    "target": "1142",
+    "reason": "Paragraph 1148 establishes the Beaulieu Mine yielded only gold (30 troy ounces of fine gold), while paragraph 1142 establishes the McIntyre Mines yielded gold and a considerable amount of copper; together they directly compare the two mines' yields to answer whether either produced both gold and copper.",
+    "kind": "implicit",
+    "question": "Did the Beaulieu Mine or the McIntyre Mines yield gold and copper?",
+    "question_number": 116
+  },
+  {
+    "source": "1158",
+    "target": "1157",
+    "reason": "Directly compares the derivative-breed counts: 1158 states several modern breeds developed from the German Spitz, while 1157 identifies the Norfolk Spaniel as the ancestor of the English Springer Spaniel, enabling the comparison.",
+    "kind": "implicit",
+    "question": "Which dog breed has more derivative breeds from the original, German Spitz or Norfolk Spaniel?",
+    "question_number": 117
+  },
+  {
+    "source": "1158",
+    "target": "1150",
+    "reason": "1158 establishes German Spitz as a source of several modern breeds; 1150 provides concrete evidence that the Norfolk Spaniel is ancestral to the English Springer Spaniel, supporting the count comparison.",
+    "kind": "implicit",
+    "question": "Which dog breed has more derivative breeds from the original, German Spitz or Norfolk Spaniel?",
+    "question_number": 117
+  },
+  {
+    "source": "1158",
+    "target": "1155",
+    "reason": "1155 gives a specific example of a breed descended from the German Spitz (Pomeranian), supporting the claim in 1158 that several breeds derive from it.",
+    "kind": "implicit",
+    "question": "Which dog breed has more derivative breeds from the original, German Spitz or Norfolk Spaniel?",
+    "question_number": 117
+  },
+  {
+    "source": "1158",
+    "target": "1149",
+    "reason": "1149 gives another specific example of a breed descended from the German Spitz (American Eskimo Dog), reinforcing the derivative count in 1158.",
+    "kind": "implicit",
+    "question": "Which dog breed has more derivative breeds from the original, German Spitz or Norfolk Spaniel?",
+    "question_number": 117
+  },
+  {
+    "source": "1163",
+    "target": "1161",
+    "reason": "Paragraph 1163 gives Talk That Talk's release date (November 18, 2011) and notes it was recorded during the Loud Tour and originally planned as a reissue of Loud; paragraph 1161 identifies Loud as Rihanna's fifth studio album from 2010 and states Talk That Talk was released during the Loud Tour in November 2011, together supplying the dates needed to compare the two albums.",
+    "kind": "implicit",
+    "question": "Which album was released first, \"Talk That Talk\" or \"Loud\"?",
+    "question_number": 118
+  },
+  {
+    "source": "1175",
+    "target": "1172",
+    "reason": "Paragraph 1175 establishes that Miami's Weather Office became the National Hurricane Center in the 1966 Atlantic hurricane season; paragraph 1172 identifies Hurricane Faith as the fifth hurricane of that same 1966 season, bridging the season to the storm name.",
+    "kind": "implicit",
+    "question": "What was the name of the storm that was the fifth hurricane of the season where Miami, Florida became the new National Hurricane Center?",
+    "question_number": 119
+  },
+  {
+    "source": "1184",
+    "target": "1181",
+    "reason": "Paragraph 1184 confirms Hans Zimmer composed the score for Pacific Heights, while paragraph 1181 identifies him and states he has composed music for over 150 films since the 1980s, directly bridging the film-specific fact to the count needed for the answer.",
+    "kind": "implicit",
+    "question": " Hans Florian Zimmer composed The original music score for  Pacific Heights, since the 19080's how many films has he composed music for?",
+    "question_number": 120
+  },
+  {
+    "source": "1189",
+    "target": "1194",
+    "reason": "Paragraph 1189 gives Tarryl Lynn Clark's birth date (July 31, 1961), and paragraph 1194 gives Michele Marie Bachmann's birth date (April 6, 1956), enabling direct comparison to determine who is older.",
+    "kind": "implicit",
+    "question": "Who is older, Tarryl Lynn Clark or Michele Marie Bachmann?",
+    "question_number": 121
+  },
+  {
+    "source": "1203",
+    "target": "6533",
+    "reason": "Paragraph 1203 identifies Daniel Radcliffe as the actor who played Harry Potter, while paragraph 6533 states Daniel Radcliffe stars in My Boy Jack, directly bridging the two films to answer which actor appears in both.",
+    "kind": "implicit",
+    "question": "What Harry Potter actor strred in My Boy Jack?",
+    "question_number": 122
+  },
+  {
+    "source": "1203",
+    "target": "1204",
+    "reason": "Paragraph 1203 establishes Daniel Radcliffe as the Harry Potter actor, and paragraph 1204 notes that Brian Kirk directed My Boy Jack starring Daniel Radcliffe, providing complementary evidence that Radcliffe is the shared actor.",
+    "kind": "implicit",
+    "question": "What Harry Potter actor strred in My Boy Jack?",
+    "question_number": 122
+  },
+  {
+    "source": "1209",
+    "target": "1215",
+    "reason": "Paragraph 1209 identifies King Hans as the king who started coin production in Copenhagen; paragraph 1215 identifies John (Hans) as King of Denmark and gives his birth date, bridging the two sub-questions.",
+    "kind": "implicit",
+    "question": "When was the king that started coin production in Copenhagen born?",
+    "question_number": 123
+  },
+  {
+    "source": "1221",
+    "target": "1220",
+    "reason": "Reggie Jackson's 1993 Hall of Fame induction (1221) combined with the Greatest Sports Legends anthology listing Reggie Jackson as a host/featured athlete (1220) identifies him as the answer.",
+    "kind": "implicit",
+    "question": "Which professional baseball player and National 1993 Baseball Hall of Fame inductee is featured in the Greatest Sports Legends anthology? ",
+    "question_number": 124
+  },
+  {
+    "source": "1237",
+    "target": "1229",
+    "reason": "Paragraph 1237 identifies Ishqbaaz as a Star Plus series in which Additi Gupta had a negative role; paragraph 1229 confirms Ishqbaaz is an Indian drama broadcast on Star Plus, bridging her role to the network's country.",
+    "kind": "implicit",
+    "question": "Additi Gupta is known for negative roles in the drama series that broadcasts on what country's Star Plus network?",
+    "question_number": 125
+  },
+  {
+    "source": "1237",
+    "target": "1236",
+    "reason": "Paragraph 1237 links Additi Gupta to Star Plus's Ishqbaaz; paragraph 1236 describes STAR Plus as a UK Asian channel, providing the bridge from the drama series to the United Kingdom network.",
+    "kind": "implicit",
+    "question": "Additi Gupta is known for negative roles in the drama series that broadcasts on what country's Star Plus network?",
+    "question_number": 125
+  },
+  {
+    "source": "1240",
+    "target": "1958",
+    "reason": "Paragraph 1240 identifies Charles A. Allen as the engineer who designed Bartlett's Bridge and states he was a civil engineer for the city of Worcester; paragraph 1958 provides the county-seat connection by describing James Fowle Baldwin as a Senator from Suffolk County, helping bridge the engineer-to-county-seat sub-question.",
+    "kind": "implicit",
+    "question": "Bartlett's Bridge was built by the engineer who worked for the county seat of which Massachusetts county?",
+    "question_number": 126
+  },
+  {
+    "source": "1257",
+    "target": "1255",
+    "reason": "1257 identifies Corey A. Stewart as the current Chairman of the Prince William Board of County Supervisors; 1255 then states he is currently serving his fourth term in that role, directly bridging the chairman's identity to the term being served.",
+    "kind": "implicit",
+    "question": "What term is the current chairman of Prince William County serving?",
+    "question_number": 127
+  },
+  {
+    "source": "1260",
+    "target": "1265",
+    "reason": "Paragraph 1260 identifies Omar Bradley as commander of the Twelfth United States Army Group; paragraph 1265 states that Omar Bradley was the first Chairman of the Joint Chiefs of Staff, bridging the commander to the organization he first chaired.",
+    "kind": "implicit",
+    "question": "The Twelfth United States Army Group commander was the first chairman of what?",
+    "question_number": 128
+  },
+  {
+    "source": "1281",
+    "target": "8083",
+    "reason": "Paragraph 1281 identifies The Liberties as the historic working-class neighbourhood in central Dublin; paragraph 8083 identifies London Skolars as a club, but the bridge is weak because 8083 places the club in Wood Green, London, not The Liberties.",
+    "kind": "implicit",
+    "question": "One of Central Dublin's most historic working-class neighbourhoods is the home to a football club who were the first ever winners of what cup?",
+    "question_number": 130
+  },
+  {
+    "source": "1294",
+    "target": "1297",
+    "reason": "1294 explicitly states Mark Chamberlain is the father of Alex Oxlade-Chamberlain, while 1297 identifies Alex as the Liverpool and England midfielder, together establishing their father-son relationship and respective roles.",
+    "kind": "implicit",
+    "question": "What where Mark Chamberlain and Alex Oxlade-Chamberlain being?",
+    "question_number": 131
+  },
+  {
+    "source": "1294",
+    "target": "1293",
+    "reason": "1293 corroborates the family link by naming Mark as Neville's brother and Alex as Neville's nephew, reinforcing the identity and relationship context.",
+    "kind": "implicit",
+    "question": "What where Mark Chamberlain and Alex Oxlade-Chamberlain being?",
+    "question_number": 131
+  },
+  {
+    "source": "1307",
+    "target": "1305",
+    "reason": "Paragraph 1307 states Dianne Hiles is the Australian Greens candidate for the federal Division of Sydney; paragraph 1305 identifies the Division of Sydney as the electoral division proclaimed at the 21 November 1968 redistribution, directly bridging Hiles to the 1968 federal proclamation.",
+    "kind": "implicit",
+    "question": "Dianne Hiles is the current Australian Greens candidate for which 1968 federal proclamation? ",
+    "question_number": 132
+  },
+  {
+    "source": "1311",
+    "target": "1315",
+    "reason": "Paragraph 1311 identifies Melissa George as an actress who appeared in Felony, and paragraph 1315 identifies Melissa George as the actress who played Angel Parrish on Home and Away, bridging the two sub-questions.",
+    "kind": "implicit",
+    "question": "Which character did this Australian-American actress who appeared in the movie \"Felony\" play in the Australian soap opera \"Home and Away?\"",
+    "question_number": 133
+  },
+  {
+    "source": "1325",
+    "target": "1324",
+    "reason": "1325 states the park is less than 1 mi east of Eureka; 1324 states Times Beach (the park's site) is 17 mi southwest of St. Louis and 2 mi east of Eureka, providing the St. Louis distance needed to compare closeness.",
+    "kind": "implicit",
+    "question": "Which city in Missouri is the Route 66 State Park closest to travel from, St.Louis or Eureka?",
+    "question_number": 134
+  },
+  {
+    "source": "1334",
+    "target": "1330",
+    "reason": "Paragraph 1334 identifies Joel Embiid as the player drafted 3rd in the 2014 draft by the 76ers, while paragraph 1330 confirms the same player and supplies his nickname 'The Process', bridging the draft-pick identification to the nickname answer.",
+    "kind": "implicit",
+    "question": "What was the nickname of the 76er who was drafted 3rd in the 2014 draft? ",
+    "question_number": 135
+  },
+  {
+    "source": "1347",
+    "target": "1346",
+    "reason": "Paragraph 1347 identifies Forbes as the Central West NSW town with a population of 7,560, while paragraph 1346 states Red Bend Catholic College is located in Forbes and has about 800 students, jointly answering the question.",
+    "kind": "implicit",
+    "question": "Red Bend Catholic College contributes 800 students of the 7,560 population of what central west region of south Wales, Australia town?",
+    "question_number": 136
+  },
+  {
+    "source": "1358",
+    "target": "1353",
+    "reason": "Paragraph 1358 identifies Hugh Laurie as the narrator of Blackadder's Christmas Carol; paragraph 1353 gives Hugh Laurie's birth year (1959), directly bridging the two sub-questions.",
+    "kind": "implicit",
+    "question": "In what year was the narrator of \"Blackadder's Christmas Carol\" born?",
+    "question_number": 137
+  },
+  {
+    "source": "1363",
+    "target": "1367",
+    "reason": "Paragraph 1363 states Black Journal is based on Leonarda Cianciulli, while paragraph 1367 identifies Cianciulli as the serial killer who murdered three women in Correggio, directly bridging the film to the killer's crimes.",
+    "kind": "implicit",
+    "question": "Black Journal is based on the real life events of what serial killer that  murdered three women in Correggio?",
+    "question_number": 138
+  },
+  {
+    "source": "1378",
+    "target": "1377",
+    "reason": "1378 identifies the Black Seminoles as the group and notes they were associated with Seminole in Florida/Oklahoma; 1377 specifies that 800 Black Seminoles were removed to Indian Territory and that the Seminole Nation of Oklahoma is headquartered in Wewoka, Seminole County, Oklahoma, bridging the group to an Oklahoma settlement.",
+    "kind": "implicit",
+    "question": "Where did the descendants of the group of black Indians associated with the Seminole people settle?",
+    "question_number": 139
+  },
+  {
+    "source": "1378",
+    "target": "1369",
+    "reason": "1378 defines the Black Seminoles as descendants of free blacks and escaped slaves allied with Seminoles; 1369 identifies the Mascogos as descendants of Black Seminoles who settled in Coahuila, Mexico, directly answering where some descendants settled.",
+    "kind": "implicit",
+    "question": "Where did the descendants of the group of black Indians associated with the Seminole people settle?",
+    "question_number": 139
+  },
+  {
+    "source": "1377",
+    "target": "1369",
+    "reason": "1377 documents the removal of Black Seminoles to Indian Territory/Oklahoma with the Seminole Nation, while 1369 documents another branch of Black Seminole descendants settling in Coahuila, Mexico; together they show the multiple settlement destinations of the descendants.",
+    "kind": "implicit",
+    "question": "Where did the descendants of the group of black Indians associated with the Seminole people settle?",
+    "question_number": 139
+  },
+  {
+    "source": "1383",
+    "target": "1387",
+    "reason": "Paragraph 1383 identifies Justice John Marshall Harlan as the dissenter in Kessler v. Treat; paragraph 1387 identifies Harlan as being from Kentucky, directly bridging the dissenter to his state.",
+    "kind": "implicit",
+    "question": "What state was the dissenter in Kessler v. Treat from?",
+    "question_number": 140
+  },
+  {
+    "source": "1391",
+    "target": "1390",
+    "reason": "1391 identifies Oxford as the Canadian arm of Pendaflex, and 1390 identifies Pendaflex as the office organization solutions company headquartered in Melville, NY, jointly answering the question.",
+    "kind": "implicit",
+    "question": "In what town is the office organization solutions company whose Canadian arm is Oxford headquartered?",
+    "question_number": 141
+  },
+  {
+    "source": "1404",
+    "target": "1401",
+    "reason": "Paragraph 1404 identifies the Dowd Report as the document that precipitated Pete Rose's lifetime suspension and names John M. Dowd as its preparer; paragraph 1401 confirms Dowd is a lawyer who took the main role in the Dowd Report, directly bridging the report to the lawyer's name.",
+    "kind": "implicit",
+    "question": "What was the name of the lawyer who took the main role in the report that helped land Pete Rose a lifetime suspension from baseball?",
+    "question_number": 142
+  },
+  {
+    "source": "1409",
+    "target": "1411",
+    "reason": "1409 states Denis O'Hare was nominated for his performance in the first season of 'American Horror Story'; 1411 identifies 'American Horror Story' as the Ryan Murphy/Brad Falchuk anthology horror series, bridging the series identity to O'Hare's first-season performance.",
+    "kind": "implicit",
+    "question": "Which American anthology horror series created and produced by Ryan Murphy and Brad Falchuk did  Denis O'Hare filmography performance in the first season of ",
+    "question_number": 143
+  },
+  {
+    "source": "1409",
+    "target": "1418",
+    "reason": "1409 confirms O'Hare performed in the first season of 'American Horror Story'; 1418 confirms 'American Horror Story' is the Ryan Murphy/Brad Falchuk anthology horror series, jointly answering the question.",
+    "kind": "implicit",
+    "question": "Which American anthology horror series created and produced by Ryan Murphy and Brad Falchuk did  Denis O'Hare filmography performance in the first season of ",
+    "question_number": 143
+  },
+  {
+    "source": "1426",
+    "target": "1425",
+    "reason": "Paragraph 1426 gives Stefan Edberg's career title count (six Grand Slam singles and three Grand Slam men's doubles titles), while paragraph 1425 gives Édouard Roger-Vasselin's Grand Slam doubles title (2014 Roland Garros), providing the concrete comparison needed to answer whether Edberg has won more events.",
+    "kind": "implicit",
+    "question": "Has Stefan Edberg won more events than  Édouard Roger-Vasselin?",
+    "question_number": 144
+  },
+  {
+    "source": "1432",
+    "target": "1433",
+    "reason": "Paragraph 1432 gives Bambi's release date (August 13, 1942) and paragraph 1433 gives Underdog's release year (2007), which together establish that Bambi came out first.",
+    "kind": "implicit",
+    "question": "Which movie came out first, \"Bambi\" or \"Underdog\"?",
+    "question_number": 145
+  },
+  {
+    "source": "1442",
+    "target": "6420",
+    "reason": "1442 identifies Joseph McCarthy as the face of the communist scare; 6420 identifies Jon Voight's film debut in Fearless Frank, bridging McCarthy to the actor who played a fictionalized version.",
+    "kind": "implicit",
+    "question": "Who was known for playing a fictionalized version of the wild politician who was the face of communist scare tact's in the early 1950's?",
+    "question_number": 146
+  },
+  {
+    "source": "1452",
+    "target": "1457",
+    "reason": "Paragraph 1452 identifies Principal Skinner as the character Homer invites to dinner in 'Principal Charming'; paragraph 1457 states that Principal Skinner is voiced by Harry Shearer, directly bridging the episode character to his voice actor.",
+    "kind": "implicit",
+    "question": "In the The Simpsons episode \"Principal Charming, Homer invites a character over for dinner who is voiced by whom?",
+    "question_number": 147
+  },
+  {
+    "source": "1459",
+    "target": "1460",
+    "reason": "1459 establishes the play's full title 'Twelfth Night, or What You Will' by Shakespeare; 1460 independently confirms the alternative name 'Twelfth Night: Or What You Will' for the same Shakespeare play, bridging the author sub-question to the alternative-name sub-question.",
+    "kind": "implicit",
+    "question": "The comedy play written by Shakespeare titled Twelfth Night is also know by what name?",
+    "question_number": 148
+  },
+  {
+    "source": "1459",
+    "target": "1461",
+    "reason": "1459 identifies Shakespeare's comedy and its full title; 1461 references the same play as 'Twelfth Night, or What You Will,' corroborating the alternative name.",
+    "kind": "implicit",
+    "question": "The comedy play written by Shakespeare titled Twelfth Night is also know by what name?",
+    "question_number": 148
+  },
+  {
+    "source": "1459",
+    "target": "1467",
+    "reason": "1459 gives the canonical title 'Twelfth Night, or What You Will'; 1467 confirms the same alternative title in an adaptation of Shakespeare's play.",
+    "kind": "implicit",
+    "question": "The comedy play written by Shakespeare titled Twelfth Night is also know by what name?",
+    "question_number": 148
+  },
+  {
+    "source": "1471",
+    "target": "1476",
+    "reason": "Contrasts the two authors' pre-writing careers and inspiration sources: le Carré's intelligence work vs. Crane's poetic inspiration from Eliot, directly supporting the comparison asked in the question.",
+    "kind": "implicit",
+    "question": "Which author found inspiration in their career prior to writing, Hart Crane or John le Carré?",
+    "question_number": 149
+  },
+  {
+    "source": "1488",
+    "target": "1487",
+    "reason": "Paragraph 1488 identifies Apollo 8 as the second human spaceflight mission and names Frank Borman as its Commander; paragraph 1487 confirms Borman was Commander of Apollo 8 and gives his birth date, bridging mission identification to commander identity.",
+    "kind": "implicit",
+    "question": "In what year was the Commander of the second human spaceflight mission in the United States Apollo space program born?",
+    "question_number": 150
+  },
+  {
+    "source": "1492",
+    "target": "1493",
+    "reason": "1492 identifies William Bradford as Mabel Keyes Babcock's ancestor; 1493 confirms Bradford wrote Of Plymouth Plantation, bridging the relative to the authorship sub-question.",
+    "kind": "implicit",
+    "question": "Which of Mabel Keyes Babcock's distant relatives wrote \"Of Plymouth Plantation\" and served as Governor of the Plymouth Colony? ",
+    "question_number": 151
+  },
+  {
+    "source": "1492",
+    "target": "1497",
+    "reason": "1492 identifies William Bradford as the relative; 1497 confirms Bradford served as Governor of the Plymouth Colony, bridging the relative to the governorship sub-question.",
+    "kind": "implicit",
+    "question": "Which of Mabel Keyes Babcock's distant relatives wrote \"Of Plymouth Plantation\" and served as Governor of the Plymouth Colony? ",
+    "question_number": 151
+  },
+  {
+    "source": "1493",
+    "target": "1497",
+    "reason": "1493 attributes Of Plymouth Plantation to William Bradford, while 1497 identifies Bradford as Plymouth Colony governor and author of the journal, jointly confirming both attributes belong to the same person.",
+    "kind": "implicit",
+    "question": "Which of Mabel Keyes Babcock's distant relatives wrote \"Of Plymouth Plantation\" and served as Governor of the Plymouth Colony? ",
+    "question_number": 151
+  },
+  {
+    "source": "1499",
+    "target": "1507",
+    "reason": "Paragraph 1499 identifies the 1948 remake as starring Betty Grable; paragraph 1507 confirms Betty Grable was an actress and pin-up girl, bridging the film to the actress.",
+    "kind": "implicit",
+    "question": "Bride of the Regiment was later remade into a 1948 film starring the actress and pin-up girl who was the highest-salaried American woman in which two years?",
+    "question_number": 152
+  },
+  {
+    "source": "1510",
+    "target": "1513",
+    "reason": "Paragraph 1510 identifies the IKEA store adjacent to Junction 27 Retail Park, establishing the Netherlands-headquartered multinational as IKEA; paragraph 1513 confirms IKEA is that multinational group and states it was founded in 1943, directly answering the founding-date sub-question.",
+    "kind": "implicit",
+    "question": "When was the multinational group headquartered in the Netherlands adjacent to the Junction 27 Retail Park near Birstall, Batley, West Yorkshite, England, founded?",
+    "question_number": 153
+  },
+  {
+    "source": "1519",
+    "target": "1527",
+    "reason": "Provides the writer counts for both films being compared: Splash has two writers (Lowell Ganz and Babaloo Mandel), while Christopher Robin has three (Tom McCarthy, Alex Ross Perry, Allison Schroeder), enabling the comparison.",
+    "kind": "implicit",
+    "question": "Which film has more writers, Splash or Christopher Robin?",
+    "question_number": 154
+  },
+  {
+    "source": "1536",
+    "target": "1532",
+    "reason": "Paragraph 1536 identifies the series as The Simpsons and states the current arrangement is by Alf Clausen; paragraph 1532 confirms Clausen scored/orchestrated more than 30 films and TV shows, bridging the series to the composer-qualification sub-question.",
+    "kind": "implicit",
+    "question": "Who composed the theme music in 1989 of an animated television series which has the current arrangement by a person who  has scored or orchestrated music for more than 30 films and television shows?",
+    "question_number": 155
+  },
+  {
+    "source": "1538",
+    "target": "1541",
+    "reason": "1538 identifies the radio play's subject as Brian O'Nolan; 1541 supplies the biographical detail that his satirical columns were written under the name Myles na gCopaleen, bridging the play to the answer.",
+    "kind": "implicit",
+    "question": "Ist das Ihr Fahrrad Mr O’Brien? is a German biographical radio play about life, works and legacy of an Irish novelist whose many satrical columns were written under what name?",
+    "question_number": 156
+  },
+  {
+    "source": "1550",
+    "target": "1556",
+    "reason": "Paragraph 1550 identifies 'To Know Him Is to Love Him' as the first track on the Back to Mono box set, while paragraph 1556 identifies the same song as written by Phil Spector and inspired by his father's tombstone, jointly answering the full question.",
+    "kind": "implicit",
+    "question": "Who is the writer of this song that was inspired by words on a tombstone and was the first track on the box set Back to Mono?",
+    "question_number": 157
+  },
+  {
+    "source": "1558",
+    "target": "1567",
+    "reason": "Paragraph 1558 identifies Lou Cutell as appearing on How I Met Your Mother (episode 'Last Time in New York'), and paragraph 1567 confirms that show is the CBS sitcom whose ninth-season third episode is 'Platonish,' bridging the actor to the target series.",
+    "kind": "implicit",
+    "question": " Lou Cutell appeared on the third episode of the ninth season of an CBS sitcom that was what number episode overall?",
+    "question_number": 158
+  },
+  {
+    "source": "1567",
+    "target": "1563",
+    "reason": "Paragraph 1567 states 'Platonish' is the ninth episode of season 9 and the 193rd overall, while paragraph 1563 independently corroborates the season-9 overall episode numbering by noting 'How Your Mother Met Me' is the 200th overall, together supporting the overall episode count.",
+    "kind": "implicit",
+    "question": " Lou Cutell appeared on the third episode of the ninth season of an CBS sitcom that was what number episode overall?",
+    "question_number": 158
+  },
+  {
+    "source": "1573",
+    "target": "1574",
+    "reason": "Paragraph 1573 states the Chinese Chongqing Dog was used for hunting wild boar and rabbits, while paragraph 1574 states the Kanni is used mainly for coursing game; together they directly compare the hunting uses of the two breeds named in the question.",
+    "kind": "implicit",
+    "question": "Which breed, Chinese Chongqing Dog or Kanni, is used for hunting?",
+    "question_number": 159
+  },
+  {
+    "source": "1586",
+    "target": "1579",
+    "reason": "1586 establishes Kissables were shaped like miniature Hershey's Kisses; 1579 identifies the wrapping material (aluminum foil) for Hershey's Kisses of that shape, bridging shape to wrapping material.",
+    "kind": "implicit",
+    "question": "What kind of material forms the wrapping for the chocolate candies that Hershey Kissables were shaped like?",
+    "question_number": 160
+  },
+  {
+    "source": "1592",
+    "target": "1597",
+    "reason": "Paragraph 1592 identifies Plies as founder of Big Gates Records; paragraph 1597 identifies DJ Khaled's second album as 'We the Best', enabling the bridge to check whether Plies appears on it.",
+    "kind": "implicit",
+    "question": "Who is the cofounder of Big Gates Records that collaborated with DJ Khaled on his second album “We the Best”?",
+    "question_number": 161
+  },
+  {
+    "source": "1592",
+    "target": "1588",
+    "reason": "Paragraph 1592 establishes Plies as a Big Gates Records founder; paragraph 1588 states that Plies is featured on 'I'm So Hood' from DJ Khaled's second album 'We the Best', directly linking the cofounder to the album.",
+    "kind": "implicit",
+    "question": "Who is the cofounder of Big Gates Records that collaborated with DJ Khaled on his second album “We the Best”?",
+    "question_number": 161
+  },
+  {
+    "source": "1604",
+    "target": "1605",
+    "reason": "Paragraph 1604 identifies Eddie Albert as the actor nominated for Best Supporting Actor in 1973 for The Heartbreak Kid; paragraph 1605 lists Eddie Albert among the stars of Evening in Byzantium, bridging the two sub-questions.",
+    "kind": "implicit",
+    "question": "What actor appeared in \"Evening in Byzantium\" and was nominated for the Academy Award for Best Supporting Actor in 1973 for \"The Heartbreak Kid\"?",
+    "question_number": 162
+  },
+  {
+    "source": "1609",
+    "target": "1615",
+    "reason": "Paragraph 1609 identifies the movie's urban myth as the Philadelphia Experiment; paragraph 1615 specifies that this alleged experiment was carried out at the Philadelphia Naval Shipyard, directly bridging the movie reference to the shipyard answer.",
+    "kind": "implicit",
+    "question": "The movie \"100 Million BC\" continues the urban myth of an experiment allegedly carried out at waht shipyard?",
+    "question_number": 163
+  },
+  {
+    "source": "1624",
+    "target": "1621",
+    "reason": "Paragraph 1624 identifies the Art Loeb Trail as located in Pisgah National Forest, and paragraph 1621 identifies Pisgah National Forest and its administration, bridging the trail to the forest's management.",
+    "kind": "implicit",
+    "question": "What three other National forests are administered by the same people who administer the park in which the Art Loeb trail runs through?",
+    "question_number": 164
+  },
+  {
+    "source": "1628",
+    "target": "1637",
+    "reason": "Paragraph 1628 identifies the Boltzmann machine by name, while 1637 establishes Ludwig Boltzmann as the physicist whose name it bears, bridging the machine to its namesake creator.",
+    "kind": "implicit",
+    "question": "What machine has the same name as another machine created by Ludwig Boltzmann?",
+    "question_number": 165
+  },
+  {
+    "source": "1646",
+    "target": "1640",
+    "reason": "Paragraph 1646 defines a remix as media altered from its original state, and paragraph 1640 provides the concrete example of 'Oops (Oh My)' having remixes featuring Bubba Sparxxx, directly connecting the general term to the specific alteration asked about.",
+    "kind": "implicit",
+    "question": "What is it called when a piece of media is altered from its original state like when Bubba Sparxxx was featured in the song Oops?",
+    "question_number": 166
+  },
+  {
+    "source": "1657",
+    "target": "1656",
+    "reason": "Paragraph 1657 identifies Benjamin Britten as English (country: England), while paragraph 1656 identifies Béla Bartók as Hungarian (country: Hungary), providing the two nationality facts needed to compare whether they are from the same country.",
+    "kind": "implicit",
+    "question": "Are Benjamin Britten and Béla Bartók from the same country?",
+    "question_number": 167
+  },
+  {
+    "source": "1658",
+    "target": "1663",
+    "reason": "Paragraph 1658 identifies the Rijksmuseum as the Dutch museum dedicated to arts and history at Museum Square; paragraph 1663 names Pierre Cuypers as the architect associated with the Rijksmuseum, bridging the museum to its architect.",
+    "kind": "implicit",
+    "question": "Who was the architect of a Dutch museum dedicated to the arts and history in Amsterdam, located at the Museum Square?",
+    "question_number": 168
+  },
+  {
+    "source": "1669",
+    "target": "1674",
+    "reason": "Paragraph 1669 lists Lush's four members (Berenyi, Anderson, King, Acland), and paragraph 1674 lists P.O.D.'s four members (Sandoval, Bernardo, Curiel, Daniels), together establishing that both bands have four members and jointly answering the comparison question.",
+    "kind": "implicit",
+    "question": "Do Lush and P.O.D. both consist of four band members?",
+    "question_number": 169
+  },
+  {
+    "source": "1682",
+    "target": "1686",
+    "reason": "Both give the birth dates needed to compare ages: Manson born 26 August 1966 and Kerr born 9 July 1959, showing Manson is younger.",
+    "kind": "implicit",
+    "question": "Which singer is younger, Shirley Manson or Jim Kerr?",
+    "question_number": 170
+  },
+  {
+    "source": "1692",
+    "target": "1689",
+    "reason": "Paragraph 1692 identifies Murray Head as most recognised for 'One Night in Bangkok' from the musical 'Chess'; paragraph 1689 confirms that song is from the concept album/musical 'Chess' by Tim Rice, Andersson and Ulvaeus, directly bridging the person to the specific song asked about.",
+    "kind": "implicit",
+    "question": "Murray Seafield St George Head most recognised for which song from the concept album and subsequent musical \"Chess\" by Tim Rice, Benny Andersson and Björn Ulvaeus?",
+    "question_number": 171
+  },
+  {
+    "source": "1707",
+    "target": "1702",
+    "reason": "Paragraph 1707 identifies Lord Salisbury as the lord under whom William Pery served as Captain of the Yeomen of the Guard; paragraph 1702 identifies Salisbury as Viscount Cranborne from June 1865 until April 1868, bridging the sub-questions.",
+    "kind": "implicit",
+    "question": "William Pery served as Captain of the Yeomen of the Guard under the lord who served in what position from 1865 to 1868?",
+    "question_number": 172
+  },
+  {
+    "source": "1710",
+    "target": "1717",
+    "reason": "1710 states Dracula has 118 species while 1717 states Pistacia has 10 to 20 species, providing the two counts needed to compare and conclude Dracula has more.",
+    "kind": "implicit",
+    "question": "Whiich genus has more species, Dracula or Pistacia?",
+    "question_number": 173
+  },
+  {
+    "source": "1720",
+    "target": "1725",
+    "reason": "Paragraph 1720 identifies Anita Loos as an American author (among other roles), and paragraph 1725 identifies Grace Metalious as an American author, directly bridging the shared occupation of author.",
+    "kind": "implicit",
+    "question": "What occupation do Anita Loos and Grace Metalious share? ",
+    "question_number": 174
+  },
+  {
+    "source": "1729",
+    "target": "1728",
+    "reason": "Directly compares the two directors' national affiliations: Florey is French-American (France and US) while Springsteen is American (US only), enabling the conclusion that Florey is affiliated with more countries.",
+    "kind": "implicit",
+    "question": "Who is affiliated with more countries as a director, Robert Florey and R. G. Springsteen?",
+    "question_number": 175
+  },
+  {
+    "source": "1757",
+    "target": "1756",
+    "reason": "Paragraph 1757 identifies Jim Croce as the writer/performer of 'One Less Set of Footsteps'; paragraph 1756 provides Jim Croce's birth year (1943), directly bridging the song to the singer's birth year.",
+    "kind": "implicit",
+    "question": " \"One Less Set of Footsteps\" is a song written and performed by a singer born in which year ?",
+    "question_number": 177
+  },
+  {
+    "source": "1766",
+    "target": "1767",
+    "reason": "Both are Gevherhan Sultan disambiguation entries; 1766 identifies the relevant Gevherhan as daughter of Ahmed I, while 1767 shows the alternative Gevherhan (daughter of Selim II) whose grandfather is explicitly Suleiman, helping distinguish which Gevherhan the question refers to.",
+    "kind": "implicit",
+    "question": "which sultan of the Ottoman Empire was  Gevherhan Sultan her granddaughter ",
+    "question_number": 178
+  },
+  {
+    "source": "1766",
+    "target": "1760",
+    "reason": "1766 states Gevherhan was daughter of Ahmed I and Kösem Sultan; 1760 establishes Hürrem Sultan as mother of Selim II, providing the generational chain needed to trace Ahmed I's father (Mehmed III) and thus the grandfather.",
+    "kind": "implicit",
+    "question": "which sultan of the Ottoman Empire was  Gevherhan Sultan her granddaughter ",
+    "question_number": 178
+  },
+  {
+    "source": "1766",
+    "target": "1764",
+    "reason": "1766 identifies Gevherhan as daughter of Ahmed I; 1764 identifies Suleiman as a sultan, but the bridge is complementary: it supplies sultan lineage context needed to determine that Ahmed I's father was Mehmed III, not Suleiman.",
+    "kind": "implicit",
+    "question": "which sultan of the Ottoman Empire was  Gevherhan Sultan her granddaughter ",
+    "question_number": 178
+  },
+  {
+    "source": "1767",
+    "target": "1764",
+    "reason": "1767 explicitly says Gevherhan (daughter of Selim II) was granddaughter of Suleiman the Magnificent; 1764 confirms Suleiman as Ottoman sultan, forming a direct bridge for the alternative interpretation of the question.",
+    "kind": "implicit",
+    "question": "which sultan of the Ottoman Empire was  Gevherhan Sultan her granddaughter ",
+    "question_number": 178
+  },
+  {
+    "source": "1767",
+    "target": "1760",
+    "reason": "1767 names Hürrem Sultan as Gevherhan's grandmother; 1760 confirms Hürrem was wife of Suleiman and mother of Selim II, completing the grandparent chain for the Selim II daughter.",
+    "kind": "implicit",
+    "question": "which sultan of the Ottoman Empire was  Gevherhan Sultan her granddaughter ",
+    "question_number": 178
+  },
+  {
+    "source": "1762",
+    "target": "1764",
+    "reason": "1762 states Fatma Sultan was granddaughter of Suleiman the Magnificent; 1764 confirms Suleiman as sultan, reinforcing the same lineage pattern used to answer which sultan was a grandfather.",
+    "kind": "implicit",
+    "question": "which sultan of the Ottoman Empire was  Gevherhan Sultan her granddaughter ",
+    "question_number": 178
+  },
+  {
+    "source": "1796",
+    "target": "1794",
+    "reason": "Paragraph 1796 identifies Keene High School in Keene, New Hampshire, while paragraph 1794 disambiguates a different former Keene High School in Keene, Texas, in Johnson County; together they clarify which Keene High School the question refers to and rule out the Texas county.",
+    "kind": "implicit",
+    "question": "What county is Keene High School located in?",
+    "question_number": 181
+  },
+  {
+    "source": "1807",
+    "target": "1803",
+    "reason": "1807 identifies the USPC culmination game as no-limit Texas hold 'em; 1803 explains Texas hold 'em rules, including that a player combines two hole cards with five community cards (seven total) to form a hand.",
+    "kind": "implicit",
+    "question": "How many cards can a player choose from to be part of their hand in the card game that was the culmination game of the United States Poker Championship?",
+    "question_number": 182
+  },
+  {
+    "source": "1807",
+    "target": "1806",
+    "reason": "1807 establishes the game is Texas hold 'em; 1806 specifies the player's playing hand is the best 5-card hand from two hole cards plus five community cards, i.e., choosing from seven cards.",
+    "kind": "implicit",
+    "question": "How many cards can a player choose from to be part of their hand in the card game that was the culmination game of the United States Poker Championship?",
+    "question_number": 182
+  },
+  {
+    "source": "1803",
+    "target": "1806",
+    "reason": "Both describe Texas hold 'em hand construction: 1803 states the best five-card hand comes from seven cards (two hole + five community), and 1806 confirms the same seven-card pool for the playing hand.",
+    "kind": "implicit",
+    "question": "How many cards can a player choose from to be part of their hand in the card game that was the culmination game of the United States Poker Championship?",
+    "question_number": 182
+  },
+  {
+    "source": "1817",
+    "target": "1816",
+    "reason": "1817 lists Rita Wilson as a supporting cast member of Sleepless in Seattle; 1816 confirms she appeared in that film and names other films she appeared in, directly answering which other film a supporting cast member appeared in.",
+    "kind": "implicit",
+    "question": "Which other film did one of the supporting cast in \"Sleepless in Seattle\" appear?",
+    "question_number": 183
+  },
+  {
+    "source": "1817",
+    "target": "1812",
+    "reason": "1817 lists Gaby Hoffmann as a supporting cast member of Sleepless in Seattle; 1812 confirms her role in Sleepless in Seattle and lists other films she appeared in (Field of Dreams, Uncle Buck, Now and Then, Volcano).",
+    "kind": "implicit",
+    "question": "Which other film did one of the supporting cast in \"Sleepless in Seattle\" appear?",
+    "question_number": 183
+  },
+  {
+    "source": "1825",
+    "target": "1823",
+    "reason": "Paragraph 1825 identifies Isabella Bird as a co-founder of the John Bishop Memorial Hospital in Srinagar; paragraph 1823 states that Isabella Bird wrote a travel diary, Unbeaten Tracks in Japan, directly answering what type of diary she wrote.",
+    "kind": "implicit",
+    "question": "What type of diary did one of the founders of the John Bishop Memorial Hospital in Srinagar write?",
+    "question_number": 184
+  },
+  {
+    "source": "1835",
+    "target": "1836",
+    "reason": "Paragraph 1835 identifies End of Days as the film starring Schwarzenegger as a former NYPD detective; paragraph 1836 confirms Guns N' Roses released 'Oh My God' on the End of Days soundtrack as a promo, bridging the movie to the band's promo.",
+    "kind": "implicit",
+    "question": "What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?",
+    "question_number": 185
+  },
+  {
+    "source": "1841",
+    "target": "1839",
+    "reason": "1841 establishes that the Dolphins' win over the Vikings was followed by the Snowplow Game loss to the Patriots, and 1839 identifies that game and the snowplow operator's role, bridging the sequence to the answer.",
+    "kind": "implicit",
+    "question": "What key role did the stadium's snowplow operated play in the game following the Dolphins win against the Minnesota Vikings?",
+    "question_number": 186
+  },
+  {
+    "source": "1848",
+    "target": "1855",
+    "reason": "Paragraph 1848 states Virginia Ruzici is a former professional tennis player, and paragraph 1855 states Andy Murray is a British professional tennis player, directly establishing that both participate in tennis.",
+    "kind": "implicit",
+    "question": "In which sport does both Virginia Ruzici and Andy Murray participate?",
+    "question_number": 187
+  },
+  {
+    "source": "1858",
+    "target": "1859",
+    "reason": "Paragraph 1858 dates the English Water Spaniel's specialization/use to the late 17th century, while 1859 dates the Estonian Hound's breeding to 1947, providing the two dates needed to compare which breed came first.",
+    "kind": "implicit",
+    "question": "Which breed was bred first, the English Water Spaniel or the Estonian Hound?",
+    "question_number": 188
+  },
+  {
+    "source": "1867",
+    "target": "1871",
+    "reason": "Paragraph 1867 identifies Yoann Lemoine as the director of Taylor Swift's 'Back to December'; paragraph 1871 confirms that 'Back to December' is a remorseful apology and plea for forgiveness, bridging the director to the specific work.",
+    "kind": "implicit",
+    "question": "What notable work from French music video director Yoann Lemoine features an apology and plea for forgiveness?",
+    "question_number": 189
+  },
+  {
+    "source": "1877",
+    "target": "1884",
+    "reason": "1877 establishes Pachulia won his NBA Championship in 2017 with the Golden State Warriors, while 1884 establishes he played for the Atlanta Hawks starting in 2005; together they show the championship was not won with Atlanta.",
+    "kind": "implicit",
+    "question": "Did Zaza Pachulia win an NBA Championship with the Atlanta Hawks?",
+    "question_number": 190
+  },
+  {
+    "source": "1877",
+    "target": "1875",
+    "reason": "1877 identifies Pachulia's title as coming with the Warriors in 2017, and 1875 states the Hawks' only NBA championship was in 1958, bridging to the conclusion that Pachulia did not win a championship with Atlanta.",
+    "kind": "implicit",
+    "question": "Did Zaza Pachulia win an NBA Championship with the Atlanta Hawks?",
+    "question_number": 190
+  },
+  {
+    "source": "1886",
+    "target": "1892",
+    "reason": "1886 identifies Dun & Bradstreet as the creator of DUNS and states the DUNS database has over 250 million entries; 1892 confirms D&B's database contains more than 265 million business records, providing the specific record count needed to answer the question.",
+    "kind": "implicit",
+    "question": "The company that created the Data Universal Numbering System has a database that contains how many business records?",
+    "question_number": 191
+  },
+  {
+    "source": "1911",
+    "target": "1905",
+    "reason": "Paragraph 1911 identifies the 2016 film starring McConaughey, Mbatha-Raw, and Russell as Free State of Jones; paragraph 1905 names the band of Confederate army deserters in that story as the Knight Company, bridging the film to the answer.",
+    "kind": "implicit",
+    "question": "What was the name of the band of Confederate army deserters in the 2016 movie starring Matthew McConaughey, Gugu Mbatha-Raw, and Keri Russell?",
+    "question_number": 193
+  },
+  {
+    "source": "1916",
+    "target": "1919",
+    "reason": "Paragraph 1916 states Marsilea has approximately 65 species, while 1919 states Brabejum has a single species; together these counts directly support comparing which genus has more species.",
+    "kind": "implicit",
+    "question": "Is the Marsilea or the Brabejum the genus of more individual species of plants?",
+    "question_number": 194
+  },
+  {
+    "source": "1934",
+    "target": "1931",
+    "reason": "1934 identifies Felix Mendelssohn as the German composer/pianist/organist/conductor and states he was of the early Romantic period; 1931 confirms Mendelssohn composed the world-famous 'Wedding March,' bridging the composer identification to the work named in the question.",
+    "kind": "implicit",
+    "question": "In which period was this German composer, pianist, organist and conductor born in 1847 active, whose work \"Wedding March\" became reference to any \"wedding march?\"",
+    "question_number": 195
+  },
+  {
+    "source": "1934",
+    "target": "1932",
+    "reason": "1934 names Mendelssohn and his early Romantic period; 1932 explains that 'wedding march' refers to any such piece, notably Felix Mendelssohn's 'Wedding March,' connecting the period answer to the work that made the term a reference.",
+    "kind": "implicit",
+    "question": "In which period was this German composer, pianist, organist and conductor born in 1847 active, whose work \"Wedding March\" became reference to any \"wedding march?\"",
+    "question_number": 195
+  },
+  {
+    "source": "1942",
+    "target": "1940",
+    "reason": "1942 identifies James II as the king deposed in 1688; 1940 states the third Viscount Barnewall (grandson of the first Viscount) was a supporter of James II, bridging the deposed king to the Barnewall grandson.",
+    "kind": "implicit",
+    "question": "The king deposed in the Glorious Revolution of 1688 was supported by the grandson of what Viscount Barnewall?",
+    "question_number": 196
+  },
+  {
+    "source": "1940",
+    "target": "1941",
+    "reason": "1940 says the first Viscount's grandson (the third Viscount) supported James II; 1941 identifies that grandfather as Nicholas Barnewall, 1st Viscount Barnewall.",
+    "kind": "implicit",
+    "question": "The king deposed in the Glorious Revolution of 1688 was supported by the grandson of what Viscount Barnewall?",
+    "question_number": 196
+  },
+  {
+    "source": "1940",
+    "target": "1938",
+    "reason": "1940 refers to the third Viscount as the grandson who supported James II; 1938 names him as Nicholas Barnewall, 3rd Viscount Barnewall.",
+    "kind": "implicit",
+    "question": "The king deposed in the Glorious Revolution of 1688 was supported by the grandson of what Viscount Barnewall?",
+    "question_number": 196
+  },
+  {
+    "source": "1949",
+    "target": "1952",
+    "reason": "Paragraph 1949 establishes Wilco Melissant is a Dutch director; paragraph 1952 establishes Todd Field is an American actor and filmmaker, together bridging the comparison that both are film-industry professionals.",
+    "kind": "implicit",
+    "question": "Are Wilco Melissant and Todd Field both involved in the film industry (e.g. director, filmmaker, actor)?",
+    "question_number": 197
+  },
+  {
+    "source": "1958",
+    "target": "1956",
+    "reason": "1958 identifies James Fowle Baldwin as having surveyed and designed the Boston and Lowell Railroad, while 1956 states that this railroad's line later operated as part of the Boston and Maine Railroad's Southern Division, directly bridging the person to the final answer.",
+    "kind": "implicit",
+    "question": "James Fowle Baldwin helped design a historic railroad that operated in Massachusetts and whose line later operated as part of what?",
+    "question_number": 198
+  },
+  {
+    "source": "1958",
+    "target": "1963",
+    "reason": "1958 links Baldwin to the Boston and Lowell Railroad, and 1963 confirms that the line originally built as the Boston & Lowell Railroad later operated as part of the Boston & Maine Railroad's Southern Division.",
+    "kind": "implicit",
+    "question": "James Fowle Baldwin helped design a historic railroad that operated in Massachusetts and whose line later operated as part of what?",
+    "question_number": 198
+  },
+  {
+    "source": "1984",
+    "target": "1975",
+    "reason": "Paragraph 1984 establishes MUST is a state university in Azad Jammu & Kashmir (outside the US), and paragraph 1975 establishes University of Debrecen is in Hungary (outside the US); together they jointly support the conclusion that both universities are located outside the United States.",
+    "kind": "implicit",
+    "question": "Are Mirpur University of Science and Technology and University of Debrecen both Universities located outside of the United States?",
+    "question_number": 200
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "matched": 190,
+  "old_matched_correct": {
+    "ContainsMatch": 128.0,
+    "LLMAccuracy": 158.0
+  },
+  "new_matched_correct": {
+    "ContainsMatch": 133.0,
+    "LLMAccuracy": 157.0
+  },
+  "paired_changes": {
+    "ContainsMatch": {
+      "gains": 11,
+      "losses": 6
+    },
+    "LLMAccuracy": {
+      "gains": 8,
+      "losses": 9
+    }
+  },
+  "new_completed": 200,
+  "new_correct": {
+    "ContainsMatch": 141.0,
+    "LLMAccuracy": 165.0
+  }
+}

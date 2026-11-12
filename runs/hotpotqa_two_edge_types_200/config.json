@@ -1,0 +1,14 @@
+{
+  "dataset": "dataset/hotpotqa.json",
+  "corpus": "dataset/hotpotqa_corpus.json",
+  "run_dir": "runs/hotpotqa_two_edge_types_200",
+  "encoder": "./all-MiniLM-L6-v2",
+  "model": "deepseek-flash",
+  "top_k": 5,
+  "limit": 200,
+  "explicit_degree": 8,
+  "explicit_weight": 0.25,
+  "global_every": 100,
+  "dataset_sha256": "3ad9c0bcbf93f41d7004ca6007049c904d2605046b314a2f7ecfb379c64cba6d",
+  "corpus_sha256": "9333647b922382776cd2cb02893b390d77984df85a91bfa8be411284978aca7d"
+}

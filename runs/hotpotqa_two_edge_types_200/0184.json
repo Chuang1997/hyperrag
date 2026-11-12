@@ -1,0 +1,268 @@
+{
+  "question": "What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?",
+  "answer": "1999",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What movie stars Arnold Schwarzenegger as a former New York Police detective?",
+      "retrieved": [
+        {
+          "id": "1828",
+          "text": "Arnold Schwarzenegger filmography\nArnold Schwarzenegger is an actor who has appeared in over 30 films, and has also ventured into directing and producing. He began his acting career primarily with small roles in film and television. For his first film role, he was credited as \"Arnold Strong\", but was credited with his birth name thereafter. He has appeared mainly in action, and comedy films. In addition to films and television, he has appeared in music videos for AC/DC, Bon Jovi, and Guns N' Roses.",
+          "semantic_score": 0.5712611079216003,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1834",
+          "text": "Last Action Hero\nLast Action Hero is a 1993 American fantasy action comedy film directed and produced by John McTiernan. It is a satire of the action genre and associated clichés, containing several parodies of action films in the form of films within the film.The film stars Arnold Schwarzenegger as Jack Slater, a Los Angeles police detective within the \"Jack Slater\" action film franchise. Austin O'Brien co-stars as a boy magically transported into the \"Slater\" universe. Schwarzenegger also served as the film's executive producer and plays himself as the actor portraying Jack Slater, and Charles Dance plays an assassin who escapes from the \"Slater\" world into the real world.",
+          "semantic_score": 0.47447699308395386,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "543",
+          "text": "Sam Mendes\nSamuel Alexander Mendes, {'1': \", '2': \", '3': \", '4': \"} (born 1 August 1965) is an English stage and film director. He is best known for directing the drama film \"American Beauty\" (1999), which earned him the Academy Award and Golden Globe Award for Best Director, the crime film \"Road to Perdition\" (2002), and the \"James Bond\" films \"Skyfall\" (2012) and \"Spectre\" (2015).",
+          "semantic_score": 0.4486031234264374,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1835",
+          "text": "End of Days (film)\nEnd of Days is a 1999 American fantasy action horror thriller film directed by Peter Hyams and starring Arnold Schwarzenegger, Gabriel Byrne, Robin Tunney, Kevin Pollak, Rod Steiger, CCH Pounder, and Udo Kier. The film follows former New York Police Department detective Jericho Cane (Schwarzenegger) after he saves a banker (Byrne) from an assassin, finds himself embroiled in a religious conflict, and must protect an innocent young woman (Tunney) who is chosen by evil forces to conceive the Antichrist with Satan.",
+          "semantic_score": 0.43623703718185425,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9790",
+          "text": "Domestic Disturbance\nDomestic Disturbance is a 2001 American psychological thriller film directed by Harold Becker (his last film to date) and starring John Travolta, Vince Vaughn, Teri Polo, Steve Buscemi, and Matt O'Leary.",
+          "semantic_score": 0.4255044460296631,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "537",
+          "text": "List of accolades received by American Beauty\n\"American Beauty\" is a 1999 American drama film directed by Sam Mendes and written by Alan Ball. The film stars Kevin Spacey as Lester Burnham, a middle-aged office worker who has a midlife crisis when he becomes infatuated with his teenage daughter's best friend. Released in North America on September 15, 1999, \"American Beauty\" was positively received by critics and audiences alike; it was the best-reviewed American film of the year and grossed over $350 million worldwide. Reviewers praised all aspects of the production, with particular emphasis on Mendes, Spacey and Ball; criticism tended to focus on the familiarity of the characters and setting. At the 1999 Academy Awards, the film won Best Picture, Best Director, Best Actor (for Spacey), Best Original Screenplay and Best Cinematography (for Conrad Hall). The film was nominated for and won numerous other awards and honors, mainly for the direction, writing, and acting.",
+          "semantic_score": 0.2852597236633301,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "697",
+          "text": "This Is the End\nThis Is the End is a 2013 American disaster black comedy horror fantasy film written, directed and story by Seth Rogen and Evan Goldberg and stars Rogen, James Franco, Jonah Hill, Jay Baruchel, Danny McBride, Craig Robinson, Michael Cera and Emma Watson. The story features real life actors playing fictionalized versions of themselves in the aftermath of a global biblical apocalypse. The film premiered at the Fox Village Theater on June 3, 2013 and was released in the United States on June 14, 2013 by Columbia Pictures, before being re-released on September 6, 2013. The film grossed $126 million on a $32 million budget.",
+          "semantic_score": 0.16121900081634521,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3836",
+          "text": "Michel Hazanavicius\nMichel Hazanavicius (] ; born 29 March 1967) is a French film director, producer, screenwriter and film editor best known for his 2011 film, \"The Artist\", which won the Academy Award for Best Picture at the 84th Academy Awards. It also won him the Academy Award for Best Director. He also directed spy film parodies \"\" (2006) and \"\" (2009).",
+          "semantic_score": 0.24647143483161926,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7829",
+          "text": "Mike Katz\nMichael Katz (born November 14, 1944) is a former American IFBB professional bodybuilder and former professional football player with the New York Jets, most famous for his appearance with Arnold Schwarzenegger in the 1977 bodybuilding documentary film \"Pumping Iron\".",
+          "semantic_score": 0.4207093417644501,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8403",
+          "text": "Supergirl (film)\nSupergirl is a 1984 British superhero film directed by Jeannot Szwarc and written by David Odell, based on the DC Comics character of the same name and serves as a spin-off to Alexander and Ilya Salkind's \"Superman\" film series. The film stars Helen Slater as Supergirl, along with Faye Dunaway, Mia Farrow and Peter O'Toole, with Marc McClure reprising his role as Jimmy Olsen from the \"Superman\" films. He was the only actor to do so. \"Supergirl\" was the first superhero film to feature a woman in the lead role.",
+          "semantic_score": 0.2681945860385895,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "End of Days"
+    },
+    {
+      "step": 2,
+      "sub_question": "Did Guns N' Roses perform a promo for that movie?",
+      "retrieved": [
+        {
+          "id": "1836",
+          "text": "Oh My God (Guns N' Roses song)\n\"Oh My God\" is a song by Guns N' Roses released in 1999 on the soundtrack to the film \"End of Days\". The song was sent out to radio stations in November 1999 as a promo for the soundtrack and the band. Despite being the band's first recorded release in almost five years, it was never issued as a stand-alone single for public retail.",
+          "semantic_score": 0.5158008933067322,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1829",
+          "text": "Guns N' Roses discography\nGuns N' Roses is an American hard rock band formed in Los Angeles, California in 1985 by members of Hollywood Rose and L.A. Guns. The band has released six studio albums, two live albums, two compilation albums, two extended plays, seven video albums, eighteen singles, twenty four music videos and one video single. Guns N' Roses signed a deal with Geffen Records in 1986, after the independently released EP \"Live ?!*@ Like a Suicide\" a year before. Its debut studio album \"Appetite for Destruction\" was released in 1987, reached the top of the \"Billboard\" 200 and sold 18 million units in the United States and approximately 33 million units worldwide.",
+          "semantic_score": 0.5036826133728027,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1831",
+          "text": "Steven Adler\nSteven Adler (born Michael Coletti; January 22, 1965) is an American musician. He is best known as the former drummer and co-songwriter of the hard rock band Guns N' Roses, with whom he achieved worldwide success in the late 1980s. Adler was fired from Guns N' Roses over his heroin addiction in 1990, following which he reformed his old band Road Crew and briefly joined BulletBoys, which both proved unsuccessful. During the 2000s, Adler was the drummer of the band Adler's Appetite, and from 2012, he had held the same position in the band Adler. In early 2017, Steven Adler declared that he has no intention to continue with the band, and that the band has now dissolved, and the reason is his lack of interest in performing during poorly attended concerts. He appeared on the second and fifth seasons of the reality TV show \"Celebrity Rehab with Dr. Drew\", as well as on the first season of its spin-off \"Sober House\". He was inducted into the Rock and Roll Hall of Fame in 2012 as a member of Guns N' Roses.",
+          "semantic_score": 0.38868778944015503,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5830",
+          "text": "Carry the Banner\nCarry the Banner is the third EP by the Berkeley, California-based punk rock band Pinhead Gunpowder. Originally released on 10\" vinyl in December 1994 through Too Many Records, the EP was reissued on CD by Lookout Records shortly after as the initial vinyl pressing sold out quickly. It was the group's first release to feature Jason White on guitar/vocals, replacing Sarah Kirsch, who left the band in 1994 due to differences with Billie Joe Armstrong after his main band Green Day signed to major label Reprise Records.",
+          "semantic_score": 0.3859211802482605,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5827",
+          "text": "Combatwoundedveteran\nCombatwoundedveteran or Combat Wounded Veteran were a grindcore band split between Ithaca, New York and Tampa, Florida that was heavily influenced by early grindcore, screamo, math rock and powerviolence. In their 7 years of existence they managed to put out several splits, including one with heavily influential screamo band Orchid, a 10\" EP, one full-length album and a posthumous release that compiles nearly all their splits and early EPs. Though the band did not tour very often or put out many records their footprint is still visible in the screamo and powerviolence underground. The band was signed to famous Florida record label No Idea Records late in their career. Guitarist Chris Norris currently does graphic design under the name Steak Mtn. and has contributed artwork for releases by groups such as Atom And His Package, Orchid and Against Me!.",
+          "semantic_score": 0.3549965023994446,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6032",
+          "text": "The Guns (band)\nThe Guns are a four-piece rock band from South Wales. The current line-up consists of Alex Wiltshire (vocals and guitar), Adam Turner (lead guitar), Tom Coburn (bass guitar) and Chris 'Stix' Davies (drums). The band have stated that they would like to remain independent and have turned down numerous record deals as a result of that. As of 2012, The Guns have released two EPs, and two albums.",
+          "semantic_score": 0.29880887269973755,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7244",
+          "text": "Painface\nPainface is an American Death metal band that originally formed in 1997 in Des Moines, Iowa, by former Slipknot frontman Anders Colsefni. The band broke up in 2001, later reforming in 2011, and releasing a new E.P. in 2013 titled 'Skullcrusher'. The band was set to release their first album since Fleshcraft (2000), but indifferences where met, and the band broke up yet again in 2015. On December 5, 2016, a year later after the band's second dissolution, frontman Colsefni released a 12-second teaser video on YouTube of a new track titled 'GunSlinger' citing the bands Second Reformation. Little is known to who else besides Anders are a part of the newest lineup.",
+          "semantic_score": 0.2580426335334778,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "step": 3,
+      "sub_question": "In what year did that promo performance occur?",
+      "retrieved": [
+        {
+          "id": "5506",
+          "text": "2016 MTV Movie Awards\nThe 2016 MTV Movie Awards was held on June 15, 2016 from Warner Brothers Studios in Burbank, California, as the first such event in 21 years as well as being the first Movie Awards to be held outdoors. In addition, this year also became the first since the 2006 MTV Movie Awards not to be aired live as the event was pre-recorded on April 9 prior to its April 10 date and the first since the 2003 MTV Movie Awards to include two hosts instead of one.",
+          "semantic_score": 0.3650985062122345,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4964",
+          "text": "SOP Gigsters\nSOP Gigsters was a musical variety show in the Philippines which featured production numbers from GMA Network's young stars and ran texting promos where viewers had a chance to win gadgets and cash prizes by subscribing through Fanatxt. This series aired from June 13, 2004 to October 22, 2006. It also featured guest performers. It aired every Sunday right after its parent show \"SOP (Sobrang Okey Pare)\".",
+          "semantic_score": 0.3598947823047638,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9608",
+          "text": "59th Academy Awards\nThe 59th Academy Awards ceremony, organized by the Academy of Motion Picture Arts and Sciences (AMPAS), took place on March 30, 1987, at the Dorothy Chandler Pavilion in Los Angeles beginning at 6:00 p.m. PST / 9:00 p.m. EST. During the ceremony, AMPAS presented Academy Awards (commonly referred to as Oscars) in 23 categories honoring films released in 1986. The ceremony, televised in the United States by ABC, was produced by Samuel Goldwyn Jr. and directed by Marty Pasetta. Actors Chevy Chase, Paul Hogan, and Goldie Hawn co-hosted the show. Hawn hosted the gala for the second time, having previously been a co-host of the 48th ceremony held in 1976. Meanwhile, this was Chase and Hogan's first Oscars hosting stint. Eight days earlier, in a ceremony held at The Beverly Hilton in Beverly Hills, California on March 22, the Academy Awards for Technical Achievement were presented by host Catherine Hicks.",
+          "semantic_score": 0.35181117057800293,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6889",
+          "text": "PopLife Records\nPopLife Records is a record label based in the United Kingdom. Their first release was the eponymous 'Crazy Loop' by Dan Balan's alter ego Crazy Loop in October 2009. PopLife are most notable for signing X Factor finalists Same Difference.",
+          "semantic_score": 0.34326377511024475,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9270",
+          "text": "List of Britney Spears live performances\nAmerican singer Britney Spears has embarked on six headlining concert tours, five of which have been worldwide. She first served as an opening act for NSYNC before starting her 1999–2000 headlining debut, the ...Baby One More Time Tour, which was based in North America only. Its success prompted an extension of dates entitled Crazy 2K. The tour was positively received by critics, but generated some controversy due to her racy outfits. Jae-Ha Kim of the \"Chicago Sun-Times\" commented that \"Spears has that 'it' factor that worked for pinup queens of the past.\" In 2000–01, she performed on the worldwide Oops!... I Did It Again World Tour. It was critically appreciated for Spears' energy and performance, as well as the band. She then followed this with the Dream Within a Dream Tour in 2001–02, visiting Japan and Mexico for the first time. The performances were accompanied by many special effects, the \"pièce de résistance\" being a water screen that pumped two tons of water onto the stage during the encore performance of \"...Baby One More Time.\" In a show in Miami, Britney stopped the show three songs into the setlist because it was too dangerous to perform in the rain storm.",
+          "semantic_score": 0.3394213616847992,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1602",
+          "text": "List of Best Supporting Actor winners by age\nThis is a list of winners of the Academy Award of Merit for Performance by an Actor in a Supporting Role, presented annually by the Academy of Motion Picture Arts and Sciences (AMPAS) to an actor who has delivered an outstanding performance while working within the film industry. More popularly known as the Academy Award (or the Oscar) for Best Supporting Actor, this award was initially presented at the 9th Academy Awards ceremony for 1936 and was most recently presented at the 88th Academy Awards ceremony for 2015. Throughout the past 80 years, accounting for ties and repeat winners, AMPAS has presented a total of 81 Best Supporting Actor awards to 73 different actors. This list is current as of the 89th Academy Awards ceremony held on February 26, 2017.",
+          "semantic_score": 0.24550515413284302,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4191",
+          "text": "Academy Honorary Award\nThe Academy Honorary Award – instituted in 1948 for the 21st Academy Awards (previously called the Special Award, which was first presented in early 1929) – is given annually by the Board of Governors of the Academy of Motion Picture Arts and Sciences (AMPAS) to celebrate motion picture achievements that are not covered by existing Academy Awards, although prior winners of competitive Academy Awards are not excluded from receiving the Honorary Award. Unless otherwise specified, Honorary Award recipients receive the same gold Oscar statuettes received by winners of the competitive Academy Awards. Unlike the Special Achievement Award instituted in 1972 (and discontinued in 1995), those on whom the Academy confers its Honorary Award do not have to meet \"the Academy's eligibility year and deadline requirements.\" Like the Special Achievement Award, the Special Award and Honorary Award have been used to reward significant achievements of the year that did not fit in existing categories, subsequently leading the Academy to establish several new categories, and to honor exceptional career achievements, contributions to the motion picture industry, and service to the Academy. The Academy Honorary Award is often awarded in preference to those with noted achievements in motion pictures who have nevertheless never won an Academy Award. Thus, many of its recipients are Classic Hollywood stars, such as Lillian Gish, Barbara Stanwyck, Kirk Douglas, and Lauren Bacall.",
+          "semantic_score": 0.14710858464241028,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4194",
+          "text": "Academy Awards pre-show\nThe Academy Awards pre-show (currently known as Oscars Red Carpet Live) is a live televised pre-show which precedes the start of the Academy Awards telecast by 90 minutes (previously by 30 minutes until 2011). The pre-show takes place on the red carpet surrounding the theater which holds the telecast, and is almost always hosted by various media personalities, such as Regis Philbin, Chris Connelly, Tim Gunn, and Robin Roberts.",
+          "semantic_score": 0.26369982957839966,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1606",
+          "text": "Academy Award for Best Supporting Actor\nThe Academy Award for Best Supporting Actor (often referred to as the Oscar for Best Supporting Actor) is an award presented annually by the Academy of Motion Picture Arts and Sciences (AMPAS). It is given in honor of an actor who has delivered an outstanding performance in a supporting role while working within the film industry.",
+          "semantic_score": 0.18489213287830353,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "328",
+          "text": "18th Annual Latin Grammy Awards\nThe 18th Annual Latin Grammy Awards will be held on Thursday, November 16, 2017 at the MGM Grand Garden Arena in Las Vegas. It will be broadcast on Univision at 8PM ET\\PT. This will mark the tenth year Las Vegas hosts the Latin Grammy Awards and will also mark the telecasts return to the MGM Grand Garden Arena.",
+          "semantic_score": 0.2777153253555298,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "2006"
+    }
+  ],
+  "links": [
+    {
+      "source": "1835",
+      "target": "1836",
+      "reason": "Paragraph 1835 identifies End of Days as the film starring Schwarzenegger as a former NYPD detective; paragraph 1836 confirms Guns N' Roses released 'Oh My God' on the End of Days soundtrack as a promo, bridging the movie to the band's promo."
+    }
+  ],
+  "questions_seen": 185,
+  "_id": "5ab3b0bf5542992ade7c6e39",
+  "correct_answer": "1999",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

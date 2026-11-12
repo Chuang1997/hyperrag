@@ -1,0 +1,362 @@
+{
+  "question": "Faith Goldy got fired after an interview she gave on what production site edited by Andrew Anglin?",
+  "answer": "The Daily Stormer",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Faith Goldy?",
+      "retrieved": [
+        {
+          "id": "501",
+          "text": "Faith Goldy\nFaith Julia Goldy (born 1989) is a Canadian right-wing writer and commentator. She has been noted for her sympathetic coverage of the alt-right for The Rebel Media, particularly on her former programme \"On The Hunt with Faith Goldy\", and her live coverage of events surrounding the 2017 Unite the Right rally in Charlottesville, Virginia. She was fired from The Rebel on August 17, 2017, in response to an interview she gave on \"The Krypto Report\", a podcast produced by the white supremacist site \"The Daily Stormer\".",
+          "semantic_score": 0.5837773084640503,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3550",
+          "text": "Jefry Marté\nJefry Leonal Marté Paulino (born June 21, 1991) is a Dominican professional baseball first baseman, third baseman and left fielder for the Los Angeles Angels of Major League Baseball (MLB). He made his MLB debut with the Detroit Tigers in 2015.",
+          "semantic_score": 0.36542174220085144,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7318",
+          "text": "Mercy chinwo\nMercy Chinwo is a Nigerian singer and actress, who came into limelight for winning the Etisalat and Pepsi sponsored, Nigerian Idol, Season 2 in 2012. She started her musical career by lending her vocals to musical projects by popular Nigerian gospel music artists such as Sammie Okposo, JoePraize, Buchi, Chris Morgan, and Preye. A year after winning the Nigerian Idols, she nicked her first movie role in Yvonne Nelson's award winning movie,House of Gold starring alongside Yvonne Nelson, Majid Michel, Omawumi, Ice Prince, Francis Odega and Eddie Watson, where she was also nominated at the 2013 Ghana Movie Awards for best music, original song.",
+          "semantic_score": 0.36198821663856506,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6370",
+          "text": "Vicki Gabriner\nVicki Gabriner (born 1942-) is an American-Jewish civil rights activist, feminist and LGBT rights activist who became an activist when she was just a student. She was one of the members of \"The Weathermen\" which was the radical student activist group. In 2002, she was honored at the 2002 Women Who Dared event in Boston.",
+          "semantic_score": 0.3537614047527313,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5099",
+          "text": "Dan Barker\nDaniel Edwin Barker (born June 25, 1949) is an American atheist activist who served as a Christian preacher and musician for 19 years but left Christianity in 1984. He and his wife Annie Laurie Gaylor are the current co-presidents of the Freedom From Religion Foundation. He has written numerous articles for \"Freethought Today\", an American freethought newspaper. He is the author of several books including \"Losing Faith in Faith: From Preacher to Atheist\".",
+          "semantic_score": 0.34874746203422546,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3555",
+          "text": "Alfredo Marte\nAlfredo Marte (born March 31, 1989) is a Dominican professional baseball left fielder who is currently a free agent. He has played in Major League Baseball (MLB) for the Arizona Diamondbacks and Los Angeles Angels of Anaheim.",
+          "semantic_score": 0.27616897225379944,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3552",
+          "text": "Marcell Ozuna\nMarcell Ozuna Idelfonso (born November 12, 1990) is a Dominican professional baseball left fielder for the Miami Marlins of Major League Baseball (MLB). He made his MLB debut in 2013.",
+          "semantic_score": 0.15796752274036407,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3553",
+          "text": "Alfonso Soriano\nAlfonso Guilleard Soriano (born January 7, 1976) is a Dominican former professional baseball left fielder and second baseman. He played in Major League Baseball (MLB) for the New York Yankees, Chicago Cubs, Texas Rangers, and Washington Nationals, and in Nippon Professional Baseball for the Hiroshima Toyo Carp.",
+          "semantic_score": 0.11368659138679504,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3556",
+          "text": "Melky Cabrera\nMelky Cabrera Astacio (born August 11, 1984) is a Dominican professional baseball outfielder for the Kansas City Royals of Major League Baseball (MLB). He has also played for the New York Yankees, Atlanta Braves, San Francisco Giants, Toronto Blue Jays and Chicago White Sox. While primarily a left fielder throughout his career, Cabrera spent a significant amount of his playing time as a center fielder for the Royals and Yankees.",
+          "semantic_score": 0.14036138355731964,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3557",
+          "text": "Alex Guerrero\nAlexander Guerrero Perez (born November 20, 1986) is a Cuban-born professional baseball left fielder and third baseman for the Chunichi Dragons of Nippon Professional Baseball (NPB). He defected from Cuba in 2013 to pursue a contract in Major League Baseball (MLB). He signed with the Los Angeles Dodgers and made his MLB debut in 2014. He played primarily shortstop in Cuba, but has played third base and left field for the Dodgers, who released him in 2016.",
+          "semantic_score": 0.11428992450237274,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Faith Goldy is a Canadian right-wing writer and commentator."
+    },
+    {
+      "step": 2,
+      "sub_question": "What interview led to Faith Goldy being fired?",
+      "retrieved": [
+        {
+          "id": "501",
+          "text": "Faith Goldy\nFaith Julia Goldy (born 1989) is a Canadian right-wing writer and commentator. She has been noted for her sympathetic coverage of the alt-right for The Rebel Media, particularly on her former programme \"On The Hunt with Faith Goldy\", and her live coverage of events surrounding the 2017 Unite the Right rally in Charlottesville, Virginia. She was fired from The Rebel on August 17, 2017, in response to an interview she gave on \"The Krypto Report\", a podcast produced by the white supremacist site \"The Daily Stormer\".",
+          "semantic_score": 0.6620990633964539,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4141",
+          "text": "Dana Brunetti\nDana Brunetti (born June 11, 1973) is an American film producer and social networking entrepreneur. He is the president of Kevin Spacey's production company, Trigger Street Productions. In 2016, he became the president of Relativity Media with Kevin Spacey taking on a chairman position.",
+          "semantic_score": 0.35814982652664185,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "503",
+          "text": "Fired Up (TV series)\nFired Up is an American sitcom that aired on NBC for two seasons and 28 episodes. The series, the first from Grammnet Productions, starred Sharon Lawrence as a self-centered promotions executive and Leah Remini as her mouthy assistant. When the pair got fired from their jobs, they teamed up to create a business as equal partners. The tagline of the series was \"\"First she got fired, then she got fired up.\"\"",
+          "semantic_score": 0.34891873598098755,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6370",
+          "text": "Vicki Gabriner\nVicki Gabriner (born 1942-) is an American-Jewish civil rights activist, feminist and LGBT rights activist who became an activist when she was just a student. She was one of the members of \"The Weathermen\" which was the radical student activist group. In 2002, she was honored at the 2002 Women Who Dared event in Boston.",
+          "semantic_score": 0.3184983432292938,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5099",
+          "text": "Dan Barker\nDaniel Edwin Barker (born June 25, 1949) is an American atheist activist who served as a Christian preacher and musician for 19 years but left Christianity in 1984. He and his wife Annie Laurie Gaylor are the current co-presidents of the Freedom From Religion Foundation. He has written numerous articles for \"Freethought Today\", an American freethought newspaper. He is the author of several books including \"Losing Faith in Faith: From Preacher to Atheist\".",
+          "semantic_score": 0.30749449133872986,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4144",
+          "text": "Trigger Street Productions\nTrigger Street Productions is an American entertainment production company formed by Kevin Spacey and his producing partner Dana Brunetti in 1997. The company's credits include \"Captain Phillips\", \"Shakespeare High\", \"Safe\", \"The Social Network\", \"21\", \"Shrink\", \"Fanboys\", the Emmy-nominated \"Bernard and Doris\", Emmy-winning \"Recount\", \"Mini's First Time\", \"Beyond the Sea\", \"The United States of Leland\", \"The Big Kahuna\" and \"House of Cards\", as well as stage productions of \"The Iceman Cometh\" and \"Cobb\".",
+          "semantic_score": 0.24722354114055634,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5090",
+          "text": "The Irrational Atheist\nThe Irrational Atheist: Dissecting the Unholy Trinity of Dawkins, Harris, and Hitchens is a 2008 non-fiction book by Vox Day.",
+          "semantic_score": 0.16731908917427063,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4143",
+          "text": "Kevin Spacey\nKevin Spacey Fowler, KBE (born July 26, 1959) is an American actor, film director, producer, screenwriter, and singer. He began his career as a stage actor during the 1980s before obtaining supporting roles in film and television. He gained critical acclaim in the early 1990s that culminated in his first Academy Award for Best Supporting Actor for the neo-noir crime thriller \"The Usual Suspects\" (1995), and an Academy Award for Best Actor for midlife crisis-themed drama \"American Beauty\" (1999).",
+          "semantic_score": 0.17376086115837097,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The interview she gave on \"The Krypto Report\", a podcast produced by the white supremacist site \"The Daily Stormer\"."
+    },
+    {
+      "step": 3,
+      "sub_question": "What production site hosted that interview?",
+      "retrieved": [
+        {
+          "id": "501",
+          "text": "Faith Goldy\nFaith Julia Goldy (born 1989) is a Canadian right-wing writer and commentator. She has been noted for her sympathetic coverage of the alt-right for The Rebel Media, particularly on her former programme \"On The Hunt with Faith Goldy\", and her live coverage of events surrounding the 2017 Unite the Right rally in Charlottesville, Virginia. She was fired from The Rebel on August 17, 2017, in response to an interview she gave on \"The Krypto Report\", a podcast produced by the white supremacist site \"The Daily Stormer\".",
+          "semantic_score": 0.5275000929832458,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "496",
+          "text": "The Daily Stormer\nThe Daily Stormer is an American neo-Nazi and white supremacist news and commentary website. It considers itself a part of the alt-right movement. Its editor, Andrew Anglin, founded it on July 4, 2013 as a faster-paced replacement for his previous website \"Total Fascism\".",
+          "semantic_score": 0.44842302799224854,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6370",
+          "text": "Vicki Gabriner\nVicki Gabriner (born 1942-) is an American-Jewish civil rights activist, feminist and LGBT rights activist who became an activist when she was just a student. She was one of the members of \"The Weathermen\" which was the radical student activist group. In 2002, she was honored at the 2002 Women Who Dared event in Boston.",
+          "semantic_score": 0.41532760858535767,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8224",
+          "text": "Ellen Cleghorne\nEllen Cleghorne (born November 29, 1965) is an American actress and comedian, best known as a cast member of \"Saturday Night Live\" from 1991 to 1995. Cleghorne was the sketch comedy show's second African-American female repertory cast member, succeeding Danitra Vance in its eleventh season, and the first African-American female cast member to stay for more than one season. She returned for its 40th anniversary special on February 15, 2015. Cleghorne was ranked the 69th greatest \"Saturday Night Live\" cast member by \"Rolling Stone\" magazine.",
+          "semantic_score": 0.38209959864616394,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6035",
+          "text": "Kevin Ogle\nKevin Ogle is a news anchor for KFOR-TV (channel 4), the NBC affiliate in Oklahoma City, Oklahoma. Kevin anchors the station's weeknight 6 and 10 p.m. newscasts with Linda Cavanaugh, does occasional reports including the \"Bottom Line\" financial segments seen during the station's 6:30 p.m. newscast, and occasionally fills in as anchor of the 9 p.m. newscast on Independent station KAUT-TV. Ogle also serves as moderator of the locally-produced Sunday morning political affairs talk show \"Flashpoint\", alongside panelists Mike Turpen and former Oklahoma City mayor Kirk Humphreys.",
+          "semantic_score": 0.3802945613861084,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8223",
+          "text": "List of Saturday Night Live episodes\n<section begin=head />\"Saturday Night Live\" (\"SNL\") is a late-night sketch comedy and variety show created by Lorne Michaels. It premiered on NBC, a terrestrial television network, on October 11, 1975 under the title \"NBC's Saturday Night\". The show often satirizes contemporary American popular culture and politics. \"Saturday Night Live\" features a two-tiered cast: the repertory members, also known as the \"Not Ready for Prime-Time Players,\" and newer cast members, known as \"Featured Players.\" Each week, the show features a host, often a well-known celebrity, who delivers an opening monologue and performs in sketches with the cast. A musical guest is also invited to perform several sets (usually two, and occasionally more). Every so often a host or musical guest will fill both roles, such as was the case with Britney Spears in 2000 and 2002, Jennifer Lopez in 2001 and 2010, Justin Timberlake in 2003, 2006 and 2013, Taylor Swift in 2009, Bruno Mars in 2012, Lady Gaga in 2013, Miley Cyrus in 2013 and 2015, Drake in 2014 and 2016, Blake Shelton in 2015, and Ariana Grande in 2016. With the exception of Season 7 and several other rare cases, the show has begun with a cold open that ends with someone breaking character and proclaiming \"Live from New York, it's Saturday Night!\"",
+          "semantic_score": 0.28503698110580444,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2169",
+          "text": "Gail Matthius\nGail Matthius (born December 14, 1953) is an American actress, voice actress and comedian. She was a cast member of NBC's \"Saturday Night Live\" during its critical and ratings low point at the time (the 1980–1981 season headed by Jean Doumanian), and co-anchored the Weekend Update segment with Charles Rocket in 1981.",
+          "semantic_score": 0.3217301666736603,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8226",
+          "text": "List of Saturday Night Live guests\n\"Saturday Night Live\" (abbreviated as SNL) is a late-night sketch comedy and variety show created by Lorne Michaels. It premiered on NBC, a terrestrial television network, on October 11, 1975 under the title \"NBC's Saturday Night\". The show often satirizes contemporary American popular culture and politics. \"Saturday Night Live\" features a two-tiered cast: the repertory members, also known as the \"Not Ready for Prime-Time Players\", and newer cast members, known as \"Featured Players.\"",
+          "semantic_score": 0.25503262877464294,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2166",
+          "text": "A. Whitney Brown\nAlan Whitney Brown (born July 8, 1952) is an American writer and comedian best known for work on \"Saturday Night Live\" in the 1980s. In addition to writing for the program, he appeared opposite Dennis Miller in a biting satirical Weekend Update commentary segment called \"The Big Picture.\" He won a 1988 Emmy Award for Outstanding Writing in a Variety or Music Program, along with Al Franken, Tom Davis, Phil Hartman, Mike Myers, Lorne Michaels and Conan O'Brien. He was also one of the original correspondents on Comedy Central's \"The Daily Show\" from 1996 to 1998.",
+          "semantic_score": 0.2564955949783325,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7066",
+          "text": "Hoda Kotb\nHoda Kotb ( ; Arabic: هدى قطب‎ ‎  \"Hudā Quṭb\" ] , born August 9, 1964) is an American television news anchor and TV host known as the co-host of NBC's \"Today Show\"' s fourth hour with Kathie Lee Gifford. An Egyptian American, she won a Daytime Emmy Award in 2010 as part of the \"Today Show\" team. Kotb is also a correspondent for \"Dateline NBC\".",
+          "semantic_score": 0.35594168305397034,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The Daily Stormer"
+    },
+    {
+      "step": 4,
+      "sub_question": "Is that production site edited by Andrew Anglin?",
+      "retrieved": [
+        {
+          "id": "496",
+          "text": "The Daily Stormer\nThe Daily Stormer is an American neo-Nazi and white supremacist news and commentary website. It considers itself a part of the alt-right movement. Its editor, Andrew Anglin, founded it on July 4, 2013 as a faster-paced replacement for his previous website \"Total Fascism\".",
+          "semantic_score": 0.6441401243209839,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2823",
+          "text": "Shareblue\nShareblue, formerly known as Blue Nation Review, is an American left-wing news website owned by the journalist and political activist David Brock. The website is headed by former Clinton staffer Peter Daou. Shareblue is within a consortium of political groups in Democratic strategist David Brock’s network that will raise a roughly $40 million budget to oppose President Donald Trump's policies.",
+          "semantic_score": 0.363532155752182,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5115",
+          "text": "Jason Pramas\nJason Pramas is an American photojournalist. He is executive editor and associate publisher of the alternative newsweekly DigBoston, network director of the Boston Institute for Nonprofit Journalism that he co-founded with Chris Faraone in 2015. He also founded Open Media Boston, an online metropolitan news weekly serving the Boston, MA area, in 2008 and served as its editor/publisher until merging the publication with BINJ. He was formerly an assistant professor of communications at Lesley University, but has stated that he believes he lost his job in retaliation for helping lead a successful drive to organize Lesley core faculty into a labor union in 2015. A socialist, and longtime labor and community activist, Pramas was the lead organizer of the Boston Social Forum in 2004. He holds an MFA in Visual Arts from The Art Institute of Boston, and is noted for curating the 2014-2015 Boston Strong? art show that criticized the popular Boston Strong slogan.",
+          "semantic_score": 0.3511928617954254,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5102",
+          "text": "Lance Ulanoff\nLance Ulanoff is an American tech and social media commentator. He is a former Editor-in-Chief of \"PCMag.com\", \"PC Magazine\", and Mashable and SVP of Content for PCMag Digital Network, and is now an editor at Mashable. He spent nearly two decades in the computer technology publishing industry. Previously, he edited PCMag.com, the website for \"PC Magazine\". Ulanoff also writes an award-winning and popular column for the website.",
+          "semantic_score": 0.34870100021362305,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2819",
+          "text": "Inquisitr\nInquisitr is an aggregate news and media website owned by Daniel Treisman, an Israeli businessman who relaunched the website in 2011. The site views itself as a 'multi-news aggregator' that publishes both trending news and original articles. The news website caters to a global audience, and its newly introduced slogan is \"News Worth Sharing.\"",
+          "semantic_score": 0.34844183921813965,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5104",
+          "text": "PC Magazine\nPC Magazine (shortened as PCMag) is an American computer magazine published by Ziff Davis. A print edition was published from 1982 to January 2009. Publication of online editions started in late 1994 and continues to this day.",
+          "semantic_score": 0.1305074840784073,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2824",
+          "text": "Verrit\nThe website's slogan says it is \"media for the 65.8 million,\" referring to the number of votes Hillary Clinton won in the 2016 presidential election. Daou, an adviser to Clinton's 2008 presidential campaign, and prior chief executive of Shareblue told \"Business Insider\" that he intended the website to \"reflect the worldview\" of those who voted for Clinton and described the site as an \"online hub for Clinton backers so that they can find easy-to-share facts, stats and other information you can take out to social media when you’re having debates on key issues people are discussing\". Daou also said the website had no financial ties to Clinton.",
+          "semantic_score": 0.31592699885368347,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2825",
+          "text": "Peter Daou\nPeter Daou is the creator of Verrit, the prior chief executive of Shareblue, and a member of the band The Daou.",
+          "semantic_score": 0.28630903363227844,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9466",
+          "text": "Sarah Kate Ellis\nSarah Kate Ellis (born November 27, 1971) is an American media executive, most widely known for launching and turning around media brands within magazines such as \"New York\", \"InStyle\", \"Real Simple\", and \"Vogue\".",
+          "semantic_score": 0.20984359085559845,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5107",
+          "text": "Computer Magazine\nComputer Magazine (and their website www.ComputerMagazine.com) is a popular magazine and online news site on computing and technology, offering current news and reviews of popular and new business and consumer technologies, software, hardware, mobile computing, tablets, PCs, Macs, Windows, Linux, telecom, cellular, wireless, data, cloud and science news on digital technologies and everything in the \"tech-sphere and digi-verse\", especially focused on information technology, devices, software and services and related subjects, such as networking, servers, data centers and corporate data infrastructure technologies, and the Internet. Their online site, since 1997, is located at ComputerMagazine.com. \"Computer Magazine\" produces industry instructional and a popular ongoing webcast/podcast talk show and performs evaluations and reviews of IT industry technology products, hardware, software and services with objective reporting widely respected as independent and objective, and trusted in the industry. \"Computer Magazine\" is a free publication (in addition to their webcasts and other resources) sponsored by the nonprofit UTCP (United Technology and Computing Professionals) organization, and as such charges no fees for the publication nor is influenced by advertising, so their reviews are relied on in the industry and considered unbiased and thorough. \"Computer Magazine\" is one of the early large technology publications and resources available on the web still existent and thriving today and that has remained independent. ComputerMagazine.com is a tech news and resources consolidator that publishes part of the site in a semi-time line/blogging format that is popular among their wide following of subscriber and non-subscriber readers, allowing readers to respond and comment on various articles. Site contributors include many of the well known technology authors, experts and publication sources, content and articles are provided by major technology syndicators and by external expert technology sources (such as \"Computer World\", \"Information Week\", \"Network World\", \"Wired,\" \"Time\", etc.) as well as \"Computer Magazine\" staff writers, and is currently managed and edited by the industry veteran Christopher Swearingin an MCSE and former CIO and regarded author as well as contributor/reporter for \"Computer Magazine\" and other publications.",
+          "semantic_score": 0.15236037969589233,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "links": [
+    {
+      "source": "501",
+      "target": "496",
+      "reason": "Paragraph 501 states Goldy was fired over an interview on 'The Krypto Report,' a podcast produced by The Daily Stormer; paragraph 496 identifies The Daily Stormer's editor as Andrew Anglin, bridging the interview site to the editor named in the question."
+    }
+  ],
+  "questions_seen": 51,
+  "_id": "5ab3a83d5542992ade7c6e08",
+  "correct_answer": "The Daily Stormer",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

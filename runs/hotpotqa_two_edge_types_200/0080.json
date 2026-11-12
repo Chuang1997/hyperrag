@@ -1,0 +1,174 @@
+{
+  "question": "Which of Damon Stoudamire's cousins once played college basketball for the University of Kentucky?",
+  "answer": "Terrence Jones",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who are Damon Stoudamire's cousins?",
+      "retrieved": [
+        {
+          "id": "794",
+          "text": "Damon Stoudamire\nDamon Lamon Stoudamire (born September 3, 1973) is an American retired professional basketball player and the current head men's basketball coach at the University of the Pacific. The 5 ft , 171 lb point guard was selected with the 7th overall pick by the Toronto Raptors in the 1995 NBA draft and won the 1995–96 NBA Rookie of the Year Award. He played collegiately at the University of Arizona, and professionally for the Toronto Raptors, Portland Trail Blazers, Memphis Grizzlies and San Antonio Spurs. He is the cousin of former Arizona Wildcats standout Salim Stoudamire and current NBA player Terrence Jones.",
+          "semantic_score": 0.612616240978241,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9678",
+          "text": "Stieber Twins\nThe Stieber Twins are a duo from Heidelberg, Germany, consisting of the brothers Martin (Marshall Mar, a.k.a. Martin Jekyll) and Christian (Luxus Chris a.k.a. Christian Hyde). They are known as graffiti artists, breakdancers, rappers, hip hop producers and DJs.",
+          "semantic_score": 0.5070130825042725,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2753",
+          "text": "Aniello Migliore\nAniello \"Neil\" Migliore (born October 2, 1933) is a New York City mobster, and acting leader of the Lucchese crime family. Migliore was a close associate of family bosses Gaetano \"Tommy\" Lucchese and Anthony \"Tony Ducks\" Corallo.",
+          "semantic_score": 0.4321899712085724,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2757",
+          "text": "Salvatore Avellino\nSalvatore Avellino Jr. (born November 19, 1935 St. James, New York), also known as \"Sal\" is a mobster and former caporegime in the Lucchese crime family who was involved in labor racketeering in the garbage and waste management industry in Long Island, New York. Avellino also served as right-hand man and chauffeur to boss Anthony \"Tony Ducks\" Corallo.",
+          "semantic_score": 0.39818036556243896,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4790",
+          "text": "The Family Corleone\nThe Family Corleone is a 2012 novel by Ed Falco, based on an unproduced screenplay by Mario Puzo, who died in 1999. It is the prequel to Puzo's \"The Godfather\". It was published by Grand Central Publishing and released May 8, 2012.",
+          "semantic_score": 0.37963491678237915,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2754",
+          "text": "Anthony Corallo\nAntonio \"Tony Ducks\" Corallo (February 12, 1913 – August 23, 2000) was a New York City mobster and boss of the Lucchese crime family. Corallo exercised a tremendous control over trucking and construction unions in New York.",
+          "semantic_score": 0.3182220458984375,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6957",
+          "text": "Aniello Dellacroce\nAniello John \"Neil\" Dellacroce (March 15, 1914 – December 2, 1985), also known as \"Mr. Neil,\" \"Father O'Neil\" and \"The Tall Guy\", was an Italian-American gangster and underboss of the Gambino crime family. He rose to the position of underboss when Carlo Gambino moved Joseph Biondo aside. Dellacroce was a mentor to Gambino crime family boss John Gotti.",
+          "semantic_score": 0.3140633702278137,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2752",
+          "text": "Salvatore Ruggiero\nSalvatore Frank Ruggiero Sr. pronounced (roo-JEH-roh) (July 20, 1945 – May 1982), also known as \"Sal the Sphinx\", \"Sal Quack Quack\" and \"Sally\", was a Gambino crime family mob associate and drug trafficker who was the younger brother of Angelo Ruggiero and ringleader of \"The Pleasant Avenue Connection\" which was a precursor to the Pizza Connection Trial drug smuggling operation. He became a fugitive in the late 1970s. He was a passenger on an aircraft that crashed on May 6, 1982; his body was recovered on May 14.",
+          "semantic_score": 0.34697115421295166,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "803",
+          "text": "1995–96 Toronto Raptors season\nThe 1995–96 NBA season was the Toronto Raptors' first season in the National Basketball Association. The Raptors, along with the Vancouver Grizzlies, played their first games in 1995, and were the first NBA teams to play in Canada since the 1946–47 Toronto Huskies. Former Detroit Pistons star Isiah Thomas became the team's General Manager. In their debut on November 3, the Raptors defeated the New Jersey Nets at the SkyDome 94–79, but went on a 7-game losing streak afterwards. At midseason, the team acquired second-year forward Sharone Wright from the Philadelphia 76ers, and Doug Christie from the New York Knicks. The Raptors finished last place in the Central Division with a 21–61 record. Top draft pick Damon Stoudamire was named Rookie of The Year averaging 19.0 points, and 9.3 assists per game. Following the season, Tracy Murray signed as a free agent with the Washington Bullets, Oliver Miller signed with the Dallas Mavericks and Alvin Robertson retired.",
+          "semantic_score": 0.25323253870010376,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Salim Stoudamire and Terrence Jones"
+    },
+    {
+      "step": 2,
+      "sub_question": "Which of those cousins played college basketball for the University of Kentucky?",
+      "retrieved": [
+        {
+          "id": "794",
+          "text": "Damon Stoudamire\nDamon Lamon Stoudamire (born September 3, 1973) is an American retired professional basketball player and the current head men's basketball coach at the University of the Pacific. The 5 ft , 171 lb point guard was selected with the 7th overall pick by the Toronto Raptors in the 1995 NBA draft and won the 1995–96 NBA Rookie of the Year Award. He played collegiately at the University of Arizona, and professionally for the Toronto Raptors, Portland Trail Blazers, Memphis Grizzlies and San Antonio Spurs. He is the cousin of former Arizona Wildcats standout Salim Stoudamire and current NBA player Terrence Jones.",
+          "semantic_score": 0.6141226887702942,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "796",
+          "text": "Terrence Jones\nTerrence Alexander Jones (born January 9, 1992) is an American professional basketball player for the Qingdao DoubleStar of the Chinese Basketball Association (CBA). He played college basketball for the University of Kentucky.",
+          "semantic_score": 0.5794703960418701,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6471",
+          "text": "Domonic Jones\nDomonic Jones (born August 16, 1981) is an American expatriate professional basketball player. He plays for RBC Verviers-Pepinster in Basketball League Belgium as of the 2011–12 season. He is 6'1\", 205 pounds and switches between the point guard and shooting guard positions. Jones played college basketball at Virginia Commonwealth University where he was named the Colonial Athletic Association Men's Basketball Player of the Year in 2003–04.",
+          "semantic_score": 0.5333030819892883,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "800",
+          "text": "DeMarcus Cousins\nDeMarcus Amir Cousins (born August 13, 1990) is an American professional basketball player for the New Orleans Pelicans of the National Basketball Association (NBA). Nicknamed \"Boogie\", he played college basketball for the University of Kentucky, where he was an All-American in 2010. He left Kentucky after one season, and was selected with the fifth overall pick in the 2010 NBA draft by the Sacramento Kings. In his first season with the Kings, Cousins was named to the NBA All-Rookie First Team, and from 2015 to 2017, he was named an NBA All-Star. He is also a two-time gold medal winner as a member of the United States national team, winning his first in 2014 at the FIBA Basketball World Cup and his second in 2016 at the Rio Olympics.",
+          "semantic_score": 0.5204634666442871,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6468",
+          "text": "Eddie Jones (basketball)\nEddie Charles Jones (born October 20, 1971) is an American retired professional basketball player who played for several teams in his 14-year National Basketball Association (NBA) career. Jones played college basketball at Temple University and was the 1993–94 Atlantic 10 Player of the Year. The three-time NBA All-Star was selected 10th overall in the 1994 NBA draft by the Los Angeles Lakers.",
+          "semantic_score": 0.4719112813472748,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6469",
+          "text": "Mark Jones (basketball, born 1961)\nMark Anthony Jones (born April 10, 1961) is a retired American professional basketball player. He played point guard. Jones played college basketball at St. Bonaventure before being drafted by the New York Knicks as the 82nd overall pick in the 4th round of the 1983 NBA Draft. He never played for the Knicks, however, instead ultimately playing six games in the NBA for the New Jersey Nets during the season.",
+          "semantic_score": 0.45423904061317444,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6472",
+          "text": "Jalen Jones\nJalen Jones (born May 27, 1993) is an American professional basketball player for the New Orleans Pelicans of the National Basketball Association (NBA). He was signed on a two-way contract with the NBA G League. He played college basketball for Southern Methodist and Texas A&M.",
+          "semantic_score": 0.4553658366203308,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Terrence Jones"
+    }
+  ],
+  "links": [
+    {
+      "source": "794",
+      "target": "796",
+      "reason": "Paragraph 794 identifies Terrence Jones as Damon Stoudamire's cousin; paragraph 796 confirms that same Terrence Jones played college basketball for the University of Kentucky, bridging the cousin identification to the Kentucky criterion."
+    }
+  ],
+  "questions_seen": 81,
+  "_id": "5a7b88b45542997c3ec97201",
+  "correct_answer": "Terrence Jones",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

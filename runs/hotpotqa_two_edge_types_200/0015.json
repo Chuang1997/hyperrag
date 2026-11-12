@@ -1,0 +1,167 @@
+{
+  "question": "Are Steve Perry and Leslie West both singers?",
+  "answer": "Yes",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is Steve Perry known for?",
+      "retrieved": [
+        {
+          "id": "148",
+          "text": "S. D. Perry\nStephani Danelle Perry (credited as S. D. Perry in her works) is an American novelist. She is the daughter of writer Steve Perry.",
+          "semantic_score": 0.5972042679786682,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "150",
+          "text": "Steve Perry (Oregon musician)\nStephen Henry Perry (born October 8, 1963) is an American musician, best known as lead singer, songwriter and rhythm guitarist for the Oregon ska-swing band the Cherry Poppin' Daddies.",
+          "semantic_score": 0.5412470698356628,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3102",
+          "text": "Jason Perry (singer)\nJason Perry (born 29 December 1969) is a Grammy award-winning English record producer and singer/songwriter. He is the lead vocalist of the Suffolk based band ’A’. He has an identical twin brother, Adam, and an older brother, Giles, both of whom are also members of the band. Recently, Perry has produced albums by Greywind, Fatherson, Don Broco, Molotov, McBusted, Matthew P, Ivyrise, The Blackout, Kids in Glass Houses, Get Cape. Wear Cape. Fly, Futures, Matt Willis and McFly.",
+          "semantic_score": 0.4857384264469147,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3213",
+          "text": "James Tyson\nJames Tyson (8 April 1819 – 4 December 1898) was an Australian pastoralist. He is regarded as Australia's first self-made millionaire. His name became a byword for reticence, wealth and astute dealing.",
+          "semantic_score": 0.43375080823898315,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6597",
+          "text": "Danny Hodge\nDaniel Allen Hodge (born May 13, 1932) is a retired American wrestler and boxer. He is renowned for his wrestling career, both amateur and professional. He was born and raised in Perry, Oklahoma, where he continues to live. He is famous for the ability to crush apples with one hand, a feat which he demonstrated live on ESPN during the 2006 NCAA Wrestling Championships. He said his strength was due to having double tendons in his hands.",
+          "semantic_score": 0.4332755208015442,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8019",
+          "text": "James Bourne\nJames Elliot Bourne (born 13 September 1983 in Rochford, Essex, England) is an English singer-songwriter and co-founder of pop rock bands Busted and Son of Dork as well as a solo electronic project, Future Boy. From 2013-2015 he was a member of supergroup McBusted, which consisted of himself, Busted bandmate Matt Willis, and McFly.",
+          "semantic_score": 0.26544952392578125,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4498",
+          "text": "Jason Keyser\nJason Keyser is a vocalist. Keyser joined Death metal band Skinless as their new frontman in November 2004. Jason has released one album with Skinless (\"Trample the Weak, Hurdle the Dead\", 2006) and another album with Detriment (\"Plague Rituals\", 2004). He is also currently a member of brutal death metal band Mucopus, providing the vocals on their 2007 release \"Undimensional\". Jason Keyser is the brother of Joe Keyser, who plays the bass in Skinless. Jason Joined Origin in 2011. He graduated with a degree in anthropology in upstate New York at Skidmore College in 2013.",
+          "semantic_score": 0.1277591437101364,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8827",
+          "text": "Anne Perry\nAnne Perry (born 28 October 1938 as Juliet Marion Hulme) is an English author of historical detective fiction, best known for her Thomas Pitt and William Monk series. At the age of fifteen she was convicted of participating in the murder of her friend's mother, in 1954. She changed her name after serving her five-year sentence.",
+          "semantic_score": 0.31847280263900757,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Lead singer, songwriter and rhythm guitarist for the Oregon ska-swing band the Cherry Poppin' Daddies."
+    },
+    {
+      "step": 2,
+      "sub_question": "What is Leslie West known for?",
+      "retrieved": [
+        {
+          "id": "150",
+          "text": "Steve Perry (Oregon musician)\nStephen Henry Perry (born October 8, 1963) is an American musician, best known as lead singer, songwriter and rhythm guitarist for the Oregon ska-swing band the Cherry Poppin' Daddies.",
+          "semantic_score": 0.6846704483032227,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "153",
+          "text": "The Leslie West Band\nThe Leslie West Band is the third album released by American rock guitarist Leslie West. The album, recorded at Electric Lady Studios in New York City, was released on Bud Prager's Phantom Records in 1976 and features Mick Jones of Foreigner on guitar.",
+          "semantic_score": 0.6298788785934448,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "146",
+          "text": "Leslie West\nLeslie West (born Leslie Weinstein; October 22, 1945) is an American rock guitarist, vocalist, and songwriter. He is best known as a founding member of the hard rock band Mountain.",
+          "semantic_score": 0.5962586998939514,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "147",
+          "text": "Leslie West Live!\nLeslie West Live! is a live album by Leslie West, released in 1993.",
+          "semantic_score": 0.4250607490539551,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2847",
+          "text": "John England &amp; the Western Swingers\nJohn England & the Western Swingers is a six piece Nashville, Tennessee band that plays Western swing. The group has played at Nashville's Robert's Western World every Monday since July 2001. The Swingers have also performed at New York's Lincoln Center, the Grand Ole Opry, the Legends of Western Swing Festival, the Ernest Tubb Record Shop's \"Midnight Jamboree\", and has been profiled by Downbeat magazine, the Nashville Tennessean, and other print media.",
+          "semantic_score": 0.40773558616638184,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "151",
+          "text": "Climbing!\nClimbing!, also known as Mountain Climbing!, is the official debut studio album by American blues rock band Mountain. Released on March 7, 1970, the album featured the 'classic' Mountain lineup of Leslie West (guitar, vocals), Felix Pappalardi (bass, vocals, piano), Corky Laing (drums, percussion) and Steve Knight (keyboards) and followed the West solo album \"Mountain\" featuring Pappalardi and drummer Norman Smart, released in 1969 and often credited to the band. Produced by Pappalardi, the album reached number 17 on the American \"Billboard\" 200 albums chart and featured the band's best-known song, \"Mississippi Queen\". An early rendition of \"For Yasgur's Farm\" was actually performed at the Woodstock Festival in August 1969 as Who Am I But You And The Sun. It was subsequently recorded and retitled for the album.",
+          "semantic_score": 0.36707988381385803,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8468",
+          "text": "Alexander Young (musician)\nAlexander Young (28 December 1938 – 4 August 1997), also known as George Alexander, was a Scottish singer, songwriter, saxophonist, bassist, guitarist and session musician. He is an elder brother of George Young, the rhythm guitarist and founding member of the Easybeats, as well as Malcolm and Angus Young, founding members of the Australian hard rock band AC/DC, and the younger brother of Stephen Young, the father of Stevie Young, who was also a member of AC/DC.",
+          "semantic_score": 0.29640451073646545,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Founding member of the hard rock band Mountain."
+    }
+  ],
+  "links": [
+    {
+      "source": "150",
+      "target": "146",
+      "reason": "Paragraph 150 identifies Steve Perry as a lead singer, and paragraph 146 identifies Leslie West as a vocalist, together establishing that both are singers."
+    }
+  ],
+  "questions_seen": 16,
+  "_id": "5a8481945542997175ce1ed3",
+  "correct_answer": "yes",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

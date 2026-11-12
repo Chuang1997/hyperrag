@@ -1,0 +1,297 @@
+{
+  "question": "Egremont Castle is located in what market town, civil parish, and two electoral wards in the Borough of Copeland in Cumbria, England?",
+  "answer": "Egremont",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is Egremont Castle?",
+      "retrieved": [
+        {
+          "id": "302",
+          "text": "Egremont Castle\nEgremont Castle is located in the town of Egremont, Cumbria. (grid reference [ NY00981050] )",
+          "semantic_score": 0.7914296984672546,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "294",
+          "text": "Listed buildings in Egremont, Cumbria\nEgremont is a civil parish in the Borough of Copeland, Cumbria, England. It contains 25 buildings that are recorded in the National Heritage List for England. Of these, one is listed at Grade I, the highest of the three grades, and the others are at Grade II, the lowest grade. The parish contains the town of Egremont and the surrounding countryside. The oldest listed building is Egremont Castle; this and associated structures are listed. Most of the other listed buildings are houses and associated structures, farmhouses and farm buildings. The other listed buildings include churches, cemetery buildings, shops, two former toll houses, a milestone, a monument, a town hall, a drinking fountain, and a war memorial.",
+          "semantic_score": 0.6075257062911987,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "298",
+          "text": "Egremont, Cumbria\nEgremont is a market town, civil parish and two electoral wards (North and South) in the Borough of Copeland in Cumbria, England, 5 mi south of Whitehaven and on the River Ehen. Historically in Cumberland, the town, which lies at the foot of Uldale Valley and Dent Fell, has a long industrial heritage including dyeing, weaving and iron ore mining. It had a population of 7,444 in 2001, increasing to 8,194 at the 2011 Census.",
+          "semantic_score": 0.5282111763954163,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7409",
+          "text": "Allardice Castle\nAllardice Castle (also spelled Allardyce) is a sixteenth-century manor house in Kincardineshire, Scotland. This monument is occupied by the Cowie family and is approximately 1.5 kilometres northwest of the town of Inverbervie. The Bervie Water flows around Allardice Castle on both sides. Allardice may be viewed as one of a chain of coastal castles; to the north are Dunnottar Castle (ruined), Fetteresso Castle, Cowie Castle (ruined) and Muchalls Castle. The castle is a category A listed building.",
+          "semantic_score": 0.4378201961517334,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6257",
+          "text": "Little Cumbrae Castle\nLittle Cumbrae Castle sits on Allimturrail (the islet of the noble's tower) or Castle Island, a small tidal island, situated off the east coast of Little Cumbrae, in the Firth of Clyde.",
+          "semantic_score": 0.4305000901222229,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6265",
+          "text": "Castle Island, Scotland\nCastle Island (Scottish Gaelic: \"Eilean a' Chaisteil\" ) or Allimturrail is a small tidal island, lying off the east coast of Little Cumbrae, and to the west of Trail Island, in the Firth of Clyde. It is joined to Little Cumbrae at low tide.",
+          "semantic_score": 0.41571250557899475,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7411",
+          "text": "Inverallochy Castle\nInverallochy Castle is a ruined courtyard castle near the village of Inverallochy in the Buchan area of north-east Scotland. It lies 0.5 mi south of Cairnbulg Castle near Fraserburgh. It was described by W. Douglas Simpson as one of the nine castles of the Knuckle, referring to the rocky headland of north-east Aberdeenshire.",
+          "semantic_score": 0.39705193042755127,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Egremont Castle is a castle located in the town of Egremont, Cumbria, England."
+    },
+    {
+      "step": 2,
+      "sub_question": "In which market town is Egremont Castle located?",
+      "retrieved": [
+        {
+          "id": "302",
+          "text": "Egremont Castle\nEgremont Castle is located in the town of Egremont, Cumbria. (grid reference [ NY00981050] )",
+          "semantic_score": 0.9519193172454834,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "294",
+          "text": "Listed buildings in Egremont, Cumbria\nEgremont is a civil parish in the Borough of Copeland, Cumbria, England. It contains 25 buildings that are recorded in the National Heritage List for England. Of these, one is listed at Grade I, the highest of the three grades, and the others are at Grade II, the lowest grade. The parish contains the town of Egremont and the surrounding countryside. The oldest listed building is Egremont Castle; this and associated structures are listed. Most of the other listed buildings are houses and associated structures, farmhouses and farm buildings. The other listed buildings include churches, cemetery buildings, shops, two former toll houses, a milestone, a monument, a town hall, a drinking fountain, and a war memorial.",
+          "semantic_score": 0.7462559342384338,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "298",
+          "text": "Egremont, Cumbria\nEgremont is a market town, civil parish and two electoral wards (North and South) in the Borough of Copeland in Cumbria, England, 5 mi south of Whitehaven and on the River Ehen. Historically in Cumberland, the town, which lies at the foot of Uldale Valley and Dent Fell, has a long industrial heritage including dyeing, weaving and iron ore mining. It had a population of 7,444 in 2001, increasing to 8,194 at the 2011 Census.",
+          "semantic_score": 0.7233887910842896,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "96",
+          "text": "Castle Ashby\nCastle Ashby is the name of a civil parish, an estate village and an English country house in rural Northamptonshire. Historically the village was set up to service the needs of Castle Ashby House, the seat of the Marquess of Northampton. The village has one small pub-hotel, The Falcon. At the time of the 2011 census, the parish's population (including Chadstone) was 111 people. The village contains many houses rebuilt from the 1860s onwards. These include work by the architect E.F. Law of Northampton, whose work can also be seen nearby at Horton Church. The castle is the result of a licence obtained in 1306, for Walter Langton, Bishop of Coventry, to castellate his mansion in the village of Ashby.",
+          "semantic_score": 0.41763415932655334,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1517",
+          "text": "Castletown, Sunderland\nCastletown is a small village of Sunderland in Tyne and Wear commonly visited by tourists from around the world. A former mining community, the Hylton Colliery was located at the east end of the village, it lies north of the River Wear, and is near to Hylton Castle and Washington. At Hylton Riverside, on the eastern fringe of Castletown, there is a large retail park hosting stores such as Matalan, Costa Coffee, Aldi and Pets at Home, Premier Inn and a DW Sports Fitness gym. There are currently on going talks and plans to transform this retail park into a more modern and high-end park hosting a range of designer stores such as Farfetch, Apple and Waitrose to project the vision of this luxurious community. There is also plans to build a large 13-screen Odeon Cinema. Along with the range of retail establishments there is also a wide range of restaurants in the village such as McDonald's, KFC and Solo Pizza (formerly known as Mario's Pizza).",
+          "semantic_score": 0.39514803886413574,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "95",
+          "text": "Castle Bytham\nCastle Bytham is a village and civil parish of around 300 houses in South Kesteven, Lincolnshire, England. The population was measured at 768 in 317 households at the 2011 census.",
+          "semantic_score": 0.3679986596107483,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6804",
+          "text": "Listed buildings in Blackpool\nBlackpool is a seaside town and unitary authority situated on The Fylde coast in Lancashire, England. This list includes the listed buildings in Blackpool and Bispham, a village within the borough of Blackpool. One is classified by English Heritage as being in Grade I and five in Grade II*. In the United Kingdom, the term \"listed building\" refers to a building or other structure officially designated as being of special architectural, historical or cultural significance. These buildings are in three grades: Grade I consists of buildings of outstanding architectural or historical interest; Grade II* includes particularly significant buildings of more than local interest; Grade II consists of buildings of special architectural or historical interest. Buildings in England are listed by the Secretary of State for Culture, Media and Sport on recommendations provided by English Heritage, which also determines the grading.",
+          "semantic_score": 0.2695569694042206,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Egremont"
+    },
+    {
+      "step": 3,
+      "sub_question": "What civil parish contains Egremont Castle?",
+      "retrieved": [
+        {
+          "id": "302",
+          "text": "Egremont Castle\nEgremont Castle is located in the town of Egremont, Cumbria. (grid reference [ NY00981050] )",
+          "semantic_score": 0.809786856174469,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "294",
+          "text": "Listed buildings in Egremont, Cumbria\nEgremont is a civil parish in the Borough of Copeland, Cumbria, England. It contains 25 buildings that are recorded in the National Heritage List for England. Of these, one is listed at Grade I, the highest of the three grades, and the others are at Grade II, the lowest grade. The parish contains the town of Egremont and the surrounding countryside. The oldest listed building is Egremont Castle; this and associated structures are listed. Most of the other listed buildings are houses and associated structures, farmhouses and farm buildings. The other listed buildings include churches, cemetery buildings, shops, two former toll houses, a milestone, a monument, a town hall, a drinking fountain, and a war memorial.",
+          "semantic_score": 0.6986275315284729,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "298",
+          "text": "Egremont, Cumbria\nEgremont is a market town, civil parish and two electoral wards (North and South) in the Borough of Copeland in Cumbria, England, 5 mi south of Whitehaven and on the River Ehen. Historically in Cumberland, the town, which lies at the foot of Uldale Valley and Dent Fell, has a long industrial heritage including dyeing, weaving and iron ore mining. It had a population of 7,444 in 2001, increasing to 8,194 at the 2011 Census.",
+          "semantic_score": 0.6081840395927429,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "96",
+          "text": "Castle Ashby\nCastle Ashby is the name of a civil parish, an estate village and an English country house in rural Northamptonshire. Historically the village was set up to service the needs of Castle Ashby House, the seat of the Marquess of Northampton. The village has one small pub-hotel, The Falcon. At the time of the 2011 census, the parish's population (including Chadstone) was 111 people. The village contains many houses rebuilt from the 1860s onwards. These include work by the architect E.F. Law of Northampton, whose work can also be seen nearby at Horton Church. The castle is the result of a licence obtained in 1306, for Walter Langton, Bishop of Coventry, to castellate his mansion in the village of Ashby.",
+          "semantic_score": 0.5039687156677246,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7409",
+          "text": "Allardice Castle\nAllardice Castle (also spelled Allardyce) is a sixteenth-century manor house in Kincardineshire, Scotland. This monument is occupied by the Cowie family and is approximately 1.5 kilometres northwest of the town of Inverbervie. The Bervie Water flows around Allardice Castle on both sides. Allardice may be viewed as one of a chain of coastal castles; to the north are Dunnottar Castle (ruined), Fetteresso Castle, Cowie Castle (ruined) and Muchalls Castle. The castle is a category A listed building.",
+          "semantic_score": 0.3936260938644409,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7411",
+          "text": "Inverallochy Castle\nInverallochy Castle is a ruined courtyard castle near the village of Inverallochy in the Buchan area of north-east Scotland. It lies 0.5 mi south of Cairnbulg Castle near Fraserburgh. It was described by W. Douglas Simpson as one of the nine castles of the Knuckle, referring to the rocky headland of north-east Aberdeenshire.",
+          "semantic_score": 0.320768266916275,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7412",
+          "text": "Cowie Castle\nCowie Castle is a ruined fortress in Aberdeenshire, Scotland. The site lies at the northern end of Stonehaven on the North Sea coast. To the immediate south is the Cowie Bridge crossing of the Cowie Water. Evidence of prehistoric man exists in the vicinity dating to the Iron Age in the form of ring cairns.",
+          "semantic_score": 0.31179115176200867,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Egremont"
+    },
+    {
+      "step": 4,
+      "sub_question": "Which two electoral wards in the Borough of Copeland, Cumbria, England, is Egremont Castle associated with?",
+      "retrieved": [
+        {
+          "id": "302",
+          "text": "Egremont Castle\nEgremont Castle is located in the town of Egremont, Cumbria. (grid reference [ NY00981050] )",
+          "semantic_score": 0.8614726066589355,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "294",
+          "text": "Listed buildings in Egremont, Cumbria\nEgremont is a civil parish in the Borough of Copeland, Cumbria, England. It contains 25 buildings that are recorded in the National Heritage List for England. Of these, one is listed at Grade I, the highest of the three grades, and the others are at Grade II, the lowest grade. The parish contains the town of Egremont and the surrounding countryside. The oldest listed building is Egremont Castle; this and associated structures are listed. Most of the other listed buildings are houses and associated structures, farmhouses and farm buildings. The other listed buildings include churches, cemetery buildings, shops, two former toll houses, a milestone, a monument, a town hall, a drinking fountain, and a war memorial.",
+          "semantic_score": 0.8078786134719849,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "298",
+          "text": "Egremont, Cumbria\nEgremont is a market town, civil parish and two electoral wards (North and South) in the Borough of Copeland in Cumbria, England, 5 mi south of Whitehaven and on the River Ehen. Historically in Cumberland, the town, which lies at the foot of Uldale Valley and Dent Fell, has a long industrial heritage including dyeing, weaving and iron ore mining. It had a population of 7,444 in 2001, increasing to 8,194 at the 2011 Census.",
+          "semantic_score": 0.7906626462936401,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "96",
+          "text": "Castle Ashby\nCastle Ashby is the name of a civil parish, an estate village and an English country house in rural Northamptonshire. Historically the village was set up to service the needs of Castle Ashby House, the seat of the Marquess of Northampton. The village has one small pub-hotel, The Falcon. At the time of the 2011 census, the parish's population (including Chadstone) was 111 people. The village contains many houses rebuilt from the 1860s onwards. These include work by the architect E.F. Law of Northampton, whose work can also be seen nearby at Horton Church. The castle is the result of a licence obtained in 1306, for Walter Langton, Bishop of Coventry, to castellate his mansion in the village of Ashby.",
+          "semantic_score": 0.44833770394325256,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4129",
+          "text": "Closeburn Castle\nCloseburn Castle is a tower house, probably of the 14th century, but possibly older, and is one of the oldest continually inhabited houses in Scotland. The castle is located 1 km east of the village of Closeburn, and 2 km south-east of Thornhill, in Dumfries and Galloway, south-west Scotland.",
+          "semantic_score": 0.39897000789642334,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "95",
+          "text": "Castle Bytham\nCastle Bytham is a village and civil parish of around 300 houses in South Kesteven, Lincolnshire, England. The population was measured at 768 in 317 households at the 2011 census.",
+          "semantic_score": 0.377193421125412,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6804",
+          "text": "Listed buildings in Blackpool\nBlackpool is a seaside town and unitary authority situated on The Fylde coast in Lancashire, England. This list includes the listed buildings in Blackpool and Bispham, a village within the borough of Blackpool. One is classified by English Heritage as being in Grade I and five in Grade II*. In the United Kingdom, the term \"listed building\" refers to a building or other structure officially designated as being of special architectural, historical or cultural significance. These buildings are in three grades: Grade I consists of buildings of outstanding architectural or historical interest; Grade II* includes particularly significant buildings of more than local interest; Grade II consists of buildings of special architectural or historical interest. Buildings in England are listed by the Secretary of State for Culture, Media and Sport on recommendations provided by English Heritage, which also determines the grading.",
+          "semantic_score": 0.3373967111110687,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "North and South"
+    }
+  ],
+  "links": [
+    {
+      "source": "302",
+      "target": "298",
+      "reason": "302 places Egremont Castle in the town of Egremont; 298 identifies Egremont as the market town, civil parish, and two electoral wards (North and South) in Copeland, Cumbria, directly supplying the requested town/parish/wards."
+    },
+    {
+      "source": "294",
+      "target": "298",
+      "reason": "294 states Egremont is a civil parish in Copeland and that Egremont Castle is its oldest listed building; 298 confirms Egremont is the civil parish and names the two electoral wards, bridging the castle to the parish and wards."
+    }
+  ],
+  "questions_seen": 31,
+  "_id": "5abff9905542997d64295980",
+  "correct_answer": "Egremont",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

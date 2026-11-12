@@ -1,0 +1,174 @@
+{
+  "question": "Where is the ice hockey team based that Zdeno Chára currently serving as captain of?",
+  "answer": "Boston, Massachusetts",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Which ice hockey team is Zdeno Chára currently serving as captain of?",
+      "retrieved": [
+        {
+          "id": "188",
+          "text": "Zdeno Chára\nZdeno Chára (] ; born 18 March 1977) is a Slovak professional ice hockey defenseman, currently serving as captain of the Boston Bruins of the National Hockey League (NHL). He won the James Norris Memorial Trophy while playing for the Bruins in the 2008–09 season.",
+          "semantic_score": 0.8074329495429993,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "186",
+          "text": "Zach Parise\nZachary Justin Parise (born July 28, 1984) is an American professional ice hockey left winger who is currently serving as an alternate captain for the Minnesota Wild in the National Hockey League (NHL). He has also played for the New Jersey Devils, where he served as team captain and led the team to the 2012 Stanley Cup Finals. Parise's father, J. P. Parisé, was a professional ice hockey player who played for Team Canada at the 1972 Summit Series, and his brother Jordan Parise is a retired professional hockey goaltender. He was an alternate captain for the United States at the 2010 Vancouver Olympics and the captain at the 2014 Sochi Olympics. Parise is of French-Canadian heritage.",
+          "semantic_score": 0.5148699879646301,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5345",
+          "text": "Fred Doherty\nFrederick \"Doc\" Doherty (June 15, 1887 – February 12, 1961) was a Canadian professional ice hockey player. Doherty played hockey for several professional ice hockey teams from 1908 until 1916, including a stint with the Toronto Ontarios in the National Hockey Association (NHA). He also played in the Maritime Professional Hockey League and the Ontario Professional Hockey League. After returning from World War I duty, he played one game in the National Hockey League with the Montreal Canadiens to end his career. He played on several league champions, leading to play in several Stanley Cup championships, but was not a member of a Stanley Cup-winning team.",
+          "semantic_score": 0.5088307857513428,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "742",
+          "text": "Miroslav Přerost\nMiroslav Přerost (born 1963) is a Czech former professional ice hockey forward who played with HC Plzen during the 1982–83 Czech Extraliga season. He is currently the head coach of the Czech Republic men's national junior ice hockey team. He coached the men's national junior ice hockey team at the 2012, 2013 and the 2014 World Junior Ice Hockey Championships.",
+          "semantic_score": 0.500649094581604,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8586",
+          "text": "Radek Ťoupal\nRadek Ťoupal (born August 16, 1966 in Písek, Czechoslovakia) is a former ice hockey player. His debut in Czechoslovak ice hockey league came in season 1982/1983, playing for HC České Budějovice, when he was only 16. During an army duty spent two years playing for Slovakian club HC Dukla Trenčín. He played on 1992 Bronze Medal winning Olympic ice hockey team for Czechoslovakia and also on Bronze Medal winning 1993 World Championships. Drafted 6th round draft choice of the Edmonton Oilers in 1987. Radek earned a university degree and is qualified to be a teacher. He left professional ice hockey in 2000.",
+          "semantic_score": 0.49049878120422363,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8582",
+          "text": "František Hossa\nFrantišek Hossa (born 13 September 1954) is a Slovak former ice hockey player and the current head coach of Spartak Moscow of the KHL. Both his sons, Marián and Marcel, are professional ice hockey players. As of 2002, he is also the assistant coach of the Slovakia men's national ice hockey team.",
+          "semantic_score": 0.47587528824806213,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8584",
+          "text": "Jozef Golonka\nJozef Golonka (born January 6, 1938) is a former ice hockey player who played in the Czechoslovak Extraliga and was a member of the Czechoslovakia national ice hockey team. He won a bronze medal in the 1964 Winter Olympics in Innsbruck, Austria and won a silver medal in the 1968 Winter Olympics in Grenoble, France. He was inducted into the International Ice Hockey Federation Hall of Fame in 1998.",
+          "semantic_score": 0.4651568531990051,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "743",
+          "text": "Nikolai Safonov\nNikolay Safonov (born June 3, 1989) is a Kazakhstani ice hockey defenceman who was a member of the Kazakhstan men's national junior ice hockey team at the 2009 World Junior Ice Hockey Championships. He currently plays for Gornyak Rudny in the Kazakhstan Vyschaya Liga.",
+          "semantic_score": 0.4101719558238983,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Boston Bruins"
+    },
+    {
+      "step": 2,
+      "sub_question": "Where is that team based?",
+      "retrieved": [
+        {
+          "id": "192",
+          "text": "Boston Bruins\nThe Boston Bruins are a professional ice hockey team based in Boston, Massachusetts. They are members of the Atlantic Division of the Eastern Conference of the National Hockey League (NHL). The team has been in existence since 1924, and is the league's third-oldest team overall and the oldest in the United States. It is also an Original Six franchise, along with the Chicago Blackhawks, Detroit Red Wings, Montreal Canadiens, New York Rangers and Toronto Maple Leafs. The Bruins have won six Stanley Cup championships, tied for fourth most of all-time with the Blackhawks and tied second-most of any American NHL team also with the Blackhawks (behind the Red Wings, who have 11).",
+          "semantic_score": 0.7298824191093445,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "506",
+          "text": "Matthews Arena\nMatthews Arena, located in Boston, Massachusetts, is a basketball and ice hockey arena. Renovated several times, it is the oldest indoor ice hockey arena still being used for hockey — and is the oldest multi-purpose athletic building still in use in the world. It opened in 1910 on what is now the east end of Northeastern University's campus, and is currently owned by the university. It is the original home of the National Hockey League (NHL) Boston Bruins — the only team of the NHL's Original Six whose original home arena still exists for the sport of ice hockey at any level of competition — and the WHA New England Whalers (now the NHL Carolina Hurricanes), as well as the secondary home of the NBA Boston Celtics.",
+          "semantic_score": 0.54381263256073,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2000",
+          "text": "Island Storm\nThe Island Storm is a Canadian professional basketball team based in Charlottetown, Prince Edward Island. The team is a charter member of the National Basketball League of Canada which began play for its inaugural 2011–12 season. The Storm plays its home games at the Eastlink Centre. Former Vermont Frost Heaves head coach Joe Salerno served as the team's head coach for the first six seasons until he parted ways with the team in May 2017.",
+          "semantic_score": 0.4820830225944519,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "188",
+          "text": "Zdeno Chára\nZdeno Chára (] ; born 18 March 1977) is a Slovak professional ice hockey defenseman, currently serving as captain of the Boston Bruins of the National Hockey League (NHL). He won the James Norris Memorial Trophy while playing for the Bruins in the 2008–09 season.",
+          "semantic_score": 0.4795626997947693,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4757",
+          "text": "Adelaide Lightning\nThe Adelaide Lightning are an Australian professional women's basketball team competing in the Women's National Basketball League (WNBL). The club is based in the city of Adelaide, South Australia. The club was formed in 1993 and they play in the 8,000-seat Titanium Security Arena.",
+          "semantic_score": 0.4671417772769928,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4761",
+          "text": "Logan Thunder (WNBL)\nThe Logan Thunder was an Australian professional women's basketball team competing in the Women's National Basketball League (WNBL). The team was based in Logan, Queensland.",
+          "semantic_score": 0.36425167322158813,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4754",
+          "text": "South East Queensland Stars\nThe South East Queensland Stars was an Australian professional women's basketball team competing in the Women's National Basketball League (WNBL). The team was based in Brisbane, Queensland.",
+          "semantic_score": 0.3375205099582672,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4756",
+          "text": "Colleen Planeta\nColleen Planeta (born September 3, 1988) is an American professional basketball player. She currently plays for the Adelaide Lightning in the WNBL.",
+          "semantic_score": 0.30716925859451294,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Boston, Massachusetts"
+    }
+  ],
+  "links": [
+    {
+      "source": "188",
+      "target": "192",
+      "reason": "Paragraph 188 identifies Zdeno Chára as captain of the Boston Bruins; paragraph 192 states the Boston Bruins are based in Boston, Massachusetts, directly bridging the team to its location."
+    }
+  ],
+  "questions_seen": 20,
+  "_id": "5ade86b255429939a52fe8e0",
+  "correct_answer": "Boston, Massachusetts",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "question": "Who beacme a star as a comic book character created by Gerry Conway and Bob Oksner?",
+  "answer": "Vixen (Mari Jiwe McCabe)",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who are the comic book characters created by Gerry Conway and Bob Oksner?",
+      "retrieved": [
+        {
+          "id": "1124",
+          "text": "Bob Oksner\nBob Oksner (October 14, 1916 in Paterson, New Jersey – February 18, 2007) was an American comics artist known for both adventure comic strips and for superhero and humor comic books, primarily at DC Comics.",
+          "semantic_score": 0.7275134921073914,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1125",
+          "text": "Vixen (comics)\nVixen (Mari Jiwe McCabe) is a comic book character created by Gerry Conway and Bob Oksner. She first appeared in \"Action Comics\" #521 (July 1981), published by DC Comics.",
+          "semantic_score": 0.4566689431667328,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9114",
+          "text": "Comics artist\nA comics artist (also comic book artist or graphic novel artist, comic book producer, comic book illustrator, comic book writer, and comic book author) is a person working within the comics medium on comic strips, comic books, or graphic novels. The term may refer to any number of artists who contribute to produce a work in the comics form, from those who oversee all aspects of the work to those who contribute only a part.",
+          "semantic_score": 0.45195481181144714,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1127",
+          "text": "Super-Hip\nSuper-Hip is a fictional character that appeared in comic books published by DC Comics. He first appeared in \"The Adventures of Bob Hope\" #95 (October-November 1965), in a story written by Arnold Drake and drawn by Bob Oksner.",
+          "semantic_score": 0.4474785625934601,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1121",
+          "text": "The Adventures of Dean Martin and Jerry Lewis\nThe Adventures of Dean Martin and Jerry Lewis is the title of a celebrity comics comic book published by DC Comics featuring the popular team of comedians Dean Martin and Jerry Lewis. The series ran for 40 issues from 1952 through 1957, at which time the title was renamed because of the real life breakup of the team. The title was continued as \"The Adventures of Jerry Lewis\" thereafter for issues #41-124. The new series featured the comedian Jerry Lewis in a variety of humorous situations. Infrequent guest stars included Batman, Bob Hope, Lex Luthor, Superman, the Flash. and Wonder Woman, Notable artists who worked on the series include Bob Oksner and Neal Adams.",
+          "semantic_score": 0.4470149874687195,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9110",
+          "text": "Bob Kane\nRobert \"Bob\" Kane (born Robert Kahn; October 24, 1915 – November 3, 1998) was an American comic book writer and artist who co-created, with Bill Finger, the DC Comics character Batman. He was inducted into the comic book industry's Jack Kirby Hall of Fame in 1994 and into the Will Eisner Comic Book Hall of Fame in 1996.",
+          "semantic_score": 0.4438948929309845,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8351",
+          "text": "The World's Greatest Super-Heroes\nThe World's Greatest Super-Heroes is the name to the oversized slipcased hardcover anthology collection, that reprinted six oversized graphic novels all created by artist Alex Ross and writer Paul Dini. Four graphic novels were originally published to celebrate the 60th anniversary of DC main characters: Superman, Batman, Captain Marvel and Wonder Woman, thus \"\" were published in 1998, \"\" in 1999, \"\" in 2000 and finally \"\" in 2001. Alex Ross original idea was make a statement about the four superhero comics archetypes: Science Fiction (Superman), Crime/Mystery (Batman), Magic (Captain Marvel) and Myth (Wonder Woman).",
+          "semantic_score": 0.33053073287010193,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Vixen (Mari Jiwe McCabe)"
+    },
+    {
+      "step": 2,
+      "sub_question": "Which of those characters became a star?",
+      "retrieved": [
+        {
+          "id": "1125",
+          "text": "Vixen (comics)\nVixen (Mari Jiwe McCabe) is a comic book character created by Gerry Conway and Bob Oksner. She first appeared in \"Action Comics\" #521 (July 1981), published by DC Comics.",
+          "semantic_score": 0.688949465751648,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1119",
+          "text": "Arrowverse\nThe Arrowverse is a shared fictional universe that is centered on television series airing on The CW, developed by Greg Berlanti, Marc Guggenheim, Andrew Kreisberg, Phil Klemmer, and Geoff Johns, based on characters appearing in publications by DC Comics. The shared universe, much like the DC Universe in comic books or the cinematic DC Extended Universe, was established by crossing over common plot elements, settings, cast, and characters. The Arrowverse stars Stephen Amell as Oliver Queen / Green Arrow, Grant Gustin as Barry Allen / Flash, Megalyn Echikunwoke as Mari Jiwe McCabe / Vixen, with an ensemble cast leading \"Legends of Tomorrow\", including Arthur Darvill as Rip Hunter, Caity Lotz as Sara Lance / White Canary, Brandon Routh as Ray Palmer / Atom, Dominic Purcell as Mick Rory / Heat Wave, with Victor Garber and Franz Drameh as Martin Stein & Jefferson \"Jax\" Jackson / Firestorm. Russell Tovey stars as Ray Terrill / The Ray.",
+          "semantic_score": 0.41853538155555725,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9570",
+          "text": "Olivia Munn\nLisa Olivia Munn (born July 3, 1980) is an American actress and model. She was credited as Lisa Munn in her early career, but since 2006, she has used the name Olivia Munn.",
+          "semantic_score": 0.3844272792339325,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2447",
+          "text": "Brianne Siddall\nBrianne Siddall (born August 25, 1963 in Encino, California), also known under her stage names of Ian Hawk and Brianne Brozey, is an American voice actress. She is known for voicing Tommy Himi and Calumon in over a hundred episodes of the popular anime \"Digimon\" and its video games, as well as for voicing Tsukasa and Elk in the anime \".hack//Sign\" and the \".hack\" games. In the late 1990s Siddall, under the stage name Ian Hawk, was hired to perform as the voice of Myōjin Yahiko for the Sony dub of the \"Ruroni Kenshin\" anime and OAV, which premiered in the United States under the title \"Samurai X.\" This initial attempt to market the series proved unsuccessful and the series was later re-dubbed by Media Blasters, who chose to hire Bang Zoom! Entertainment to redub the series. She also voiced characters for Pioneer and Bang Zoom! including Kunikida in \"The Melancholy of Haruhi Suzumiya\", Ruby and Rina in \"Saint Tail\". In live-action voice-over, she voiced Impus, the infant version of the character Prince Olympius, in \"Power Rangers Lightspeed Rescue\", and Circuit the robotic owl in \"Power Rangers Time Force\". She voiced Jim Hawking, the kid crew member in \"Outlaw Star\", which had a run on Cartoon Network's Toonami and Adult Swim programming blocks, She also voiced main character Al Izuruha in the \"Mobile Suit Gundam\" OAV, \"\".",
+          "semantic_score": 0.37384676933288574,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1234",
+          "text": "Vipul Gupta\nVipul Gupta (born 17 September 1984) is an actor and model. He is best known for playing the lead role of Drone Keshab in a very popular Star Plus Serial: K. Street Pali Hill and as Anand Zorawar Shergill in TV serial \"Meri Bhabhi\" on STAR Plus. He is currently seen in a Vikram Bhatt's web series \"Maaya\".",
+          "semantic_score": 0.3649972677230835,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1103",
+          "text": "List of Arrow characters\nArrow is an American television series developed by Greg Berlanti, Marc Guggenheim, and Andrew Kreisberg, based on the DC Comics character Green Arrow. Many of the other characters appearing in the series are also based on DC Comics characters. The series premiered on October 10, 2012 in the United States on The CW television network, and is currently in its fifth season. On January 8, 2017, The CW announced that \"Arrow\" would be renewed for a sixth season.",
+          "semantic_score": 0.203108012676239,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1105",
+          "text": "Legends of Tomorrow\nDC's Legends of Tomorrow, or simply Legends of Tomorrow, is an American superhero action-adventure television series developed by Greg Berlanti, Marc Guggenheim, Andrew Kreisberg, and Phil Klemmer, who are also executive producers along with Sarah Schechter and Chris Fedak; Klemmer and Fedak serve as showrunners. The series, based on the characters of DC Comics, airs on The CW and is a spin-off from \"Arrow\" and \"The Flash\", existing in the same fictional universe. The series premiered on January 21, 2016. In January 2017, The CW renewed the series for a third season, which is scheduled to debut on October 10, 2017.",
+          "semantic_score": 0.19775696098804474,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1108",
+          "text": "List of The Flash characters\n\"The Flash\" is an American television series developed by writer-producers Greg Berlanti, Andrew Kreisberg and Geoff Johns, based on the DC Comics character the Flash. The series premiered in the United States on October 7, 2014, on The CW television network. It is a spin-off from \"Arrow\", a show in the same universe. The first season follows police forensic investigator Barry Allen (Grant Gustin), who develops super-speed after he is struck by lightning. In his attempt to learn about his powers and how to use them for good, he is assisted by S.T.A.R. Labs' Dr. Caitlin Snow (Danielle Panabaker), Cisco Ramon (Carlos Valdes) and Dr. Harrison Wells (Tom Cavanagh). Barry also tries to solve the murder of his mother (Michelle Harrison) by a superhuman attacker (Matt Letscher) when he was eleven. The murder investigation unjustly imprisoned his father (John Wesley Shipp), leaving detective Joe West (Jesse L. Martin), father of his best friend, Iris (Candice Patton), to take in the young Barry. The memory of his mother's murder and his father's framing and later killing motivates Barry to put his personal needs aside and use his powers to fight those who would hurt the innocent, shaping him into the Flash.",
+          "semantic_score": 0.2743954062461853,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8928",
+          "text": "Brandon Routh\nBrandon James Routh (born October 9, 1979) is an American actor and former fashion model. He grew up in Iowa before moving to Los Angeles to pursue an acting career, and subsequently appeared on multiple television series throughout the early 2000s. In 2006, he gained greater recognition for his role as the titular superhero of the 2006 film \"Superman Returns\". He also had a recurring role in the TV series \"Chuck\", as Daniel Shaw. Following this, he had notable supporting roles in the films \"Zack and Miri Make a Porno\" and \"Scott Pilgrim vs. the World\". In 2014, he began a recurring role on \"Arrow\" as Ray Palmer/Atom which spun off into a guest role on \"The Flash\" and a starring role on \"Legends of Tomorrow\".",
+          "semantic_score": 0.28344202041625977,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1237",
+          "text": "Additi Gupta\nAditi Gupta (stylized as Additi Gupta) is an Indian actress, model and fashion designer, known for her work as the protagonist in the popular television series \"Kis Desh Mein Hai Meraa Dil\" on Star Plus channel. She was also seen portraying a witch in the Zee TV series \"Qubool Hai\". She is also known for her negative roles in Pardes Mein Hai Mera Dil and Star Plus's Ishqbaaz.",
+          "semantic_score": 0.3275165259838104,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Mari Jiwe McCabe / Vixen"
+    }
+  ],
+  "links": [
+    {
+      "source": "1125",
+      "target": "1119",
+      "reason": "Paragraph 1125 identifies Vixen as the character created by Gerry Conway and Bob Oksner; paragraph 1119 shows that Mari Jiwe McCabe / Vixen became a star in the Arrowverse, bridging the creation to the 'became a star' sub-question."
+    }
+  ],
+  "questions_seen": 114,
+  "_id": "5a84bb825542991dd0999dbe",
+  "correct_answer": "Megalyn Echikunwoke",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

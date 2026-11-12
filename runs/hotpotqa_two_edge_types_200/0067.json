@@ -1,0 +1,167 @@
+{
+  "question": "Haier has North American rights to which appliance company headquartered in Louisville, Kentucky?",
+  "answer": "GE Appliances",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Which appliance company is headquartered in Louisville, Kentucky?",
+      "retrieved": [
+        {
+          "id": "671",
+          "text": "GE Appliances\nGE Appliances, formerly known as GE Appliances & Lighting and GE Consumer & Industrial, along with GE Appliances, when owned by General Electric (GE), is an appliance company headquartered in Louisville, Kentucky and owned by Haier Group. It is one of the largest appliance brands in the United States. The company encompasses the appliance brands of GE, Profile, Cafe, Monogram, and Hotpoint. GE Appliances includes wholly owned subsidiary FirstBuild, a global co-creation community and state-of-the-art microfactory located in Louisville, Kentucky.",
+          "semantic_score": 0.6292316913604736,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "672",
+          "text": "Danby (appliances)\nDanby is the name of a line of appliances marketed by Danby Products Ltd., led by Guelph’s Wood family. The company claimed the largest market share in the compact appliance category in North America (in 2012). It is a privately held Canadian company headquartered on the outskirts of Guelph, Ontario. The company has additional locations in Findlay, Ohio and Foxboro, Massachusetts as well as a location in Guangzhou, China. Danby is not a manufacturer. It is affiliated with manufacturers in China, Mexico, and the United States. Although this is a closely held company, annual sales are estimated at about 400 million dollars through the sale of compact and specialty appliances such as microwaves, compact refrigerators, wine coolers, ranges, washing machines, air conditioners and dehumidifiers and employs a staff of approximately 110.",
+          "semantic_score": 0.4830925464630127,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "665",
+          "text": "Fantom Technologies\nFantom Technologies, Inc. was a Canadian household appliance company founded in Welland, Ontario in 1986 as IONA Appliances, with offices in Buffalo, New York, USA. A manufacturer of dual-cyclonic type vacuum cleaners, they were inspired from the Dyson vacuums (which would not appear in North America until 2002). Its later name was adopted in 1995. Fantom went bankrupt in October 2001 and their vacuums have been considered collector's items since.",
+          "semantic_score": 0.46939796209335327,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5413",
+          "text": "Sunbeam Products\nSunbeam Products is an American brand that has produced electric home appliances since 1910. Its products have included the Mixmaster mixer, the Sunbeam CG waffle iron, Coffeemaster (1938–1964) and the fully automatic T20 toaster. Sunbeam was owned by Jarden Consumer Solutions after Jarden's acquisition in 2004. Since Newell Rubbermaid's purchase of Jarden Corporation, the brand has been owned by the newly formed Newell Brands company.",
+          "semantic_score": 0.4635850489139557,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4777",
+          "text": "Ashland Inc.\nAshland Global Specialty Chemicals Inc. is an American chemical company which operates in more than 100 countries. Headquartered in Covington, Kentucky, the company traces its roots back to the city of Ashland, Kentucky, where it was headquartered from 1924 to 1999. The company currently has five wholly owned divisions, which include Chemical Intermediates and Solvents, Composites, Industrial Specialties, Personal and Home Care, & Pharmaceuticals, Food and Beverage, and Agriculture. Until 2017, the company was the primary manufacturer of Valvoline",
+          "semantic_score": 0.4200909435749054,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9444",
+          "text": "Fantoma Films\nFantoma Films is a San Francisco, California based film distributor specializing in \"eclectic\" cult films and ephemeral films such as educational short films. Fantoma has re-released works by Fritz Lang, Wim Wenders, Kenneth Anger, Sergio Corbucci, Yasuzo Masumura, and others.",
+          "semantic_score": 0.07702019065618515,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5417",
+          "text": "Newell Brands\nNewell Brands is an American worldwide marketer of consumer and commercial products with a portfolio of brands including Rubbermaid food storage, home organization and reusable container products; Contigo and Bubba water bottles; Coleman outdoor products; Diamond matches; Sharpie, Expo Markers, PaperMate, Dymo, Elmer's, Krazy Glue, Mr. Sketch, Parker Pens, Uniball, Prismacolor, Rotring, Xacto, Waterman, Berol stationery products; Bicycle and Bee Playing Cards; Aprica, Nuk, Tigex, Babysun, Baby Jogger and Graco children's products; First Alert alarm systems; Calphalon cookware and kitchen electrics; Sunbeam, Rival, Crock-Pot, Holmes, FoodSaver, Oster, Osterizer, Mr. Coffee small kitchen appliances; Yankee Candle candles; and Goody hair care accessories.",
+          "semantic_score": 0.3823201060295105,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "494",
+          "text": "Newport Chemical Depot\nThe Newport Chemical Depot, previously known as the Wabash River Ordnance Works and the Newport Army Ammunition Plant, was a 6,990 acres bulk chemical storage and destruction facility that was operated by the United States Army. It is located near Newport, in west central Indiana, thirty-two miles north of Terre Haute. The site was used as a production site for the solid explosives trinitrotoluene and RDX, as well as for heavy water. It also served as the production site for all of the U.S. military's nerve agent VX, when it was in use.",
+          "semantic_score": 0.2958146929740906,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "GE Appliances"
+    },
+    {
+      "step": 2,
+      "sub_question": "Does Haier have North American rights to that company?",
+      "retrieved": [
+        {
+          "id": "671",
+          "text": "GE Appliances\nGE Appliances, formerly known as GE Appliances & Lighting and GE Consumer & Industrial, along with GE Appliances, when owned by General Electric (GE), is an appliance company headquartered in Louisville, Kentucky and owned by Haier Group. It is one of the largest appliance brands in the United States. The company encompasses the appliance brands of GE, Profile, Cafe, Monogram, and Hotpoint. GE Appliances includes wholly owned subsidiary FirstBuild, a global co-creation community and state-of-the-art microfactory located in Louisville, Kentucky.",
+          "semantic_score": 0.6301282048225403,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "672",
+          "text": "Danby (appliances)\nDanby is the name of a line of appliances marketed by Danby Products Ltd., led by Guelph’s Wood family. The company claimed the largest market share in the compact appliance category in North America (in 2012). It is a privately held Canadian company headquartered on the outskirts of Guelph, Ontario. The company has additional locations in Findlay, Ohio and Foxboro, Massachusetts as well as a location in Guangzhou, China. Danby is not a manufacturer. It is affiliated with manufacturers in China, Mexico, and the United States. Although this is a closely held company, annual sales are estimated at about 400 million dollars through the sale of compact and specialty appliances such as microwaves, compact refrigerators, wine coolers, ranges, washing machines, air conditioners and dehumidifiers and employs a staff of approximately 110.",
+          "semantic_score": 0.42517340183258057,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "673",
+          "text": "Hotpoint\nThe Hotpoint Electric Heating Company (generally known simply as Hotpoint) is an American and European brand of domestic appliances. Ownership of the brand is split between the American company Whirlpool, which has European rights, and Chinese company Haier, which has North American rights since its purchase of GE Appliances.",
+          "semantic_score": 0.4159184992313385,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8453",
+          "text": "Tongil Industries Company\nThe Tongil Industries Company Co., Ltd., (in short the “TIC”), is a South Korean heavy industry company headquartered in Changwon City, South Korea. TIC was founded in July, 1988 originally as the Jin Heung Machinery Co., Ltd. As of 2011, it comprises 4 business divisions; Machine tools, Ball Screws, Automobile Components and Heat Treatment. The Tongil Industries is a subsidiary of the TONGIL Group, a South Korean business conglomerate (chaebol) managed by Kook Jin “Justin” Moon, a U.S. citizen with a Korean ethnical background, who currently serves as Chairman of the group. The Tongil Industries currently have 3 locations; Korean headquarters, TIC-Europe (subsidiary in EU zone), and a US agent office.",
+          "semantic_score": 0.39557045698165894,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6223",
+          "text": "Semper Gestion\nSemper is a Swiss wealth management company, asset management and Family Office established in 2001 and working in open architecture. Based in Geneva, with a team of highly skilled portfolio managers who share a common vision of the profession, its model and its values, Semper has a sister company in London (Beauregard Capital Limited) and a representative office in Shanghai (Shanghai Semper). Since 2001, she offers a highly personalized service of wealth management and Family Office. Managed by Grégoire Vaucher (CEO) and Jean-Evrard Dominicé (CIO), Semper currently has 20 employees.",
+          "semantic_score": 0.3706780970096588,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8038",
+          "text": "Namsung electronics\nNamsung (Hangul:  ; ] ) is a South Korean multinational company headquartered in Seoul. Namsung was founded by Yoon Bong-Soo in 1965 as an OEM electronics manufacturing company. Namsung's subsidiaries include Namsung Telecom, Nasco, Dreamer, Namsung International, and Namsung America.",
+          "semantic_score": 0.2741604745388031,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5413",
+          "text": "Sunbeam Products\nSunbeam Products is an American brand that has produced electric home appliances since 1910. Its products have included the Mixmaster mixer, the Sunbeam CG waffle iron, Coffeemaster (1938–1964) and the fully automatic T20 toaster. Sunbeam was owned by Jarden Consumer Solutions after Jarden's acquisition in 2004. Since Newell Rubbermaid's purchase of Jarden Corporation, the brand has been owned by the newly formed Newell Brands company.",
+          "semantic_score": 0.3387008011341095,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "links": [
+    {
+      "source": "671",
+      "target": "673",
+      "reason": "Paragraph 671 identifies GE Appliances as the Louisville-headquartered appliance company owned by Haier; paragraph 673 specifies that Haier has North American rights to Hotpoint through its purchase of GE Appliances, bridging the company identification to the rights question."
+    }
+  ],
+  "questions_seen": 68,
+  "_id": "5a8cee9b554299441c6b9f87",
+  "correct_answer": "GE Appliances",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "question": "When was the track from which a sample was featured in \"Take Me to the Clouds Above\" released? ",
+  "answer": "1985",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What track was sampled in \"Take Me to the Clouds Above\"?",
+      "retrieved": [
+        {
+          "id": "677",
+          "text": "LMC (British band)\nLMC are a British dance group consisting of producers, Lee Monteverde, Matt Cadman and Cris Nuttall. They have performed remixes for Scooter, Erasure, Dannii Minogue, Lasgo, Flip & Fill, Robert Palmer and Shania Twain. LMC is best known for the track \"Take Me to the Clouds Above\" which featured a sample from \"How Will I Know\" by Whitney Houston, and \"With or Without You\" by U2 which topped the UK Singles Chart in early 2004, as well as going top 5 in Ireland and top 10 in Australia.",
+          "semantic_score": 0.5827077627182007,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "682",
+          "text": "Far Above the Clouds\n\"Far Above the Clouds\" is a single by musician Mike Oldfield, released on 12 April 1999. The single is the final track from the album \"Tubular Bells III\". \"Far Above the Clouds\" similarly features tubular bells in fashion with the part-one-finales of Oldfield's previous works, \"Tubular Bells\" and \"Tubular Bells II\".",
+          "semantic_score": 0.5529998540878296,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4125",
+          "text": "Rockin' All Over the World\n\"Rockin' All Over the World\" is a rock song written by John Fogerty, formerly of Creedence Clearwater Revival. It made its debut on Fogerty's second solo album (see \"John Fogerty\") in 1975. It was also released as a single, spending six weeks in the US top 40, peaking at #27. \"Rolling Stone\" critic Dave Marsh considered the song a good choice for the album's lead single, although he claimed that it was \"little more than the formulaic CCR sound with the title repeated over and over, like a chant.\" Status Quo recorded their own, heavier arrangement of Fogerty's song for their 1977 album \"Rockin' All Over the World\".",
+          "semantic_score": 0.44236651062965393,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6251",
+          "text": "On Top of Old Smoky\n\"On Top of Old Smokey\" is a traditional folk song of the United States. As recorded by The Weavers, the song reached the pop music charts in 1951. It is catalogued as Roud Folk Song Index No. 414. In one version the first verse is the following; for more on the words see below.",
+          "semantic_score": 0.42603161931037903,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4124",
+          "text": "The Long Road Home\nThe Long Road Home: The Ultimate John Fogerty/Creedence Collection is a compilation album by American roots rock singer-songwriter John Fogerty, released on November 1, 2005, by Fantasy Records. It compiles songs from Fogerty's solo career and his band Creedence Clearwater Revival. The title refers to Fogerty's return to Fantasy Records, after a lengthy stint with Warner Bros. Records and a brief stint with DreamWorks Records.",
+          "semantic_score": 0.42066216468811035,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4119",
+          "text": "John Fogerty\nJohn Cameron Fogerty (born May 28, 1945) is an American musician, singer, and songwriter. He was the lead singer, lead guitarist and principal songwriter of the band Creedence Clearwater Revival. The group had nine top-ten singles and eight gold albums between 1968 and 1972. They were inducted into the Rock and Roll Hall of Fame in 1993.",
+          "semantic_score": 0.38970449566841125,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4126",
+          "text": "John Fogerty (album)\nJohn Fogerty is the second solo studio album by former Creedence Clearwater Revival vocalist/guitarist John Fogerty, released in 1975. It was released by Asylum Records in the United States and Fantasy Records internationally. As with the Creedence Clearwater Revival records, the album consists of a mix of originals and cover songs. Although the album is eponymously titled, Fogerty himself refers to it as \"Old Shep\"; Shep was the name of his dog, who appears on the cover with him.",
+          "semantic_score": 0.3672134578227997,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6772",
+          "text": "Creedence Clearwater Revival (album)\nCreedence Clearwater Revival is the debut studio album by the American rock band Creedence Clearwater Revival, released in 1968.",
+          "semantic_score": 0.3498827815055847,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "\"How Will I Know\" by Whitney Houston"
+    },
+    {
+      "step": 2,
+      "sub_question": "When was that sampled track released?",
+      "retrieved": [
+        {
+          "id": "5817",
+          "text": "The Prayer (Bloc Party song)\n\"The Prayer\" is a song by English rock band Bloc Party. It was released as the lead single from their second studio album, \"A Weekend in the City\", except in the U.S. where it is the second single as \"I Still Remember\" was the first song from the album to be released in North America. It was released by Wichita Recordings on 29 January 2007 and is the band's highest charting single worldwide. The lyrics deal with drug use in nightclubs and party environments. Band frontman Kele Okereke says he was inspired to write the song after hearing Busta Rhymes' song \"Touch It\". He also described the song as having a \"crunk-like\" effect. A cover version of \"The Prayer\" by KT Tunstall is included in \"Radio 1's Live Lounge – Volume 2\", and on her single \"If Only\".",
+          "semantic_score": 0.41732174158096313,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7852",
+          "text": "Control (Big Sean song)\n\"Control\" is a song by American hip hop recording artist Big Sean, featuring fellow American rappers Kendrick Lamar and Jay Electronica. The song was originally intended to be included on Big Sean's second studio album \"Hall of Fame\" (2013), but was ultimately removed from the final track-listing due to sample clearance issues. \"Control\" impacted American mainstream urban radio on August 14, 2013 as a promotional single for \"Hall of Fame\". The track contains samples such as \"Where I'm From\" (1997) by Jay-Z, \"El Pueblo Unido Jamás Será Vencido\" (1974) by Quilapayún and Sergio Ortega and an interpolation of \"Get Bizy\" (2011) by Terrace Martin, which also features fellow rappers Kendrick Lamar and Jay Electronica.",
+          "semantic_score": 0.4159904718399048,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "627",
+          "text": "This Is Music: The Singles 92–98\nThis is Music: The Singles 92–98 is a singles compilation album by the English alternative rock band The Verve. The compilation was released in November 2004 and included two previously unreleased tracks: \"This Could Be My Moment\" and \"Monte Carlo\" (see 2004 in music). The album was named after a track by the same name off their 1995 album \"A Northern Soul\". The album cover is based on the cover of their 1992 single, \"She's a Superstar\".",
+          "semantic_score": 0.4128929078578949,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "677",
+          "text": "LMC (British band)\nLMC are a British dance group consisting of producers, Lee Monteverde, Matt Cadman and Cris Nuttall. They have performed remixes for Scooter, Erasure, Dannii Minogue, Lasgo, Flip & Fill, Robert Palmer and Shania Twain. LMC is best known for the track \"Take Me to the Clouds Above\" which featured a sample from \"How Will I Know\" by Whitney Houston, and \"With or Without You\" by U2 which topped the UK Singles Chart in early 2004, as well as going top 5 in Ireland and top 10 in Australia.",
+          "semantic_score": 0.41198936104774475,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6252",
+          "text": "The Escorts / The Do's &amp; The Don'ts\nThe Escorts (Later The Do's and The Don'ts) is a 24 track album featuring \"the best of\" or greatest hits by The Escorts (Later The Do's and The Don'ts) from Cedar Rapids, Iowa, USA. These are original recordings of all 12 singles released by The Escorts, later known as The Do's & The Don'ts. \"On Top of Old Smokey\" and \"Twelfth of Never\" are covers. This CD features \"I Wonder If She Loves Me\" written by Roger Booth (Red Bird Records single #10-072), which was listed as a \"spotlight single\" in the July 2, 1966, issue of Billboard Magazine. Record World Magazine listed it among \"singles coming up,\" reaching #35 in the August 20 & 27 issues. KIOA Des Moines listed it at #14 on July 4, 1966; WAKX Duluth listed it at #6 on August 5, 1966; and WEBC Duluth listed it at #5 on August 6, 1966.",
+          "semantic_score": 0.4077540636062622,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5812",
+          "text": "I Still Remember\n\"I Still Remember\" is a song by English rock band Bloc Party. It was released as a single from their second studio album, \"A Weekend in the City\"., being the first U.S. single and second UK single from the album. The single was released in Britain in two 7\" formats as well as a CD version. The B-sides are \"Atonement\", \"Cain Said To Abel\", \"Selfish Son\", and \"I Still Remember (Music Box And Tears Remix)\". A limited edition \"I Still Remember\" 7\" was also given to the first 1000 people who pre-ordered the album from Insound. The music video was made by Aggressive and was first shown on 8 January 2007 on MTV2. Upon release, the song reached number 24 on the Billboard Hot Modern Rock Tracks chart (since renamed Alternative Songs), making it the band's highest charting single in the US, besting the number 34 peak of \"Banquet\" on the same chart in 2005.",
+          "semantic_score": 0.350033164024353,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "633",
+          "text": "The Verve E.P.\nVerve is the first studio release by English rock band Verve, released in December 1992 on Vernon Yard Recordings in the United States and Hut Records in the United Kingdom. It features songs that never appeared on another studio release by The Verve. The two singles from the EP would reappear on the B-side compilation \"No Come Down\" (\"Gravity Grave\") and the singles compilation \"\" (\"Gravity Grave\" and \"She's a Superstar\").",
+          "semantic_score": 0.2625972330570221,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7205",
+          "text": "The Hits Album 9\nThe Hits Album is a compilation album released by BMG, CBS and WEA in December 1988 and is the ninth volume of the long-running \"Hits\" compilation series. It charted on December 17. Unusually, this \"Hits\" album was released without the chronological '9' anywhere on the album's artwork or advertising and this could be considered a re-launch of the four-year-old series. The compilation is, however, listed as \"The Hits Album 9\" in \"The Complete Book of the British Charts\" and other chart statistic publications due to the catalogue number 'CDHITS9'.",
+          "semantic_score": 0.1927212029695511,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2662",
+          "text": "Lynn Anderson discography\nThe discography of Lynn Anderson, an American country artist, consists of 35 studio albums, 17 compilation albums, two live albums, one tribute album, and 74 singles. She signed a recording contract with Chart Records in 1966, after her mother Liz Anderson gained success as a country songwriter and singer. Anderson's debut release was the single \"In Person\" in 1966, charting her first top 10 hit in 1967 \"If I Kiss You (Will You Go Away)\", which spawned her debut album \"Ride, Ride, Ride\". Anderson's next single later in the year entitled \"Promises, Promises\" also reached the Top 5 and an album of the same name peaked at #1 on the \"Billboard\" Top Country Albums chart. Between 1967 and 1969, Anderson released seven singles, including the Top 20 hits \"No Another Time\", \"Big Girls Don't Cry\", and \"That's a No No\", and four more albums such as, \"With Love, From Lynn\" and \"At Home with Lynn\". With her success on the Chart label, Anderson was coaxed into signing with the major label Columbia Records, and officially signed in 1970. While releasing two albums and singles with Columbia, Chart continued to release singles, including \"Rocky Top\", \"I'm Alright\", and \"It Wasn't God Who Made Honky Tonk Angels\", which all reached the Top 20 on the \"Billboard\" country chart in 1970.",
+          "semantic_score": 0.375074177980423,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7853",
+          "text": "DJ Dahi\nDacoury Natche (born March 10, 1983), professionally known as DJ Dahi, is an American DJ, songwriter and record producer from Inglewood, California. Dahi is perhaps best known for producing \"Worst Behavior\" by Canadian rapper Drake, as well as American rapper Kendrick Lamar's critically acclaimed album cut \"Money Trees\", which features Lamar's label-mate Jay Rock. Dahi has also produced several tracks for various artists such as Dr. Dre, Lily Allen, Freddie Gibbs, Dom Kennedy, Lupe Fiasco, Vince Staples, Mac Miller, Ty Dolla Sign, Pac Div, Travi$ Scott, Vic Mensa, Casey Veggies, Smoke DZA, Big Sean, Tinashe, Logic, and Big K.R.I.T., among others. Aside from his solo production career, Dahi is also a member of production team D.R.U.G.S., alongside Chordz 3D, Buddah Shampoo, Nate 3D, James Koo, Fuego and Ty Dolla Sign. He is currently working on an album with LOTB. The album is set to release early August.",
+          "semantic_score": 0.23002800345420837,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1985"
+    }
+  ],
+  "links": [],
+  "questions_seen": 69,
+  "_id": "5ae7ff745542994a481bbe6e",
+  "correct_answer": "16 March 1987",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

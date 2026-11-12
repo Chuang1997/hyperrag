@@ -1,0 +1,188 @@
+{
+  "question": "Which breed, Chinese Chongqing Dog or Kanni, is used for hunting?",
+  "answer": "Both",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is the Chinese Chongqing Dog used for?",
+      "retrieved": [
+        {
+          "id": "1573",
+          "text": "Chinese Chongqing Dog\nThe Chinese Chongqing Dog is a rare breed of dog native to the Chongqing city of China. In its early years, it was used for hunting wild boar and rabbits, but it's now used in China to protect families and belongings. They are an ancient, natural breed said to have existed for 2,000 years since the time of the Han Dynasty in Ancient China. After the establishment of the People's Republic of China in 1949, the breed's numbers were greatly reduced, and only people in rural communities still kept it; the breed is still rare, even in China.",
+          "semantic_score": 0.7574431896209717,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1575",
+          "text": "Tugou\nTugou (土狗, pinyin: \"tǔ gǒu\"), literally means Native Dog in Mandarin Chinese, is the general name for several dog breeds originated from China and still abundantly exists across the country today. Tugou includes the most popular Chinese dog breed - the Chinese Field Dog (, pinyin: \"zhōng huá tián yuán quǎn\"), Chinese Chongqing Dog, Xiasi Dog, and several other native dog breeds distributed across China. They are roughly 45–50 cm tall at the shoulder.",
+          "semantic_score": 0.5643035173416138,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1571",
+          "text": "Chongqing Dangdai Lifan F.C.\nChongqing Dangdai Lifan () is a professional Chinese football club that currently participates in the Chinese Super League under licence from the Chinese Football Association (CFA). The team is based in Chongqing and their home stadium is the Chongqing Olympic Sports Center that has a seating capacity of 58,680. They are owned by Dangdai International Group.",
+          "semantic_score": 0.5504298210144043,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7189",
+          "text": "Sanxiang noodle\nSanxiang noodle ( ) is one of the famous local food of Zhongshan city, Guangdong province, China. It has a history of more than 200 years. Because of the special recipe and techniques, the noodle is round and stretchy, which is similar to Guiling noodle, another well-known noodle of China. There are many different types of sanxiang noodle according to people’s favor. People usually eat it with the company of meat, chicken, vegetables, roast pork, pork liver and so on. Everyone can make their favorite Sanxiang noodle. They can boil it as well as fry it.",
+          "semantic_score": 0.5125905275344849,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3506",
+          "text": "Shanghai Bund (TV series)\nShanghai Bund (Chinese: 新上海滩) is a 2007 Chinese television series directed by Gao Xixi. It is a remake of the 1980 Hong Kong television series \"The Bund\" produced by TVB. The series stars Huang Xiaoming, Sun Li, Li Xuejian, Huang Haibo, Chen Shu and Sha Yi in the lead roles.",
+          "semantic_score": 0.4400542676448822,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1578",
+          "text": "Changzhou sesame candy\nChangzhou sesame candy is a kind of special traditional cookie which is very popular among people in local places in Changzhou. Dating back to Tang dynasty, local people in Changzhou started to produce a kind of candies shaped like a kind of food called deep-fried sesame seed balls. That's why they also called the sesame candy as the sesame-seed-ball candy. Through a lot of procedure, the sesame candy came up. During that time, the emperor did not have a good appetite and did not feel like eating anything. But once he ate the sesame candy, he felt like having found what he likes most.",
+          "semantic_score": 0.4139538109302521,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8837",
+          "text": "China Arena Football League\nThe China Arena Football League (CAFL) is a professional arena football league that plays its games in China. It features players from the Arena Football League (AFL) and other indoor football leagues' rosters while also using players from China or who are of Chinese descent, The six team, eight-on-eight football league consists of four Chinese players and four \"foreign\" players on the field at a time. The league began play in the fall of 2016. It is the first professional American football league to play in China. The CAFL is not directly affiliated with the AFL and is instead owned by AFL Global, LLC, a company that was created by Martin E. Judge, Jr.",
+          "semantic_score": 0.27688515186309814,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7186",
+          "text": "I fu mie\nI fu mie or yi fu mein is a crispy deep fried thick noodle dish served in a thick savoury sauce with pieces of meat or seafood and vegetables. The dishes are to be served hot while the noodles are still crisp until the noodles are softened by the sauce and are ready to be eaten. The dish is one of the most popular noodle dishes in Chinese Indonesian cuisine. The type of noodle being used in this dish is the thick \"yi mein\" noodle, hence the origin of its name. It is quite similar to \"mie kering\" noodles from Makassar.",
+          "semantic_score": 0.347780704498291,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Hunting wild boar and rabbits, and protecting families and belongings."
+    },
+    {
+      "step": 2,
+      "sub_question": "What is the Kanni used for?",
+      "retrieved": [
+        {
+          "id": "1574",
+          "text": "Kanni\nThe Kanni, which means maiden, is a rare indigenous South Indian sighthound breed of dog found in the state of Tamil Nadu. The breed is used mainly for coursing game.",
+          "semantic_score": 0.5880156755447388,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4225",
+          "text": "Snipe hunt\nA snipe hunt is a type of practical joke, in existence in North America as early as the 1840s, in which an unsuspecting newcomer is duped into trying to catch a non-existent animal called a \"snipe\". While snipe are an actual family of birds, the \"snipe hunt\" is a quest for an imaginary creature whose description varies.",
+          "semantic_score": 0.406981885433197,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3981",
+          "text": "Villano de las Encartaciones\nThe Villano de Las Encartaciones (Basque: \"Enkarterriko billano\" , Cantabrian: \"Villanu\", English: Villein of las Encartaciones ) is a Spanish working dog originated in Las Encartaciones, a comarca of the province of Biscay, in the Basque country, eastern Cantabria and northern Burgos. There are less than 100 of them in existence. The Villano derived from the Spanish Bulldog, of which it represents a lighter, faster and more agile version. The dog is used to catch Monchina cattle, which are raised in a feral state in northern Spain. The Villano is also used for boar hunting given its qualities as a catch dog. Males stand 60 to 65 cm at the shoulder and weigh up to 35 kg.",
+          "semantic_score": 0.40696513652801514,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1576",
+          "text": "Finnish Spitz\nA Finnish Spitz (Finnish language: \"Suomenpystykorva\") is a breed of dog originating in Finland. The breed was originally bred to hunt all types of game from squirrels and other rodents to bears. It is a \"bark pointer\", indicating the position of game by barking, and drawing the game animal's attention to itself, allowing an easier approach for the hunter. Its original game hunting purpose was to point to game that fled into trees, such as grouse, and capercaillies, but it also serves well for hunting elk. Some individuals have even been known to go after a bear. In its native country, the breed is still mostly used as a hunting dog. The breed is friendly and in general loves children, so it is suitable for domestic life. The Finnish Spitz has been the national dog of Finland since 1979.",
+          "semantic_score": 0.3725874722003937,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4173",
+          "text": "Kamajors\nThe Kamajors were a group of traditional hunters from the Mende ethnic group in the south and east of Sierra Leone (mostly from the Bo district). The word \"\"Kamajor\" derived from mende \"\"kama soh\"\" meaning traditional hunter with mystical powers, and were originally employed by local chiefs.",
+          "semantic_score": 0.34031903743743896,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1158",
+          "text": "German Spitz\nGerman Spitz is used to refer to both a breed of dog and category or type of dog. Several modern breeds have been developed from the German Spitz, and are either registered as separate breeds or as varieties of German Spitz. All the \"German Spitz type\" dogs are dogs of the Spitz type of German origin. The Großspitz, Mittelspitz, and Kleinspitz breeds of \"German Spitz type\" are also called the German Spitz in English.",
+          "semantic_score": 0.0650968998670578,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1151",
+          "text": "German Spitz (Klein)\nThe German Spitz Klein is a breed of dog of the German Spitz type. They are usually classed as a toy or utility breed.",
+          "semantic_score": 0.12366612255573273,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7927",
+          "text": "Podenco Canario\nPodenco Canario (In English: \"Canary Islands Hound\", \"Canarian Warren Hound\") is a breed of dog originally from the Canary Islands. The Podenco Canario is still used in the Canary Islands today in packs as a hunting dog, primarily used for rabbit hunting. The word \"podenco\" is Spanish for \"hound\". \"Canario\" means \"Canarian\" or \"of the Canaries\".",
+          "semantic_score": 0.3097550570964813,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3977",
+          "text": "Magellan sheep dog\nThe Magellan sheep dog (Ovejero magallánico) is a breed of dog originated in Chile. It was developed to work in sheep activity of the Magallanes y la Antártica Chilena Region in southern end of Chile. Currently, the Kennel Club of Chile (KCC) works with the object that the breed be internationally recognized.",
+          "semantic_score": 0.2117297500371933,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3983",
+          "text": "Can de Palleiro\nCan de Palleiro or Pastor Galego also known as Galician Shepherd Dog or Galician Palleiro is a dog breed originating in Galicia (Spain).",
+          "semantic_score": 0.19447138905525208,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Coursing game."
+    }
+  ],
+  "links": [
+    {
+      "source": "1573",
+      "target": "1574",
+      "reason": "Paragraph 1573 states the Chinese Chongqing Dog was used for hunting wild boar and rabbits, while paragraph 1574 states the Kanni is used mainly for coursing game; together they directly compare the hunting uses of the two breeds named in the question."
+    }
+  ],
+  "questions_seen": 159,
+  "_id": "5a8c5b635542996e8ac88a75",
+  "correct_answer": "Kanni",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

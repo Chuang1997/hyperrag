@@ -19,11 +19,15 @@ def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--dataset',default='dataset/hotpotqa.json')
     parser.add_argument('--corpus',default='dataset/hotpotqa_corpus.json')
-    parser.add_argument('--run-dir',default='runs/hotpotqa_deepseek')
+    parser.add_argument('--run-dir',default='runs/hotpotqa_two_edge_types')
     parser.add_argument('--encoder',default='sentence-transformers/all-MiniLM-L6-v2')
     parser.add_argument('--model',default=os.getenv('DEEPSEEK_MODEL','deepseek-flash'))
     parser.add_argument('--top-k',type=int,default=5)
     parser.add_argument('--limit',type=int,default=0)
+    parser.add_argument('--explicit-degree', type=int, default=8,
+                        help='Maximum explicit neighbors per paragraph (0 disables explicit edges)')
+    parser.add_argument('--explicit-weight', type=float, default=0.25)
+    parser.add_argument('--global-every', type=int, default=100)
     args=parser.parse_args()
     root=Path(args.run_dir);root.mkdir(parents=True,exist_ok=True)
     rows=json.loads(Path(args.dataset).read_text())
@@ -39,7 +43,10 @@ def main():
     # Probe auth/network/model before downloading encoder or starting benchmark.
     probe=llm('Reply only OK.')
     print('API preflight successful',flush=True)
-    retriever=GraphRetriever(paragraphs,str(root/'state'),args.encoder)
+    retriever=GraphRetriever(paragraphs,str(root/'state'),args.encoder,
+                             explicit_degree=args.explicit_degree, explicit_weight=args.explicit_weight)
+    print(f'Graph initialized with {len(retriever.explicit_edges)} explicit and '
+          f'{len(retriever.implicit_edges)} implicit edges', flush=True)
     records=[]
     for index,row in enumerate(rows):
         path=root/f'{index:04d}.json'
@@ -50,7 +57,8 @@ def main():
             # Stop rather than double-train if interrupted between model update and trace save.
             if retriever.questions != index:
                 raise RuntimeError('State/trace mismatch: restore matching checkpoint before resuming')
-            result=answer_question(row['question'],retriever,llm,top_k=args.top_k)
+            result=answer_question(row['question'],retriever,llm,top_k=args.top_k,
+                                   global_every=args.global_every)
             result.update(_id=row['_id'],correct_answer=row['answer'])
             write_json(path,result)
         if 'evaluation' not in result:

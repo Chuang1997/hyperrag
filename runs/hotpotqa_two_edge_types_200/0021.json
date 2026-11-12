@@ -1,0 +1,167 @@
+{
+  "question": "At what intersection was the former home of the wooden roller coaster now located at Six Flags Great America in Gurnee, Illinois located?",
+  "answer": "North Avenue and First Avenue",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What was the former home (location) of the wooden roller coaster now at Six Flags Great America in Gurnee, Illinois?",
+      "retrieved": [
+        {
+          "id": "210",
+          "text": "Goliath (Six Flags Great America)\nGoliath is a wooden roller coaster at Six Flags Great America in Gurnee, Illinois. Manufactured by Rocky Mountain Construction and designed by Alan Schilke, the ride set three world records for wooden roller coasters when it opened to the public on June 19, 2014: the longest drop at 180 ft , the steepest drop at 85°, and the fastest speed at 72 mph . The 100-second ride also features two inversions.",
+          "semantic_score": 0.6658764481544495,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "207",
+          "text": "Little Dipper (Six Flags Great America)\nLittle Dipper is a wooden roller coaster located at Six Flags Great America in Gurnee, Illinois. It was originally built in 1950 by Philadelphia Toboggan Coasters and previously operated at Kiddieland Amusement Park in Melrose Park, Illinois until the park closed in September 2009. On November 24, 2009, Six Flags Great America purchased the ride for $33,000 at an auction. The ride was relocated and reopened on May 27, 2010, in its original configuration within the Yukon Territory section of Six Flags Great America.",
+          "semantic_score": 0.6640883088111877,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "209",
+          "text": "American Eagle (roller coaster)\nAmerican Eagle is a wooden racing roller coaster located at Six Flags Great America. It was the first wooden roller coaster designed by Intamin of Switzerland and was built in 1981 by the contracting firm Figley-Wright. While the records have since been broken, American Eagle had the longest drop and fastest speed among wooden roller coasters when it debuted and is still recognized as a top racing coaster in the United States. In 2006, American Eagle celebrated its Silver Anniversary (25th Anniversary).",
+          "semantic_score": 0.6322621703147888,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "211",
+          "text": "Viper (Six Flags Great America)\nViper is a wooden roller coaster located at Six Flags Great America in Gurnee, Illinois, which opened in 1995. Viper features a layout that is a mirror image of the Coney Island Cyclone and is the only roller coaster ever to be built directly by Six Flags. Viper is also the only wooden roller coaster that has ever carried this name, (all the other Viper roller coasters, both operating and not, have been steel roller coasters). It was built by Rygiel Construction.",
+          "semantic_score": 0.6130151152610779,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "208",
+          "text": "Thunderbolt (Six Flags New England)\nThunderbolt is a wooden roller coaster located at Six Flags New England. Opened in 1941, It was designed by Harry Baker and Harry Traver, and built by Joseph Drambour. Thunderbolt is the oldest roller coaster at Six Flags New England. It is also the oldest roller coaster in any Six Flags park (the Wild One at Six Flags America was built in 1917, but it was relocated from Paragon Park and has only been at Six Flags America since 1986). The single PTC train has 4 cars, and an individual lap bar and seatbelt for each person. An attendant has to manually unlock each car's lap bars by stepping on and pushing down a release bar at the front of each car. Thunderbolt was dedicated an ACE Coaster Landmark on August 2, 2008.",
+          "semantic_score": 0.5904455184936523,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "204",
+          "text": "Viper (Six Flags Magic Mountain)\nViper is a steel roller coaster made by Arrow Dynamics of the United States. The roller coaster is located in the Baja Ridge area of Six Flags Magic Mountain in Valencia, California. Viper is the last of the three 7-looper roller coasters built by Arrow Dynamics to remain operating. The other two, Shockwave at Six Flags Great America and the Great American Scream Machine at Six Flags Great Adventure, were demolished in 2002 and 2010, respectively. The roller coaster replaced a HUSS ride type named Condor.",
+          "semantic_score": 0.5251495838165283,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "213",
+          "text": "Kiddieland Amusement Park\nKiddieland Amusement Park was an amusement park located just west of Chicago at the corner of North Avenue and First Avenue in Melrose Park, Illinois. It was home to several classic rides including the \"Little Dipper\" roller coaster, which opened in 1950. The park closed on September 27, 2009, and was demolished in 2010 to make way for a new Costco store.",
+          "semantic_score": 0.5467544794082642,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Kiddieland Amusement Park in Melrose Park, Illinois"
+    },
+    {
+      "step": 2,
+      "sub_question": "At what intersection was that former home located?",
+      "retrieved": [
+        {
+          "id": "213",
+          "text": "Kiddieland Amusement Park\nKiddieland Amusement Park was an amusement park located just west of Chicago at the corner of North Avenue and First Avenue in Melrose Park, Illinois. It was home to several classic rides including the \"Little Dipper\" roller coaster, which opened in 1950. The park closed on September 27, 2009, and was demolished in 2010 to make way for a new Costco store.",
+          "semantic_score": 0.8095076680183411,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "207",
+          "text": "Little Dipper (Six Flags Great America)\nLittle Dipper is a wooden roller coaster located at Six Flags Great America in Gurnee, Illinois. It was originally built in 1950 by Philadelphia Toboggan Coasters and previously operated at Kiddieland Amusement Park in Melrose Park, Illinois until the park closed in September 2009. On November 24, 2009, Six Flags Great America purchased the ride for $33,000 at an auction. The ride was relocated and reopened on May 27, 2010, in its original configuration within the Yukon Territory section of Six Flags Great America.",
+          "semantic_score": 0.5116333365440369,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7738",
+          "text": "Luna Park, Schenectady\nLuna Park was one of several names for an amusement park that existed in Rexford, New York, near Schenectady, from 1901 to 1933. In addition to Luna Park (the name given by developer/entrepreneur Frederick Ingersoll when he added rides and assumed control of Rexford Park in 1906), it was also known as Dolle's Park (named after Fred Dolle, who bought the park from Ingersoll in 1912), Colonnade Park, Palisades Park, and (again) Rexford Park (in 1916) before the rides were dismantled in 1933. Constructed around the Grand View Hotel (built and opened by Jacob Rupert in 1901), the park was similar to Ingersoll's other Luna Parks in which it was a trolley park with roller coasters, picnic pavilions, carousels, a fun house, a roller rink, a concert shell, a dance hall, a midway, a Whip, and a shoot-the-chutes ride which presented itself at the park entrance adjacent to a station of the Van Vranken electric trolley line. Roughly seven decades before the Skycoaster rides that now dot various United States amusement parks, Luna/Rexford Park featured an aerial swing ride.",
+          "semantic_score": 0.4965799152851105,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2377",
+          "text": "LeSourdsville Lake Amusement Park\nLeSourdsville Lake Amusement Park was an amusement park located in Middletown, Ohio. Opening in 1922 as a family picnic and campground, LeSourdsville Lake transformed in the 1940s to an amusement park with rides, attractions, and an arcade. In 1977, the name was changed to Americana Amusement Park. Following an electrical fire in 1990 that caused over $5 million in damages, the park fell into decline and was eventually closed in 1999. Under new ownership, the park briefly opened again in 2002 returning to the name \"LeSourdsville Lake Amusement Park\", but after failed attempts to turn a profit and the operating company going bankrupt, it closed permanently near the end of the 2002 season. The park's remaining rides and attractions were either demolished or sold, or still sit today.",
+          "semantic_score": 0.49136242270469666,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2369",
+          "text": "Wildwood Amusement Park\nWildwood was an amusement park and picnic grounds that existed from 1889 through 1932 on the southeast shore of White Bear Lake in Mahtomedi, Minnesota. The park was built and operated by the Minneapolis and St. Paul Suburban Railroad Company, a subdivision of the Twin City Rapid Transit Company, which ran a streetcar line from Mahtomedi to nearby St. Paul. It was the sister park of Big Island Amusement Park on Lake Minnetonka, as both were intended to draw crowds of people to opposite ends of the Minneapolis-St. Paul streetcar system on weekends. Wildwood Amusement Park proved to be more successful than Big Island Amusement Park, which closed in 1911, and lasted until 1932 when financial losses brought about its demise.",
+          "semantic_score": 0.487318754196167,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5704",
+          "text": "Luna Park, Coney Island (2010)\nLuna Park is the name of an amusement park in the neighborhood of Coney Island, Brooklyn in New York City that opened on May 29, 2010 at the former site of Astroland, an amusement park that had been in operation for 46 years. It was named after the original 1903 Luna Park which existed until 1944 on a site just north of the current park's 1000 Surf Avenue location.",
+          "semantic_score": 0.4703291654586792,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5700",
+          "text": "Luna Park, Coney Island (1903)\nLuna Park was an amusement park in Coney Island, Brooklyn, in New York City that opened in 1903. Built partly on the grounds of Sea Lion Park (1895), it was one of the three original iconic large parks built on Coney Island, the other two being Steeplechase Park (1897) and Dreamland (1904). Luna Park was located on the north side of Surf Avenue on a site between 8th street, 12th street and Neptune Avenue. The park was mostly destroyed by a fire in 1944.",
+          "semantic_score": 0.4493910074234009,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2375",
+          "text": "Lake Compounce\nLake Compounce is an amusement park located in Bristol and Southington, Connecticut; the lake itself lies completely in Southington. Opened in 1846, it is the oldest continuously-operating amusement park in the United States. The amusement park covers 332 acres (1.3 km²) of land, and also has a beach and a waterpark which can be used by guests for no extra charge. The park was acquired from Kennywood Entertainment Company by Palace Entertainment, the U.S. subsidiary of Parques Reunidos. In addition to the title for oldest consecutively run amusement park in the United States, it also has 14th oldest wooden roller coaster in the world, Wildcat. Its other, newer wooden roller coaster, Boulder Dash, has won the Golden Ticket Award for the #1 Wooden Coaster in the World for 5 years, and held that record from 2013 to 2016.",
+          "semantic_score": 0.47308412194252014,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "North Avenue and First Avenue"
+    }
+  ],
+  "links": [
+    {
+      "source": "207",
+      "target": "213",
+      "reason": "Paragraph 207 identifies the Little Dipper as the wooden coaster now at Six Flags Great America that previously operated at Kiddieland Amusement Park; paragraph 213 identifies Kiddieland's location at the corner of North Avenue and First Avenue, bridging the coaster to the intersection."
+    }
+  ],
+  "questions_seen": 22,
+  "_id": "5ae40d405542996836b02c28",
+  "correct_answer": "North Avenue and First Avenue",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

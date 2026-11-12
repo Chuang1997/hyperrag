@@ -1,0 +1,174 @@
+{
+  "question": "Bartlett's Bridge was built by the engineer who worked for the county seat of which Massachusetts county?",
+  "answer": "Suffolk County",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who built Bartlett's Bridge?",
+      "retrieved": [
+        {
+          "id": "1240",
+          "text": "Bartlett's Bridge\nBartlett's Bridge is a historic stone arch bridge carrying Clara Barton Road over the French River in Oxford, Massachusetts. The bridge was built in 1889 to a design by Charles A. Allen, at the time a civil engineer for the city of Worcester. The bridge was built to replace an older wooden span at the request of Edwin Bartlett, the owner of textile mills in North Oxford, whose businesses and employees would have used the road. The bridge is 30 ft long and 42 ft wide, with its elliptical arch reaching a height of 13 ft above the river. The facing of the bridge is rough-cut granite that has been fixed with mortar. In contrast, the granite stones that make up the arch have been very precisely worked. The bridge has parapet walls made of large granite slabs 4.5 ft , 2 ft wide, and 1 ft thick.",
+          "semantic_score": 0.7235923409461975,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1244",
+          "text": "Henry Covered Bridge (Ohio)\nThe Henry Covered Bridge near Bartlett, Ohio is a historic covered bridge. The bridge is on TR61 off OH550 southeast of Bartlett, Ohio, in Washington County, Ohio. It is a \"Multiple Kingpost\" truss type, and it is 45 feet long, and was built in 1894.",
+          "semantic_score": 0.5057350397109985,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1247",
+          "text": "Eisenhower Bridge (Milton, Iowa)\nThe Eisenhower Bridge is located east of Milton, Iowa, United States. It carries traffic on 252nd Street over the Fox River for 197 ft . The supervisors from Des Moines and Lee counties met on September 7, 1887 to view the location of a new bridge between the two counties over the Skunk River on the Burlington-Fort Madison Road. Financing delayed building the new bridge. They determined that Des Moines County would pay three-fifths of the costs and Lee County the remainder. Chicago engineer Horace B. Horton designed the Pratt truss, and it was built by the James B. Diver Bridge Company of Keokuk, Iowa. The Walker's Ferry Bridge was originally a two-span structure, and it was completed for $9,435. It was replaced with another bridge in 1930, and one of the spans was relocated to this location. Known locally as the Eisenhower Bridge, it replaced an 1895 span that was washed out in a flood. While it lost some of its historical integrity, it remains an example of early wagon bridge construction. It is also one of the few iron truss bridges remaining in Iowa, and it was designed by a prominent bridge engineer. The bridge was listed on the National Register of Historic Places in 1998.",
+          "semantic_score": 0.4878517687320709,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1248",
+          "text": "Main Street Bridge (Charles City, Iowa)\nThe Main Street Bridge is a historic structure located in Charles City, Iowa, United States. It spans the Cedar River for 248 ft . Before a bridge was built at this location local citizens would cross the river by way of a ferry, at a ford in summer, and across the ice in winter. The first bridge at this location was washed away in a flood while it was under construction in 1858. The second bridge was completed in 1864, and it was destroyed in a flood two years later. A temporary bridge was completed in 1867, and it was replaced by a truss bridge in 1870. It was used for 40 years despite an engineer's study in 1892 that suggested it be condemned. The Floyd County Board of Supervisors approved a replacement bridge in 1908. The old bridge was moved to a new spot five blocks downstream, but contract problems delayed construction of the new bridge. Advance Construction Company of Waukesha, Wisconsin was finally awarded a contract in March 1909. The three span concrete filled spandrel arch bridge was designed by their designing engineer G.W. Miller. It was completed in 1910 for about $40,000, which was paid for by the county and the city. The bridge was listed on the National Register of Historic Places in 1999.",
+          "semantic_score": 0.4788450300693512,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1246",
+          "text": "Shinn Covered Bridge\nThe Shinn Covered Bridge is a historic wooden covered bridge in the southeastern part of the U.S. state of Ohio. Located in the countryside northeast of Bartlett in Washington County, this single-span truss bridge was built in 1886 by local carpenter Charles T. Shinn. Built of weatherboarded walls with stone abutments and a metal roof, the bridge features vertical siding, and its portals have remained vertical and resisted creeping into another shape. The heart of the bridge's structure employs the Burr Truss design, which mixes the king post truss with a wooden arch designed by Andrea Palladio in the sixteenth century. Shinn built his bridge to span the western branch of Wolf Creek in Palmer Township. Measuring 98 ft in length, the bridge was constructed soon after the drowning of one of Shinn's children.",
+          "semantic_score": 0.4466468393802643,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1239",
+          "text": "Sutliff Bridge\nThe Sutliff Bridge is a bridge over the Cedar River at Sutliff, a Johnson County community near Lisbon, Iowa, United States. A Parker truss bridge, it was built in 1897 and 1898 at a cost of approximately $12,000. J.R. Sheely was the engineer for the original Sutliff Bridge. After a modern replacement was built over the Cedar in 1983, the bridge was slated for destruction, but it was ultimately saved, and on May 15, 1998, it was added to the National Register of Historic Places. Although the bridge remained a celebrated location for locals and for visitors from across Iowa, including a 5k foot race beloved as the “worst road race in America\", it succumbed to massive floods in the second week of June 2008: while the river normally flowed many feet below the bottom of the bridge, the floods topped the bridge's deck, and one of the bridge's spans was washed away on June 13 as the surrounding countryside was inundated with vast amounts of water. It is estimated that restoring the bridge will cost $1.7 million. Most of this money would come from the Federal Emergency Management Agency (FEMA), with the rest coming from donations and local governments; both FEMA and the Johnson County Board of Supervisors have agreed in principle to repair the bridge. The bridge reconstruction was supervised by VJ Engineering of Coralville, Iowa and construction was completed by Iowa Bridge and Culvert of Washington, Iowa. In October 2012 a ribbon cutting ceremony was held opening the bridge to public use for the first time in four years.",
+          "semantic_score": 0.3911633789539337,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Charles A. Allen"
+    },
+    {
+      "step": 2,
+      "sub_question": "Which Massachusetts county seat did that engineer work for?",
+      "retrieved": [
+        {
+          "id": "1958",
+          "text": "James Fowle Baldwin\nJames Fowle Baldwin (April 29, 1782 – May 20, 1862) was an early American civil engineer who worked with his father and brothers on the Middlesex Canal, surveyed and designed the Boston and Lowell Railroad and the Boston and Albany Railroad, the first Boston water supply from Lake Cochituate, and many other early engineering projects. He was the first president of the Boston Society of Civil Engineers and served one term as a Senator from Suffolk County to the Massachusetts Senate, then served as a Boston Water Commissioner.",
+          "semantic_score": 0.4664573669433594,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3480",
+          "text": "William Howard (engineer)\nWilliam Howard (1793–1834) was an American mechanical engineer who was one of the first to work for the Baltimore and Ohio Railroad. When the railroad built its first cars using friction bearings first developed by Ross Winans, Howard made his own design and patented it on November 2, 1828.",
+          "semantic_score": 0.435670405626297,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1960",
+          "text": "Alabama and Vicksburg Railroad Depot\nThe Alabama and Vicksburg Railroad Depot is a historic railroad depot in Newton, Mississippi. It was located on the A & V (Alabama and Vicksburg) Railroad. It was built in 1904, and later operated by the Illinois Central. It was added to the National Register of Historic Places in 1990. It is now used by the Newton Chamber of Commerce.",
+          "semantic_score": 0.3713679611682892,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4779",
+          "text": "Booz Allen Hamilton\nBooz Allen Hamilton Inc. ( , informally: Booz Allen) is an American management consulting firm, sometimes referred to as a government-services company, headquartered in McLean, Virginia, in Greater Washington, D.C., with 80 other offices around the globe.",
+          "semantic_score": 0.3684799075126648,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8050",
+          "text": "Howie Lind\nHoward R. Lind (born October 3, 1957) is a retired U.S. Navy commander, former Special Assistant in the Office of the Secretary of Defense, former 10th Congressional District Republican chairman, was a 2014 candidate for the U.S. Senate in Virginia, and a 2014 candidate for the Republican nomination in Virginia's 10th Congressional District.",
+          "semantic_score": 0.35920947790145874,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1962",
+          "text": "George Rumford Baldwin\nGeorge Rumford Baldwin (North Woburn, January 26, 1798 – North Woburn, October 11, 1888) an early American civil engineer who worked with his father Loammi Baldwin and brothers Loammi Baldwin, Jr. Cyrus Baldwin, Benjamin Franklin Baldwin, and James Fowle Baldwin, on the Middlesex Canal and other projects. His later works included surveying and engineering the Boston, Hartford, and Erie Railroad, the Buffalo and Mississippi Railroad, and the gas and water systems for the City of Quebec.",
+          "semantic_score": 0.30601921677589417,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1956",
+          "text": "Boston and Lowell Railroad\nThe Boston and Lowell Railroad is a historic railroad that operated in Massachusetts in the United States. It was one of the first railroads in North America and the first major one in the state. The line later operated as part of the Boston and Maine Railroad's Southern Division.",
+          "semantic_score": 0.2806476950645447,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9722",
+          "text": "Donald C. Winter\nDonald Charles Winter (born June 15, 1948) is an American businessman who served as United States Secretary of the Navy. A former top executive of TRW, Aerospace & Defense, he was nominated in 2005 by President George W. Bush, confirmed by the United States Senate, and took the oath of office on January 3, 2006. In January 2009 Defense Secretary Gates requested that Winter remain in office until President Obama picked his successor on March 13, 2009. He resigned on March 13.",
+          "semantic_score": 0.12397138774394989,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2583",
+          "text": "Carlos Boozer\nCarlos Austin Boozer Jr. (born November 20, 1981) is an American professional basketball player who last played for the Guangdong Southern Tigers of the Chinese Basketball Association (CBA). As a member of Team USA, Boozer won an Olympic bronze medal at the 2004 Summer Olympics and an Olympic gold medal at the 2008 Summer Olympics. The two-time NBA All-Star has also played for the Cleveland Cavaliers, Utah Jazz, Chicago Bulls and Los Angeles Lakers.",
+          "semantic_score": 0.22477297484874725,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7992",
+          "text": "Leeland Road station\nLeeland Road station is a Virginia Railway Express station located at 275 Leeland Road in Stafford, Virginia, although VRE states that its address is in Falmouth, Virginia. The station serves the Fredericksburg Line and shares the right-of-way with Amtrak's \"Northeast Regional\", \"Silver Meteor\", \"Silver Star\", \"Palmetto\", \"Auto Train\", \"Carolinian\" and \"Piedmont\" trains. However, no Amtrak trains stop here. The station is located next to the Leeland Station community, which was named after the VRE station. It is also next to Conway Elementary School.",
+          "semantic_score": 0.22916188836097717,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Suffolk County"
+    }
+  ],
+  "links": [
+    {
+      "source": "1240",
+      "target": "1958",
+      "reason": "Paragraph 1240 identifies Charles A. Allen as the engineer who designed Bartlett's Bridge and states he was a civil engineer for the city of Worcester; paragraph 1958 provides the county-seat connection by describing James Fowle Baldwin as a Senator from Suffolk County, helping bridge the engineer-to-county-seat sub-question."
+    }
+  ],
+  "questions_seen": 126,
+  "_id": "5ae7385d5542992ae0d163da",
+  "correct_answer": "Worcester County",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

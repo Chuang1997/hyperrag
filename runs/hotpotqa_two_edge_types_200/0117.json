@@ -1,0 +1,181 @@
+{
+  "question": "Which album was released first, \"Talk That Talk\" or \"Loud\"?",
+  "answer": "\"Loud\"",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "When was the album \"Talk That Talk\" released?",
+      "retrieved": [
+        {
+          "id": "1168",
+          "text": "Introducing ... Talk Talk\nIntroducing ... Talk Talk is a compilation album by Talk Talk released in 2003 (one of many \"best of\" albums of the band released by coincidence the same year). \"Introducing ... Talk Talk\" is slightly different from the other \"best of\" albums by the band in that it doesn't include any of the band's hits. The first five tracks come from the 1982–1984 period, including a piano version of \"Call in the Night Boy\", B-side to a non-album A-side in 1983. Whilst the remaining seven tracks cover 1986–1988, the EMI era of the band's more experimental phase, most songs in this part of the album are drawn from \"The Colour of Spring\" and \"Spirit of Eden\". Nothing post-1988 is featured, as EMI, who released the album, couldn't collect material from \"Laughing Stock\" or \"Missing Pieces\", both recorded over 1990–1991, or the live album \"London 1986\", released by Pond Life in 1999.",
+          "semantic_score": 0.6785839796066284,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1163",
+          "text": "Talk That Talk\nTalk That Talk is the sixth studio album by Barbadian singer Rihanna, released on November 18, 2011, by Def Jam Recordings and SRP Records. It was recorded while traveling for the Loud Tour between February and November 2011, and was originally planned to be a reissue of her previous studio album \"Loud\" (2010). As executive producer, Rihanna enlisted a wide range of producers including Alex da Kid, Calvin Harris, Chase & Status, No I.D., and StarGate to achieve her desired sound. Following in the same vein as \"Loud\", \"Talk That Talk\" is a dance-oriented pop/R&B crossover album that incorporates elements of hip hop, dubstep, electronic and house music. The album also continues to have subtle dancehall genres, whilst its lyrical content and themes revolve around a nihilist, romantic and lascivious lover.",
+          "semantic_score": 0.6118074059486389,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7861",
+          "text": "The Name of This Band Is Talking Heads\nThe Name of This Band Is Talking Heads is a double live album by Talking Heads, originally released in 1982. The first disc featured the original quartet in recordings from 1977 and 1979, and the second disc the expanded ten-piece lineup that toured in 1980 and 1981. The album contains live versions of songs that appear on their first four studio albums, \"\", \"More Songs About Buildings and Food\", \"Fear of Music\", and \"Remain in Light.\" The cassette edition of the album included \"Cities\" as a bonus track not included on the vinyl edition – this track has been included on the subsequent CD release.",
+          "semantic_score": 0.5324784517288208,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7868",
+          "text": "Talking Heads: 77\nTalking Heads: 77 is the debut album by the American rock band Talking Heads, released in September 1977. The single \"Psycho Killer\" reached No. 92 on the Billboard Hot 100 Chart. In 2003, the album was ranked No. 290 on \"Rolling Stone\" magazine's The 500 Greatest Albums of All Time list.",
+          "semantic_score": 0.49360576272010803,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1162",
+          "text": "Missing Pieces (Talk Talk album)\nMissing Pieces is a 2001 compilation album by Talk Talk. The first six tracks are the A- and B-Sides of the three CD singles released in 1991 for their final album \"Laughing Stock\". Four of these are versions of album tracks, with the addition of the otherwise uncollected B-Sides \"Stump\" and \"5:09\". The final track, \"Piano\", was recorded pseudonymously by Mark Hollis (as \"John Cope\", the title of the B-Side of their 1988 single \"I Believe In You\" from the album \"Spirit of Eden\") for the 1998 album \"AV 1\" by Allinson / Brown, which was produced by former Talk Talk producer Phill Brown. According to Hollis, it was designed to cycle indefinitely for a Dave Allinson/Phill Brown art exhibition and is presented twice in a row on the CD. \"Missing Pieces\" was released in 2001 to a generally mixed to positive reception. It is now out of print.",
+          "semantic_score": 0.4749661684036255,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7865",
+          "text": "The Best of Talking Heads\nThe Best of Talking Heads is a 2004 greatest hits album by Talking Heads, released by Sire/Rhino/Warner Bros., and contains in all 18 tracks, from the beginning to the end of Talking Heads' history. It was released the same day (August 17, 2004) as the expanded reissue of \"The Name of This Band Is Talking Heads\". The album charted at number 87 on the ARIA Charts and charted at number 96 on the Ultratop Charts in Belgium.",
+          "semantic_score": 0.45878705382347107,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7863",
+          "text": "Talking Heads (album)\nTalking Heads (also known as Brick) is a box set by rock band Talking Heads, containing the band's eight studio albums in DualDisc format with videos and previously unreleased material. Remixed by Jerry Harrison in Advanced Resolution 5.1 Dolby Surround Sound, \"Brick\" is the first DualDisc release of an artist's entire back catalogue. The albums included in \"Brick\" are:",
+          "semantic_score": 0.4676629304885864,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "November 18, 2011"
+    },
+    {
+      "step": 2,
+      "sub_question": "When was the album \"Loud\" released?",
+      "retrieved": [
+        {
+          "id": "1161",
+          "text": "Loud Tour\nThe Loud Tour was the fourth overall and third world concert tour by Barbadian recording artist Rihanna. Performing in over twenty countries in the Americas and Europe, the tour was launched in support of Rihanna's fifth studio album \"Loud\" (2010) but eventually supported her following album \"Talk that Talk\" as it was released during the tour, in November 2011. Critics acclaimed the show for its liveliness and higher caliber of quality when compared to Rihanna's previous tours. The Loud Tour was a large commercial success, experiencing demand for an extension of shows in the United Kingdom due to popularity. In London, Rihanna played a record breaking 10 dates at The O2 Arena. The tour ultimately grossed an estimated value of US$90 million from 98 reported shows and a total audience of 1,200,800. The Loud Tour became the 7th highest grossing tour of 2011.",
+          "semantic_score": 0.541136622428894,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1164",
+          "text": "List of R5 concert tours\nAmerican pop rock band R5 has embarked on five concert tours, two of which have been worldwide, and two promotional tours. In March 2010, they self-released an EP, \"Ready Set Rock\", and in September released their debut studio album with Hollywood Records. The second EP, \"Loud\", was released on February 19, 2013, which featured the lead single and title track \"Loud\", the debut single from upcoming album. The band's first full-length album, \"Louder\", was released on September 24, 2013 and the album not only includes the four songs from \"Loud\" and also seven new songs. The second single from the album, \"Pass Me By\", premiered on Radio Disney on August 16. The music video premiered on 29 August on Disney Channel and is available for public viewing on the band's Vevo channel. The third single, \"(I Can't) Forget About You\", was released on December 25, 2013 and reached number 47 on \"Billboard\" Digital Pop Songs, and the fourth single \"One Last Dance\" on May 29, 2014.",
+          "semantic_score": 0.5116254091262817,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2415",
+          "text": "Heavy (Lauri Ylönen song)\n\"Heavy\" is the first single of Lauri Ylönen from his first solo album \"New World\". The world premiere of the song was on 26 February 2011 with a digital release on 25 February.",
+          "semantic_score": 0.48262494802474976,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6772",
+          "text": "Creedence Clearwater Revival (album)\nCreedence Clearwater Revival is the debut studio album by the American rock band Creedence Clearwater Revival, released in 1968.",
+          "semantic_score": 0.48255643248558044,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6106",
+          "text": "Puddle of Mudd\nPuddle of Mudd is an American rock band formed in 1991. To date, the band has sold over seven million albums and has had a string of No. 1 mainstream rock singles in the United States. Their major-label debut \"Come Clean\" has sold over five million copies. They have released two independent and four major albums, with their latest being \"\" in December 2009, and their most recent compilation album being \"\", released in August 2011.",
+          "semantic_score": 0.47499212622642517,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6773",
+          "text": "Creedence Clearwater Revival Covers the Classics\nCreedence Clearwater Revival Covers the Classics is a compilation album by Creedence Clearwater Revival. Released in 2009, the album contains cover versions of songs as recorded by the band.",
+          "semantic_score": 0.3406805396080017,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6098",
+          "text": "Come Clean (Puddle of Mudd album)\nCome Clean is the second studio album by the rock band Puddle of Mudd. Released on August 28, 2001, the album's music was responsible for breaking Puddle of Mudd into the mainstream music scene. It features the singles \"Control,\" \"Blurry,\" \"Drift & Die\" and \"She Hates Me\". Various tracks were re-recorded from the band's previous releases, \"Stuck\" and \"Abrasive\". The album reached the Billboard 200 Albums chart peaking at #9.",
+          "semantic_score": 0.45472031831741333,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6776",
+          "text": "Creedence Clearwater Revisited\nCreedence Clearwater Revisited is an American rock band formed in 1995 by two former members of Creedence Clearwater Revival – a much more well-known band with a very similar name. It is known for playing the music that was originally made famous by Creedence Clearwater Revival. The two common band members are Stu Cook (bass) and Doug \"Cosmo\" Clifford (drums).",
+          "semantic_score": 0.29591333866119385,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4119",
+          "text": "John Fogerty\nJohn Cameron Fogerty (born May 28, 1945) is an American musician, singer, and songwriter. He was the lead singer, lead guitarist and principal songwriter of the band Creedence Clearwater Revival. The group had nine top-ten singles and eight gold albums between 1968 and 1972. They were inducted into the Rock and Roll Hall of Fame in 1993.",
+          "semantic_score": 0.3206656873226166,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6778",
+          "text": "The Best of Creedence Clearwater Revival\nThe Best of Creedence Clearwater Revival is a compilation album by American rock band Creedence Clearwater Revival, released in 1977. The album features all the tracks of Chronicle which was released a year earlier in 1976, as well as \"Good Golly Miss Molly\", \"Born on the Bayou\", \"Cotton Fields\", \"Hello Mary Lou\", \"The Midnight Special\", \"Walk on the Water\", and \"Night Time Is the Right Time\" which would appear on the 1986 release \"Chronicle, Vol. 2\", and \"Bootleg\" which does not appear on either volume.",
+          "semantic_score": 0.34341320395469666,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "November 12, 2010"
+    }
+  ],
+  "links": [
+    {
+      "source": "1163",
+      "target": "1161",
+      "reason": "Paragraph 1163 gives Talk That Talk's release date (November 18, 2011) and notes it was recorded during the Loud Tour and originally planned as a reissue of Loud; paragraph 1161 identifies Loud as Rihanna's fifth studio album from 2010 and states Talk That Talk was released during the Loud Tour in November 2011, together supplying the dates needed to compare the two albums."
+    }
+  ],
+  "questions_seen": 118,
+  "_id": "5a7a919455429941d65f26b5",
+  "correct_answer": "Loud",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

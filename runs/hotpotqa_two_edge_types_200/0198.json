@@ -1,0 +1,154 @@
+{
+  "question": "What Danish sports club based in Copenhagen  did striker Søren Lindsted start his career at?",
+  "answer": "Holbæk Boldklub",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Søren Lindsted?",
+      "retrieved": [
+        {
+          "id": "1971",
+          "text": "Søren Lindsted\nSøren Lindsted (born February 2, 1957) is a Danish former football player in the striker position. He started his career as a semi-professional with Holbæk Boldklub, reaching the 1976 Danish Cup final and was the team top goalscorer in 1977 and 1978. He then signed a professional contract with FC Twente in the Netherlands, playing there from 1979 to 1982. He also played for Belgian teams KFC Winterslag and RFC de Liège, before returning to Holbæk in 1985. He played a single season with KB, before ending his career with Holbæk in 1990.",
+          "semantic_score": 0.6748831272125244,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7223",
+          "text": "Søren Rasted\nSøren Nystrøm Rasted (born Søren Rasted on 13 June 1969 in Blovstrød, Denmark) is a Danish musician, singer, songwriter and record producer. He plays keyboard, guitar and sings backing vocals. He is one of the four members of Danish eurodance group Aqua, and was married to the Aqua vocalist Lene Nystrøm.",
+          "semantic_score": 0.5729352831840515,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2992",
+          "text": "Søren Solkær\nSøren Solkær (born 3 September 1969 and formerly known as Søren Solkær Starbird), is a Danish photographer best known for his portraits of musicians. He is most recognised as the man responsible for various iconic images of Björk, The White Stripes, Franz Ferdinand, David Lynch, Arctic Monkeys, R.E.M. and U2.",
+          "semantic_score": 0.5292210578918457,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "607",
+          "text": "Martin Ødegaard\nMartin Ødegaard (] ; born 17 December 1998) is a Norwegian professional footballer who plays as an attacking midfielder for Dutch club SC Heerenveen, on loan from Real Madrid, and the Norway national team.",
+          "semantic_score": 0.5171417593955994,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "608",
+          "text": "Bjørn Helge Riise\nBjørn Helge Semundseth Riise (born 21 June 1983 in Ålesund) is a Norwegian professional footballer. He currently plays for Aalesund. Riise plays either a central midfielder or a right winger, and has earned 35 international caps for Norway. He played for Fulham of the Premier League from July 2009 to August 2012. He is the younger brother of former Liverpool and Fulham player John Arne Riise, also a Norwegian international.",
+          "semantic_score": 0.47027209401130676,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7224",
+          "text": "Lene Nystrøm\nLene Nystrøm Rasted (born Lene Grawford Nystrøm on 2 October 1973), better known by her stage name Lene, is a Norwegian musician and singer-songwriter who is the lead vocalist of the Danish eurodance group Aqua.",
+          "semantic_score": 0.36103591322898865,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "613",
+          "text": "Markus Henriksen\nMarkus Henriksen (born 25 July 1992) is a Norwegian professional footballer who plays as an attacking midfielder for Championship club Hull City.",
+          "semantic_score": 0.3894230127334595,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "611",
+          "text": "Anders Konradsen\nAnders Ågnes Konradsen (born 18 July 1990) is a Norwegian professional footballer who plays as a midfielder for Rosenborg in the Norwegian Tippeligaen. He has previously played for the Norwegian clubs Bodø/Glimt and Strømsgodset, and the French club Rennes. He was a part of the Norwegian team that played in the 2013 UEFA European Under-21 Football Championship, and has also been capped for Norway at senior level.",
+          "semantic_score": 0.4695044457912445,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Søren Lindsted is a Danish former football player who played as a striker."
+    },
+    {
+      "step": 2,
+      "sub_question": "Which Danish sports club based in Copenhagen did Søren Lindsted start his career at?",
+      "retrieved": [
+        {
+          "id": "1971",
+          "text": "Søren Lindsted\nSøren Lindsted (born February 2, 1957) is a Danish former football player in the striker position. He started his career as a semi-professional with Holbæk Boldklub, reaching the 1976 Danish Cup final and was the team top goalscorer in 1977 and 1978. He then signed a professional contract with FC Twente in the Netherlands, playing there from 1979 to 1982. He also played for Belgian teams KFC Winterslag and RFC de Liège, before returning to Holbæk in 1985. He played a single season with KB, before ending his career with Holbæk in 1990.",
+          "semantic_score": 0.8320468664169312,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "607",
+          "text": "Martin Ødegaard\nMartin Ødegaard (] ; born 17 December 1998) is a Norwegian professional footballer who plays as an attacking midfielder for Dutch club SC Heerenveen, on loan from Real Madrid, and the Norway national team.",
+          "semantic_score": 0.6386798024177551,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "611",
+          "text": "Anders Konradsen\nAnders Ågnes Konradsen (born 18 July 1990) is a Norwegian professional footballer who plays as a midfielder for Rosenborg in the Norwegian Tippeligaen. He has previously played for the Norwegian clubs Bodø/Glimt and Strømsgodset, and the French club Rennes. He was a part of the Norwegian team that played in the 2013 UEFA European Under-21 Football Championship, and has also been capped for Norway at senior level.",
+          "semantic_score": 0.5780261158943176,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "608",
+          "text": "Bjørn Helge Riise\nBjørn Helge Semundseth Riise (born 21 June 1983 in Ålesund) is a Norwegian professional footballer. He currently plays for Aalesund. Riise plays either a central midfielder or a right winger, and has earned 35 international caps for Norway. He played for Fulham of the Premier League from July 2009 to August 2012. He is the younger brother of former Liverpool and Fulham player John Arne Riise, also a Norwegian international.",
+          "semantic_score": 0.5251256823539734,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "613",
+          "text": "Markus Henriksen\nMarkus Henriksen (born 25 July 1992) is a Norwegian professional footballer who plays as an attacking midfielder for Championship club Hull City.",
+          "semantic_score": 0.5146242380142212,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "609",
+          "text": "Christian Eriksen\nChristian Dannemann Eriksen (born 14 February 1992) is a Danish professional footballer who plays as an attacking midfielder for English club Tottenham Hotspur and the Denmark national team. He made his debut for the Denmark national team in March 2010, and was the youngest player of the 2010 FIFA World Cup in South Africa.",
+          "semantic_score": 0.4769977927207947,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Holbæk Boldklub"
+    }
+  ],
+  "links": [],
+  "questions_seen": 199,
+  "_id": "5a7ba11d554299294a54aa39",
+  "correct_answer": "Søren Lindsted",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

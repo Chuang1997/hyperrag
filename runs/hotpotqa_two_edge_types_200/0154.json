@@ -1,0 +1,202 @@
+{
+  "question": "Who composed the theme music in 1989 of an animated television series which has the current arrangement by a person who  has scored or orchestrated music for more than 30 films and television shows?",
+  "answer": "Danny Elfman",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Which animated television series has a theme music composed in 1989 and a current arrangement by someone who has scored or orchestrated music for more than 30 films and television shows?",
+      "retrieved": [
+        {
+          "id": "1536",
+          "text": "The Simpsons Theme\n\"The Simpsons\" Theme\", also referred to as \"The Simpsons\" Main Title Theme\" in album releases, is the theme music of the animated television series \"The Simpsons\". It plays during the opening sequence and was composed by Danny Elfman in 1989, after series creator Matt Groening approached him requesting a retro-style theme. The piece, which took 3 days, 2 hours, 48 minutes, and 19 seconds to create, has been noted by Elfman as the most popular of his career. The theme, as used for the opening sequence, was re-arranged during season 2, and the current arrangement by Alf Clausen was introduced at the beginning of the third season.",
+          "semantic_score": 0.5247851014137268,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1535",
+          "text": "Michelangelo Sosnowitz\nMichelangelo Sosnowitz (born August 21, 1973) is an American music composer. His works include ballet, musical theater, electronic and popular music, as well as commercial, television and film. His feature film scores include A Novel Romance, winner Best Film at the NYC International Independent Film Festival, the Dan Fogler directorial debut Hysterical Psycho and the Deborah Kampmeier film Split. His original ballet 'Petrouchka' won Best Choreography at NYMF 2010. He wrote the opening theme music to The History Channel show Battles BC and original theme music for ENTV, Deadline Hollywood BlackTreeMedia and other PMC programming. He also wrote the score and theme music to the Colin Quinn Web series COP SHOW. Original Off-Broadway musicals include Crazy Head Space and Love in the MIddle Ages.",
+          "semantic_score": 0.4480457901954651,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6317",
+          "text": "Radio Disney Music Award for Best Soundtrack Song\nThe following is a list of Radio Disney Music Award winners and nominees for Best Soundtrack Song (also known as Best TV Movie Song, Best Song From a Movie and Favorite Song from a Movie or TV Show).",
+          "semantic_score": 0.4180479049682617,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2548",
+          "text": "Clarence Peters\nClarence Peters (born Clarence Abiodun Peters) is a Nigerian music video director, filmmaker and cinematographer. He is the founder and CEO of Capital Dream Pictures, a production company that specialises in the realms of the performing arts, new media art, film, television, radio, and video. He is also the founder and CEO of Capital Hill Records, a record label home to Chidinma, Tha Suspect, and Illbliss. He was ranked 2nd on Channel O's Top 10 Most Visionary Music Video Directors list. In 1998, he was involved in a Mobil-sponsored music video for a documentary on AIDS. He directed 40 episodes of the TV series \"Everyday People\". Peters has directed music videos for recording artists across an array of genres and generations, including Darey, Durella, and Wizkid. In 2012, he shot the music video for \"Shuga\"'s theme song which was recorded by Boneye from P-Unit, Banky W., Wizkid , and L-Tido. Peters has also shot a good number of documentaries, TV commercials, short films, and TV features. In April 2014, Absolut Vodka honoured Peters for his creativity.",
+          "semantic_score": 0.41509145498275757,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1531",
+          "text": "Disney's Adventures of the Gummi Bears\nDisney's Adventures of the Gummi Bears is an American animated television series that first aired in the United States from 1985 to 1991. The series was the first animated production by Walt Disney Animation Television, and loosely inspired by the gummy bear candies; Disney CEO Michael Eisner was struck with inspiration for the show when his son requested the candies one day. The series premiered on NBC on September 14, 1985, and aired there for four seasons. The series moved to ABC for one season from 1989 to 1990 (airing alongside \"The New Adventures of Winnie the Pooh\" as the \"Gummi Bears-Winnie the Pooh Hour\"), and concluded on September 6, 1991 as part of the Disney Afternoon television syndication package. Of the series' 65 shows, 30 were double-features, consisting of two 11-minute cartoons, thereby bringing the series total to 94 distinct episodes overall. The show is well-remembered for its theme music, written by Michael and Patty Silversher and creation of \"gummiberry juice\" which was a type of magic potion, granting abilities, which allowed them to bounce away from their hunters. The theme song was performed by Joseph Williams, son of composer John Williams and one-time lead singer of Toto.",
+          "semantic_score": 0.41351574659347534,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6323",
+          "text": "Empire Award for Best Soundtrack\nThe Empire Award for Best Soundtrack was an Empire Award presented annually by the British film magazine \"Empire\" to honor the best film soundtrack of the previous year. The Empire Award for Best Soundtrack was first introduced at the 13th Empire Awards ceremony in 2008 with the soundtrack from \"Control\" receiving the award and last presented at the 14th Empire Awards ceremony in 2009 with the soundtrack from \"Mamma Mia!\" receiving the award. Winners were voted by the readers of \"Empire\" magazine.",
+          "semantic_score": 0.313774436712265,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5167",
+          "text": "Homer's Odyssey (The Simpsons)\n\"Homer's Odyssey\" is the third episode of the first season of \"The Simpsons\". It originally aired on the Fox network in the United States on January 21, 1990. In this episode, Homer becomes a crusader for citizen safety in Springfield, and is promoted to his current position as Nuclear Safety Inspector for the entire power plant. It was written by Jay Kogen and Wallace Wolodarsky and was the first \"Simpsons\" script to be completed, although it was the third episode produced.",
+          "semantic_score": 0.1740623265504837,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1744",
+          "text": "Tarzan (1999 film soundtrack)\nTarzan: An Original Walt Disney Records Soundtrack is the soundtrack for the 1999 Disney animated film, \"Tarzan\". The songs on the soundtrack were composed by Phil Collins, and the instrumental score by Mark Mancina. The song \"You'll Be in My Heart\" won both the Academy Award for Best Original Song and the Golden Globe Award for Best Original Song and received a Grammy Award nomination for Best Song Written for a Motion Picture, Television or Other Visual Media, while the soundtrack album won a Grammy Award for Best Soundtrack Album. For his contribution to the soundtrack, Collins received an American Music Award for Favorite Adult Contemporary Artist.",
+          "semantic_score": 0.2442416250705719,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6324",
+          "text": "Africa Movie Academy Award for Best Soundtrack\nThe Africa Movie Academy Award for Best Soundtrack is an annual merit by the Africa Film Academy to reward the best use of music in a film for the year. It was introduced in the 1st edition as \"Best Musical Score\". In the 3rd, 5th and 6th edition it was renamed to \"Best Original Soundtrack\". It was known as \"Best Music\" in the 4th edition. In the 7th edition it was called \"Best Soundtrack\". Since the 8th edition it has been called \"Achievement in Soundtrack\".",
+          "semantic_score": 0.3098216950893402,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1525",
+          "text": "Winnie the Pooh (2011 film)\nWinnie the Pooh is a 2011 American animated buddy musical comedy film produced by Walt Disney Animation Studios and released by Walt Disney Pictures. It is the 51st Disney animated feature film. Inspired by A. A. Milne's stories of the same name, the film is part of Disney's \"Winnie the Pooh\" franchise, the fifth theatrical \"Winnie the Pooh\" film released, and Walt Disney Animation Studios' second adaptation of \"Winnie-the-Pooh\" stories. Jim Cummings reprises his vocal roles as Winnie the Pooh and Tigger, while series newcomers Travis Oates, Tom Kenny, Craig Ferguson, Bud Luckey, and Kristen Anderson-Lopez provide the voices of Piglet, Rabbit, Owl, Eeyore, and Kanga, respectively. In the film, the aforementioned residents of the Hundred Acre Wood embark on a quest to save Christopher Robin from an imaginary culprit while Pooh deals with a hunger for honey. The film is directed by Stephen Anderson and Don Hall, adapted from Milne's books by a story team led by Burny Mattinson, produced by Peter Del Vecho, Clark Spencer, John Lasseter, and Craig Sost, and narrated by John Cleese.",
+          "semantic_score": 0.24591846764087677,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The Simpsons"
+    },
+    {
+      "step": 2,
+      "sub_question": "Who composed the 1989 theme music of that animated television series?",
+      "retrieved": [
+        {
+          "id": "1536",
+          "text": "The Simpsons Theme\n\"The Simpsons\" Theme\", also referred to as \"The Simpsons\" Main Title Theme\" in album releases, is the theme music of the animated television series \"The Simpsons\". It plays during the opening sequence and was composed by Danny Elfman in 1989, after series creator Matt Groening approached him requesting a retro-style theme. The piece, which took 3 days, 2 hours, 48 minutes, and 19 seconds to create, has been noted by Elfman as the most popular of his career. The theme, as used for the opening sequence, was re-arranged during season 2, and the current arrangement by Alf Clausen was introduced at the beginning of the third season.",
+          "semantic_score": 0.7046858668327332,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1532",
+          "text": "Alf Clausen\nAlf Heiberg Clausen (born March 28, 1941) is an American film and television composer. He is best known for his work scoring many episodes of \"The Simpsons\", of which he had been the sole composer between 1990 and 2017. Clausen has scored or orchestrated music for more than 30 films and television shows, including \"Moonlighting\", \"The Naked Gun\", \"ALF\" and \"Ferris Bueller's Day Off\".",
+          "semantic_score": 0.4925009608268738,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8828",
+          "text": "Lisa the Drama Queen\n\"Lisa the Drama Queen\" is the ninth episode of the twentieth season of \"The Simpsons\". It originally aired on the Fox network in the United States on January 25, 2009 and guest starred Emily Blunt as Juliet. A special version of the end credits theme was performed by Fall Out Boy, although they do not guest star in the actual episode. This was the last episode in the series to be presented only in standard definition, the first regular episode to begin right after the opening credits without a commercial break, with an episode now having four segments, and the last episode to use the original opening sequence starting from Season 2. Brian Kelley returns as a writer after five seasons of being absent from the show. The episode is very loosely based on the 1994 film \"Heavenly Creatures\".",
+          "semantic_score": 0.45133575797080994,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "548",
+          "text": "Religion in The Simpsons\nReligion is one of many recurring themes on the American animated television series \"The Simpsons\". Much of the series' religious humor satirizes aspects of Christianity and religion in general. However, some episodes, such as \"Bart Sells His Soul\" and \"Alone Again, Natura-Diddily\", can be interpreted as having a spiritual theme. The show has been both praised and criticized by atheists, agnostics, liberals, conservatives and religious people in general for its portrayal of faith and religion in society. The show can function as a mediator of biblical literacy among younger generations of irreligious viewers.",
+          "semantic_score": 0.4438652992248535,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5167",
+          "text": "Homer's Odyssey (The Simpsons)\n\"Homer's Odyssey\" is the third episode of the first season of \"The Simpsons\". It originally aired on the Fox network in the United States on January 21, 1990. In this episode, Homer becomes a crusader for citizen safety in Springfield, and is promoted to his current position as Nuclear Safety Inspector for the entire power plant. It was written by Jay Kogen and Wallace Wolodarsky and was the first \"Simpsons\" script to be completed, although it was the third episode produced.",
+          "semantic_score": 0.4435732364654541,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1449",
+          "text": "Homer Loves Flanders\n\"Homer Loves Flanders\" is the sixteenth episode of \"The Simpsons\"<nowiki>'</nowiki> fifth season. It originally aired on the Fox network in the United States on March 17, 1994. In the episode, Ned Flanders invites Homer to a football game and the two become good friends. However, Ned soon grows weary of Homer's overbearing friendship and stupid antics, and begins to hate him.",
+          "semantic_score": 0.3210853934288025,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1456",
+          "text": "Homer vs. Lisa and the 8th Commandment\n\"Homer vs. Lisa and the 8th Commandment\" is the thirteenth episode of \"The Simpsons\"<nowiki>'</nowiki> second season. The 26th episode of the series overall, it originally aired on the Fox network in the United States on February 7, 1991. In the episode, Homer gets an illegal cable hook-up. Despite the family's enjoyment of the new channels, Lisa becomes suspicious that they are stealing cable. Her suspicions are confirmed by Reverend Lovejoy and she protests by no longer watching television. Meanwhile, Bart manages to tune into a sexually explicit adult movie channel, and Homer invites his friends over to watch a boxing match, but Lisa's protest gets to him. He decides not to watch the fight and cuts the cable.",
+          "semantic_score": 0.36200156807899475,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1458",
+          "text": "Homer the Vigilante\n\"Homer the Vigilante\" is the eleventh episode of \"The Simpsons\"<nowiki>'</nowiki> fifth season. It originally aired on the Fox network in the United States on January 6, 1994. In the episode, a crime wave caused by an elusive cat burglar plagues Springfield. Lisa is distraught to find her saxophone has been stolen, and Homer promises to get it back. The police are ineffective, so Homer takes charge of a neighborhood watch. However, under his leadership it becomes more like a vigilante group, and fails to catch the burglar. With the help of Grampa, Homer discovers that the burglar is a charming senior named Molloy. Molloy is arrested, but he outwits the citizens of Springfield and escapes.",
+          "semantic_score": 0.37518027424812317,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1455",
+          "text": "Homer Goes to College\n\"Homer Goes to College\" is the third episode of \"The Simpsons\"<nowiki>'</nowiki> fifth season. It originally aired on the Fox network in the United States on October 14, 1993. In the episode, Homer's lack of a college degree is revealed and he is sent to Springfield University to pass a nuclear physics class. Homer, who bases his perception of college on comedy films and TV shows, goofs around and is sent to a group of boys for tutoring. The boys, who are stereotypical nerds, try to help Homer, but he instead tries to help them party and decides to pull a prank on another college. They steal Springfield A&M's mascot, but his friends are caught and expelled. Homer invites them to live with him, but his family soon become angered by their new housemates.",
+          "semantic_score": 0.3656560182571411,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5164",
+          "text": "Ned Flanders\nNedward \"Ned\" Flanders, Jr. is a recurring fictional character in the animated television series \"The Simpsons\". He is voiced by Harry Shearer, and first appeared in the series premiere episode \"Simpsons Roasting on an Open Fire\". He is the good-natured, cheery next-door neighbor to the Simpson family and is generally loathed by Homer Simpson. A devout Evangelical Christian with an annoyingly perfect family, he is among the friendliest and most compassionate of Springfield's residents and is generally considered a pillar of the Springfield community.",
+          "semantic_score": 0.3750438392162323,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Danny Elfman"
+    }
+  ],
+  "links": [
+    {
+      "source": "1536",
+      "target": "1532",
+      "reason": "Paragraph 1536 identifies the series as The Simpsons and states the current arrangement is by Alf Clausen; paragraph 1532 confirms Clausen scored/orchestrated more than 30 films and TV shows, bridging the series to the composer-qualification sub-question."
+    }
+  ],
+  "questions_seen": 155,
+  "_id": "5a8319b255429940e5e1a960",
+  "correct_answer": "Danny Elfman",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

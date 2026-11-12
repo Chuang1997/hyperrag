@@ -5,6 +5,7 @@ from pathlib import Path
 import torch
 import geoopt
 import torch.nn.functional as F
+from topic_graph import build_explicit_edges
 
 
 BALL = geoopt.PoincareBall(c=1.0)
@@ -15,9 +16,13 @@ def distance(x, y):
 
 
 class GraphRetriever:
-    def __init__(self, paragraphs, state_dir='state', model_name='sentence-transformers/all-MiniLM-L6-v2', encoder=None, learning_rate=1e-4, anchor_weight=10.0, max_drift=0.01):
+    def __init__(self, paragraphs, state_dir='state', model_name='sentence-transformers/all-MiniLM-L6-v2', encoder=None, learning_rate=1e-4, anchor_weight=10.0, max_drift=0.01,
+                 explicit_degree=8, explicit_weight=0.25):
         if learning_rate <= 0 or anchor_weight < 0 or max_drift <= 0:
             raise ValueError('Require learning_rate > 0, anchor_weight >= 0, max_drift > 0')
+        if explicit_degree < 0 or explicit_weight <= 0:
+            raise ValueError('Require explicit_degree >= 0 and explicit_weight > 0')
+        self.explicit_weight = explicit_weight
         self.learning_rate = learning_rate
         self.anchor_weight = anchor_weight
         self.max_drift = max_drift
@@ -33,21 +38,33 @@ class GraphRetriever:
         self.root = Path(state_dir)
         self.root.mkdir(parents=True, exist_ok=True)
         self.path = self.root/'index.pt'
-        signature = hashlib.sha256(json.dumps([model_name, paragraphs], sort_keys=True).encode()).hexdigest()
-        self.edges, self.questions = [], 0
-        if self.path.exists():
+        signature = hashlib.sha256(json.dumps(['two-edge-types-v1', model_name, paragraphs, explicit_degree, explicit_weight], sort_keys=True).encode()).hexdigest()
+        self.implicit_edges, self.questions = [], 0
+        restored = self.path.exists()
+        if restored:
             saved = torch.load(self.path, map_location='cpu', weights_only=True)
             if saved['signature'] != signature:
                 raise ValueError('Corpus/model changed: use a new state directory')
             self.semantic, self.points = saved['semantic'], saved['points']
-            self.edges, self.questions = saved['edges'], saved['questions']
+            self.explicit_edges = saved['explicit_edges']
+            self.implicit_edges = saved['implicit_edges']
+            self.questions = saved['questions']
         else:
+            self.explicit_edges = build_explicit_edges(paragraphs, explicit_degree)
             self.semantic = self.encode([p['text'] for p in paragraphs])
             self.points = self.semantic.clone() * 0.2  # exp_0(atanh(.2) * unit SBERT)
         self.base = self.semantic * 0.2
         # Also bound drift when resuming an older checkpoint.
         self.points = self.bound_drift(self.points, self.base)
         self.signature = signature
+        if not restored:
+            if self.explicit_edges:
+                self.optimize(set(range(len(self.ids))))
+            self.save()
+
+    @property
+    def edges(self):
+        return self.explicit_edges + self.implicit_edges
 
     def encode(self, texts):
         return F.normalize(torch.as_tensor(self.encoder.encode(texts), dtype=torch.float32), dim=-1).cpu()
@@ -79,7 +96,8 @@ class GraphRetriever:
         touched = set()
         for link in links:
             a,b = self.lookup[link['source']], self.lookup[link['target']]
-            self.edges.append(dict(link, question=question, question_number=self.questions+1))
+            self.implicit_edges.append(dict(link, kind='implicit', question=question,
+                                            question_number=self.questions+1))
             touched.update((a,b))
         self.questions += 1
         if touched:
@@ -103,12 +121,15 @@ class GraphRetriever:
     def optimize(self, active):
         indices = sorted(active)
         mapping = {v:i for i,v in enumerate(indices)}
-        selected = [e for e in self.edges if self.lookup[e['source']] in active and self.lookup[e['target']] in active]
+        edges = self.edges
+        selected = [e for e in edges if self.lookup[e['source']] in active and self.lookup[e['target']] in active]
         if not selected:
             return
         # Exactly one epoch: visit every selected edge once, in batches of 256.
         pairs = torch.tensor([[mapping[self.lookup[e['source']]], mapping[self.lookup[e['target']]]] for e in selected])
-        known = {tuple(sorted((self.lookup[e['source']],self.lookup[e['target']]))) for e in self.edges}
+        known = {tuple(sorted((self.lookup[e['source']],self.lookup[e['target']]))) for e in edges}
+        weights = torch.tensor([self.explicit_weight if e['kind'] == 'explicit' else 1.0
+                                for e in selected])
         x = geoopt.ManifoldParameter(self.points[indices].clone(), manifold=BALL)
         optimizer = geoopt.optim.RiemannianAdam([x], lr=self.learning_rate, stabilize=1)
         order = torch.randperm(len(pairs))
@@ -119,16 +140,18 @@ class GraphRetriever:
             pos = distance(x[a],x[b])
             # Never treat a known neighbor or the node itself as a negative.
             negative_pairs = []
-            for ai in a.tolist():
+            for batch_row, ai in enumerate(a.tolist()):
                 for ni in torch.randint(len(self.ids),(8,)).tolist():
                     if ni != indices[ai] and tuple(sorted((indices[ai],ni))) not in known:
-                        negative_pairs.append((ai,ni))
+                        negative_pairs.append((batch_row, ai, ni))
                         break
-            loss = pos.square().mean()
+            batch_weights = weights[batch_indices]
+            loss = (batch_weights * pos.square()).mean()
             if negative_pairs:
-                na,nb = zip(*negative_pairs)
+                negative_rows, na, nb = zip(*negative_pairs)
                 targets = torch.stack([x[mapping[n]] if n in mapping else self.points[n] for n in nb])
-                loss = loss + F.relu(1.0-distance(x[list(na)],targets)).square().mean()
+                penalty = F.relu(1.0 - distance(x[list(na)], targets)).square()
+                loss = loss + (batch_weights[list(negative_rows)] * penalty).mean()
             loss = loss + self.anchor_weight * distance(x, self.base[indices]).square().mean()
             loss.backward()
             optimizer.step()
@@ -141,9 +164,15 @@ class GraphRetriever:
     def save(self):
         tmp = self.path.with_suffix('.tmp')
         torch.save(dict(signature=self.signature, semantic=self.semantic, points=self.points,
-                        edges=self.edges, questions=self.questions,
+                        explicit_edges=self.explicit_edges, implicit_edges=self.implicit_edges,
+                        questions=self.questions,
                         training=dict(optimizer='geoopt.RiemannianAdam', epochs=1,
                                       learning_rate=self.learning_rate, anchor_weight=self.anchor_weight,
                                       max_drift=self.max_drift)), tmp)
         tmp.replace(self.path)
-        (self.root/'edges.json').write_text(json.dumps(self.edges, ensure_ascii=False, indent=2))
+        for kind, edges in [('explicit', self.explicit_edges), ('implicit', self.implicit_edges)]:
+            path = self.root / f'{kind}_edges.json'
+            if kind == 'implicit' or not path.exists():
+                temporary = path.with_suffix('.tmp')
+                temporary.write_text(json.dumps(edges, ensure_ascii=False, indent=2))
+                temporary.replace(path)

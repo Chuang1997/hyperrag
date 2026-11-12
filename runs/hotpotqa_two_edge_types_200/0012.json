@@ -1,0 +1,233 @@
+{
+  "question": "How do the Peter Laufer books Forbidden Creatures and No Animals Were Harmed differ in their focus on animals?",
+  "answer": "*Forbidden Creatures* focuses on exotic animal ownership and smuggling, while *No Animals Were Harmed* focuses on the line between using animals for entertainment and abusing them.",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is the focus of Peter Laufer's book *Forbidden Creatures* regarding animals?",
+      "retrieved": [
+        {
+          "id": "119",
+          "text": "No Animals Were Harmed (book)\nNo Animals Were Harmed: The Controversial Line Between Entertainment and Abuse is a 2011 book by Peter Laufer. It is the third book in his untitled animal trilogy, following \"Forbidden Creatures\" in 2010 and \"The Dangerous World of Butterflies\" in 2009. The book explores what those who work with animals believe to be the line between using animals for entertainment purposes and abusing them. Meanwhile, the author recounts how his own opinions changed about that line when he talks to the different people about their beliefs.",
+          "semantic_score": 0.689981997013092,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "120",
+          "text": "Forbidden Creatures\nForbidden Creatures: Inside the World of Animal Smuggling and Exotic Pets is a 2010 book by Doctor of Philosophy Peter Laufer. It is the second book in his untitled animal trilogy, following \"The Dangerous World of Butterflies\" in 2009 and preceding \"No Animals Were Harmed\" in 2011. The book explores the lives of those that either own exotic animals or have been captured for illegally smuggling them, with a strong focus on Travis, the chimpanzee who attacked Charla Nash in 2009.",
+          "semantic_score": 0.6694139838218689,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "118",
+          "text": "The Dangerous World of Butterflies\nThe Dangerous World of Butterflies: The Startling Subculture of Criminals, Collectors, and Conservationists is a 2009 book by Doctor of Philosophy Peter Laufer. It is the first book in his untitled animal trilogy, preceding \"Forbidden Creatures\" in 2010 and \"No Animals Were Harmed\" in 2011. The book explores the presence of the butterfly in the fields of organized crime, ecological devastation, species depletion, natural history museum integrity, and chaos theory.",
+          "semantic_score": 0.5398117303848267,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "123",
+          "text": "Peter Laufer\nPeter Laufer is an independent American journalist, broadcaster and documentary filmmaker working in traditional and new media. He is the James Wallace Chair in Journalism at the University of Oregon School of Journalism and Communication.",
+          "semantic_score": 0.4131312370300293,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "122",
+          "text": "List of films about animals\nThis is a list of notable films that are primarily about and/or feature animals. While films involving dinosaurs and other prehistoric animals are included on this list, those concerning mythical creatures, such as dragons or vampires, are not; however, films concerning anthropomorphized animals (such as Scooby-Doo), gigantized animals (such as King Kong), mutated forms of real animals (such as \"Anaconda\"), or fictional hybrids of real animals (such as \"Sharktopus\") are considered to be films about animals, and are thus featured on this list.",
+          "semantic_score": 0.40466544032096863,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5466",
+          "text": "Dinosaur (film)\nDinosaur is a 2000 American CGI animated adventure film produced by Walt Disney Feature Animation and The Secret Lab and released by Walt Disney Pictures. It is the 39th Disney animated feature film and Disney's The Secret Lab computer animated feature, though it is not officially labeled as one of the animated classics in the United Kingdom, where \"The Wild\" (2006) is included in the canon instead.",
+          "semantic_score": 0.21512416005134583,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6480",
+          "text": "She Creature\nShe Creature (originally billed as Mermaid Chronicles Part 1: She Creature) is a 2001 television film starring Rufus Sewell, Carla Gugino and Rya Kihlstedt and directed by Sebastian Gutierrez . It is the first in a series of films made for Cinemax paying tribute to the films of American International Pictures. The films in this tribute series reused the titles of old American International Pictures films, but are not remakes of the earlier films.",
+          "semantic_score": 0.29721593856811523,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The book explores the lives of those that either own exotic animals or have been captured for illegally smuggling them, with a strong focus on Travis, the chimpanzee who attacked Charla Nash in 2009."
+    },
+    {
+      "step": 2,
+      "sub_question": "What is the focus of Peter Laufer's book *No Animals Were Harmed* regarding animals?",
+      "retrieved": [
+        {
+          "id": "120",
+          "text": "Forbidden Creatures\nForbidden Creatures: Inside the World of Animal Smuggling and Exotic Pets is a 2010 book by Doctor of Philosophy Peter Laufer. It is the second book in his untitled animal trilogy, following \"The Dangerous World of Butterflies\" in 2009 and preceding \"No Animals Were Harmed\" in 2011. The book explores the lives of those that either own exotic animals or have been captured for illegally smuggling them, with a strong focus on Travis, the chimpanzee who attacked Charla Nash in 2009.",
+          "semantic_score": 0.6866490244865417,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "119",
+          "text": "No Animals Were Harmed (book)\nNo Animals Were Harmed: The Controversial Line Between Entertainment and Abuse is a 2011 book by Peter Laufer. It is the third book in his untitled animal trilogy, following \"Forbidden Creatures\" in 2010 and \"The Dangerous World of Butterflies\" in 2009. The book explores what those who work with animals believe to be the line between using animals for entertainment purposes and abusing them. Meanwhile, the author recounts how his own opinions changed about that line when he talks to the different people about their beliefs.",
+          "semantic_score": 0.6091909408569336,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "118",
+          "text": "The Dangerous World of Butterflies\nThe Dangerous World of Butterflies: The Startling Subculture of Criminals, Collectors, and Conservationists is a 2009 book by Doctor of Philosophy Peter Laufer. It is the first book in his untitled animal trilogy, preceding \"Forbidden Creatures\" in 2010 and \"No Animals Were Harmed\" in 2011. The book explores the presence of the butterfly in the fields of organized crime, ecological devastation, species depletion, natural history museum integrity, and chaos theory.",
+          "semantic_score": 0.45340394973754883,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6525",
+          "text": "The Jungle Book\nThe Jungle Book (1894) is a collection of stories by English author Rudyard Kipling. The stories are fables, using animals in an anthropomorphic manner to give moral lessons. A principal character is the boy or \"man-cub\" Mowgli, who is raised in the jungle by wolves. Other characters include Shere Khan the tiger and Baloo the bear. The book has been adapted many times for film and other media.",
+          "semantic_score": 0.41866931319236755,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3490",
+          "text": "Carol J. Adams\nCarol J. Adams (born 1951) is an American writer, feminist, and animal rights advocate. She is the author of several books, including \"The Sexual Politics of Meat: A Feminist-Vegetarian Critical Theory\" (1990) and \"The Pornography of Meat\" (2004), focusing in particular on what she argues are the links between the oppression of women and that of non-human animals.",
+          "semantic_score": 0.40369221568107605,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6532",
+          "text": "The Jungle Book (1994 film)\nRudyard Kipling's The Jungle Book is a 1994 live-action American adventure film co-written and directed by Stephen Sommers, produced by Edward S. Feldman and Raju Patel, from a story by Ronald Yanover and Mark Geldman. It is the second film adaptation by The Walt Disney Company of the Mowgli stories from \"The Jungle Book\" and \"The Second Jungle Book\" by Rudyard Kipling.",
+          "semantic_score": 0.26950106024742126,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6531",
+          "text": "In Black and White (short story collection)\nIn Black and White is a collection of eight short stories by Rudyard Kipling which was first published in a booklet of 108 pages as no. 3 of A H Wheeler & Co.’s Indian Railway Library in 1888. It was subsequently published in a book along with nos 1 and 2, \"Soldiers Three\" (1888) and \"The Story of the Gadsbys\", as \"Soldiers Three\" (1899). The characters about whom the stories are concerned are native Indians, rather than the British for writing about whom Kipling may be better known; four of the stories are narrated by the Indians, and four by an observant wise English journalist (the \"persona\" that Kipling likes to adopt). The stories are:",
+          "semantic_score": 0.18545052409172058,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "The book explores what those who work with animals believe to be the line between using animals for entertainment purposes and abusing them."
+    },
+    {
+      "step": 3,
+      "sub_question": "How do these two focuses differ?",
+      "retrieved": [
+        {
+          "id": "119",
+          "text": "No Animals Were Harmed (book)\nNo Animals Were Harmed: The Controversial Line Between Entertainment and Abuse is a 2011 book by Peter Laufer. It is the third book in his untitled animal trilogy, following \"Forbidden Creatures\" in 2010 and \"The Dangerous World of Butterflies\" in 2009. The book explores what those who work with animals believe to be the line between using animals for entertainment purposes and abusing them. Meanwhile, the author recounts how his own opinions changed about that line when he talks to the different people about their beliefs.",
+          "semantic_score": 0.6907833218574524,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "120",
+          "text": "Forbidden Creatures\nForbidden Creatures: Inside the World of Animal Smuggling and Exotic Pets is a 2010 book by Doctor of Philosophy Peter Laufer. It is the second book in his untitled animal trilogy, following \"The Dangerous World of Butterflies\" in 2009 and preceding \"No Animals Were Harmed\" in 2011. The book explores the lives of those that either own exotic animals or have been captured for illegally smuggling them, with a strong focus on Travis, the chimpanzee who attacked Charla Nash in 2009.",
+          "semantic_score": 0.5126038789749146,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3490",
+          "text": "Carol J. Adams\nCarol J. Adams (born 1951) is an American writer, feminist, and animal rights advocate. She is the author of several books, including \"The Sexual Politics of Meat: A Feminist-Vegetarian Critical Theory\" (1990) and \"The Pornography of Meat\" (2004), focusing in particular on what she argues are the links between the oppression of women and that of non-human animals.",
+          "semantic_score": 0.4636761546134949,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "116",
+          "text": "Do not feed the animals\nThe prohibition \"do not feed the animals\" reflects a policy forbidding the artificial feeding of wildlife (wild or feral animals) in situations where the animals, or the people doing the feeding, might be harmed. Signs displaying this message are commonly found in zoos, circuses, animal theme parks, aquariums, national parks, parks, public spaces, farms, and other places where people come into contact with wildlife. In some cases there are laws to enforce such no-feeding policies. However, some people (such as some of those who enjoy feeding pigeons in cities) openly and strongly oppose such laws claiming that animals such as pigeons can be an amenity for people who do not have company such as friends or family, and say that the laws prohibiting feeding animals in urban places must change. In some countries, such as Greece, feeding the pigeons in cities is a widespread practice. Cultural hostility to feeding animals in cities and laws that ban the practice raise concerns about how humans relate to other living beings in the urban environment. Politicians have also protested laws that ban feeding feral pigeons in cities. Feral pigeons in cities existed for thousands of years but only recently in some countries humans started seeing them as a nuisance and became hostile to them. In India, feeding feral animals in cities is considered a noble act. Academicians say that how humans treat animals is related to how humans treat each other and thus raise concerns about the cultural shift from seeing feral city pigeons as harmless in the 1800s to seeing them a undesirable in some countries in the 2000s.",
+          "semantic_score": 0.41746991872787476,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "122",
+          "text": "List of films about animals\nThis is a list of notable films that are primarily about and/or feature animals. While films involving dinosaurs and other prehistoric animals are included on this list, those concerning mythical creatures, such as dragons or vampires, are not; however, films concerning anthropomorphized animals (such as Scooby-Doo), gigantized animals (such as King Kong), mutated forms of real animals (such as \"Anaconda\"), or fictional hybrids of real animals (such as \"Sharktopus\") are considered to be films about animals, and are thus featured on this list.",
+          "semantic_score": 0.4047858417034149,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "118",
+          "text": "The Dangerous World of Butterflies\nThe Dangerous World of Butterflies: The Startling Subculture of Criminals, Collectors, and Conservationists is a 2009 book by Doctor of Philosophy Peter Laufer. It is the first book in his untitled animal trilogy, preceding \"Forbidden Creatures\" in 2010 and \"No Animals Were Harmed\" in 2011. The book explores the presence of the butterfly in the fields of organized crime, ecological devastation, species depletion, natural history museum integrity, and chaos theory.",
+          "semantic_score": 0.3524094521999359,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5466",
+          "text": "Dinosaur (film)\nDinosaur is a 2000 American CGI animated adventure film produced by Walt Disney Feature Animation and The Secret Lab and released by Walt Disney Pictures. It is the 39th Disney animated feature film and Disney's The Secret Lab computer animated feature, though it is not officially labeled as one of the animated classics in the United Kingdom, where \"The Wild\" (2006) is included in the canon instead.",
+          "semantic_score": 0.1669526994228363,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6480",
+          "text": "She Creature\nShe Creature (originally billed as Mermaid Chronicles Part 1: She Creature) is a 2001 television film starring Rufus Sewell, Carla Gugino and Rya Kihlstedt and directed by Sebastian Gutierrez . It is the first in a series of films made for Cinemax paying tribute to the films of American International Pictures. The films in this tribute series reused the titles of old American International Pictures films, but are not remakes of the earlier films.",
+          "semantic_score": 0.17479784786701202,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "One focuses on exotic animal ownership and smuggling, the other on the line between using animals for entertainment and abusing them."
+    }
+  ],
+  "links": [
+    {
+      "source": "120",
+      "target": "119",
+      "reason": "Paragraph 120 states Forbidden Creatures focuses on exotic animal ownership and smuggling, while paragraph 119 states No Animals Were Harmed focuses on the line between using animals for entertainment and abusing them; together they directly supply the contrast needed to answer how the two books differ."
+    }
+  ],
+  "questions_seen": 13,
+  "_id": "5ab3cecd5542992ade7c6eae",
+  "correct_answer": "his own opinions changed",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "question": "Grammy winner for song of the year, also put out a 1971 album by the Carpenters, but what song did he win an Academy Award for Best Original Songs?",
+  "answer": "Evergreen",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is the Grammy winner for Song of the Year who also worked on a 1971 Carpenters album?",
+      "retrieved": [
+        {
+          "id": "2162",
+          "text": "Rendezvous Music\nRendezvous Music (formerly known as Rendezvous Entertainment) is a record label founded by multiple-Grammy Award nominee and RIAA Certified Gold recording artist Dave Koz, radio entrepreneur Frank Cody and music business veteran Hyman Katz in 2002. At various times, the label has been distributed by Sony Music Entertainment's Red Distribution<ref name=\"Rendezvous Music/Mack Avenue Records Distributor\"> </ref> and Universal Music Group's Fontana Distribution. In 2008, artist Patti Austin received her first Grammy Award for album \"Avant Gershwin\" released on Rendezvous Entertainment in 2007. In 2011, artist Kirk Whalum received his first Grammy Award for song \"It's What I Do\" (feat. Lalah Hathaway) from album \"The Gospel According to Jazz Chapter III\" released on Rendezvous Music in 2010. Since its acquisition in August 2008, Rendezvous is part of the Mack Avenue Records label group and continues to release new music by Kirk Whalum, Jonathan Butler, Kyle Eastwood as well as previously unreleased music by Wayman Tisdale.",
+          "semantic_score": 0.4556252360343933,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2990",
+          "text": "Vance Powell\nVance Powell is a four time winning Grammy Award winning American record producer, engineer and mixer. His credits include Chris Stapleton, Jack White, Tyler Bryant & The Shakedown, The Raconteurs, The Dead Weather, The White Stripes, Arctic Monkeys, Wolfmother, Seasick Steve, Black Prairie, The Revivalists, Tinariwen, JEFF the Brotherhood, Daniel Ellsworth & The Great Lakes, and Martina McBride, among many others.",
+          "semantic_score": 0.45317336916923523,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1740",
+          "text": "Steve Chrisanthou\nSteve Chrisanthou is a British songwriter, producer, engineer. He is a Grammy Awards nominee an Ivor Novello Awards nominee, a Brit Awards nominee and a MOBO Awards winner for his co-write with John Beck (songwriter) and Corinne Bailey Rae with the song \"Put Your Records On.\" In 2008 Chrisanthou won a National Academy of Recording Arts and Sciences award for his vocal engineering on \",\" a Grammy winner by Herbie Hancock",
+          "semantic_score": 0.45287054777145386,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6320",
+          "text": "Robert Glasper\nRobert Glasper (born April 6, 1978, in Houston, Texas) is an American pianist and record producer. He has been nominated for 6 Grammys, has won 3 Grammy Awards and is currently nominated for an Emmy Award. His 2012 album \"Black Radio\" won the Grammy Award for Best R&B Album at the 55th Grammy Awards. His 2014 album \"Black Radio 2\" won the Grammy Award for Best Traditional R&B Performance at the 56th Grammy Awards. The song \"These Walls\" from Kendrick Lamar's album \"To Pimp A Butterfly\" won Best Rap/Sung Collaboration at the 57th Grammy Awards, on which Glasper plays keys. The soundtrack for the film \"Miles Ahead\" won Best Soundtrack Compilation at the 58th Grammy Awards, for which Glasper was a producer. The song \"Letter To The Free\", written with Common, is nominated for an Emmy Award for Best Original Song in the Ava Duvernay documentary film \"13th\" (Netflix) at the 2017 Emmys.",
+          "semantic_score": 0.4109327495098114,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9583",
+          "text": "Oscar Hammerstein II\nOscar Greeley Clendenning Hammerstein II ( ; July 12, 1895 – August 23, 1960) was an American librettist, theatrical producer, and (usually uncredited) theatre director of musicals for almost forty years. Hammerstein won eight Tony Awards and two Academy Awards for Best Original Song. Many of his songs are standard repertoire for vocalist's and jazz musicians. He co-wrote 850 songs. Hammerstein was the lyricist and playwright in his partnerships; his collaborators wrote the music. Hammerstein collaborated with numerous composers, such as Jerome Kern, with whom he wrote \"Show Boat\", Vincent Youmans, Rudolf Friml, Richard A. Whiting and Sigmund Romberg; but he is best known for his collaborations with Richard Rodgers, as the duo Rodgers and Hammerstein which include \"Oklahoma!\", \"Carousel\", \"South Pacific\", \"The King and I\", and \"The Sound of Music\".",
+          "semantic_score": 0.4052921533584595,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9578",
+          "text": "Bill Russell (lyricist)\nBill Russell (born 1949) is an American librettist and lyricist. Among his stage musicals are \"Elegies for Angels, Punks and Raging Queens\" and \"Side Show\", which was nominated for the Tony Award as Best Musical.",
+          "semantic_score": 0.28436797857284546,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7900",
+          "text": "Lynn Ahrens\nLynn Ahrens (born October 1, 1948) is an American writer and lyricist for the musical theatre, television and film. She has collaborated with Stephen Flaherty for many years. She won the Tony Award, Drama Desk Award, and Outer Critics Circle Award for the Broadway musical \"Ragtime\". Together with Flaherty, they have written many musicals, including \"Lucky Stiff\", \"Once on This Island\", \"My Favorite Year\", \"Ragtime\", \"Seussical\", \"A Man of No Importance\", \"Dessa Rose\", \"The Glorious Ones\", and most recently seen on Broadway, \"Rocky the Musical\".",
+          "semantic_score": 0.2434280663728714,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7855",
+          "text": "These Walls (Kendrick Lamar song)\n\"These Walls\" is a song by American rapper Kendrick Lamar. It was released on October 13, 2015, as the fifth and final single from his third album, \"To Pimp a Butterfly\" (2015). The track was written by Kendrick Lamar, Terrace Martin, Larrance Dopson, James Fauntleroy and Rose McKinney. It won Best Rap/Sung Collaboration at the 58th Grammy Awards.",
+          "semantic_score": 0.2115534096956253,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9582",
+          "text": "Mis'ry's Comin' Aroun\nMis'ry's Comin' Aroun is a once-neglected song from the 1927 musical \"Show Boat\" by Jerome Kern and Oscar Hammerstein II. It was cut from the production during the Washington D.C. tryout on the orders of producer Florenz Ziegfeld, supposedly because it was one of the factors that made the show too long (it ran four-and-a-half hours when it premiered). However, musical theatre historian Miles Kreuger and conductor John McGlinn, also suggest that it was the dark, dramatic tone of the piece that most concerned Ziegfeld. Kern was reportedly so incensed by the deletion of \"Mis'ry's Comin' Aroun\" that he made it the principal motif of Show Boat's original overture and asked orchestrator Robert Russell Bennett to work sections of it into the background music as well, where it is now played by the orchestra during some of the dialogue scenes involving the mixed race actress Julie La Verne.",
+          "semantic_score": 0.20136158168315887,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2989",
+          "text": "Mike Smith (A&amp;R man)\nMike Smith started as an A&R man at MCA Publishing as a scout in 1988, where he signed Blur, Levitation and scouted The Smashing Pumpkins. He then moved to EMI Publishing in 1992, where he went on to sign acts, such as PJ Harvey, Elastica, Supergrass, Teenage Fan Club, Doves, Starsailor, The Beta Band, The Avalanches, Gorillaz, The White Stripes, The Libertines, The Scissor Sisters, The Arcade Fire, and Arctic Monkeys, as well as resigning Blur and progressing to the position of Head of A&R. He also worked with artists such as Robbie Williams, The Verve and Beth Orton. Smith moved to Columbia Records UK in 2006 to work as the Managing Director. In 2006, he signed Mark Ronson and Calvin Harris. In 2007, signings included The Ting Tings, MGMT, The Hugs, The Gossip and Glasvegas. The following year, he signed Miike Snow and Lissie to the label and in 2009, Magnetic Man, Miles Kane and Paul Epworth. Band of Horses, Katy B, The Vaccines and Ryan Adams were all signed in 2010 and in the following year, he signed Madeon and The Civil Wars. Acts he also looked after included Kings of Leon, Bruce Springsteen, Bob Dylan, Foo Fighters, Matt Cardle, Ke$ha, Sleigh Bells, and Kasabian.",
+          "semantic_score": 0.2596226930618286,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Paul Williams"
+    },
+    {
+      "step": 2,
+      "sub_question": "What song did that person win an Academy Award for Best Original Song for?",
+      "retrieved": [
+        {
+          "id": "1745",
+          "text": "Paul Williams (songwriter)\nPaul Hamilton Williams, Jr. (born September 19, 1940) is an American composer, singer, songwriter and actor. He is perhaps best known for writing popular songs performed by a number of acts in the 1970s, including Three Dog Night's \"An Old Fashioned Love Song\" and \"Out in the Country\", Helen Reddy's \"You and Me Against the World\", David Bowie's \"Fill Your Heart\", and the Carpenters' \"We've Only Just Begun\" and \"Rainy Days and Mondays\", as well as for his contributions to films, such as writing the lyrics to the #1 chart-topping \"Evergreen\", the love theme from \"A Star Is Born\", starring Barbra Streisand, for which he won a Grammy for Song of the Year and an Academy Award for Best Original Song; and \"Rainbow Connection\" from \"The Muppet Movie\". He also wrote the lyrics to the opening theme for \"The Love Boat\", with music previously composed by Charles Fox, which was originally sung by Jack Jones and, later, by Dionne Warwick.",
+          "semantic_score": 0.49780988693237305,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6320",
+          "text": "Robert Glasper\nRobert Glasper (born April 6, 1978, in Houston, Texas) is an American pianist and record producer. He has been nominated for 6 Grammys, has won 3 Grammy Awards and is currently nominated for an Emmy Award. His 2012 album \"Black Radio\" won the Grammy Award for Best R&B Album at the 55th Grammy Awards. His 2014 album \"Black Radio 2\" won the Grammy Award for Best Traditional R&B Performance at the 56th Grammy Awards. The song \"These Walls\" from Kendrick Lamar's album \"To Pimp A Butterfly\" won Best Rap/Sung Collaboration at the 57th Grammy Awards, on which Glasper plays keys. The soundtrack for the film \"Miles Ahead\" won Best Soundtrack Compilation at the 58th Grammy Awards, for which Glasper was a producer. The song \"Letter To The Free\", written with Common, is nominated for an Emmy Award for Best Original Song in the Ava Duvernay documentary film \"13th\" (Netflix) at the 2017 Emmys.",
+          "semantic_score": 0.44615045189857483,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7527",
+          "text": "Paul Nelson (musician)\nPaul Nelson is a Grammy-winning American guitarist, performer, record producer, and songwriter. Who has worked with everyone from Eric Clapton to members of the Allman Brothers Band and the list goes on. He was in the blues rock band of guitarist/singer icon Johnny Winter. He produced and played on several of Winter's albums, including the Grammy-nominated \"I'm a Blues Man\", \"Roots\", \"Step Back\". The latter of these won him a Grammy Award for Best Blues Album, debuted at #1 on the \"Billboard\" chart for Blues Albums and Independent Albums, and debuted at #16 on the \"Billboard\" 200 albums chart, the highest spot in Winter's career. It also won the Blues Music Award for Best Rock Blues Album. Nelson was inducted into the New York Blues Hall of Fame and is a recipient of the distinguished KBA award from the Blues Foundation. He received a 59th Grammy nomination for his work as producer and performer on Joe Louis Walker's \"Everybody Wants a Piece\".",
+          "semantic_score": 0.4256008267402649,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1740",
+          "text": "Steve Chrisanthou\nSteve Chrisanthou is a British songwriter, producer, engineer. He is a Grammy Awards nominee an Ivor Novello Awards nominee, a Brit Awards nominee and a MOBO Awards winner for his co-write with John Beck (songwriter) and Corinne Bailey Rae with the song \"Put Your Records On.\" In 2008 Chrisanthou won a National Academy of Recording Arts and Sciences award for his vocal engineering on \",\" a Grammy winner by Herbie Hancock",
+          "semantic_score": 0.42545637488365173,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3836",
+          "text": "Michel Hazanavicius\nMichel Hazanavicius (] ; born 29 March 1967) is a French film director, producer, screenwriter and film editor best known for his 2011 film, \"The Artist\", which won the Academy Award for Best Picture at the 84th Academy Awards. It also won him the Academy Award for Best Director. He also directed spy film parodies \"\" (2006) and \"\" (2009).",
+          "semantic_score": 0.4170878529548645,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "149",
+          "text": "Step Back (album)\nStep Back is an album by blues guitarist and singer Johnny Winter. It features performances by a number of guest musicians, including Eric Clapton, Dr. John, Billy Gibbons from ZZ Top, Joe Perry from Aerosmith, Leslie West from Mountain, and Brian Setzer from the Stray Cats. It was released by Megaforce Records on September 2, 2014.",
+          "semantic_score": 0.33346033096313477,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9107",
+          "text": "Robert Palmer (singer)\nRobert Allen Palmer (19 January 1949 – 26 September 2003) was an English singer-songwriter, musician, and record producer. He was known for his distinctive, soulful voice, eclectic mix of musical styles on his albums, combining soul, jazz, rock, pop, reggae, blues, and sartorial acumen. He found success both in his solo career and with the Power Station, and had Top 10 songs in both the UK and the US.",
+          "semantic_score": 0.2994827330112457,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2281",
+          "text": "Blues Brothers 2000 (soundtrack)\nBlues Brothers 2000: Original Motion Picture Soundtrack is the third studio album by The Blues Brothers, their twelfth release, overall. It is a soundtrack album to the 1998 film, \"Blues Brothers 2000\", the sequel to the 1980 film, \"The Blues Brothers\". In addition to tracks by the Blues Brothers Band and guest artists such as Aretha Franklin, James Brown, Eddie Floyd and Wilson Pickett, there are songs by the Paul Butterfield Blues Band and Blues Traveler as well as an all-star blues supergroup, the Louisiana Gator Boys, featuring B.B. King, Eric Clapton, Bo Diddley, Charlie Musselwhite, Doctor John, Lou Rawls, Koko Taylor, Isaac Hayes, Billy Preston and other artists.",
+          "semantic_score": 0.2386368215084076,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1868",
+          "text": "Adnan Kandhar\nAdnan Khandar (born 17 December 1986) is a Pakistani photographer, cinematographer and music video director. He is best known for his music videos \"Main Sufi Hun\" (2013) for which he earned a nomination of Best Music Video Director at 13th Lux Style Awards and Best Music Video at 2nd Hum Awards. Khandar got his second nomination at 3rd Hum Awards for \"Shikva\" (2014) in the same category. In 2015, Adnan won his first Best Music Video Director award at 14th Lux Style Awards.",
+          "semantic_score": 0.2247849404811859,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7321",
+          "text": "2011 Ghana Movie Awards\nThe 2011 Ghana Movie Awards was the second edition of the ceremony to reward film practitioners in the Ghana Film Industry. The event was held at Accra International Conference center on 25 December 2011. Winners included Kimberly Elise, Majid Michel, \"Somewhere in Africa\". \"Ties That Bind\" had 21 nominations and eventually won 9 awards to top the winners list. Olu Jacobs received the Lifetime Achievement Award.",
+          "semantic_score": 0.3553689122200012,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Evergreen"
+    }
+  ],
+  "links": [],
+  "questions_seen": 176,
+  "_id": "5ac286c055429963665199f8",
+  "correct_answer": "A Star Is Born",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}

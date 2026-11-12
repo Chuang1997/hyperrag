@@ -1,0 +1,233 @@
+{
+  "question": "The company that created the Data Universal Numbering System has a database that contains how many business records?",
+  "answer": "More than 265 million business records worldwide.",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What company created the Data Universal Numbering System?",
+      "retrieved": [
+        {
+          "id": "1886",
+          "text": "Data Universal Numbering System\nThe Data Universal Numbering System, abbreviated as DUNS or D-U-N-S, is a proprietary system developed and regulated by Dun & Bradstreet (D&B) that assigns a unique numeric identifier, referred to as a \"DUNS number\" to a single business entity. It was introduced in 1963 to support D&B's credit reporting practice. It is standard worldwide. DUNS users include the European Commission, the United Nations, and the United States government. More than 50 global industry and trade associations recognize, recommend, or require DUNS. The DUNS database contains over 250 million entries for businesses throughout the world.",
+          "semantic_score": 0.67787104845047,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1885",
+          "text": "Universal Numbering System\nThe Universal Numbering System is a dental notation system for associating information to a specific tooth, and is commonly used in the United Kingdom.",
+          "semantic_score": 0.6547558903694153,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8786",
+          "text": "IBM 1030\nThe IBM 1030 Data Collection System was a remote terminal system created by IBM in Endicott, New York in 1963, intended to transmit data from remote locations to a central computer system.",
+          "semantic_score": 0.48177817463874817,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1888",
+          "text": "ATA 100\n\"ATA 100\" contains the reference to the ATA numbering system which is a common referencing standard for all commercial aircraft documentation. This commonality permits greater ease of learning and understanding for pilots, aircraft maintenance technicians, and engineers alike. The standard numbering system was published by the Air Transport Association on June 1, 1956. While the ATA 100 numbering system has been superseded, it continued to be widely used until it went out of date back in 2015, especially in documentation for general aviation aircraft, on aircraft Fault Messages (for Post Flight Troubleshooting and Repair) and the electronic and printed manuals.",
+          "semantic_score": 0.4778236746788025,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1893",
+          "text": "Dental notation\nDental professionals, in writing or speech, use several different dental notation systems for associating information with a specific tooth. The three most common systems are the ISO System, Universal Numbering System, and Palmer notation method. The ISO system is used worldwide, and the Universal is used widely in the United States. The ISO System can be easily adapted to computerized charting.",
+          "semantic_score": 0.4290420711040497,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1892",
+          "text": "Dun &amp; Bradstreet\nDun & Bradstreet, Inc. () is a company that provides commercial data, analytics and insights for business, headquartered in Short Hills, a community in Millburn, New Jersey, US. It offers a wide range of products, and services for risk and finance, operations and supply, and sales and marketing professionals, as well as research and insights on global business issues, serving customers in government and industries such as communications, technology, strategic financial services, and retail/telecommunications/manufacturing markets. Often referred to as D&B, the company’s database contains more than 265 million business records worldwide.",
+          "semantic_score": 0.3016960322856903,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Dun & Bradstreet"
+    },
+    {
+      "step": 2,
+      "sub_question": "What database does that company maintain?",
+      "retrieved": [
+        {
+          "id": "1892",
+          "text": "Dun &amp; Bradstreet\nDun & Bradstreet, Inc. () is a company that provides commercial data, analytics and insights for business, headquartered in Short Hills, a community in Millburn, New Jersey, US. It offers a wide range of products, and services for risk and finance, operations and supply, and sales and marketing professionals, as well as research and insights on global business issues, serving customers in government and industries such as communications, technology, strategic financial services, and retail/telecommunications/manufacturing markets. Often referred to as D&B, the company’s database contains more than 265 million business records worldwide.",
+          "semantic_score": 0.8112137317657471,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1886",
+          "text": "Data Universal Numbering System\nThe Data Universal Numbering System, abbreviated as DUNS or D-U-N-S, is a proprietary system developed and regulated by Dun & Bradstreet (D&B) that assigns a unique numeric identifier, referred to as a \"DUNS number\" to a single business entity. It was introduced in 1963 to support D&B's credit reporting practice. It is standard worldwide. DUNS users include the European Commission, the United Nations, and the United States government. More than 50 global industry and trade associations recognize, recommend, or require DUNS. The DUNS database contains over 250 million entries for businesses throughout the world.",
+          "semantic_score": 0.5616573095321655,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2436",
+          "text": "Bell Labs\nNokia Bell Labs (formerly named AT&T Bell Laboratories, Bell Telephone Laboratories and Bell Labs) is an American research and scientific development company, owned by Finnish company Nokia. Its headquarters are located in Murray Hill, New Jersey, in addition to other laboratories around the rest of the United States and in other countries.",
+          "semantic_score": 0.4018731117248535,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2689",
+          "text": "J. B. Hanauer\nJ.B. Hanauer, a wealth management firm established in 1931 and based in Parsippany, New Jersey, was bought out by RBC Dain Rauscher in March 2007. RBC Dain Rauscher changed its name to RBC Wealth Management in October 2009.",
+          "semantic_score": 0.383559912443161,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1389",
+          "text": "HCL Infosystems\nHCL Infosystems Limited is an India-based distribution and information technology (IT) services and solutions company. The Company operates through the segments, including Hardware Products and Solutions, Services, Distribution and Learning. The Company's product portfolio includes IT and System Integration services, digitally enabled Learning and Career Development solutions, and Distribution of technology and mobility products. The Company's Distribution business includes Consumer Distribution and Enterprise Distribution. The Company's Services business includes Enterprise Services and Consumer Services. The Company's services include data centre services, security services, cloud services and network services, among others. The Company's solutions include System Integration services, National identity and authentication services, Infrastructure solutions and services, and Financial Inclusion. The Company's HCL Learning offers DigiSchool, MyEduWorld and Career Development Centers.",
+          "semantic_score": 0.3678911328315735,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2693",
+          "text": "Dain Rauscher Wessels\nDain Rauscher Wessels was a brokerage and investment banking firm based in Minneapolis, Minnesota. The firm traced its origins to a number of smaller regional securities firms founded in the 1920s and 1930s.",
+          "semantic_score": 0.2760118246078491,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2697",
+          "text": "John G. Taft\nJohn G. Taft (born 1954) is an American financier and writer. Early in his career he worked as a journalist before entering the investment industry in 1981. Early positions with Piper Jaffray and the St. Paul Mayor's Office were followed by roles as CEO of Voyageur Asset Management and Dougherty Summit Securities. His unit at Dougherty was later acquired by Dain Rauscher, and Taft began working with Royal Bank of Canada (RBC) when it acquired Dain Rauscher in 2001. From 2005 until 2016 Taft was CEO of RBC's U.S. wealth management unit, RBC Wealth Management. He is currently chairman of Delaney|Taft LLC, serves as a director of the Columbia Threadneedle Funds and is a senior advisor to Deloitte and Touche LLP.",
+          "semantic_score": 0.3127090632915497,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1885",
+          "text": "Universal Numbering System\nThe Universal Numbering System is a dental notation system for associating information to a specific tooth, and is commonly used in the United Kingdom.",
+          "semantic_score": 0.08490808308124542,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "DUNS database"
+    },
+    {
+      "step": 3,
+      "sub_question": "How many business records does that database contain?",
+      "retrieved": [
+        {
+          "id": "1892",
+          "text": "Dun &amp; Bradstreet\nDun & Bradstreet, Inc. () is a company that provides commercial data, analytics and insights for business, headquartered in Short Hills, a community in Millburn, New Jersey, US. It offers a wide range of products, and services for risk and finance, operations and supply, and sales and marketing professionals, as well as research and insights on global business issues, serving customers in government and industries such as communications, technology, strategic financial services, and retail/telecommunications/manufacturing markets. Often referred to as D&B, the company’s database contains more than 265 million business records worldwide.",
+          "semantic_score": 0.6173071265220642,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1886",
+          "text": "Data Universal Numbering System\nThe Data Universal Numbering System, abbreviated as DUNS or D-U-N-S, is a proprietary system developed and regulated by Dun & Bradstreet (D&B) that assigns a unique numeric identifier, referred to as a \"DUNS number\" to a single business entity. It was introduced in 1963 to support D&B's credit reporting practice. It is standard worldwide. DUNS users include the European Commission, the United Nations, and the United States government. More than 50 global industry and trade associations recognize, recommend, or require DUNS. The DUNS database contains over 250 million entries for businesses throughout the world.",
+          "semantic_score": 0.5852086544036865,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1389",
+          "text": "HCL Infosystems\nHCL Infosystems Limited is an India-based distribution and information technology (IT) services and solutions company. The Company operates through the segments, including Hardware Products and Solutions, Services, Distribution and Learning. The Company's product portfolio includes IT and System Integration services, digitally enabled Learning and Career Development solutions, and Distribution of technology and mobility products. The Company's Distribution business includes Consumer Distribution and Enterprise Distribution. The Company's Services business includes Enterprise Services and Consumer Services. The Company's services include data centre services, security services, cloud services and network services, among others. The Company's solutions include System Integration services, National identity and authentication services, Infrastructure solutions and services, and Financial Inclusion. The Company's HCL Learning offers DigiSchool, MyEduWorld and Career Development Centers.",
+          "semantic_score": 0.3167431056499481,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4778",
+          "text": "Economy of Atlanta\nThe Atlanta economy is the 10th largest in the country and 18th in the world with an estimated 2014 GDP of over $324 Billion. Atlanta is one of ten U.S. cities classified as an \"alpha-world city\" by a 2010 study at Loughborough University, and ranks fourth in the number of Fortune 500 companies headquartered within city boundaries, behind New York City, Houston, and Dallas. Several major national and international companies are headquartered in metro Atlanta, including seven Fortune 100 companies: The Coca-Cola Company, Home Depot, United Parcel Service, Delta Air Lines, AT&T Mobility, and Newell Rubbermaid. Other headquarters for some major companies in Atlanta and around the metro area include Arby's, Chick-fil-A, Earthlink, Equifax, First Data, Foundation Financial Group, Gentiva Health Services, Georgia-Pacific, NCR, Oxford Industries, RaceTrac Petroleum, Southern Company, SunTrust Banks, Mirant, and Waffle House. Over 75% of the Fortune 1000 companies have a presence in the Atlanta area, and the region hosts offices of about 1,250 multinational corporations. As of 2006 Atlanta Metropolitan Area ranks as the 10th largest cybercity (high-tech center) in the US, with 126,700 high-tech jobs.",
+          "semantic_score": 0.3163002133369446,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5056",
+          "text": "Cognos\nCognos (Cognos Incorporated) was an Ottawa, Ontario-based company making business intelligence (BI) and performance management (PM) software. Founded in 1969, at its peak Cognos employed almost 3,500 people and served more than 23,000 customers in over 135 countries until being acquired by IBM on January 31, 2008. While no longer an independent company, the Cognos name continues to be applied to IBM's line of business intelligence and performance management products.",
+          "semantic_score": 0.3071102499961853,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1885",
+          "text": "Universal Numbering System\nThe Universal Numbering System is a dental notation system for associating information to a specific tooth, and is commonly used in the United Kingdom.",
+          "semantic_score": 0.10680606961250305,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1888",
+          "text": "ATA 100\n\"ATA 100\" contains the reference to the ATA numbering system which is a common referencing standard for all commercial aircraft documentation. This commonality permits greater ease of learning and understanding for pilots, aircraft maintenance technicians, and engineers alike. The standard numbering system was published by the Air Transport Association on June 1, 1956. While the ATA 100 numbering system has been superseded, it continued to be widely used until it went out of date back in 2015, especially in documentation for general aviation aircraft, on aircraft Fault Messages (for Post Flight Troubleshooting and Repair) and the electronic and printed manuals.",
+          "semantic_score": 0.19098101556301117,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1392",
+          "text": "Acropetal Technologies\nAcropetal Technologies is a mid-sized business technology Solutions Company headquartered in Bangalore, India. The company operates as a provider of on-demand technology solutions across various sectors including Education, Manufacturing, Consumer Goods, Retail, Health Care. The company has offices in 4 geographies namely Asia Pac, North America, Europe and Middle East.",
+          "semantic_score": 0.15301978588104248,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "More than 265 million business records worldwide."
+    }
+  ],
+  "links": [
+    {
+      "source": "1886",
+      "target": "1892",
+      "reason": "1886 identifies Dun & Bradstreet as the creator of DUNS and states the DUNS database has over 250 million entries; 1892 confirms D&B's database contains more than 265 million business records, providing the specific record count needed to answer the question."
+    }
+  ],
+  "questions_seen": 191,
+  "_id": "5a7b5af7554299042af8f752",
+  "correct_answer": "265 million",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

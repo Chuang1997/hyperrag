@@ -1,0 +1,174 @@
+{
+  "question": "In what town is the office organization solutions company whose Canadian arm is Oxford headquartered?",
+  "answer": "Melville",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What company has a Canadian arm called Oxford?",
+      "retrieved": [
+        {
+          "id": "1391",
+          "text": "Oxford (company)\nOxford is the Canadian arm of Pendaflex, and makes organizational filing solutions. It is owned by Esselte.",
+          "semantic_score": 0.74063640832901,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8457",
+          "text": "Glénat Editions\nGlénat Editions SA is a French publisher with its head office in Grenoble. Their products include comic albums and manga in France, Benelux, and in the past Spain; it was founded by Jacques Glénat. The Benelux subsidiary, Glénat Benelux N.V., is located in Brussels, Belgium. The Switzerland subsidiary, Glénat Editions (Suisse) SA, has its headquarters in Nyon. The Spanish subsidiary had its head office in Barcelona.",
+          "semantic_score": 0.3758809268474579,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9158",
+          "text": "Eccles Interchange\nEccles Interchange is a transport hub in Eccles, Greater Manchester, England. It is composed of a bus station, and a single-platform Metrolink light rail station, the latter of which is the terminus of the system's Eccles Line. It opened on 21 July 2000. It is roughly 310 m away from Eccles railway station.",
+          "semantic_score": 0.3556497395038605,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1390",
+          "text": "Pendaflex\nPendaflex is an office organization solutions company headquartered in Melville, NY, USA.",
+          "semantic_score": 0.35539570450782776,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3640",
+          "text": "Barrie Pettman\nBarrie Owen Pettman, Baron of Bombie (22 February 1944 – 2 June 2017) was a British author, publisher, and philanthropist. He was the co-founder and chairman emeritus of Emerald Group Publishing. A professor emeritus at the University of Hull, he was the author of a dozen books on industrial relations. He was president emeritus of \"Burke's Peerage\" and a patron of opera in England and New Zealand.",
+          "semantic_score": 0.3505406975746155,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9162",
+          "text": "Eccles, Greater Manchester\nEccles (/ˈɛkəlz/; pop. 38,756 (2011)) is a town in Greater Manchester, England, 2.7 mi west of Salford and 3.7 mi west of Manchester city centre, between the M602 motorway to the north and the Manchester Ship Canal to the south.",
+          "semantic_score": 0.25653791427612305,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9157",
+          "text": "Church of St Mary the Virgin, Eccles\nSt Mary the Virgin's Church is an active Anglican parish church in Eccles, Greater Manchester, England. The church is in the Eccles deanery, the archdeaconry of Salford and the diocese of Manchester. Together with St Andrew's Eccles, St Paul's, Monton, Christ Church, Patricroft and St James', Hope the church is part of the team benefice of Eccles. The church was granted Grade I Listed status in 1964.",
+          "semantic_score": 0.21279238164424896,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8278",
+          "text": "Jeffrey Archer\nJeffrey Howard Archer, Baron Archer of Weston-super-Mare (born 15 April 1940) is an English novelist and politician.",
+          "semantic_score": 0.211431622505188,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Pendaflex"
+    },
+    {
+      "step": 2,
+      "sub_question": "Where is that company headquartered?",
+      "retrieved": [
+        {
+          "id": "1390",
+          "text": "Pendaflex\nPendaflex is an office organization solutions company headquartered in Melville, NY, USA.",
+          "semantic_score": 0.8150732517242432,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1391",
+          "text": "Oxford (company)\nOxford is the Canadian arm of Pendaflex, and makes organizational filing solutions. It is owned by Esselte.",
+          "semantic_score": 0.6054658889770508,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8040",
+          "text": "Stevanato Group\nStevanato Group is an Italian multinational company headquartered in Piombino Dese, Padua – Italy. Founded in 1949, It is committed to create systems, processes and services that guarantee the integrity of parenteral medicines.",
+          "semantic_score": 0.44169527292251587,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "768",
+          "text": "Patek Philippe &amp; Co.\nPatek Philippe & Co. is a Swiss watch manufacturer founded in 1851, located in Geneva and the Vallée de Joux. It designs and manufactures timepieces and movements, including some of the most complicated mechanical watches. It is considered by many experts and aficionados to be one of the most prestigious watch manufacturers.",
+          "semantic_score": 0.42927342653274536,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "4355",
+          "text": "SpaceX\nSpace Exploration Technologies Corp., doing business as SpaceX, is an American aerospace manufacturer and space transport services company headquartered in Hawthorne, California. It was founded in 2002 by entrepreneur Elon Musk with the goal of reducing space transportation costs and enabling the colonization of Mars. SpaceX has since developed the Falcon launch vehicle family and the Dragon spacecraft family, which both currently deliver payloads into Earth orbit.",
+          "semantic_score": 0.3980470299720764,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1988",
+          "text": "Favre-Leuba\nFavre-Leuba is a Swiss manufacturer of wristwatches headquartered in Solothurn, Switzerland. It was a pioneer in watch design, manufacturing and distribution, thus contributing immensely to the Swiss watchmaking industry. The foundation of the brand was laid in 1737 when Abraham Favre was registered as a watchmaker, so it has been reported as the second-oldest watch brand in Switzerland.",
+          "semantic_score": 0.30305102467536926,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "766",
+          "text": "Hamilton Watch Company\nThe Hamilton Watch Company is a brand of the Swatch Group, a Swiss watch company based in Bienne, Switzerland. The Hamilton Watch Company had its genesis as an American watch design and manufacturing company, which incorporated in 1892 and produced its first watch in 1893.",
+          "semantic_score": 0.2779809832572937,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "769",
+          "text": "Lemania\nLemania was a Swiss watch manufacturer and manufacturer of watch movements.",
+          "semantic_score": 0.24643519520759583,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Melville, NY, USA"
+    }
+  ],
+  "links": [
+    {
+      "source": "1391",
+      "target": "1390",
+      "reason": "1391 identifies Oxford as the Canadian arm of Pendaflex, and 1390 identifies Pendaflex as the office organization solutions company headquartered in Melville, NY, jointly answering the question."
+    }
+  ],
+  "questions_seen": 141,
+  "_id": "5ae1500655429920d52343cc",
+  "correct_answer": "Melville",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "question": "The creek of which Paradise Creek is a tributary is a tributary of what river?",
+  "answer": "Delaware River",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What is Paradise Creek a tributary of?",
+      "retrieved": [
+        {
+          "id": "1131",
+          "text": "Paradise Creek (Pennsylvania)\nParadise Creek is a 9.6 mi tributary of Brodhead Creek in the Poconos of eastern Pennsylvania in the United States.",
+          "semantic_score": 0.7134449481964111,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1137",
+          "text": "Paradise Creek (horse)\nParadise Creek (1989–2011) was a millionaire American Thoroughbred racehorse and successful sire. He was bred in Kentucky by Bertram R. Firestone and raced under the same Firestone banner as his owner. He finished racing with a record of 14-7-1 in 25 starts with career earnings of $3,401,415. Paradise Creek was best known for his wins in the grade one Washington, D.C. International Stakes and the grade one Arlington Million. In 1994 he became the only horse ever to have won both prestigious turf races of the United States.",
+          "semantic_score": 0.47722506523132324,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1129",
+          "text": "Turkey Creek (Econlockhatchee River)\nTurkey Creek is a creek and tributary of the Econlockhatchee River located in the community of Narcoossee in Southeast Orlando, in the U.S. State of Florida. The source of the 3 mi river is Turkey Creek Bay, which is the northern beginning of the Econlockhatchee River Swamp that extends to Lake Conlin, the source of the Econlockhatchee River. From Turkey Creek Bay, the creek flows north and goes under Wewahootee Road and then State Road 528, commonly known as the \"Beachline Expressway\". A tributary of the creek itself, the Green Branch, joins Turkey Creek at about 1100 ft before Turkey Creek joins the Econlockhatchee at .",
+          "semantic_score": 0.4768657982349396,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1133",
+          "text": "Tomichi Creek\nTomichi Creek is a 71.8 mi tributary of the Gunnison River in Gunnison County, Colorado. Tomichi Creek originates north and west of Monarch Pass and flows to the southwest along the base of Monarch Mountain. Congress Creek drains into Tomichi west of Old Monarch Pass where it flows south toward Sargents. Agape Creek flows into Tomichi just north of Sargents where Marshall Creek flows from Marshall Pass. Just below Sargents, Long Branch Creek, flowing out of Baldy Lake from the south, enters Tomichi Creek which takes a westward course where Needle Creek Reservoir drains into Tomichi east of Doyleville. Hot Springs Reservoir drains down Wanita Canyon flowing into Tomichi Creek just west of Doyleville. The Tomichi Valley is a semi-wide valley allowing Tomichi Creek to meander and split into several waterways creating an excellent livestock range and being largely private ranch lands. At Parlin, Quartz Creek flows from Pitkin and Ohio into Tomichi Creek. Tomichi continues its westward journey, slightly northwest, where the Cochetopa Creek drains into Tomichi at State Highway 114 from the south at the intersection of U.S. Highway 50 and continues west to Gunnison where it enters the Gunnison River. A map can be viewed at the BLM Colorado website here.",
+          "semantic_score": 0.4652611017227173,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2033",
+          "text": "Milliken Creek (California)\nMilliken Creek is an 11.9 mi stream in Napa County, California that is tributary to the Napa River. There are approximately 7300 acre in this watershed, of which 90 acre are developed as vineyards. Milliken Creek rises on the western slopes of the east side of the Napa Valley and flows through the Silverado Country Club property. Much of this watershed property had once been part of the Mexican land grant Rancho Yajome, which had been granted to General Mariano G. Vallejo. Most of this watershed was wilderness area to at least 1869, and thereafter the lower watershed was begun to be developed as pasture and grazing agricultural uses. In an 1989 stream survey by Earth Metrics, the steelhead fishery was found to be robust up to and including the Silverado Country Club.",
+          "semantic_score": 0.45037126541137695,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1136",
+          "text": "Brodhead Creek\nBrodhead Creek is a 21.9 mi tributary of the Delaware River in the Poconos of eastern Pennsylvania in the United States.",
+          "semantic_score": 0.3180706202983856,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2026",
+          "text": "Guadalupe Watershed\nThe Guadalupe Watershed consists of 170 sqmi of land within northern California's Santa Clara County. This watershed is owned and managed by the Santa Clara Valley Water District. The surface runoff from this area drains into the various rivers (namely the Guadalupe), streams, reservoirs or other bodies of water which all eventually gets carried into the San Francisco Bay (indicated below, with surrounding counties in red). Essentially, all the water from the creeks and rivers that make up the Guadalupe watershed, including water from storm drains, flows into the Guadalupe River, and then flows downstream into the San Francisco Bay at the Alviso Slough in Alviso. The Guadalupe watershed's main tributaries include Los Gatos Creek, Trout Creek, Hendrys Creek, Ross Creek, Pheasant Creek, Rincon Creek, Herbert Creek, and Golf Creek. Six major reservoirs exist in the watershed: Calero Reservoir on Arroyo Calero, Guadalupe Reservoir on Guadalupe Creek, Almaden Reservoir on Los Alamitos Creek, Vasona Reservoir, Lexington Reservoir, and Lake Elsman on Los Gatos Creek.",
+          "semantic_score": 0.43133366107940674,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1135",
+          "text": "Cedar Creek (South Fork Eel River)\nCedar Creek is an 11.2 mi tributary of the South Fork Eel River in Mendocino County in the U.S. state of California. The creek begins southeast of Red Mountain, at an elevation of 778 ft . It makes an S-curve west-northwest then bends sharply south, dropping into the valley of the South Fork Eel. The confluence is south of the city of Leggett, on the river's right bank. The only named tributary of Cedar Creek is Little Cedar Creek, a headwaters tributary. Big Dann Creek joins the South Fork Eel on the same bank, just upstream of Cedar Creek, while the next major tributary downstream of Cedar is Rock Creek. The Cedar Creek watershed is rugged and has few tributaries.",
+          "semantic_score": 0.4264582395553589,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Brodhead Creek"
+    },
+    {
+      "step": 2,
+      "sub_question": "What river is that creek a tributary of?",
+      "retrieved": [
+        {
+          "id": "1136",
+          "text": "Brodhead Creek\nBrodhead Creek is a 21.9 mi tributary of the Delaware River in the Poconos of eastern Pennsylvania in the United States.",
+          "semantic_score": 0.810647189617157,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1131",
+          "text": "Paradise Creek (Pennsylvania)\nParadise Creek is a 9.6 mi tributary of Brodhead Creek in the Poconos of eastern Pennsylvania in the United States.",
+          "semantic_score": 0.5473592281341553,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1133",
+          "text": "Tomichi Creek\nTomichi Creek is a 71.8 mi tributary of the Gunnison River in Gunnison County, Colorado. Tomichi Creek originates north and west of Monarch Pass and flows to the southwest along the base of Monarch Mountain. Congress Creek drains into Tomichi west of Old Monarch Pass where it flows south toward Sargents. Agape Creek flows into Tomichi just north of Sargents where Marshall Creek flows from Marshall Pass. Just below Sargents, Long Branch Creek, flowing out of Baldy Lake from the south, enters Tomichi Creek which takes a westward course where Needle Creek Reservoir drains into Tomichi east of Doyleville. Hot Springs Reservoir drains down Wanita Canyon flowing into Tomichi Creek just west of Doyleville. The Tomichi Valley is a semi-wide valley allowing Tomichi Creek to meander and split into several waterways creating an excellent livestock range and being largely private ranch lands. At Parlin, Quartz Creek flows from Pitkin and Ohio into Tomichi Creek. Tomichi continues its westward journey, slightly northwest, where the Cochetopa Creek drains into Tomichi at State Highway 114 from the south at the intersection of U.S. Highway 50 and continues west to Gunnison where it enters the Gunnison River. A map can be viewed at the BLM Colorado website here.",
+          "semantic_score": 0.5035526156425476,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7408",
+          "text": "Bervie Water\nBervie Water (Scottish Gaelic: \"Uisge Bhiorbhaigh\" ) is a river in Aberdeenshire, Scotland which rises in the Drumtochty Forest and flows across The Mearns to reach the North Sea at Inverbervie. Approximately two kilometres upstream of the North Sea, the Bervie Water flows through the grounds of Allardice Castle. The Bothenoth Burn (Burn of Healing) joins the Bervie Water to the east of Arbuthnott House. At Arbuthnott the river forms a steep-sided valley where gardens were laid out on the south-facing slope. It is a series of four terraces across which run diagonal intersecting grass paths.",
+          "semantic_score": 0.4831467866897583,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9760",
+          "text": "Glen River, County Down\nGlen River is a short river in County Down, Northern Ireland. The two mile course flows north east from the foot of Slieve Commedagh and Slieve Donard in the Mourne Mountains into Dundrum Bay at Newcastle, descending 1,500 ft .",
+          "semantic_score": 0.44847625494003296,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9754",
+          "text": "Donard Forest\nDonard Forest is located near Newcastle, County Down, Northern Ireland. It borders Donard Park at the foot of the Mourne Mountains. The Glen River flows through the forest where it is crossed by three stone bridges. The north east section of the forest contains a Heritage Stand of Scots and Corsican pine planted in 1927. A south east section, beside the Glen River, was the former site if Donard Lodge. The lodge was built in the 1830s by the Annesley family and demolished in 1966 after falling into ruin. The Annesleys planted a number of exotic trees in the area surrounding the house, including Giant Redwoods and Monkey Puzzles. There is also a small stone shelter, built in 1842, a short distance from the river.",
+          "semantic_score": 0.2565760016441345,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7409",
+          "text": "Allardice Castle\nAllardice Castle (also spelled Allardyce) is a sixteenth-century manor house in Kincardineshire, Scotland. This monument is occupied by the Cowie family and is approximately 1.5 kilometres northwest of the town of Inverbervie. The Bervie Water flows around Allardice Castle on both sides. Allardice may be viewed as one of a chain of coastal castles; to the north are Dunnottar Castle (ruined), Fetteresso Castle, Cowie Castle (ruined) and Muchalls Castle. The castle is a category A listed building.",
+          "semantic_score": 0.27642351388931274,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1137",
+          "text": "Paradise Creek (horse)\nParadise Creek (1989–2011) was a millionaire American Thoroughbred racehorse and successful sire. He was bred in Kentucky by Bertram R. Firestone and raced under the same Firestone banner as his owner. He finished racing with a record of 14-7-1 in 25 starts with career earnings of $3,401,415. Paradise Creek was best known for his wins in the grade one Washington, D.C. International Stakes and the grade one Arlington Million. In 1994 he became the only horse ever to have won both prestigious turf races of the United States.",
+          "semantic_score": 0.22374802827835083,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Delaware River"
+    }
+  ],
+  "links": [
+    {
+      "source": "1131",
+      "target": "1136",
+      "reason": "Paragraph 1131 states Paradise Creek is a tributary of Brodhead Creek; paragraph 1136 states Brodhead Creek is a tributary of the Delaware River, completing the chain from Paradise Creek to the Delaware River."
+    }
+  ],
+  "questions_seen": 115,
+  "_id": "5ae53de455429908b6326599",
+  "correct_answer": "Delaware River",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

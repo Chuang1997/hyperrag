@@ -1,0 +1,160 @@
+{
+  "question": "Which breed was bred first, the English Water Spaniel or the Estonian Hound?",
+  "answer": "The English Water Spaniel was bred first.",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "When was the English Water Spaniel first bred?",
+      "retrieved": [
+        {
+          "id": "1863",
+          "text": "English Water Spaniel\nThe English Water Spaniel is a breed of dog that has been extinct since the first part of the 20th century, with the last specimen seen in the 1930s. It was best known for its use in hunting waterfowl and for being able to dive as well as a duck. It is described as similar to a Collie or to a cross between a Poodle and a Springer Spaniel with curly fur and typically in a white and liver/tan pattern.",
+          "semantic_score": 0.767669677734375,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1861",
+          "text": "American Water Spaniel\nThe American Water Spaniel, (often abbreviated to AWS), is a breed of spaniel which originated in the United States. Developed in the state of Wisconsin during the 19th century from a number of other breeds, including the Irish and English Water Spaniels. The breed was saved by Dr. Fred J. Pfeifer, who set up the breed club and standard, and whose work led to recognition for the breed by the United Kennel Club, and later, the American Kennel Club. While they are the state dog of Wisconsin, they remain a rare breed.",
+          "semantic_score": 0.6363950371742249,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1858",
+          "text": "Spaniel\nA spaniel is a type of gun dog. Spaniels were especially bred to flush game out of denser brush. By the late 17th century spaniels had been specialized into water and land breeds. The extinct English Water Spaniel was used to retrieve water fowl shot down with arrows. Land spaniels were setting spaniels—those that crept forward and pointed their game, allowing hunters to ensnare them with nets, and springing spaniels—those that sprang pheasants and partridges for hunting with falcons, and rabbits for hunting with greyhounds. During the 17th century, the role of the spaniel dramatically changed as Englishmen began hunting with flintlocks for wing shooting. Charles Goodall and Julia Gasow (1984) write that spaniels were \"transformed from untrained, wild beaters, to smooth, polished gun dogs.\"",
+          "semantic_score": 0.6362795233726501,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1864",
+          "text": "Tweed Water Spaniel\nThe Tweed Water Spaniel, or Tweed Spaniel, is a breed of dog extinct since the 19th century. It is best known for being involved in the early development of the modern Curly Coated Retriever and Golden Retriever breeds of dogs. They were described as a generally brown athletic dogs from the area around Berwick-upon-Tweed near the River Tweed and close to the Scottish Borders. A type of water dog, the breed was not well known outside the local area. This breed may have been created by crossing local water dogs with imported St. John's water dog, another breed which is also now extinct.",
+          "semantic_score": 0.6085289120674133,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1157",
+          "text": "Norfolk Spaniel\nThe Norfolk Spaniel or Shropshire Spaniel is an extinct breed of dog since the early 20th century. It was originally thought to have originated from the work of one of the Dukes of Norfolk, but this theory was disproven after being in doubt during the later part of the 19th century. The term was used to designate springer type spaniels that were neither Sussex nor Clumber Spaniels, and attempts were made to use it to specify a breed that would later become known as the English Springer Spaniel.",
+          "semantic_score": 0.5730305910110474,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1577",
+          "text": "Wetterhoun\nThe Wetterhoun (FCI No.221, translated into English as the Frisian Water Dog) is a breed of dog traditionally used as a hunting dog for hunting small mammals and waterfowl in the province of Fryslan in the Netherlands. The name of the dog comes from the West Frisian \"Wetterhûn\" meaning \"water dog.\" Plural of Wetterhoun is Wetterhounen in Dutch. The breed may also be called the \"Otterhoun\" (not to be confused with the Otterhound) or \"Dutch Spaniel\", although it is not a Spaniel-type dog.",
+          "semantic_score": 0.5505580306053162,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1150",
+          "text": "English Springer Spaniel\nThe English Springer Spaniel is a breed of gun dog in the Spaniel family traditionally used for flushing and retrieving game. It is an affectionate, excitable breed with a typical lifespan of twelve to fourteen years. They are very similar to the Welsh Springer Spaniel and are descended from the Norfolk or Shropshire Spaniels of the mid-19th century; the breed has diverged into separate show and working lines. The breed suffers from average health complaints. The show-bred version of the breed has been linked to \"rage syndrome\", although the disorder is very rare. It is closely related to the Welsh Springer Spaniel and very closely to the English Cocker Spaniel; less than a century ago, springers and cockers would come from the same litter. The smaller \"cockers\" hunted woodcock while the larger littermates were used to flush, or \"spring,\" game. In 1902, The Kennel Club recognized the English Springer Spaniel as a distinct breed. They are used as sniffer dogs on a widespread basis. The term \"Springer\" comes from the historic hunting role, where the dog would flush (spring) birds into the air.",
+          "semantic_score": 0.5301592946052551,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "By the late 17th century."
+    },
+    {
+      "step": 2,
+      "sub_question": "When was the Estonian Hound first bred?",
+      "retrieved": [
+        {
+          "id": "1859",
+          "text": "Estonian Hound\nThe Estonian Hound (Estonian: \"eesti hagijas\") is a scent hound-like breed which is the only dog breed developed in Estonia. It was bred in 1947 when the Soviet Union's national economy ministry decided that every country in the Union must have its own dog breed.",
+          "semantic_score": 0.7968218326568604,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9354",
+          "text": "Istrian Coarse-haired Hound\nThe Istrian Coarse-haired Hound (Croatian: \"istarski oštrodlaki gonič\" , Slovene: \"istrski ostrodlaki gonič\" ) is a dog breed from Croatia, developed in the mid-19th century for hunting fox and rabbit. It is a rough-coated scent hound still kept primarily as a hunting dog rather than as a pet.",
+          "semantic_score": 0.544113278388977,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9357",
+          "text": "Styrian Coarse-haired Hound\nThe Styrian Coarse-haired Hound (FCI No. 62), (German: \"Steirische Rauhhaarbracke\") is a breed of medium-sized hound dog originated in the Austrian province of Styria. It is bred as a scenthound, for hunting boar in mountainous terrain. The breed is one of the large Austrian Bracke.",
+          "semantic_score": 0.5244091749191284,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9356",
+          "text": "Istrian Shorthaired Hound\nThe Istrian Short-haired Hound (FCI No. 151, original name is \"Istarski Kratkodlaki Gonič\") is a breed of dog from Istria in Croatia, descended from a very old type of scenthound. This hound is the slightly smaller counterpart to the longer-coated Istrian Coarse-haired Hound from the same region.",
+          "semantic_score": 0.485228568315506,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3667",
+          "text": "Treeing Walker Coonhound\nThe Treeing Walker Coonhound is a breed of hound descended from the English and American Foxhounds. The breed originated in the United States when a dog known as \"Tennessee Lead\", was crossed into the Walker Hound in the 19th century. The Treeing Walker Coonhound was recognized officially as a breed by the United Kennel Club in 1945 and by the American Kennel Club in 2012.",
+          "semantic_score": 0.47275587916374207,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9359",
+          "text": "Bosnian Coarse-haired Hound\nThe Bosnian Coarse-haired Hound or Bosanski Oštrodlaki Gonič, also called the Barak, is a hunting dog breed developed in Bosnia. The breed is a scenthound, originally used to hunt large game. The \"Bosanski Oštrodlaki Gonič's\" name is translated as coarse-haired, broken-haired, and rough-haired (among others), and refers to the texture of the shaggy coat (usually called \"broken-haired\" or \"hard\" in English.)",
+          "semantic_score": 0.43331751227378845,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9355",
+          "text": "Serbian Hound\nThe Serbian Hound (Serbian: Српски гонич / \"Srpski gonič\" ), previously known as the Balkan Hound (Балкански гонич / \"Balkanski gonič\"), is a pack hunting dog breed used in Serbia. It is red or tan with a black saddle, neck and cranium and red or tan face. Its head is flat and sloping, its muzzle pointed, with drop ears of the usual scent hound type. The Serbian Hound stands 17 to 21 inches (44–56 cm) in height and weighs about 44 pounds (20 kg). It is smooth-coated and coarse-haired. Described as pleasant natured and obedient, the breed is thought to descend from dogs left in the Balkan region by the Phoenicians in ancient times.",
+          "semantic_score": 0.45391541719436646,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1947"
+    }
+  ],
+  "links": [
+    {
+      "source": "1858",
+      "target": "1859",
+      "reason": "Paragraph 1858 dates the English Water Spaniel's specialization/use to the late 17th century, while 1859 dates the Estonian Hound's breeding to 1947, providing the two dates needed to compare which breed came first."
+    }
+  ],
+  "questions_seen": 188,
+  "_id": "5a7bc1bf55429927d897c033",
+  "correct_answer": "The English Water Spaniel",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

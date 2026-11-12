@@ -1,0 +1,275 @@
+{
+  "question": "Between two bands Audioslave and Bodyjar, which group formed earlier?",
+  "answer": "Bodyjar",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "When was Audioslave formed?",
+      "retrieved": [
+        {
+          "id": "753",
+          "text": "Audioslave\nAudioslave was an American rock supergroup formed in Los Angeles in 2001. The four-piece band consisted of Soundgarden lead singer/rhythm guitarist Chris Cornell and Rage Against the Machine members Tom Morello (lead guitar), Tim Commerford (bass/backing vocals), and Brad Wilk (drums). Critics first described Audioslave as a combination of Soundgarden and Rage Against the Machine, but by the band's second album, \"Out of Exile\", it was noted that they had established a separate identity. Audioslave's sound was created by blending 1970s hard rock with 1990s alternative rock. Moreover, Morello incorporated his well-known, unconventional guitar solos into the mix. As with Rage Against the Machine, the band prided themselves on the fact that all sounds on their albums were produced using only guitar, bass, drums, and vocals.",
+          "semantic_score": 0.5246390104293823,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6382",
+          "text": "Modular Recordings\nModular Recordings (known simply as Modular) is an Australian record label founded in 1998 by Steve Pavlovic that is currently owned by Universal Music Australia. It has released music from local artists such as Eskimo Joe, Ben Lee, The Avalanches, Wolfmother, Cut Copy, The Bumblebeez, Bag Raiders, Van She, Rocket Science, Ghostwood, The Presets, Pond, and Tame Impala, and local releases of international artists including Dom, Yeah Yeah Yeahs, Chromeo, Colder, Klaxons (The EP \"Xan Valleys\"), Ladyhawke, NYPC, MSTRKRFT, and Softlightes.",
+          "semantic_score": 0.3733254373073578,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6128",
+          "text": "Movement Systems Drum Computer\nThe Movement Drum System I/II (generally referred to as the Movement MCS Percussion Computer) was a very rare British-made drum machine produced approximately between 1981 (MKI) and 1983 (MKII). Both retailed at £1999.00 ex vat at March 1983 from 'Movement Audio Visual', 61 Taunton Road, Bridgwater, Somerset, TA6 3LP, UK. Both models combined two technologies; analogue synthesized drum sounds similar to Simmons SDS-V and basic digital 8-bit drum samples. In total 14 independent voice modules could be played (5 of which can be digital). Also notable for its computer-like design and its ability to display drum notes and sequencing graphically on a green black cathode ray tube display unit perhaps similar to page R on the fairlight CMI. The Movement Drum Systems are known to have been expensive upon release, and it is estimated that approximately thirty were made.",
+          "semantic_score": 0.3611738979816437,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5238",
+          "text": "Les Synthétistes\nLes Synthétistes were a group of Belgian composers whose goal was to synthetize the modern musical tendencies starting in 1925. All of them were ex-pupils of the Belgian composer Paul Gilson and started the organization as a way to celebrate their teacher's 60th birthday in 1925. Their first act was to publish the magazine \"La Revue Musicale Belge\". The group longed to be a Belgian counterpart to the famous French composing group Les Six.",
+          "semantic_score": 0.33316874504089355,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6774",
+          "text": "Fantasy Records\nFantasy Records is an American record company and label founded by brothers Max and Sol Weiss in 1949. The early years of the company were dedicated to issuing recordings by jazz pianist Dave Brubeck, who was also one of its investors, but the label is known more for its recordings of comedian Lenny Bruce, jazz musician Vince Guaraldi, and the rock band Creedence Clearwater Revival.",
+          "semantic_score": 0.32149186730384827,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6383",
+          "text": "Modular Presents: Leave Them All Behind\nModular Presents: Leave Them All Behind is a double disc sampling of some of the big names in 2005 in dance-rock, indie-rock, dance-punk, post-punk and the like. Put together by the Australian label Modular Recordings, the compilation has 32 original and remix versions of tracks by artists such as Bloc Party (\"Banquet\"), Death From Above 1979 (\"Romantic Rights\"), The Killers (\"Mr. Brightside\") and Cut Copy (\"Bright Neon Payphone\"). Disc 1 is continuously mixed by the Modular DJs, while Disc 2 is unmixed.",
+          "semantic_score": 0.2529126703739166,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6132",
+          "text": "Boss Doctor Rhythm DR-110\nThe Boss Doctor Rhythm DR-110 Graphic is a drum machine produced by the Boss product division of the Japanese Roland Corporation in 1983. It featured advances in technology compared to previous Roland drum machines: it had an LCD graphic display, showing a step-programming grid for the various drum voices. The DR-110 allowed the drum sounds to be played manually from rubber pads (as well as programmed). Like all Roland's previous drum machines, the DR-110's synthesized drum \"voices\" (synthesizer sounds) used analog synthesizer circuits. Tempo was continuously variable between 45 and 300 beats per minute (BPM). The DR-110 used a 4-bit Hitachi microprocessor and 1KB of μPD444C RAM memory.",
+          "semantic_score": 0.21797551214694977,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6131",
+          "text": "Roland TR-909\nThe Roland TR-909 Rhythm Composer is a drum machine introduced by the Roland Corporation in 1983. It was the first Roland drum machine to use samples (for its cymbal and hi-hat sounds) alongside analog sounds. Designed by Tadao Kikumoto, who also designed the Roland TB-303 synthesizer, the 909 features a 16-step step sequencer and drum sounds that aimed for realism and cost-effectiveness. It is fully programmable, and like its predecessor, the TR-808, it can store entire songs with multiple sections, as opposed to simply storing patterns. It was the first MIDI-equipped drum machine. Around 10,000 units were produced.",
+          "semantic_score": 0.23351280391216278,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6130",
+          "text": "Roland R-8\nThe R-8 Human Rhythm Composer is an electronic drum machine introduced in 1989 by Roland Corporation, using PCM voices. The R-8 features velocity- and pressure-sensitive trigger pads, and the ability to create loops of beats. The device has eight individual outputs, 32-voice polyphony, and four-part multitimbral MIDI.",
+          "semantic_score": 0.27672484517097473,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6379",
+          "text": "Modular Presents: Leave Them All Behind 2\nModular Presents: Leave Them All Behind 2 is the 2007 double-disc follow-up to Modular Recordings' well-received 2005 dance-rock compilation \"\". Similar to that compilation, Disc 1 is mixed while Disc 2 is unmixed.",
+          "semantic_score": 0.20992346107959747,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "2001"
+    },
+    {
+      "step": 2,
+      "sub_question": "When was Bodyjar formed?",
+      "retrieved": [
+        {
+          "id": "750",
+          "text": "Bodyjar\nBodyjar are an Australian pop punk band which formed in 1990. They began performing under the name Bodyjar in 1994; their previous names included Damnation (1990–91) and Helium (1992–93). The latter group released an album, \"You Can't Hold Me Down\", in October 1992. As Bodyjar their original line-up were Cameron Baines on vocals and guitar; Ben Petterson on vocals and guitar; Grant Relf on vocals and bass guitar; and Charles Zerafa on drums. In 1995 Ross Hetherington (ex-Bastard Squad, Swamp Rats) replaced Zerafa on drums. In 1999 Tom Read replaced Petterson on guitar and in 2004 Hetherington made way for Shane Wakker on drums.",
+          "semantic_score": 0.5226455926895142,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3828",
+          "text": "Aghajari oil field\nThe Aghajari oil field is an iranian oil field located in Khuzestan Province. It was discovered in 1938 and developed by National Iranian Oil Company. It began production in 1940 and produces oil. The total proven reserves of the Aghajari oil field are around 30 billion barrels (3758×10tonnes), and production is centered on 300000 oilbbl/d . The field is owned by state-owned National Iranian Oil Company (NIOC) and operated by National Iranian South Oil Company (NISOC).",
+          "semantic_score": 0.3306693732738495,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1167",
+          "text": "Body Talk (Robyn album)\nBody Talk is the seventh studio album by Swedish recording artist Robyn. It was released on 22 November 2010, by Konichiwa Records. Robyn first announced in early 2010 that she would release three mini-albums throughout the course of 2010, however, it was later announced that a full-length album would be released opposed to a third mini-album. The first two mini-albums of what was dubbed the \"Body Talk\" series, \"Body Talk Pt. 1\" and \"Body Talk Pt. 2\", were released in June and September 2010. The two albums saw two single releases, with Robyn citing that only one single would be released per mini-album.",
+          "semantic_score": 0.3258630633354187,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1676",
+          "text": "Tribo de Jah\nTribo de Jah is a reggae band from Brazil formed in 1986 at the Maranhão's capital city, São Luís is known as the Brazilian Jamaica, by Fauzi Beydoun, who in that time was a multinational CEO coming from Ivory Coast in África, that maintained a successful reggae program on a radio in town. It was in this school where the members met. Four band members are fully blind while the fifth has partial vision.",
+          "semantic_score": 0.32201212644577026,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6301",
+          "text": "Pengkhianatan G30S/PKI\nPengkhianatan G30S/PKI (; Indonesian for \"Treachery of G30S/PKI\") is a 1984 Indonesian docudrama written and directed by Arifin C. Noer, produced by G. Dwipayana, and starring Amoroso Katamsi, Umar Kayam, and Syubah Asa. Produced over a period of two years with a budget of Rp. 800 million, the film was sponsored by Suharto's New Order government. It was based on an official history of the 30 September Movement (Gerakan 30 September , or G30S) coup in 1965 written by Nugroho Notosusanto and Ismail Saleh, which depicted the coup as being orchestrated by the Communist Party of Indonesia (Partai Komunis Indonesia , or PKI).",
+          "semantic_score": 0.3107612431049347,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1163",
+          "text": "Talk That Talk\nTalk That Talk is the sixth studio album by Barbadian singer Rihanna, released on November 18, 2011, by Def Jam Recordings and SRP Records. It was recorded while traveling for the Loud Tour between February and November 2011, and was originally planned to be a reissue of her previous studio album \"Loud\" (2010). As executive producer, Rihanna enlisted a wide range of producers including Alex da Kid, Calvin Harris, Chase & Status, No I.D., and StarGate to achieve her desired sound. Following in the same vein as \"Loud\", \"Talk That Talk\" is a dance-oriented pop/R&B crossover album that incorporates elements of hip hop, dubstep, electronic and house music. The album also continues to have subtle dancehall genres, whilst its lyrical content and themes revolve around a nihilist, romantic and lascivious lover.",
+          "semantic_score": 0.15217381715774536,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "989",
+          "text": "Al-Ahsa Governorate\nAl Ahsa (Arabic: الأحساء‎ ‎ \" al-Aḥsāʾ\", locally pronounced \"al-Ḥasāʾ\") is the largest governorate in Saudi Arabia's Eastern Province, named after the Al-Ahsa oasis. The name Al-Ahsa is also given to the biggest city in the governorate, Hofuf. In Classical Arabic, Ahsa means the sound of water underground. It has one of the largest oases in the world with Date Palms known to be the best in the world, the oasis is located about 60 km inland from the Persian Gulf. All urban areas are located in the traditional oasis of Al-Hasa. In addition to the oasis, the county also includes the giant Empty Quarter desert, making it the largest governorate in Saudi Arabia in terms of area. The Empty Quarter has the world's largest oil fields and connects Saudi Arabia to Qatar, the UAE, and Oman. The Governorate's population is over 908,366 (2005 estimate ).In the past, Al-Ahsa belonged to the historical region known as Bahrain, along with Qatif and the present-day Bahrain islands.",
+          "semantic_score": 0.23389656841754913,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7647",
+          "text": "Dave Brockie Experience\nThe Dave Brockie Experience or DBX was formed of three of the then-current members of Heavy metal band Gwar. The band was composed of David \"Oderus Urungus\" Brockie (vocals/bass), Brad \"Jizmak Da Gusha\" Roberts (drums), and Mike \"Balsac the Jaws of Death\" Derks (Guitar). DBX was a pet project of Gwar and showed some of their earlier punk roots from the \"Death Piggy\" era. At their shows they played some original DBX songs as well as some tunes from Death Piggy, Gwar, and X-Cops. The band enjoyed a following mostly made up of Gwar fans. Dave Brockie hinted at the possibility of the band's breakup in the past due to the exhausting nature of lower-budget touring. In February 2008, several sources reported that the band would be touring as an opening act for the reunited Green Jellÿ. Dave Brockie stated, on his website, that this was not the case and there were no official discussions concerning the tour.",
+          "semantic_score": 0.183439239859581,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "1168",
+          "text": "Introducing ... Talk Talk\nIntroducing ... Talk Talk is a compilation album by Talk Talk released in 2003 (one of many \"best of\" albums of the band released by coincidence the same year). \"Introducing ... Talk Talk\" is slightly different from the other \"best of\" albums by the band in that it doesn't include any of the band's hits. The first five tracks come from the 1982–1984 period, including a piano version of \"Call in the Night Boy\", B-side to a non-album A-side in 1983. Whilst the remaining seven tracks cover 1986–1988, the EMI era of the band's more experimental phase, most songs in this part of the album are drawn from \"The Colour of Spring\" and \"Spirit of Eden\". Nothing post-1988 is featured, as EMI, who released the album, couldn't collect material from \"Laughing Stock\" or \"Missing Pieces\", both recorded over 1990–1991, or the live album \"London 1986\", released by Pond Life in 1999.",
+          "semantic_score": 0.15266960859298706,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "4248",
+          "text": "Shenandoah (band)\nShenandoah is an American country music group founded in Muscle Shoals, Alabama in 1984 by Marty Raybon (lead vocals, acoustic guitar), Ralph Ezell (bass guitar, backing vocals), Stan Thorn (keyboards, backing vocals), Jim Seales (lead guitar, backing vocals), and Mike McGuire (drums, background vocals). Thorn and Ezell left the band in the mid-1990s, with Rocky Thacker taking over on bass guitar; Keyboardist Stan Munsey joined the line up in 1995. The band split up in 1997 after Raybon left. Seales, Munsey, Thacker and McGuire reformed the band in 2000 with lead singer Brent Lamb, who was in turn replaced by Curtis Wright and then by Jimmy Yeary. Ezell rejoined in the early 2000s, and after his 2007 death, he was replaced by Mike Folsom. Raybon returned to the band in 2014. That same year, Jamie Michael replaced the retiring Jim Seales on lead guitar.",
+          "semantic_score": 0.22928421199321747,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1990"
+    },
+    {
+      "step": 3,
+      "sub_question": "Which formation date is earlier?",
+      "retrieved": [
+        {
+          "id": "3114",
+          "text": "1979–80 Wigan Athletic F.C. season\nThe 1979–80 season was the 42nd season in the history of Wigan Athletic F.C. and their second as a professional club in the Football League.",
+          "semantic_score": 0.37876278162002563,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2272",
+          "text": "1996 AFC Asian Cup squads\nThis article lists the squads for the 1996 AFC Asian Cup played in United Arab Emirates. Players marked (c) were named as captain for their national squad. Number of caps counts until the start of the tournament, including all pre-tournament friendlies. Player's age is their age on the opening day of the tournament, which was 4 December 1996.",
+          "semantic_score": 0.34393391013145447,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1291",
+          "text": "1981–82 Port Vale F.C. season\nThe 1981–82 season was Port Vale's 70th season of football in the Football League, and their fourth successive season (tenth overall) in the Fourth Division. John McGrath led his team to a seventh-place finish, a big improvement on the previous two seasons. Top-scorer Ernie Moss and midfielder Mark Chamberlain proved to be the stars of the season. The season was notable for Vale Park's lowest ever Football League attendance.",
+          "semantic_score": 0.33472684025764465,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7081",
+          "text": "1876 in Germany\nEvents in the year 1876 in Germany.",
+          "semantic_score": 0.33269158005714417,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3116",
+          "text": "2006–07 Wigan Athletic F.C. season\nThe 2006–07 Wigan Athletic F.C. season was the club's 29th season in the Football League and their second season in the Premier League.",
+          "semantic_score": 0.3216707706451416,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3110",
+          "text": "2007–08 Wigan Athletic F.C. season\nThe 2007–08 Wigan Athletic F.C. season was the club's 30th season in the Football League and their third season in the Premier League.",
+          "semantic_score": 0.30556556582450867,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "3117",
+          "text": "1978–79 Wigan Athletic F.C. season\nThe 1978–79 season was the 41st season in the history of Wigan Athletic F.C. and their first as a professional club in the Football League. After finishing 2nd in the Northern Premier League during the previous season, the club was nominated to apply for Football League status, and were elected into the league to replace Southport. After a poor start, the club exceeded expectations in the league, and towards the end of the season, a second consecutive promotion seemed possible. The club eventually fell short, finishing the season in 6th place with a total of 55 points.",
+          "semantic_score": 0.20635376870632172,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2270",
+          "text": "1996 AFC Asian Cup qualification\nThe 1996 AFC Asian Cup qualification involved 33 participating teams. The United Arab Emirates (hosts) and Japan (holders) qualified automatically for the 1996 AFC Asian Cup.",
+          "semantic_score": 0.2756481170654297,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "1876"
+    }
+  ],
+  "links": [
+    {
+      "source": "753",
+      "target": "750",
+      "reason": "Paragraph 753 states Audioslave formed in 2001; paragraph 750 states Bodyjar formed in 1990, providing the two formation dates needed to compare which band formed earlier."
+    }
+  ],
+  "questions_seen": 76,
+  "_id": "5a78d35e55429974737f78c3",
+  "correct_answer": "Bodyjar",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

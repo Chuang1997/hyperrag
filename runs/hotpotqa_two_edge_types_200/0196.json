@@ -1,0 +1,289 @@
+{
+  "question": "Are Wilco Melissant and Todd Field both involved in the film industry (e.g. director, filmmaker, actor)?",
+  "answer": "Yes",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who is Wilco Melissant and what is his profession?",
+      "retrieved": [
+        {
+          "id": "1949",
+          "text": "Wilco Melissant\nWilco Melissant (born December 8, 1968) is a Dutch director who directed various arthouse video productions for Witchhunt Productions, of which he himself is the chairman. His productions were shown on the Dutch TV station RotterdamTV.",
+          "semantic_score": 0.6829403638839722,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6464",
+          "text": "Merlakia Jones\nMerlakia Jones (born June 21, 1974) is a former American college and professional basketball player who was a guard in the Women's National Basketball Association (WNBA) for eight seasons during the 1990s and 2000s. Jones played college basketball for the University of Florida, and then played professionally for the Cleveland Rockers and Detroit Shock of the WNBA.",
+          "semantic_score": 0.40196534991264343,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9155",
+          "text": "John Robert Porter\nJohn Robert Porter (born 5 January 1953) is an English billionaire businessman and philanthropist best known as the grandson of Sir Jack Cohen founder of Tesco and son of Dame Shirley Porter.",
+          "semantic_score": 0.39371973276138306,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9027",
+          "text": "Yianni Agisilaou\nYianni Agisilaou (born 1978) is an Australian-born comedian based in the United Kingdom. His comedy is structured and erudite , and normally takes the form of an illustrated lecture on a single central theme. He is a master of comic analysis . Unlike the majority of comedians his shows involve detailed research.",
+          "semantic_score": 0.3714066743850708,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "656",
+          "text": "Charlotte York Goldenblatt\nCharlotte Goldenblatt (née York; previously MacDougal), is a fictional character on the HBO-produced television series \"Sex and the City\". She is portrayed by actress Kristin Davis. Davis received a Screen Actors Guild Award for her performances.",
+          "semantic_score": 0.37109440565109253,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "654",
+          "text": "Kristin Davis\nKristin Landen Davis (also listed as Kristin Lee Davis; born February 23, 1965) is an American actress. She is known for playing Brooke Armstrong on the soap opera \"Melrose Place\" (1995–1996), and Charlotte York Goldenblatt on HBO's \"Sex and the City\" (1998–2004). She received a 2004 Emmy Award nomination for her role as Charlotte, and reprised the role in the films, \"Sex and the City\" (2008) and \"Sex and the City 2\" (2010).",
+          "semantic_score": 0.2070256620645523,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "657",
+          "text": "Sex and the City (season 6)\nThe sixth season of the American television romantic sitcom Sex and the City aired in the United States on HBO. The show was created by Darren Star while Star, Michael Patrick King, John P. Melfi, series lead actress Sarah Jessica Parker, Cindy Chupack, and Jenny Bicks served as executive producers. The series was produced by Darren Star Productions, HBO Original Programming, and Warner Bros. Television. Sarah Jessica Parker portrays the lead character Carrie Bradshaw, while Kim Cattrall, Kristin Davis and Cynthia Nixon played her best friends Samantha Jones, Charlotte York, and Miranda Hobbes.",
+          "semantic_score": 0.18489938974380493,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "659",
+          "text": "Sex and the City (season 5)\nThe fifth season of the American television romantic sitcom Sex and the City aired in the United States on HBO. The show was created by Darren Star while Star, Michael Patrick King, John P. Melfi, series lead actress Sarah Jessica Parker, Cindy Chupack, and Jenny Bicks served as executive producers. The series was produced by Darren Star Productions, HBO Original Programming, and Warner Bros. Television. Parker portrays the lead character Carrie Bradshaw, while Kim Cattrall, Kristin Davis and Cynthia Nixon played her best friends Samantha Jones, Charlotte York, and Miranda Hobbes.",
+          "semantic_score": 0.17551399767398834,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "655",
+          "text": "Sex and the City (season 4)\nThe fourth season of the American television romantic sitcom Sex and the City aired in the United States on HBO. The show was created by Darren Star while Star, Michael Patrick King, John P. Melfi, series lead actress Sarah Jessica Parker, Cindy Chupack, and Jenny Bicks served as executive producers. The series was produced by Darren Star Productions, HBO Original Programming, and Warner Bros. Television. Sarah Jessica Parker portrays the lead character Carrie Bradshaw, while Kim Cattrall, Kristin Davis and Cynthia Nixon played her best friends Samantha Jones, Charlotte York, and Miranda Hobbes.",
+          "semantic_score": 0.17767083644866943,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "662",
+          "text": "Sex and the City (film)\nSex and the City (advertised as Sex and the City: The Movie) is a 2008 American romantic comedy film written and directed by Michael Patrick King in his feature film directorial debut, and a sequel to the 1998-2004 HBO comedy series of the same name (itself based on the book of the same name by Candace Bushnell) about four female friends: Carrie Bradshaw (Sarah Jessica Parker), Samantha Jones (Kim Cattrall), Charlotte York Goldenblatt (Kristin Davis), and Miranda Hobbes (Cynthia Nixon), dealing with their lives as single women in New York City. The series often portrayed frank discussions about romance and sexuality.",
+          "semantic_score": 0.12201189249753952,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Wilco Melissant is a Dutch director and chairman of Witchhunt Productions."
+    },
+    {
+      "step": 2,
+      "sub_question": "Who is Todd Field and what is his profession?",
+      "retrieved": [
+        {
+          "id": "1949",
+          "text": "Wilco Melissant\nWilco Melissant (born December 8, 1968) is a Dutch director who directed various arthouse video productions for Witchhunt Productions, of which he himself is the chairman. His productions were shown on the Dutch TV station RotterdamTV.",
+          "semantic_score": 0.8339455127716064,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1952",
+          "text": "Todd Field\nWilliam Todd Field (born February 24, 1964) is an American actor and three-time Academy Award nominated filmmaker.",
+          "semantic_score": 0.6019542813301086,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7720",
+          "text": "Patricia Field\nPatricia Field (born February 12, 1942) is an American costume designer, stylist and fashion designer.",
+          "semantic_score": 0.39946189522743225,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2572",
+          "text": "Ken May\nKenneth A. May is a Memphis, Tennessee native, former CEO of FedEx Office, and chairman of the March of Dimes' board of trustees. In November 2011, he was appointed COO of Krispy Kreme, and in July 2014, May became President and CEO of Topgolf International, Inc.",
+          "semantic_score": 0.37691375613212585,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5051",
+          "text": "Kyle York (entrepreneur)\nKyle York (born November 26, 1982) is an Internet entrepreneur, startup advisor, angel investor, cloud and Infrastructure-as-a-Service expert and sought-after global public speaker on cloud migration, internet security and hybrid cloud strategy. York is an executive at Dyn, currently serving as Chief Strategy Officer. Dyn was acquired by Oracle on November 21, 2016. York also sits on the boards of Datanyze, CloudApp and 3rd Generation family business, YORK Athletics MFG. where he is a co-founder. York is also an active angel investor and advisor in dozens of fast growth Internet companies. He has been part of eight successful exits as an investor and employee. Companies he has invested in and worked as a go-to-market (GTM) leader have been acquired by Cisco, Cognizant, New Relic, Oracle and Sophos.",
+          "semantic_score": 0.3385825753211975,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7729",
+          "text": "Patricia S. Cowings\nPatricia S. Cowings (born 1948) is an aerospace psychophysiologist, and was the first African American woman scientist to be trained as an astronaut by NASA (though Sally Ride was the first American woman to fly in space). Although she was an alternate for a space flight in 1979 she did not travel to space. She is most well known for her studies in the physiology of astronauts in outer space, as well as helping find cures for astronaut's motion sickness. Patricia found her love for science at a young age. Psychology and later psychophysiology showed her how to enhance human potential. 'What better field is there than to study the animal who created all the other fields? Humans!' This love was further helped by her psychologist aunt, whom she considered a deep inspiration because she had earned a PhD. Taking an engineering class in grad school where she took part in designing a space shuttle helped launch her desire to work in the field of space technology.",
+          "semantic_score": 0.1535015106201172,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2574",
+          "text": "Frederick W. Smith\nFrederick Wallace \"Fred\" Smith (born August 11, 1944) is the founder, chairman, president, and CEO of FedEx, originally known as Federal Express. The company is headquartered in Memphis, Tennessee.",
+          "semantic_score": 0.22389720380306244,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5057",
+          "text": "Dyn (company)\nDyn, Inc. ( ) is an Internet performance management company, offering products to monitor, control, and optimize online infrastructure, and also domain registration services and email products. The company was acquired by Oracle Corporation in 2016.",
+          "semantic_score": 0.20755554735660553,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "463",
+          "text": "Kenneth Lipper\nKenneth Lipper is a prominent figure in the arts, the world of finance, and government. He served as New York City’s Deputy Mayor under Mayor Ed Koch. Mr. Lipper was a General Partner at Lehman Brothers and Salomon Brothers, serving as the investment banker for some of the leading public corporations in the United States and Europe. He was Adjunct Professor at Columbia School of International Affairs in the field of international economics. Mr. Lipper serves as a director of corporations and government agencies. He is Chairman of Lipper & Co, an investment bank and investment management company, and also serves as Chairman of the Board of Lippmann Enterprises LLC, a cosmetics company. In November 2010, after winning a civil class action, Lipper was awarded more than $15 million in indemnification, because as a New York State Supreme Court judge’s findings noted, \"none of the investigations and claims asserted against [Lipper] had resulted in a finding that he had engaged in 'negligence, malfeasance or a violation of applicable law.'\" In 2013, Governor Andrew Cuomo nominated, and the New York State Senate confirmed, Kenneth Lipper as a member of the Board of Commissioners of the Port Authority of New York and New Jersey, the Port Authority’s governing body. The Port Authority is a congressionally created bi-state agency which owns and operates JFK International, LaGuardia, and Newark International airports, the bridges and tunnels, PATH railroad, ports and terminals and the World Trade Center. Mr. Lipper won an Academy Award in 1998 for producing the best feature-length documentary. He is author of the novels Wall Street and City Hall and wrote the original screenplay for the feature film \"City Hall.\" Mr. Lipper was Producer of the feature films: \"City Hall\", \"The Winter Guest\" and \"The Last Days,\" as well as Chief Technical Adviser of \"Wall Street.\" He is the co-founder and co-publisher of Lipper Viking Penguin, a celebrated biography series which has published 24 books in multiple languages and countries.",
+          "semantic_score": 0.19929549098014832,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "602",
+          "text": "David Cheriton\nDavid Ross Cheriton (born March 29, 1951) is a Canadian computer scientist, mathematician, businessman, philanthropist, and venture capitalist. He is a computer science professor at Stanford University, where he founded and heads up the Distributed Systems Group. He is a distributed systems and networking expert with keen insight into identifying big market opportunities and building the architectures needed to address these opportunities. He has founded and invested in technology companies, including Google, where he was amongst the first investors; VMware, where he was an early angel investor; and Arista, where he was co-founder and chief scientist. Cheriton funded at least 20 companies. With an estimated net worth of US$3.4 billion (as of February 2016), Cheriton was ranked by Forbes as the 13th wealthiest Canadian and 628th in the world. Cheriton has made generous contributions to education, with a $25 Million donation to support graduate studies and research in its School of Computer Science at the University of Waterloo, a $7.5 million donation to the University of British Columbia, and a $12 million endowment in 2016 to Stanford University to support Computer Science faculty, graduate fellowships, and undergraduate scholarships.",
+          "semantic_score": 0.11531595885753632,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Todd Field is an American actor and three-time Academy Award-nominated filmmaker."
+    },
+    {
+      "step": 3,
+      "sub_question": "Are both professions related to the film industry?",
+      "retrieved": [
+        {
+          "id": "1952",
+          "text": "Todd Field\nWilliam Todd Field (born February 24, 1964) is an American actor and three-time Academy Award nominated filmmaker.",
+          "semantic_score": 0.7976946234703064,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "1946",
+          "text": "Delivering (film)\nDelivering is a 1993 short film that Todd Field, while a fellow at the AFI Conservatory, adapted from the story of the same name by Andre Dubus. It is a dramatic piece that takes place on the day two brothers discover their mother has abandoned the family. This film is notable as it was the first time Field adapted Dubus' work to film. The next time would be for his Academy Award nominated feature debut, \"In the Bedroom\", which was based on Dubus' short story, \"Killings\". Years after Field's graduation from the AFI, \"Delivering\" continued to be screened in the classroom.",
+          "semantic_score": 0.4399527907371521,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2202",
+          "text": "Francis Ford Coppola\nFrancis Ford Coppola ( ; born April 7, 1939), also credited as Francis Coppola, is a semi-retired American film director, producer, screenwriter and film composer. He was a central figure in the New Hollywood wave of filmmaking.",
+          "semantic_score": 0.43025821447372437,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "7720",
+          "text": "Patricia Field\nPatricia Field (born February 12, 1942) is an American costume designer, stylist and fashion designer.",
+          "semantic_score": 0.4207487404346466,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "3191",
+          "text": "Lewis Allen (director)\nLewis Allen (25 December 1905 – 3 May 2000) was an English director. Allen worked mainly in the United States, working on Broadway and directing 18 feature films between 1944 and 1959. From the mid-1950s he moved increasingly into television and worked on a number of the most popular shows of the time in the US.",
+          "semantic_score": 0.3808499574661255,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "2205",
+          "text": "Francis Ford Coppola Presents\nFrancis Ford Coppola Presents is a lifestyle brand created by Francis Ford Coppola, under which he markets goods from companies he owns or controls. It includes films and videos, resorts, cafes, a literary magazine and a winery.",
+          "semantic_score": 0.2311381697654724,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2197",
+          "text": "Eleanor Coppola\nEleanor Coppola (born May 4, 1936) is an American documentary filmmaker, artist, and writer. She is married to director Francis Ford Coppola. She is most known for her 1991 documentary film \"\" as well as other documentaries chronicling the films of her husband and children. Coppola currently lives on her family's winery in Napa Valley, California.",
+          "semantic_score": 0.34862634539604187,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2198",
+          "text": "Anton Coppola\nAntonio Coppola (born March 21, 1917) is an American opera conductor and composer. He is the uncle of film director Francis Ford Coppola and actress Talia Shire, as well as the grand-uncle of Nicolas Cage, Sofia Coppola, Gian-Carlo Coppola, Jason Schwartzman and Robert Schwartzman, and is the younger brother of American composer and musician Carmine Coppola.",
+          "semantic_score": 0.25241750478744507,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "2200",
+          "text": "Gia Coppola\nGian-Carla \"Gia\" Coppola (born January 1, 1987) is an American film director, screenwriter, and actress. She is a granddaughter of Francis Ford Coppola, the daughter of Gian-Carlo Coppola and the niece of Roman Coppola and Sofia Coppola.",
+          "semantic_score": 0.2924277186393738,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "7479",
+          "text": "Albert Capellani\nAlbert Capellani (23 August 1874 – 26 September 1931) was a French film director and screenwriter of the silent era. He directed films between 1905 and 1922. One of his brother was the actor-sculptor Paul Capellani. and another the film director Roger Capellani.",
+          "semantic_score": 0.28053438663482666,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "links": [
+    {
+      "source": "1949",
+      "target": "1952",
+      "reason": "Paragraph 1949 establishes Wilco Melissant is a Dutch director; paragraph 1952 establishes Todd Field is an American actor and filmmaker, together bridging the comparison that both are film-industry professionals."
+    }
+  ],
+  "questions_seen": 197,
+  "_id": "5adc8c545542994734353734",
+  "correct_answer": "yes",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "question": "Who is a winner of the 2013 6 Hours of Silverstone a co-commentator for?",
+  "answer": "BBC Formula One coverage",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "Who won the 2013 6 Hours of Silverstone?",
+      "retrieved": [
+        {
+          "id": "124",
+          "text": "2013 6 Hours of Silverstone\nThe 2013 6 Hours of Silverstone was an auto racing event held at the Silverstone Circuit, near Silverstone, England on 12–14 April 2013. The event was the opening round of the 2013 FIA World Endurance Championship season, and served as the annual award for the Royal Automobile Club's Tourist Trophy. Briton Allan McNish, Dane Tom Kristensen, and Frenchman Loïc Duval won the race for Audi, just over three seconds ahead of their teammates. The British Delta-ADR team were victorious in the LMP2 category, while Aston Martin Racing secured both the LMGTE Pro and LMGTE Am classes.",
+          "semantic_score": 0.7563826441764832,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "128",
+          "text": "6 Hours of Silverstone\nThe 6 Hours of Silverstone (formerly the 1000 km of Silverstone) is an endurance sports car race held at Silverstone Circuit near the Northamptonshire villages of Silverstone and Whittlebury. First run in 1976 as part of the World Sportscar Championship, the race continues today with the FIA World Endurance Championship. Since 2013, the RAC Tourist Trophy has been awarded to the winners of the event.",
+          "semantic_score": 0.6623337864875793,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "125",
+          "text": "2014 6 Hours of Silverstone\nThe 2014 6 Hours of Silverstone was an endurance sports car racing event held at the Silverstone Circuit near Silverstone, England on 17–20 April 2014. The event served as the opening round of the 2014 World Endurance Championship, and overall race winners were awarded the annual Tourist Trophy by the Royal Automobile Club. Toyota became the first Japanese manufacturer to win Silverstone's endurance race, with Anthony Davidson, Sébastien Buemi, and Nicolas Lapierre leading the team's second TS040 Hybrid to a 1–2 finish. The race, which had run under mixed weather conditions, was stopped in the final half-hour of competition due to heavy rains and not restarted.",
+          "semantic_score": 0.6297305226325989,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "130",
+          "text": "2013 6 Hours of Bahrain\nThe 2013 6 Hours of Bahrain was an endurance auto race held at the Bahrain International Circuit in Sakhir, Bahrain on 30 November 2013. The race was the eighth and final round of the 2013 FIA World Endurance Championship season. The race was won by Sébastien Buemi, Stéphane Sarrazin and Anthony Davidson driving the No.8 Toyota TS030 Hybrid of Toyota Racing.",
+          "semantic_score": 0.4997977614402771,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6995",
+          "text": "2010 Aegon Classic – Doubles\nCara Black and Liezel Huber were the two-time defending champions but did not compete together. Black partnered up with Lisa Raymond and Huber with Bethanie Mattek-Sands. Black and Raymond won in the final after Huber and Mattek-Sands retired.",
+          "semantic_score": 0.497098445892334,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "126",
+          "text": "2013 6 Hours of São Paulo\nThe 2013 6 Hours of São Paulo was an endurance auto race held at the Autódromo José Carlos Pace, São Paulo, Brazil on 30 August – 1 September 2013. The race was the fourth round of the 2013 FIA World Endurance Championship and the second consecutive running of the 6 Hours of São Paulo. Audi continued their streak of four overall victories following an accident for the sole Toyota in LMP1, with André Lotterer, Marcel Fässler, and Benoît Tréluyer leading the Joest Racing duo to the checkered flag. G-Drive Racing earned their first victory in the LMP2 category ahead of OAK Racing, while AF Corse Ferrari led home Aston Martin Racing in the LMGTE Pro class by a gap of less than two seconds. Aston Martin however prevailed in LMGTE Am, ahead of the 8 Star Ferrari.",
+          "semantic_score": 0.4522331953048706,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "129",
+          "text": "2013 6 Hours of Fuji\nThe 2013 6 Hours of Fuji was intended to have been an automobile endurance race held at the Fuji Speedway, Oyama, Japan on 20 October 2013. The race was the sixth round of the 2013 FIA World Endurance Championship season. Heavy rains forced race officials to start the race under safety car conditions, completing eight laps before the race was temporarily stopped due to no improvement in track conditions. Following a two-hour delay the race was restarted once more under the safety car, lapping another eight circuits before officials stopped the race again and eventually called an end to the event. The No. 7 Toyota was declared the race winner, gaining the lead following a pit stop under caution from the Audi which started on pole position, while the majority of the field finished in the same position they started the race. Only half points were awarded towards the various championships being held under the WEC umbrella.",
+          "semantic_score": 0.4353635907173157,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Allan McNish, Tom Kristensen, and Loïc Duval"
+    },
+    {
+      "step": 2,
+      "sub_question": "What is that winner a co-commentator for?",
+      "retrieved": [
+        {
+          "id": "6996",
+          "text": "2012 Toray Pan Pacific Open – Doubles\nLiezel Huber and Lisa Raymond were the defending champions, but Huber chose not to compete that year. Raymond played with Sabine Lisicki.<br>",
+          "semantic_score": 0.4478119909763336,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "132",
+          "text": "Allan McNish\nAllan McNish (born 29 December 1969) is a British former racing driver, commentator, and journalist from Scotland. He is a three-time winner of the 24 Hours of Le Mans, most recently in 2013, as well as a three-time winner of the American Le Mans Series, which he last won in 2007. He won the FIA World Endurance Championship (FIA WEC) in 2013. He has also been a co-commentator and pundit for BBC Formula One coverage on TV, radio and online.",
+          "semantic_score": 0.4318227767944336,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "242",
+          "text": "The Experts Network\nThe Experts Network, also known as TXN and TXN Sports, is an interactive digital sports network consisting of sports analysts Cris Collinsworth, Boomer Esiason, Nick Faldo, Howie Long, Cal Ripken Jr. and Phil Simms.",
+          "semantic_score": 0.4104652404785156,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8867",
+          "text": "List of Major League Baseball on Fox broadcasters\nMatt Vasgersian was a regular announcer. Dick Stockton and Josh Lewin were also regular fill in announcers. Leo Mazzone was as a fill in color commentator.",
+          "semantic_score": 0.400666207075119,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "6995",
+          "text": "2010 Aegon Classic – Doubles\nCara Black and Liezel Huber were the two-time defending champions but did not compete together. Black partnered up with Lisa Raymond and Huber with Bethanie Mattek-Sands. Black and Raymond won in the final after Huber and Mattek-Sands retired.",
+          "semantic_score": 0.3841733932495117,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8862",
+          "text": "Matt Vasgersian\nMatthew Edward \"Matt\" Vasgersian (born September 28, 1967) is an American sportscaster and television host. Vasgersian is currently a play-by-play announcer for Fox Sports' coverage of Major League Baseball, as well as a studio host for the MLB Network. In the past he has served as an announcer for Fox Sports' National Football League coverage, NBC Sports' coverage of the Olympic Games, and NBC Sports' coverage of the short lived XFL. He formerly called play-by-play for the Milwaukee Brewers and the San Diego Padres.",
+          "semantic_score": 0.3561627268791199,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6991",
+          "text": "2013 Dubai Tennis Championships – Women's Doubles\nLiezel Huber and Lisa Raymond were the defending champions but chose not to participate together. Huber played with Hsieh Su-wei, but lost in the first round to Bethanie Mattek-Sands and Sania Mirza. Raymond played alongside Samantha Stosur but lost in the quarterfinals to Cara Black and Anastasia Rodionova.<br>",
+          "semantic_score": 0.23762887716293335,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "6997",
+          "text": "2012 Dubai Tennis Championships – Women's Doubles\nLiezel Huber and María José Martínez Sánchez are the defending champions but chose not to participate together. Huber played with Lisa Raymond as the first seed while Martínez Sánchez played with Shahar Pe'er.",
+          "semantic_score": 0.18724043667316437,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "BBC Formula One coverage"
+    }
+  ],
+  "links": [
+    {
+      "source": "124",
+      "target": "132",
+      "reason": "Paragraph 124 identifies Allan McNish as a winner of the 2013 6 Hours of Silverstone; paragraph 132 states that Allan McNish has been a co-commentator for BBC Formula One coverage, bridging the race winner to the co-commentary role."
+    }
+  ],
+  "questions_seen": 14,
+  "_id": "5a8835dc5542994846c1ce2b",
+  "correct_answer": "BBC Formula One",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 1.0,
+      "LLMAccuracy": 1.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 1,
+        "LLMJudge": "yes"
+      }
+    ]
+  }
+}

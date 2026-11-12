@@ -1,0 +1,233 @@
+{
+  "question": "The 2000 ICC KnockOut Trophy was the debut of a Jamaican cricketer who is a right-handed what?",
+  "answer": "Right-handed batsman",
+  "steps": [
+    {
+      "step": 1,
+      "sub_question": "What was the 2000 ICC KnockOut Trophy?",
+      "retrieved": [
+        {
+          "id": "91",
+          "text": "2000 ICC KnockOut Trophy\nThe 2000 ICC KnockOut Trophy was a One Day International cricket tournament held in Kenya (which helped to booster cricket in Kenya). New Zealand were crowned champions and cashed the winner's cheque of US$250 000. It was their first win in a major ICC tournament. Zaheer Khan, Yuvraj Singh and Marlon Samuels made their ODI debuts during the competition.",
+          "semantic_score": 0.7487058043479919,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "87",
+          "text": "2000 ICC KnockOut Trophy squads\nThese were the eleven squads (all Test nations and two ODI nations) picked to take part in the 2000 ICC KnockOut Trophy, the second installment of the Champions Trophy cricket tournament. The tournament was held in Kenya from 3 to 15 October 2000. In the preliminary quarter finals, two ODI full-status teams Kenya and Zimbabwe played with India and Sri Lanka respectively, and India and Sri Lanka won their matches convincingly. In third preliminary quarter final, England beat Bangladesh to secure his position in Knockout Tournament. New Zealand won the second edition of the ICC KnockOut Trophy by defeating India in the final by four wickets, which was their first ICC event to be won.",
+          "semantic_score": 0.7341121435165405,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "84",
+          "text": "1998 ICC KnockOut Trophy squads\nThese were the nine squads (all Test nations) picked to take part in the 1998 ICC KnockOut Trophy, the first installment of the Champions Trophy cricket tournament. The tournament was held in Bangladesh from 24 October to 2 November 1998. Teams could name a preliminary squad of 30, but only 14-man squads were permitted for the actual tournament, one month before the start of the tournament. In the knockout tournament, New Zealand and Zimbabwe were the only teams to play a pre-quarter final match. New Zealand won the match and qualified for the quarter-final where they faced Sri Lanka. South Africa won the inaugural edition of the ICC KnockOut Trophy by defeating West Indies in the final by four wickets.",
+          "semantic_score": 0.6499881148338318,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "89",
+          "text": "1998 ICC KnockOut Trophy Final\nThe 1998 ICC KnockOut Trophy (officially known as Wills International Cup, also known as Mini World Cup) was a One Day International (ODI) cricket tournament held in Bangladesh. It was the first tournament apart from the World Cups to involve all Test playing nations. The winners of the Knock-out stage—India, South Africa, Sri Lanka and Indies—reached the semi-finals. South Africa made their way to the final by defeating Sri Lanka in the first semi-final by 92 runs; the match was reduced to 39 overs per innings due to rain. In the second semi-final, West Indies defeated India by six wickets, and qualified for the final.",
+          "semantic_score": 0.6244794726371765,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8655",
+          "text": "2000 SANFL Grand Final\nThe 2000 South Australian National Football League (SANFL) Grand Final saw the Central District Bulldogs defeat the Woodville-West Torrens by 22 points to claim the clubs first ever premiership.",
+          "semantic_score": 0.42777833342552185,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "8646",
+          "text": "2001 SANFL Grand Final\nThe 2001 South Australian National Football League (SANFL) Grand Final saw the Central District Bulldogs defeat the Woodville-West Torrens by 39 points to claim the clubs second premiership victory.",
+          "semantic_score": 0.38612106442451477,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8654",
+          "text": "2004 SANFL Grand Final\nThe 2004 South Australian National Football League (SANFL) Grand Final saw the Central District Bulldogs defeat Woodville-West Torrens by 125 points to claim the clubs fourth premiership victory.",
+          "semantic_score": 0.35478636622428894,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8648",
+          "text": "2005 SANFL Grand Final\nThe 2005 South Australian National Football League (SANFL) Grand Final saw the Central District Bulldogs defeat Woodville-West Torrens by 28 points to claim the clubs fifth premiership victory.",
+          "semantic_score": 0.33622661232948303,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "A One Day International cricket tournament held in Kenya."
+    },
+    {
+      "step": 2,
+      "sub_question": "Which Jamaican cricketer made his debut in the 2000 ICC KnockOut Trophy?",
+      "retrieved": [
+        {
+          "id": "91",
+          "text": "2000 ICC KnockOut Trophy\nThe 2000 ICC KnockOut Trophy was a One Day International cricket tournament held in Kenya (which helped to booster cricket in Kenya). New Zealand were crowned champions and cashed the winner's cheque of US$250 000. It was their first win in a major ICC tournament. Zaheer Khan, Yuvraj Singh and Marlon Samuels made their ODI debuts during the competition.",
+          "semantic_score": 0.7754459977149963,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "87",
+          "text": "2000 ICC KnockOut Trophy squads\nThese were the eleven squads (all Test nations and two ODI nations) picked to take part in the 2000 ICC KnockOut Trophy, the second installment of the Champions Trophy cricket tournament. The tournament was held in Kenya from 3 to 15 October 2000. In the preliminary quarter finals, two ODI full-status teams Kenya and Zimbabwe played with India and Sri Lanka respectively, and India and Sri Lanka won their matches convincingly. In third preliminary quarter final, England beat Bangladesh to secure his position in Knockout Tournament. New Zealand won the second edition of the ICC KnockOut Trophy by defeating India in the final by four wickets, which was their first ICC event to be won.",
+          "semantic_score": 0.7235393524169922,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "8152",
+          "text": "Kenya at the Cricket World Cup\nThe Kenya national cricket team is the team that represents the country of Kenya in international cricket matches. Kenya was part of the East Africa cricket team which became an associate member of the ICC in 1966, and competed in the first World Cup. Kenya first competed as an independent nation at the 1996 Cricket World Cup, after which they were given full ODI status, which they held until 2014, when they finished fifth in the 2014 Cricket World Cup Qualifier. Kenya's best performance at the Cricket World Cup was in 2003, where they reached the semi-finals.",
+          "semantic_score": 0.6166965365409851,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "84",
+          "text": "1998 ICC KnockOut Trophy squads\nThese were the nine squads (all Test nations) picked to take part in the 1998 ICC KnockOut Trophy, the first installment of the Champions Trophy cricket tournament. The tournament was held in Bangladesh from 24 October to 2 November 1998. Teams could name a preliminary squad of 30, but only 14-man squads were permitted for the actual tournament, one month before the start of the tournament. In the knockout tournament, New Zealand and Zimbabwe were the only teams to play a pre-quarter final match. New Zealand won the match and qualified for the quarter-final where they faced Sri Lanka. South Africa won the inaugural edition of the ICC KnockOut Trophy by defeating West Indies in the final by four wickets.",
+          "semantic_score": 0.570245623588562,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "89",
+          "text": "1998 ICC KnockOut Trophy Final\nThe 1998 ICC KnockOut Trophy (officially known as Wills International Cup, also known as Mini World Cup) was a One Day International (ODI) cricket tournament held in Bangladesh. It was the first tournament apart from the World Cups to involve all Test playing nations. The winners of the Knock-out stage—India, South Africa, Sri Lanka and Indies—reached the semi-finals. South Africa made their way to the final by defeating Sri Lanka in the first semi-final by 92 runs; the match was reduced to 39 overs per innings due to rain. In the second semi-final, West Indies defeated India by six wickets, and qualified for the final.",
+          "semantic_score": 0.5271009802818298,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5287",
+          "text": "2013 East Africa Premier League\nThe 2013 East Africa Premier League was the third edition of Cricket Kenya's East Africa Premier League competitions. The competition took place at the Nairobi Club Ground and Simba Union Club Ground from the 7th to 11 August 2013. It featured several significant changes from the first two editions, including the massive overhaul of the identities of the Kenyan franchises participating as well as the participation of several high-profile Pakistani cricketers suck as Kamran Akmal and Imran Nazir. The tournament was won by Rising Stars Chuis who defeated Ruwenzori Warriors by 9 wickets in the final.",
+          "semantic_score": 0.46310243010520935,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Marlon Samuels"
+    },
+    {
+      "step": 3,
+      "sub_question": "What is that cricketer’s batting style (e.g., right-handed or left-handed)?",
+      "retrieved": [
+        {
+          "id": "85",
+          "text": "Marlon Samuels\nMarlon Nathaniel Samuels (born 5 February 1981) is a Jamaican cricketer who plays internationally for the West Indies in all three formats, and a former ODI captain. He is a right-handed middle order batsman and an off-spinner. He was a key member of the West Indies team that won the 2012 ICC World Twenty20 and 2016 ICC World Twenty20, and was named man of the match in the final of both tournaments, becoming first man to achieve the feat.",
+          "semantic_score": 0.6753246188163757,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "9396",
+          "text": "Bill Woodfull\nWilliam Maldon \"Bill\" Woodfull OBE (22 August 1897 – 11 August 1965) was an Australian cricketer of the 1920s and 1930s. He captained both Victoria and Australia, and was best known for his dignified and moral conduct during the tumultuous bodyline series in 1932–33 that almost saw the end of Anglo-Australian cricketing ties. Trained as a schoolteacher, Woodfull was known for his benevolent attitude towards his players, and his patience and defensive technique as an opening batsman. Woodfull was not a flamboyant player, but was known for his calm, unruffled style and his reliability in difficult situations. His opening pairing with fellow Victorian Bill Ponsford for both his state and Australia remains one of the most successful in history. While not known for his tactical skills, Woodfull was widely admired by his players and observers for his sportsmanship and ability to mould a successful and loyal team through the strength of his character.",
+          "semantic_score": 0.4952889680862427,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5278",
+          "text": "Mohammad Salman (cricketer, born 1981)\nMohammad Salman (born 7 August 1981, Karachi) is an international cricketer from Pakistan. He is a right handed batsman and a wicketkeeper. He was brought in as a replacement for Kamran Akmal.",
+          "semantic_score": 0.4752388596534729,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5905",
+          "text": "Tillakaratne Dilshan\nTillakaratne Mudiyanselage Dilshan, (Sinhalese: තිලකරත්න ඩිල්ෂාන් ; born 14 October 1976, as Tuwan Mohammad Dilshan), popularly known as Tillakaratne Dilshan, is a former Sri Lankan cricketer and a former captain of the Sri Lanka national cricket team. The best rated Sri Lankan player in run-chases in ODI history, he is often regarded as one of the most innovative batsmen of all time. Dilshan is one such rare cricketer who can bat, bowl, field and keep wickets. He is an aggressive right-hand batsman who invented the scoop, which has come to be known as the dilscoop, that hits the ball over the keeper. An opening batsman, he is also a capable off-break bowler. A livewire in the field, he usually fields at the point region.",
+          "semantic_score": 0.42688751220703125,
+          "sources": [
+            "semantic"
+          ]
+        },
+        {
+          "id": "5282",
+          "text": "Kamran Akmal\nKamran Akmal (Urdu: ‎ ; born 13 January 1982) is a Pakistani cricketer. His brothers are Adnan Akmal and Umar Akmal, who are also professional cricketers, the former being a keeper-batsman and the latter being a specialist batsman as well as part-time wicket-keeper. He married in 2006 and lives with his wife, Aiza, their daughter, Laiba, and their son Ayyan. He is a graduate of Beaconhouse School System Garden Town, Lahore. He is a right-handed wicket-keeper-batsman who has played Tests, ODIs and T20Is for Pakistan. He started his international career in November 2002 with a Test match which Pakistan won at Harare Sports Club. He has made 2648 runs in 53 Test matches with the help of six centuries, while in 137 ODIs, he has scored 2924 runs with the help of five centuries. In T20Is, he has scored 704 runs. As a wicket-keeper, he has dismissed 206, 169 and 52 batsmen in Tests, ODIs and T20Is respectively.",
+          "semantic_score": 0.42540809512138367,
+          "sources": [
+            "semantic",
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "5280",
+          "text": "Adnan Akmal\nAdnan Akmal (Urdu: ‎ ), born 13 March 1985, is a Pakistani cricketer. He is a right-handed batsman and wicket-keeper who plays for Zarai Taraqiati Bank Ltd Cricket Team and has represented his country at U-17 level. Most recently, he was called up for Pakistan's tour against South Africa in the UAE, as a replacement for the first choice keeper, Zulqarnain Haider. His brothers, Kamran Akmal and Umar Akmal, both have central contracts with the Pakistan Cricket Board, and are regular fixtures in the national side. Adnan made his Test debut against South Africa on 12 November 2010.",
+          "semantic_score": 0.35489621758461,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9391",
+          "text": "Adelaide leak\nThe Adelaide leak was the revelation to the press of a dressing-room incident during the third Test, a cricket match played during the 1932–33 Ashes series between Australia and England, more commonly known as the Bodyline series. During the course of play on 14 January 1933, the Australian Test captain Bill Woodfull was struck over the heart by a ball delivered by Harold Larwood. Although not badly hurt, Woodfull was shaken and dismissed shortly afterwards. On his return to the Australian dressing room, Woodfull was visited by the managers of the Marylebone Cricket Club (MCC) team, Pelham Warner and Richard Palairet. Warner enquired after Woodfull's health, but the latter dismissed his concerns in brusque fashion. He said he did not want to speak to the Englishman owing to the Bodyline tactics England were using, leaving Warner embarrassed and shaken. The matter became public knowledge when someone present leaked the exchange to the press and it was widely reported on 16 January. Such leaks to the press were practically unknown at the time, and the players were horrified that the confrontation became public knowledge.",
+          "semantic_score": 0.34338265657424927,
+          "sources": [
+            "hyperbolic"
+          ]
+        },
+        {
+          "id": "9397",
+          "text": "Jack Fingleton\nJohn \"Jack\" Henry Webb Fingleton OBE (28 April 190822 November 1981) was an Australian cricketer who was trained as a journalist and became a political and cricket commentator after the end of his playing career. A stubborn opening batsman known for his dour defensive approach, he scored five Test centuries, representing Australia in 18 Tests between 1932 and 1938. He was also known for his involvement in several cricket diplomacy incidents in his career, accused of leaking the infamous verbal exchange between Australian captain Bill Woodfull and English manager Plum Warner during the acrimonious Bodyline series, and later of causing sectarian tension within the team by leading a group of players of Irish Catholic descent in undermining the leadership of the Protestant Don Bradman. In retirement, Fingleton became a prominent political commentator in Canberra, with links to Australian prime ministers. The author of many cricket books, he is regarded as one of Australia's finest cricket writers, with a perceptive and occasionally sardonic style, marked by persistent criticisms of Bradman.",
+          "semantic_score": 0.3392138183116913,
+          "sources": [
+            "hyperbolic"
+          ]
+        }
+      ],
+      "answer": "Right-handed"
+    }
+  ],
+  "links": [
+    {
+      "source": "91",
+      "target": "85",
+      "reason": "Paragraph 91 identifies Marlon Samuels as the Jamaican cricketer who made his ODI debut in the 2000 ICC KnockOut Trophy; paragraph 85 confirms Samuels is a Jamaican cricketer and states he is a right-handed batsman, directly answering the final sub-question."
+    }
+  ],
+  "questions_seen": 10,
+  "_id": "5a85c3225542992a431d1b95",
+  "correct_answer": "middle order batsman",
+  "evaluation": {
+    "scores": {
+      "ContainsMatch": 0.0,
+      "LLMAccuracy": 0.0
+    },
+    "examples": [
+      {
+        "ContainsMatch": 0,
+        "LLMJudge": "no"
+      }
+    ]
+  }
+}
