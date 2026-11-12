@@ -14,7 +14,7 @@ def normalize_answer(answer: str) -> str:
 
 def calculate_metric_scores_contains(gold_answers, predicted_answers):
     if len(gold_answers) != len(predicted_answers):
-        raise ValueError('gold和predicted长度不一致')
+        raise ValueError('Reference and predicted answers must have the same length.')
     results = []
     for gold, predicted in zip(gold_answers, predicted_answers):
         gold_norm, pred_norm = normalize_answer(gold), normalize_answer(predicted)
@@ -29,7 +29,7 @@ def calculate_yes_ratio(results):
 
 def evaluate_multiple(questions, generated_answers, correct_answers, llm, max_workers=5):
     if not len(questions) == len(generated_answers) == len(correct_answers):
-        raise ValueError('questions/generated_answers/correct_answers长度不一致')
+        raise ValueError('Questions, generated answers, and reference answers must have the same length.')
     templates = [
         'Evaluate the generated answer against the correct answer. Only answer yes if the generated answer is correct, no otherwise. '
         f'question: {q}\ngenerated_answer: {generated}\ncorrect_answer: {correct}\nevaluation: '
